@@ -48,7 +48,7 @@ export async function POST(request: NextRequest) {
       "anthropic-version": "2023-06-01",
     },
     body: JSON.stringify({
-      model: "claude-3-5-sonnet-20241022",
+      model: "claude-haiku-4-5-20251001",
       max_tokens: 1024,
       system,
       messages: messages.map((m) => ({ role: m.role, content: m.content })),
@@ -129,7 +129,7 @@ export async function GET() {
     JSON.stringify({
       service: "BEA AI Tutor (Beatrice)",
       status: "ok",
-      model: "claude-3-5-sonnet-20241022",
+      model: "claude-haiku-4-5-20251001",
     }),
     { headers: { "Content-Type": "application/json" } }
   );
