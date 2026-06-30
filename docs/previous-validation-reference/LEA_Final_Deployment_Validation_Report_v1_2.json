@@ -1,0 +1,65 @@
+{
+  "all_checks_passed": true,
+  "checks": [
+    {
+      "check": "Adaptive engine JSON parses",
+      "status": "PASS",
+      "detail": "BEA_Early_Years_Adaptive_Game_Engine_Spec_v1_2.json"
+    },
+    {
+      "check": "Telemetry JSON Schema parses",
+      "status": "PASS",
+      "detail": "BEA_Early_Years_Telemetry_Event_JSON_Schema_v1_2.json"
+    },
+    {
+      "check": "Activity bank row count",
+      "status": "PASS",
+      "detail": "210 rows found"
+    },
+    {
+      "check": "Activity IDs unique",
+      "status": "PASS",
+      "detail": "210 unique IDs"
+    },
+    {
+      "check": "Activity bank canonical columns",
+      "status": "PASS",
+      "detail": "Fields present: ['activity_id', 'canonical_telemetry_signals', 'feedback_mapping_required', 'mechanic', 'version']"
+    },
+    {
+      "check": "Activity bank version locked",
+      "status": "PASS",
+      "detail": "All rows version 1.2"
+    },
+    {
+      "check": "No deprecated runtime variable: oral_prompt_support",
+      "status": "PASS",
+      "detail": "No occurrences"
+    },
+    {
+      "check": "No deprecated runtime variable: error_tags",
+      "status": "PASS",
+      "detail": "No occurrences"
+    },
+    {
+      "check": "No deprecated runtime variable: foundational_error_detected",
+      "status": "PASS",
+      "detail": "No occurrences"
+    },
+    {
+      "check": "No deprecated runtime variable: high_hesitation",
+      "status": "PASS",
+      "detail": "No occurrences"
+    },
+    {
+      "check": "Adaptive rule references are canonical",
+      "status": "PASS",
+      "detail": "All condition references resolved"
+    },
+    {
+      "check": "API endpoints include URL resource context",
+      "status": "PASS",
+      "detail": "All endpoints include path resource IDs"
+    }
+  ]
+}

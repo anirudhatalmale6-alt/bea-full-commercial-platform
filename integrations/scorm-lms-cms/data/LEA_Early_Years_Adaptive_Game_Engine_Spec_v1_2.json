@@ -1,0 +1,1035 @@
+{
+  "product": "British English Academy Early Years Interactive Learning Engine",
+  "version": "1.2-final-deployment-contract",
+  "last_updated": "2026-05-31",
+  "release_status": "final developer-ready deployment contract; requires implementation against supplied API/database/schema pack",
+  "copyright_safety": "Original BEA activity and algorithm specification benchmarked to common early-years edtech patterns; no proprietary Starfall or SplashLearn content is copied.",
+  "localisation": {
+    "default_locale": "en-GB",
+    "academic_variant": "British English",
+    "preferred_terms": {
+      "math": "maths",
+      "practice_noun": "practice",
+      "practice_verb": "practise",
+      "practiced": "practised",
+      "learned_preferred": "learnt",
+      "grade_label": "year/grade band display configurable; retain Pre-K to Grade 3 internally for Pennsylvania mapping"
+    },
+    "learner_feedback_strings": {
+      "correct": "Great work. You found it.",
+      "try_again": "Try again. Listen carefully and choose one answer.",
+      "mini_teach_intro": "Let us practise this sound together first.",
+      "replay_audio": "Listen again.",
+      "success": "Well done. You are ready for the next challenge.",
+      "teacher_review": "Your teacher will give you one short practice activity."
+    }
+  },
+  "skill_model": {
+    "entities": [
+      "tenant",
+      "school",
+      "admin",
+      "teacher",
+      "parent",
+      "learner",
+      "class",
+      "group",
+      "course",
+      "grade_band",
+      "strand",
+      "skill",
+      "subskill",
+      "activity",
+      "activity_version",
+      "item",
+      "attempt",
+      "session",
+      "assignment",
+      "mastery_evidence",
+      "recommendation",
+      "dashboard_event",
+      "reward",
+      "certificate",
+      "audit_log"
+    ],
+    "relationships": [
+      "tenant has many schools",
+      "school has many classes",
+      "teacher has many classes and groups",
+      "parent has many learners",
+      "class has many learners",
+      "group has many learners and assignments",
+      "learner has many sessions, attempts, mastery_evidence and recommendations",
+      "activity has many activity_versions and items",
+      "assignment targets a learner, group or class and references one or more activities, strands or skills",
+      "dashboard_event is emitted by sessions, attempts, assignments and mastery changes"
+    ],
+    "skill_status_values": [
+      "not_started",
+      "introduced",
+      "practising",
+      "needs_support",
+      "nearly_mastered",
+      "mastered",
+      "extension_ready"
+    ],
+    "evidence_signals": [
+      "learner_id",
+      "session_id",
+      "activity_id",
+      "activity_version",
+      "item_id",
+      "accuracy",
+      "diagnostic_score",
+      "prompt_level",
+      "response_time_seconds",
+      "baseline_average_response_time_seconds",
+      "attempt_count",
+      "consecutive_same_error_count",
+      "error_type",
+      "hint_count",
+      "audio_replay_count",
+      "session_spacing_days",
+      "learner_exit_count",
+      "teacher_override"
+    ],
+    "aggregate_signals": [
+      "rolling_accuracy",
+      "skill_session_count_meeting_mastery_threshold",
+      "max_prompt_level_last_two_sessions",
+      "needs_support_session_count_rolling",
+      "last_mastery_date",
+      "assigned_intervention_count"
+    ],
+    "error_type_enum": [
+      "phonological_awareness",
+      "letter_sound_correspondence",
+      "phonemic_blending",
+      "cvc_decoding",
+      "digraph_decoding",
+      "vowel_pattern_confusion",
+      "print_concept",
+      "sight_word_recognition",
+      "fluency_hesitation",
+      "listening_comprehension",
+      "vocabulary_meaning",
+      "sentence_order",
+      "number_sequence",
+      "one_to_one_counting",
+      "quantity_comparison",
+      "shape_recognition",
+      "operation_strategy",
+      "fine_motor_tracing",
+      "attention_task_completion"
+    ]
+  },
+  "telemetry_schema": {
+    "canonical_signals": [
+      {
+        "name": "learner_id",
+        "type": "string",
+        "scope": "path_or_event",
+        "required_on": [
+          "diagnostic_event",
+          "attempt_event",
+          "session_complete_event"
+        ]
+      },
+      {
+        "name": "session_id",
+        "type": "string",
+        "scope": "event",
+        "required_on": [
+          "attempt_event",
+          "session_complete_event"
+        ]
+      },
+      {
+        "name": "activity_id",
+        "type": "string",
+        "scope": "event",
+        "required_on": [
+          "diagnostic_event",
+          "attempt_event",
+          "session_complete_event"
+        ]
+      },
+      {
+        "name": "activity_version",
+        "type": "string",
+        "scope": "event",
+        "required_on": [
+          "attempt_event"
+        ]
+      },
+      {
+        "name": "item_id",
+        "type": "string",
+        "scope": "event",
+        "required_on": [
+          "attempt_event"
+        ]
+      },
+      {
+        "name": "accuracy",
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1,
+        "scope": "event_or_aggregate",
+        "definition": "Item/session accuracy as decimal 0.00-1.00."
+      },
+      {
+        "name": "diagnostic_score",
+        "type": "integer",
+        "minimum": 0,
+        "maximum": 100,
+        "scope": "diagnostic_event",
+        "definition": "Placement score. If absent, calculate round(accuracy * 100)."
+      },
+      {
+        "name": "prompt_level",
+        "type": "integer",
+        "minimum": 0,
+        "maximum": 4,
+        "scope": "event",
+        "definition": "0=no prompt, 1=audio repeat, 2=visual scaffold, 3=guided choice, 4=teacher/parent support."
+      },
+      {
+        "name": "response_time_seconds",
+        "type": "number",
+        "minimum": 0,
+        "scope": "attempt_event"
+      },
+      {
+        "name": "baseline_average_response_time_seconds",
+        "type": "number",
+        "minimum": 0,
+        "scope": "learner_skill_baseline"
+      },
+      {
+        "name": "attempt_count",
+        "type": "integer",
+        "minimum": 1,
+        "scope": "attempt_event"
+      },
+      {
+        "name": "consecutive_same_error_count",
+        "type": "integer",
+        "minimum": 0,
+        "scope": "attempt_event"
+      },
+      {
+        "name": "error_type",
+        "type": [
+          "string",
+          "null"
+        ],
+        "enum": [
+          "phonological_awareness",
+          "letter_sound_correspondence",
+          "phonemic_blending",
+          "cvc_decoding",
+          "digraph_decoding",
+          "vowel_pattern_confusion",
+          "print_concept",
+          "sight_word_recognition",
+          "fluency_hesitation",
+          "listening_comprehension",
+          "vocabulary_meaning",
+          "sentence_order",
+          "number_sequence",
+          "one_to_one_counting",
+          "quantity_comparison",
+          "shape_recognition",
+          "operation_strategy",
+          "fine_motor_tracing",
+          "attention_task_completion",
+          null
+        ],
+        "scope": "attempt_event"
+      },
+      {
+        "name": "hint_count",
+        "type": "integer",
+        "minimum": 0,
+        "scope": "attempt_event"
+      },
+      {
+        "name": "audio_replay_count",
+        "type": "integer",
+        "minimum": 0,
+        "scope": "attempt_event"
+      },
+      {
+        "name": "session_spacing_days",
+        "type": "number",
+        "minimum": 0,
+        "scope": "session_complete_event"
+      },
+      {
+        "name": "learner_exit_count",
+        "type": "integer",
+        "minimum": 0,
+        "scope": "session_event"
+      },
+      {
+        "name": "teacher_override",
+        "type": "boolean",
+        "scope": "event"
+      },
+      {
+        "name": "item_seed",
+        "type": "string",
+        "scope": "session_start",
+        "required_on": [],
+        "definition": "Optional seed for deterministic item generation within a session."
+      }
+    ],
+    "aggregate_signals": [
+      {
+        "name": "rolling_accuracy",
+        "type": "number",
+        "source": "last N attempts or session aggregate",
+        "minimum": 0,
+        "maximum": 1
+      },
+      {
+        "name": "skill_session_count_meeting_mastery_threshold",
+        "type": "integer",
+        "source": "session_complete_event"
+      },
+      {
+        "name": "max_prompt_level_last_two_sessions",
+        "type": "integer",
+        "source": "session_complete_event"
+      },
+      {
+        "name": "needs_support_session_count_rolling",
+        "type": "integer",
+        "source": "session_complete_event"
+      },
+      {
+        "name": "last_mastery_date",
+        "type": "date|null",
+        "source": "mastery_evidence"
+      },
+      {
+        "name": "assigned_intervention_count",
+        "type": "integer",
+        "source": "assignment"
+      }
+    ],
+    "event_contracts": {
+      "diagnostic_event": {
+        "required_fields": [
+          "learner_id",
+          "activity_id",
+          "accuracy",
+          "diagnostic_score",
+          "prompt_level"
+        ],
+        "optional_fields": [
+          "error_type",
+          "teacher_override"
+        ],
+        "normalisation_rule": "If diagnostic_score is absent, calculate diagnostic_score = round(accuracy * 100). Accuracy remains decimal 0.00-1.00."
+      },
+      "attempt_event": {
+        "required_fields": [
+          "learner_id",
+          "session_id",
+          "activity_id",
+          "activity_version",
+          "item_id",
+          "accuracy",
+          "prompt_level",
+          "response_time_seconds",
+          "baseline_average_response_time_seconds",
+          "attempt_count",
+          "consecutive_same_error_count",
+          "hint_count",
+          "audio_replay_count"
+        ],
+        "optional_fields": [
+          "error_type",
+          "teacher_override"
+        ],
+        "error_rule": "Use exactly one primary error_type value from skill_model.error_type_enum when an error is classified; use null when the answer is correct or no error classification is available."
+      },
+      "session_complete_event": {
+        "required_fields": [
+          "learner_id",
+          "session_id",
+          "activity_id",
+          "accuracy",
+          "prompt_level",
+          "session_spacing_days"
+        ],
+        "optional_fields": [
+          "consecutive_same_error_count",
+          "error_type",
+          "learner_exit_count",
+          "teacher_override"
+        ]
+      }
+    }
+  },
+  "adaptive_rules": {
+    "placement": [
+      {
+        "rule_id": "EY-PLACEMENT-001",
+        "trigger_event": "diagnostic_event",
+        "condition": {
+          "all": [
+            {
+              "signal": "diagnostic_score",
+              "operator": ">=",
+              "value": 85
+            },
+            {
+              "signal": "prompt_level",
+              "operator": "<=",
+              "value": 1
+            }
+          ]
+        },
+        "route": "start_at_current_grade_core_plus_challenge",
+        "priority": 10
+      },
+      {
+        "rule_id": "EY-PLACEMENT-002",
+        "trigger_event": "diagnostic_event",
+        "condition": {
+          "all": [
+            {
+              "signal": "diagnostic_score",
+              "operator": ">=",
+              "value": 70
+            },
+            {
+              "signal": "diagnostic_score",
+              "operator": "<=",
+              "value": 84
+            }
+          ]
+        },
+        "route": "start_at_current_grade_core_with_guided_intro",
+        "priority": 20
+      },
+      {
+        "rule_id": "EY-PLACEMENT-003",
+        "trigger_event": "diagnostic_event",
+        "condition": {
+          "any": [
+            {
+              "signal": "diagnostic_score",
+              "operator": "<",
+              "value": 70
+            },
+            {
+              "signal": "error_type",
+              "operator": "in",
+              "value": [
+                "phonological_awareness",
+                "letter_sound_correspondence",
+                "phonemic_blending",
+                "cvc_decoding",
+                "print_concept",
+                "number_sequence",
+                "one_to_one_counting"
+              ]
+            }
+          ]
+        },
+        "route": "start_at_prerequisite_skill_path",
+        "priority": 30
+      }
+    ],
+    "during_activity": [
+      {
+        "rule_id": "EY-DURING-001",
+        "trigger_event": "attempt_event",
+        "condition": {
+          "all": [
+            {
+              "signal": "consecutive_same_error_count",
+              "operator": ">=",
+              "value": 2
+            },
+            {
+              "signal": "error_type",
+              "operator": "is_not_null"
+            }
+          ]
+        },
+        "action": "pause_game_show_error_type_targeted_mini_teach_then_retry_parallel_item",
+        "priority": 10
+      },
+      {
+        "rule_id": "EY-DURING-002",
+        "trigger_event": "attempt_event",
+        "condition": {
+          "all": [
+            {
+              "signal": "attempt_count",
+              "operator": ">=",
+              "value": 5
+            },
+            {
+              "signal": "accuracy",
+              "operator": "<",
+              "value": 0.7
+            }
+          ]
+        },
+        "action": "reduce_difficulty_add_audio_visual_scaffold",
+        "priority": 20
+      },
+      {
+        "rule_id": "EY-DURING-003",
+        "trigger_event": "attempt_event",
+        "condition": {
+          "all": [
+            {
+              "signal": "accuracy",
+              "operator": ">=",
+              "value": 0.9
+            },
+            {
+              "computed": {
+                "left_signal": "response_time_seconds",
+                "operator": "<=",
+                "right_signal": "baseline_average_response_time_seconds",
+                "multiplier": 1.1
+              }
+            },
+            {
+              "signal": "prompt_level",
+              "operator": "<=",
+              "value": 1
+            }
+          ]
+        },
+        "action": "offer_challenge_item_and_bonus_badge",
+        "priority": 30
+      },
+      {
+        "rule_id": "EY-DURING-004",
+        "trigger_event": "attempt_event",
+        "condition": {
+          "all": [
+            {
+              "computed": {
+                "left_signal": "response_time_seconds",
+                "operator": ">",
+                "right_signal": "baseline_average_response_time_seconds",
+                "multiplier": 1.5
+              }
+            },
+            {
+              "signal": "accuracy",
+              "operator": "==",
+              "value": 1.0
+            }
+          ]
+        },
+        "action": "keep_skill_as_nearly_mastered_add_fluency_practice",
+        "priority": 40
+      },
+      {
+        "rule_id": "EY-DURING-005",
+        "trigger_event": "session_event",
+        "condition": {
+          "all": [
+            {
+              "signal": "learner_exit_count",
+              "operator": ">=",
+              "value": 2
+            }
+          ]
+        },
+        "action": "recommend_shorter_activity_and_notify_teacher",
+        "priority": 50
+      }
+    ],
+    "post_activity": [
+      {
+        "rule_id": "EY-POST-001",
+        "trigger_event": "session_complete_event",
+        "condition": {
+          "all": [
+            {
+              "aggregate": "skill_session_count_meeting_mastery_threshold",
+              "operator": ">=",
+              "value": 2
+            },
+            {
+              "aggregate": "rolling_accuracy",
+              "operator": ">=",
+              "value": 0.85
+            },
+            {
+              "aggregate": "max_prompt_level_last_two_sessions",
+              "operator": "<=",
+              "value": 2
+            }
+          ]
+        },
+        "action": "mark_skill_mastered_unlock_next_skill_and_downloadable_home_card",
+        "priority": 10
+      },
+      {
+        "rule_id": "EY-POST-002",
+        "trigger_event": "session_complete_event",
+        "condition": {
+          "all": [
+            {
+              "aggregate": "rolling_accuracy",
+              "operator": ">=",
+              "value": 0.7
+            },
+            {
+              "aggregate": "rolling_accuracy",
+              "operator": "<",
+              "value": 0.85
+            }
+          ]
+        },
+        "action": "schedule_spaced_practice_after_24_72_hours",
+        "priority": 20
+      },
+      {
+        "rule_id": "EY-POST-003",
+        "trigger_event": "session_complete_event",
+        "condition": {
+          "any": [
+            {
+              "aggregate": "rolling_accuracy",
+              "operator": "<",
+              "value": 0.7
+            },
+            {
+              "signal": "consecutive_same_error_count",
+              "operator": ">=",
+              "value": 2
+            }
+          ]
+        },
+        "action": "assign_error_type_targeted_mini_teach_teacher_small_group_card_parent_practice",
+        "priority": 30
+      },
+      {
+        "rule_id": "EY-POST-004",
+        "trigger_event": "session_complete_event",
+        "condition": {
+          "all": [
+            {
+              "aggregate": "needs_support_session_count_rolling",
+              "operator": ">=",
+              "value": 3
+            }
+          ]
+        },
+        "action": "flag_for_teacher_review_and_intensive_pathway",
+        "priority": 40
+      }
+    ]
+  },
+  "api_endpoints": [
+    {
+      "method": "GET",
+      "path": "/api/ey/learners/{learnerId}/pathway",
+      "purpose": "Return adaptive pathway and next recommended activities",
+      "auth_context": [
+        "learner",
+        "parent",
+        "teacher",
+        "admin"
+      ]
+    },
+    {
+      "method": "POST",
+      "path": "/api/ey/learners/{learnerId}/diagnostics",
+      "purpose": "Submit diagnostic result and return placement route",
+      "auth_context": [
+        "teacher",
+        "admin",
+        "system"
+      ]
+    },
+    {
+      "method": "POST",
+      "path": "/api/ey/learners/{learnerId}/sessions",
+      "purpose": "Create a game session with activity version and item seed",
+      "auth_context": [
+        "learner",
+        "teacher",
+        "system"
+      ]
+    },
+    {
+      "method": "POST",
+      "path": "/api/ey/learners/{learnerId}/sessions/{sessionId}/attempts",
+      "purpose": "Log item attempt with canonical telemetry signals",
+      "auth_context": [
+        "learner",
+        "system"
+      ]
+    },
+    {
+      "method": "POST",
+      "path": "/api/ey/learners/{learnerId}/sessions/{sessionId}/complete",
+      "purpose": "Calculate mastery, rewards, next route and dashboard events",
+      "auth_context": [
+        "system"
+      ]
+    },
+    {
+      "method": "GET",
+      "path": "/api/ey/classes/{classId}/skills",
+      "purpose": "Return class skill heatmap by mastery and intervention need",
+      "auth_context": [
+        "teacher",
+        "admin"
+      ]
+    },
+    {
+      "method": "GET",
+      "path": "/api/ey/classes/{classId}/learners",
+      "purpose": "Return learners and current early-years skill status for a class",
+      "auth_context": [
+        "teacher",
+        "admin"
+      ]
+    },
+    {
+      "method": "POST",
+      "path": "/api/ey/classes/{classId}/assignments",
+      "purpose": "Create class-level assignment",
+      "auth_context": [
+        "teacher",
+        "admin"
+      ]
+    },
+    {
+      "method": "POST",
+      "path": "/api/ey/groups/{groupId}/assignments",
+      "purpose": "Create group-level intervention or extension assignment",
+      "auth_context": [
+        "teacher",
+        "admin"
+      ]
+    },
+    {
+      "method": "POST",
+      "path": "/api/ey/teachers/{teacherId}/groups",
+      "purpose": "Create or update teacher-managed intervention groups",
+      "auth_context": [
+        "teacher",
+        "admin"
+      ]
+    },
+    {
+      "method": "GET",
+      "path": "/api/ey/teachers/{teacherId}/assignments",
+      "purpose": "Return teacher assignment queue and completion status",
+      "auth_context": [
+        "teacher",
+        "admin"
+      ]
+    },
+    {
+      "method": "GET",
+      "path": "/api/ey/parents/{parentId}/learners/{learnerId}/summary",
+      "purpose": "Return parent-friendly progress and home practice guidance",
+      "auth_context": [
+        "parent",
+        "teacher",
+        "admin"
+      ]
+    },
+    {
+      "method": "GET",
+      "path": "/api/ey/admin/tenants/{tenantId}/telemetry/schema",
+      "purpose": "Return canonical telemetry signatures and error_type enum",
+      "auth_context": [
+        "admin"
+      ]
+    },
+    {
+      "method": "GET",
+      "path": "/api/ey/admin/tenants/{tenantId}/content/coverage",
+      "purpose": "Return content coverage by grade, subject, strand, skill and activity",
+      "auth_context": [
+        "admin"
+      ]
+    }
+  ],
+  "payload_structures": {
+    "POST /api/ey/learners/{learnerId}/diagnostics": {
+      "activity_id": "LEA-EY-DIAG-0001",
+      "accuracy": 0.82,
+      "diagnostic_score": 82,
+      "prompt_level": 1,
+      "error_type": "phonemic_blending"
+    },
+    "POST /api/ey/learners/{learnerId}/sessions": {
+      "activity_id": "LEA-EY-ACT-0001",
+      "activity_version": "1.2.0",
+      "device": "web|tablet|mobile",
+      "locale": "en-GB",
+      "item_seed": "server-generated-or-submitted-seed"
+    },
+    "POST /api/ey/learners/{learnerId}/sessions/{sessionId}/attempts": {
+      "activity_id": "LEA-EY-ACT-0001",
+      "activity_version": "1.2.0",
+      "item_id": "ITEM-001",
+      "accuracy": 1.0,
+      "prompt_level": 0,
+      "response_time_seconds": 4.2,
+      "baseline_average_response_time_seconds": 3.0,
+      "attempt_count": 1,
+      "consecutive_same_error_count": 0,
+      "hint_count": 0,
+      "audio_replay_count": 1,
+      "error_type": null
+    },
+    "POST /api/ey/classes/{classId}/assignments": {
+      "teacher_id": "teacher_123",
+      "target_type": "class",
+      "assignment_type": "activity|strand|skill|intervention_path|extension_path",
+      "activity_ids": [
+        "LEA-EY-ACT-0001"
+      ],
+      "due_date": "YYYY-MM-DD",
+      "teacher_note": "Short classroom instruction"
+    },
+    "POST /api/ey/groups/{groupId}/assignments": {
+      "teacher_id": "teacher_123",
+      "target_type": "group",
+      "assignment_type": "intervention_path",
+      "skill_codes": [
+        "EY-K-LIT-PHO-03"
+      ],
+      "due_date": "YYYY-MM-DD",
+      "teacher_note": "Small-group phonemic blending practice"
+    }
+  },
+  "activity_schema": {
+    "activity_id": "string unique stable ID",
+    "activity_version": "semantic version string",
+    "title": "string",
+    "grade_band": "Pre-K|Kindergarten|Grade 1|Grade 2|Grade 3",
+    "subject": "Literacy|Maths|Wellbeing|Learning Habits|Digital Citizenship",
+    "strand": "string",
+    "skill_code": "string",
+    "mechanic": "tap|drag|trace|listen_choose|blend|sort|record|story_path|count_group|mission",
+    "items": [
+      {
+        "item_id": "string",
+        "prompt_audio": "asset reference",
+        "prompt_text": "optional learner text",
+        "correct_answer": "string|array",
+        "acceptable_answers": [
+          "string"
+        ],
+        "target_error_types": [
+          "error_type enum values"
+        ],
+        "metadata": {
+          "difficulty": "1-5",
+          "decodable_pattern": "optional",
+          "maths_concept": "optional"
+        }
+      }
+    ],
+    "feedback": {
+      "correct": "audio/text asset reference",
+      "success": "celebration asset reference",
+      "interventions_by_error_type": {
+        "phonological_awareness": {
+          "incorrect_first": "Play short scaffold for phonological awareness and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for phonological awareness and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to phonological awareness.",
+          "parent_home_practice": "Generate one 3-minute home activity for phonological awareness."
+        },
+        "letter_sound_correspondence": {
+          "incorrect_first": "Play short scaffold for letter sound correspondence and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for letter sound correspondence and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to letter sound correspondence.",
+          "parent_home_practice": "Generate one 3-minute home activity for letter sound correspondence."
+        },
+        "phonemic_blending": {
+          "incorrect_first": "Play short scaffold for phonemic blending and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for phonemic blending and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to phonemic blending.",
+          "parent_home_practice": "Generate one 3-minute home activity for phonemic blending."
+        },
+        "cvc_decoding": {
+          "incorrect_first": "Play short scaffold for cvc decoding and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for cvc decoding and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to cvc decoding.",
+          "parent_home_practice": "Generate one 3-minute home activity for cvc decoding."
+        },
+        "digraph_decoding": {
+          "incorrect_first": "Play short scaffold for digraph decoding and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for digraph decoding and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to digraph decoding.",
+          "parent_home_practice": "Generate one 3-minute home activity for digraph decoding."
+        },
+        "vowel_pattern_confusion": {
+          "incorrect_first": "Play short scaffold for vowel pattern confusion and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for vowel pattern confusion and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to vowel pattern confusion.",
+          "parent_home_practice": "Generate one 3-minute home activity for vowel pattern confusion."
+        },
+        "print_concept": {
+          "incorrect_first": "Play short scaffold for print concept and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for print concept and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to print concept.",
+          "parent_home_practice": "Generate one 3-minute home activity for print concept."
+        },
+        "sight_word_recognition": {
+          "incorrect_first": "Play short scaffold for sight word recognition and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for sight word recognition and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to sight word recognition.",
+          "parent_home_practice": "Generate one 3-minute home activity for sight word recognition."
+        },
+        "fluency_hesitation": {
+          "incorrect_first": "Play short scaffold for fluency hesitation and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for fluency hesitation and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to fluency hesitation.",
+          "parent_home_practice": "Generate one 3-minute home activity for fluency hesitation."
+        },
+        "listening_comprehension": {
+          "incorrect_first": "Play short scaffold for listening comprehension and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for listening comprehension and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to listening comprehension.",
+          "parent_home_practice": "Generate one 3-minute home activity for listening comprehension."
+        },
+        "vocabulary_meaning": {
+          "incorrect_first": "Play short scaffold for vocabulary meaning and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for vocabulary meaning and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to vocabulary meaning.",
+          "parent_home_practice": "Generate one 3-minute home activity for vocabulary meaning."
+        },
+        "sentence_order": {
+          "incorrect_first": "Play short scaffold for sentence order and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for sentence order and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to sentence order.",
+          "parent_home_practice": "Generate one 3-minute home activity for sentence order."
+        },
+        "number_sequence": {
+          "incorrect_first": "Play short scaffold for number sequence and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for number sequence and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to number sequence.",
+          "parent_home_practice": "Generate one 3-minute home activity for number sequence."
+        },
+        "one_to_one_counting": {
+          "incorrect_first": "Play short scaffold for one to one counting and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for one to one counting and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to one to one counting.",
+          "parent_home_practice": "Generate one 3-minute home activity for one to one counting."
+        },
+        "quantity_comparison": {
+          "incorrect_first": "Play short scaffold for quantity comparison and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for quantity comparison and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to quantity comparison.",
+          "parent_home_practice": "Generate one 3-minute home activity for quantity comparison."
+        },
+        "shape_recognition": {
+          "incorrect_first": "Play short scaffold for shape recognition and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for shape recognition and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to shape recognition.",
+          "parent_home_practice": "Generate one 3-minute home activity for shape recognition."
+        },
+        "operation_strategy": {
+          "incorrect_first": "Play short scaffold for operation strategy and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for operation strategy and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to operation strategy.",
+          "parent_home_practice": "Generate one 3-minute home activity for operation strategy."
+        },
+        "fine_motor_tracing": {
+          "incorrect_first": "Play short scaffold for fine motor tracing and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for fine motor tracing and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to fine motor tracing.",
+          "parent_home_practice": "Generate one 3-minute home activity for fine motor tracing."
+        },
+        "attention_task_completion": {
+          "incorrect_first": "Play short scaffold for attention task completion and replay the target prompt.",
+          "incorrect_repeat": "Launch mini-teach card for attention task completion and serve a parallel item.",
+          "teacher_follow_up": "Queue small-group card mapped to attention task completion.",
+          "parent_home_practice": "Generate one 3-minute home activity for attention task completion."
+        }
+      },
+      "fallback_intervention": {
+        "incorrect_first": "Replay the prompt with one visual scaffold.",
+        "incorrect_repeat": "Show a short mini-teach, then serve a parallel item.",
+        "teacher_follow_up": "Queue teacher review if the learner repeats the same barrier in the next session."
+      }
+    },
+    "mastery": {
+      "accuracy_threshold": 0.85,
+      "sessions_required": 2,
+      "max_prompt_level": 2
+    },
+    "accessibility": {
+      "captions": true,
+      "keyboard": true,
+      "alt_text_required": true,
+      "audio_replay": true,
+      "no_time_pressure_default": true
+    },
+    "mechanics": [
+      "tap",
+      "drag",
+      "trace",
+      "listen_choose",
+      "blend",
+      "sort",
+      "record",
+      "story_path",
+      "count_group",
+      "mission"
+    ]
+  },
+  "dashboards": {
+    "learner": [
+      "next game",
+      "stars",
+      "badges",
+      "story map progress",
+      "gentle retry queue"
+    ],
+    "parent": [
+      "weekly summary",
+      "what your child practised",
+      "one home activity",
+      "celebration message"
+    ],
+    "teacher": [
+      "class skill heatmap",
+      "group builder",
+      "intervention list",
+      "assignments",
+      "fluency recordings",
+      "downloadable follow-up"
+    ],
+    "admin": [
+      "content coverage",
+      "standards map completeness",
+      "activity performance",
+      "subscription/content access",
+      "safeguarding/audit logs",
+      "telemetry schema validation"
+    ]
+  },
+  "validation_rules": [
+    "Telemetry events must validate against BEA_Early_Years_Telemetry_Event_JSON_Schema_v1_2.json.",
+    "CSV activity bank must use activity_id as a unique stable identifier.",
+    "All adaptive rules must reference only skill_model.evidence_signals or skill_model.aggregate_signals.",
+    "All assignment and session endpoints must carry the target resource identifier in the URL path.",
+    "Feedback intervention must resolve by feedback.interventions_by_error_type[error_type] first, then fallback_intervention.",
+    "Learner-facing strings must use en-GB defaults unless a tenant-level locale override is configured."
+  ]
+}

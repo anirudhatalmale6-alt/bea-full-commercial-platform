@@ -1,0 +1,13 @@
+check,status,detail
+Adaptive engine JSON parses,PASS,BEA_Early_Years_Adaptive_Game_Engine_Spec_v1_2.json
+Telemetry JSON Schema parses,PASS,BEA_Early_Years_Telemetry_Event_JSON_Schema_v1_2.json
+Activity bank row count,PASS,210 rows found
+Activity IDs unique,PASS,210 unique IDs
+Activity bank canonical columns,PASS,"Fields present: ['activity_id', 'canonical_telemetry_signals', 'feedback_mapping_required', 'mechanic', 'version']"
+Activity bank version locked,PASS,All rows version 1.2
+No deprecated runtime variable: oral_prompt_support,PASS,No occurrences
+No deprecated runtime variable: error_tags,PASS,No occurrences
+No deprecated runtime variable: foundational_error_detected,PASS,No occurrences
+No deprecated runtime variable: high_hesitation,PASS,No occurrences
+Adaptive rule references are canonical,PASS,All condition references resolved
+API endpoints include URL resource context,PASS,All endpoints include path resource IDs

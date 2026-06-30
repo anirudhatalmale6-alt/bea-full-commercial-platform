@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0185",
+  "title": "Fractions: Unit Fractions And Visual Models - Find the Mistake 1",
+  "grade_band": "Grade 3",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can unit fractions and visual models through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The inference are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The inference are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The inference is clear.",
+      "distractors": [
+        "The inference are clear.",
+        "Clear the inference is.",
+        "The inference clear is."
+      ],
+      "choices": [
+        "The inference are clear.",
+        "The inference is clear.",
+        "Clear the inference is.",
+        "The inference clear is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The inference is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The inference are clear.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The purpose are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The purpose are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The purpose is clear.",
+      "distractors": [
+        "Clear the purpose is.",
+        "The purpose are clear.",
+        "The purpose clear is."
+      ],
+      "choices": [
+        "The purpose is clear.",
+        "Clear the purpose is.",
+        "The purpose are clear.",
+        "The purpose clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The purpose is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The purpose are clear.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The audience are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The audience are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The audience is clear.",
+      "distractors": [
+        "The audience clear is.",
+        "Clear the audience is.",
+        "The audience are clear."
+      ],
+      "choices": [
+        "The audience clear is.",
+        "Clear the audience is.",
+        "The audience is clear.",
+        "The audience are clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The audience is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The audience are clear.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The strategy are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The strategy are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The strategy is clear.",
+      "distractors": [
+        "The strategy clear is.",
+        "Clear the strategy is.",
+        "The strategy are clear."
+      ],
+      "choices": [
+        "The strategy is clear.",
+        "The strategy clear is.",
+        "Clear the strategy is.",
+        "The strategy are clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The strategy is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The strategy are clear.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The accurate are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The accurate are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The accurate is clear.",
+      "distractors": [
+        "The accurate are clear.",
+        "The accurate clear is.",
+        "Clear the accurate is."
+      ],
+      "choices": [
+        "The accurate is clear.",
+        "The accurate are clear.",
+        "The accurate clear is.",
+        "Clear the accurate is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The accurate is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The accurate are clear.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The fluency are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The fluency are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The fluency is clear.",
+      "distractors": [
+        "The fluency are clear.",
+        "The fluency clear is.",
+        "Clear the fluency is."
+      ],
+      "choices": [
+        "The fluency are clear.",
+        "The fluency clear is.",
+        "The fluency is clear.",
+        "Clear the fluency is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The fluency is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The fluency are clear.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The expression are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The expression are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The expression is clear.",
+      "distractors": [
+        "The expression clear is.",
+        "The expression are clear.",
+        "Clear the expression is."
+      ],
+      "choices": [
+        "The expression clear is.",
+        "The expression are clear.",
+        "Clear the expression is.",
+        "The expression is clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The expression is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The expression are clear.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The multiply are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The multiply are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The multiply is clear.",
+      "distractors": [
+        "The multiply clear is.",
+        "The multiply are clear.",
+        "Clear the multiply is."
+      ],
+      "choices": [
+        "The multiply clear is.",
+        "The multiply are clear.",
+        "The multiply is clear.",
+        "Clear the multiply is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The multiply is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The multiply are clear.'",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The divide are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The divide are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The divide is clear.",
+      "distractors": [
+        "The divide are clear.",
+        "The divide clear is.",
+        "Clear the divide is."
+      ],
+      "choices": [
+        "The divide are clear.",
+        "The divide clear is.",
+        "The divide is clear.",
+        "Clear the divide is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The divide is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The divide are clear.'",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0185-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0185",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fractions",
+      "skill_code": "EY-GRA-MAT-FRA-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The fraction are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The fraction are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The fraction is clear.",
+      "distractors": [
+        "Clear the fraction is.",
+        "The fraction are clear.",
+        "The fraction clear is."
+      ],
+      "choices": [
+        "Clear the fraction is.",
+        "The fraction are clear.",
+        "The fraction clear is.",
+        "The fraction is clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to unit fractions and visual models.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of unit fractions and visual models, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0185-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0185-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0185-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The fraction is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The fraction are clear.'",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

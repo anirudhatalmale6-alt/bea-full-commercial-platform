@@ -1,0 +1,27 @@
+{
+  "video_creation_provider": "HeyGen",
+  "recommended_hosting_providers": [
+    "Cloudflare Stream",
+    "Bunny Stream",
+    "Vimeo Business",
+    "AWS S3 + CloudFront"
+  ],
+  "required_env_vars": [
+    "VIDEO_PROVIDER",
+    "VIDEO_CDN_BASE_URL",
+    "VIDEO_SIGNING_SECRET",
+    "HEYGEN_API_KEY_OPTIONAL",
+    "CAPTION_CDN_BASE_URL",
+    "THUMBNAIL_CDN_BASE_URL"
+  ],
+  "avatar_rules": [
+    "Do not cover avatar face with captions, banners or large text overlays.",
+    "Captions must sit below the avatar lower third or in a separate caption region.",
+    "Use British English pronunciation and child-safe tone for Early Years."
+  ],
+  "accessibility": {
+    "captions": "required .vtt",
+    "transcripts": "required HTML/MD",
+    "keyboard_controls": true
+  }
+}

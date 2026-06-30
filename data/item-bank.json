@@ -1,0 +1,5282 @@
+[
+  {
+    "id": "6415d7d0-5c04-4a3c-bb0a-1f8b730923e4",
+    "cefr": "A1",
+    "skill": "grammar",
+    "difficulty": -2.864,
+    "discrimination": 0.941,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct sentence.",
+      "options": [
+        "She is my teacher.",
+        "She are my teacher.",
+        "She be my teacher.",
+        "She am my teacher."
+      ],
+      "correctIndex": 0,
+      "rationale": "Present form of be.",
+      "canDoTag": "A1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fad9d05c-59eb-4564-89ed-e58a3cc4bdf5",
+    "cefr": "A1",
+    "skill": "vocabulary",
+    "difficulty": -2.803,
+    "discrimination": 0.893,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which word means a place where you sleep?",
+      "options": [
+        "bedroom",
+        "kitchen",
+        "market",
+        "station"
+      ],
+      "correctIndex": 0,
+      "rationale": "Home vocabulary.",
+      "canDoTag": "A1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "a2082112-958f-4baf-a067-5d78ce91908f",
+    "cefr": "A1",
+    "skill": "reading",
+    "difficulty": -2.777,
+    "discrimination": 1.069,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cMina has two brothers. They live in Dubai.\u201d How many brothers does Mina have?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "correctIndex": 1,
+      "rationale": "Find explicit detail.",
+      "canDoTag": "A1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "a666c2bd-367e-40b3-bd8d-2ff1a611c546",
+    "cefr": "A1",
+    "skill": "grammar",
+    "difficulty": -2.78,
+    "discrimination": 1.154,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: I _____ coffee every morning.",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking",
+        "to drink"
+      ],
+      "correctIndex": 0,
+      "rationale": "Present simple first person.",
+      "canDoTag": "A1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "eaa1ff93-1afc-4ddc-88ea-d658c6801aa6",
+    "cefr": "A1",
+    "skill": "vocabulary",
+    "difficulty": -2.747,
+    "discrimination": 1.11,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which phrase is polite?",
+      "options": [
+        "Please help me.",
+        "Give now.",
+        "I want fast.",
+        "You move."
+      ],
+      "correctIndex": 0,
+      "rationale": "Polite requests.",
+      "canDoTag": "A1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c52424d9-9d72-4361-8d76-a0dd5ab6822e",
+    "cefr": "A1",
+    "skill": "grammar",
+    "difficulty": -2.709,
+    "discrimination": 0.904,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct sentence.",
+      "options": [
+        "She is my teacher.",
+        "She are my teacher.",
+        "She be my teacher.",
+        "She am my teacher."
+      ],
+      "correctIndex": 0,
+      "rationale": "Present form of be.",
+      "canDoTag": "A1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b890e049-cc96-4d14-ad2c-5b6817509c4a",
+    "cefr": "A1",
+    "skill": "vocabulary",
+    "difficulty": -2.646,
+    "discrimination": 1.346,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which word means a place where you sleep?",
+      "options": [
+        "bedroom",
+        "kitchen",
+        "market",
+        "station"
+      ],
+      "correctIndex": 0,
+      "rationale": "Home vocabulary.",
+      "canDoTag": "A1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "7ca36017-ce90-485c-a066-ee6a4b28d213",
+    "cefr": "A1",
+    "skill": "reading",
+    "difficulty": -2.635,
+    "discrimination": 0.984,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cMina has two brothers. They live in Dubai.\u201d How many brothers does Mina have?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "correctIndex": 1,
+      "rationale": "Find explicit detail.",
+      "canDoTag": "A1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "ec68fb4f-9a1f-4a4c-a533-48aae4179946",
+    "cefr": "A1",
+    "skill": "grammar",
+    "difficulty": -2.56,
+    "discrimination": 1.419,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: I _____ coffee every morning.",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking",
+        "to drink"
+      ],
+      "correctIndex": 0,
+      "rationale": "Present simple first person.",
+      "canDoTag": "A1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "bf2cd026-73a6-42c3-96de-85d3e4b40dfa",
+    "cefr": "A1",
+    "skill": "vocabulary",
+    "difficulty": -2.529,
+    "discrimination": 1.088,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which phrase is polite?",
+      "options": [
+        "Please help me.",
+        "Give now.",
+        "I want fast.",
+        "You move."
+      ],
+      "correctIndex": 0,
+      "rationale": "Polite requests.",
+      "canDoTag": "A1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "1b4c9f99-20e5-46c9-a99d-f4f8e3ba8dfc",
+    "cefr": "A1",
+    "skill": "grammar",
+    "difficulty": -2.462,
+    "discrimination": 0.878,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct sentence.",
+      "options": [
+        "She is my teacher.",
+        "She are my teacher.",
+        "She be my teacher.",
+        "She am my teacher."
+      ],
+      "correctIndex": 0,
+      "rationale": "Present form of be.",
+      "canDoTag": "A1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "0eb19c1d-a99f-4a4b-8d04-fb0342b9923b",
+    "cefr": "A1",
+    "skill": "vocabulary",
+    "difficulty": -2.436,
+    "discrimination": 1.024,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which word means a place where you sleep?",
+      "options": [
+        "bedroom",
+        "kitchen",
+        "market",
+        "station"
+      ],
+      "correctIndex": 0,
+      "rationale": "Home vocabulary.",
+      "canDoTag": "A1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "2535ea41-f33e-4c47-a392-d1336f4b0270",
+    "cefr": "A1",
+    "skill": "reading",
+    "difficulty": -2.458,
+    "discrimination": 0.921,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cMina has two brothers. They live in Dubai.\u201d How many brothers does Mina have?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "correctIndex": 1,
+      "rationale": "Find explicit detail.",
+      "canDoTag": "A1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "89715350-56f4-4b09-88c4-36008b56d32a",
+    "cefr": "A1",
+    "skill": "grammar",
+    "difficulty": -2.41,
+    "discrimination": 1.34,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: I _____ coffee every morning.",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking",
+        "to drink"
+      ],
+      "correctIndex": 0,
+      "rationale": "Present simple first person.",
+      "canDoTag": "A1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "dc5a033b-2e8e-4b36-b842-01e02c325b18",
+    "cefr": "A1",
+    "skill": "vocabulary",
+    "difficulty": -2.386,
+    "discrimination": 1.199,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which phrase is polite?",
+      "options": [
+        "Please help me.",
+        "Give now.",
+        "I want fast.",
+        "You move."
+      ],
+      "correctIndex": 0,
+      "rationale": "Polite requests.",
+      "canDoTag": "A1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c8bb17e0-2e13-4404-86d0-734da1dc5b77",
+    "cefr": "A1",
+    "skill": "grammar",
+    "difficulty": -2.314,
+    "discrimination": 1.073,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct sentence.",
+      "options": [
+        "She is my teacher.",
+        "She are my teacher.",
+        "She be my teacher.",
+        "She am my teacher."
+      ],
+      "correctIndex": 0,
+      "rationale": "Present form of be.",
+      "canDoTag": "A1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "ccddd12e-fae9-4044-9144-f79600674c36",
+    "cefr": "A1",
+    "skill": "vocabulary",
+    "difficulty": -2.286,
+    "discrimination": 0.888,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which word means a place where you sleep?",
+      "options": [
+        "bedroom",
+        "kitchen",
+        "market",
+        "station"
+      ],
+      "correctIndex": 0,
+      "rationale": "Home vocabulary.",
+      "canDoTag": "A1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c3138817-4cd2-4647-b19b-4ab86a08602c",
+    "cefr": "A1",
+    "skill": "reading",
+    "difficulty": -2.29,
+    "discrimination": 0.974,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cMina has two brothers. They live in Dubai.\u201d How many brothers does Mina have?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "correctIndex": 1,
+      "rationale": "Find explicit detail.",
+      "canDoTag": "A1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "caa70de8-a101-47af-ab63-43e400debf1e",
+    "cefr": "A1",
+    "skill": "grammar",
+    "difficulty": -2.206,
+    "discrimination": 1.107,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: I _____ coffee every morning.",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking",
+        "to drink"
+      ],
+      "correctIndex": 0,
+      "rationale": "Present simple first person.",
+      "canDoTag": "A1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b59e4aed-5e5c-4e13-acd3-55a0ef49e443",
+    "cefr": "A1",
+    "skill": "vocabulary",
+    "difficulty": -2.2,
+    "discrimination": 1.201,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which phrase is polite?",
+      "options": [
+        "Please help me.",
+        "Give now.",
+        "I want fast.",
+        "You move."
+      ],
+      "correctIndex": 0,
+      "rationale": "Polite requests.",
+      "canDoTag": "A1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "32b3069e-874e-4718-b81d-0559541d9866",
+    "cefr": "A2",
+    "skill": "grammar",
+    "difficulty": -1.854,
+    "discrimination": 1.03,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: We _____ to the museum yesterday.",
+      "options": [
+        "go",
+        "went",
+        "gone",
+        "going"
+      ],
+      "correctIndex": 1,
+      "rationale": "Past simple irregular verb.",
+      "canDoTag": "A2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "68a74bca-c87a-4179-beeb-0abb5ac5cf1b",
+    "cefr": "A2",
+    "skill": "vocabulary",
+    "difficulty": -1.791,
+    "discrimination": 1.269,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best word: The train was late, so we waited on the _____.",
+      "options": [
+        "platform",
+        "receipt",
+        "menu",
+        "mirror"
+      ],
+      "correctIndex": 0,
+      "rationale": "Travel vocabulary.",
+      "canDoTag": "A2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "3109506b-ee8a-48bd-8201-b8a37cacd0c7",
+    "cefr": "A2",
+    "skill": "reading",
+    "difficulty": -1.8,
+    "discrimination": 1.195,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cAli missed the bus because he left home late.\u201d Why did Ali miss the bus?",
+      "options": [
+        "He left late.",
+        "The bus was early.",
+        "He was sick.",
+        "He lost his bag."
+      ],
+      "correctIndex": 0,
+      "rationale": "Cause and effect.",
+      "canDoTag": "A2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d9ce3b12-2592-47a4-855c-b8895ab83c2c",
+    "cefr": "A2",
+    "skill": "grammar",
+    "difficulty": -1.743,
+    "discrimination": 1.375,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct sentence.",
+      "options": [
+        "This bag is heavier than that one.",
+        "This bag is more heavy that that one.",
+        "This bag is heaviest than that one.",
+        "This bag is heavy than that one."
+      ],
+      "correctIndex": 0,
+      "rationale": "Comparative adjectives.",
+      "canDoTag": "A2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c93e9af5-9d70-432a-b177-7cfb8aa6b940",
+    "cefr": "A2",
+    "skill": "vocabulary",
+    "difficulty": -1.692,
+    "discrimination": 1.023,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: You should see a doctor if you have a high _____.",
+      "options": [
+        "temperature",
+        "ticket",
+        "journey",
+        "discount"
+      ],
+      "correctIndex": 0,
+      "rationale": "Health vocabulary.",
+      "canDoTag": "A2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "1b77b1cc-963c-4b12-80a3-2b1b79b6bc41",
+    "cefr": "A2",
+    "skill": "grammar",
+    "difficulty": -1.637,
+    "discrimination": 0.921,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: We _____ to the museum yesterday.",
+      "options": [
+        "go",
+        "went",
+        "gone",
+        "going"
+      ],
+      "correctIndex": 1,
+      "rationale": "Past simple irregular verb.",
+      "canDoTag": "A2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b06f5ce7-27d8-47f9-8aa8-10dd74b455bf",
+    "cefr": "A2",
+    "skill": "vocabulary",
+    "difficulty": -1.647,
+    "discrimination": 1.304,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best word: The train was late, so we waited on the _____.",
+      "options": [
+        "platform",
+        "receipt",
+        "menu",
+        "mirror"
+      ],
+      "correctIndex": 0,
+      "rationale": "Travel vocabulary.",
+      "canDoTag": "A2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d57b44d8-b457-41e7-a9e0-6e8a2d32b439",
+    "cefr": "A2",
+    "skill": "reading",
+    "difficulty": -1.633,
+    "discrimination": 1.143,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cAli missed the bus because he left home late.\u201d Why did Ali miss the bus?",
+      "options": [
+        "He left late.",
+        "The bus was early.",
+        "He was sick.",
+        "He lost his bag."
+      ],
+      "correctIndex": 0,
+      "rationale": "Cause and effect.",
+      "canDoTag": "A2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "a7e0c36e-3811-4436-a46e-5b9a703e15f9",
+    "cefr": "A2",
+    "skill": "grammar",
+    "difficulty": -1.607,
+    "discrimination": 1.251,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct sentence.",
+      "options": [
+        "This bag is heavier than that one.",
+        "This bag is more heavy that that one.",
+        "This bag is heaviest than that one.",
+        "This bag is heavy than that one."
+      ],
+      "correctIndex": 0,
+      "rationale": "Comparative adjectives.",
+      "canDoTag": "A2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "096de800-505c-4adb-995e-c8364e18ed80",
+    "cefr": "A2",
+    "skill": "vocabulary",
+    "difficulty": -1.514,
+    "discrimination": 1.194,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: You should see a doctor if you have a high _____.",
+      "options": [
+        "temperature",
+        "ticket",
+        "journey",
+        "discount"
+      ],
+      "correctIndex": 0,
+      "rationale": "Health vocabulary.",
+      "canDoTag": "A2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "a3a3b06a-2d0d-4e0d-8c30-5d524b0214c2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "difficulty": -1.47,
+    "discrimination": 1.038,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: We _____ to the museum yesterday.",
+      "options": [
+        "go",
+        "went",
+        "gone",
+        "going"
+      ],
+      "correctIndex": 1,
+      "rationale": "Past simple irregular verb.",
+      "canDoTag": "A2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4d2e90f5-7a26-44fb-bedd-2155688c6a34",
+    "cefr": "A2",
+    "skill": "vocabulary",
+    "difficulty": -1.449,
+    "discrimination": 1.207,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best word: The train was late, so we waited on the _____.",
+      "options": [
+        "platform",
+        "receipt",
+        "menu",
+        "mirror"
+      ],
+      "correctIndex": 0,
+      "rationale": "Travel vocabulary.",
+      "canDoTag": "A2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c86f7632-e210-4680-9d06-debd928ae9c0",
+    "cefr": "A2",
+    "skill": "reading",
+    "difficulty": -1.424,
+    "discrimination": 1.124,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cAli missed the bus because he left home late.\u201d Why did Ali miss the bus?",
+      "options": [
+        "He left late.",
+        "The bus was early.",
+        "He was sick.",
+        "He lost his bag."
+      ],
+      "correctIndex": 0,
+      "rationale": "Cause and effect.",
+      "canDoTag": "A2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "7ee0abc6-addc-41dd-b5c5-e789421266fb",
+    "cefr": "A2",
+    "skill": "grammar",
+    "difficulty": -1.368,
+    "discrimination": 1.417,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct sentence.",
+      "options": [
+        "This bag is heavier than that one.",
+        "This bag is more heavy that that one.",
+        "This bag is heaviest than that one.",
+        "This bag is heavy than that one."
+      ],
+      "correctIndex": 0,
+      "rationale": "Comparative adjectives.",
+      "canDoTag": "A2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "890e9b02-7a6c-4d79-98c9-7117c1ff7e5d",
+    "cefr": "A2",
+    "skill": "vocabulary",
+    "difficulty": -1.362,
+    "discrimination": 1.248,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: You should see a doctor if you have a high _____.",
+      "options": [
+        "temperature",
+        "ticket",
+        "journey",
+        "discount"
+      ],
+      "correctIndex": 0,
+      "rationale": "Health vocabulary.",
+      "canDoTag": "A2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "181cd716-2559-4b44-9218-757bfa324842",
+    "cefr": "A2",
+    "skill": "grammar",
+    "difficulty": -1.36,
+    "discrimination": 1.271,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: We _____ to the museum yesterday.",
+      "options": [
+        "go",
+        "went",
+        "gone",
+        "going"
+      ],
+      "correctIndex": 1,
+      "rationale": "Past simple irregular verb.",
+      "canDoTag": "A2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "8d3ab707-34b9-49ff-83ea-605fec218c13",
+    "cefr": "A2",
+    "skill": "vocabulary",
+    "difficulty": -1.278,
+    "discrimination": 1.446,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best word: The train was late, so we waited on the _____.",
+      "options": [
+        "platform",
+        "receipt",
+        "menu",
+        "mirror"
+      ],
+      "correctIndex": 0,
+      "rationale": "Travel vocabulary.",
+      "canDoTag": "A2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "0a0eda9a-6d77-4736-b1cc-8941096cd0e7",
+    "cefr": "A2",
+    "skill": "reading",
+    "difficulty": -1.229,
+    "discrimination": 1.021,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cAli missed the bus because he left home late.\u201d Why did Ali miss the bus?",
+      "options": [
+        "He left late.",
+        "The bus was early.",
+        "He was sick.",
+        "He lost his bag."
+      ],
+      "correctIndex": 0,
+      "rationale": "Cause and effect.",
+      "canDoTag": "A2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "60ceded0-40c9-40e2-aa13-e0d48bf38af9",
+    "cefr": "A2",
+    "skill": "grammar",
+    "difficulty": -1.229,
+    "discrimination": 1.251,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct sentence.",
+      "options": [
+        "This bag is heavier than that one.",
+        "This bag is more heavy that that one.",
+        "This bag is heaviest than that one.",
+        "This bag is heavy than that one."
+      ],
+      "correctIndex": 0,
+      "rationale": "Comparative adjectives.",
+      "canDoTag": "A2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c64cbc90-393b-4cae-99ee-f4da58460ad3",
+    "cefr": "A2",
+    "skill": "vocabulary",
+    "difficulty": -1.223,
+    "discrimination": 1.127,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: You should see a doctor if you have a high _____.",
+      "options": [
+        "temperature",
+        "ticket",
+        "journey",
+        "discount"
+      ],
+      "correctIndex": 0,
+      "rationale": "Health vocabulary.",
+      "canDoTag": "A2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c5b02aaa-35ac-4873-8bfe-e499d69f213a",
+    "cefr": "B1",
+    "skill": "grammar",
+    "difficulty": -0.377,
+    "discrimination": 0.92,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: If I _____ more time, I would learn another language.",
+      "options": [
+        "have",
+        "had",
+        "will have",
+        "having"
+      ],
+      "correctIndex": 1,
+      "rationale": "Second conditional.",
+      "canDoTag": "B1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d2d89529-78da-4663-a323-ed4f49e4bcd2",
+    "cefr": "B1",
+    "skill": "vocabulary",
+    "difficulty": -0.35,
+    "discrimination": 1.311,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201creliable\u201d.",
+      "options": [
+        "easy to trust",
+        "very expensive",
+        "quick to forget",
+        "hard to see"
+      ],
+      "correctIndex": 0,
+      "rationale": "Academic vocabulary.",
+      "canDoTag": "B1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "86b5e7be-bdb5-4c56-8d5c-beeb60a553b2",
+    "cefr": "B1",
+    "skill": "reading",
+    "difficulty": -0.31,
+    "discrimination": 0.999,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe project was delayed, although the team had finished the research.\u201d What is true?",
+      "options": [
+        "The research was finished.",
+        "The team cancelled the project.",
+        "The project finished early.",
+        "No research was done."
+      ],
+      "correctIndex": 0,
+      "rationale": "Concession and detail.",
+      "canDoTag": "B1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4e0af70b-b9e1-4cc5-80ec-047316eb3ad6",
+    "cefr": "B1",
+    "skill": "grammar",
+    "difficulty": -0.254,
+    "discrimination": 1.373,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct passive sentence.",
+      "options": [
+        "The emails were sent yesterday.",
+        "The emails sent yesterday.",
+        "The emails was sent yesterday.",
+        "The emails were send yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Past passive.",
+      "canDoTag": "B1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5e750723-cbef-49d9-8cd9-b5a43f079bc2",
+    "cefr": "B1",
+    "skill": "vocabulary",
+    "difficulty": -0.244,
+    "discrimination": 1.12,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The charity aims to _____ awareness about clean water.",
+      "options": [
+        "raise",
+        "rise",
+        "grow",
+        "lift up"
+      ],
+      "correctIndex": 0,
+      "rationale": "Collocation raise awareness.",
+      "canDoTag": "B1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "0b4ad069-567d-4808-a22d-95fe2bcfebf2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "difficulty": -0.171,
+    "discrimination": 1.38,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: If I _____ more time, I would learn another language.",
+      "options": [
+        "have",
+        "had",
+        "will have",
+        "having"
+      ],
+      "correctIndex": 1,
+      "rationale": "Second conditional.",
+      "canDoTag": "B1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "0fed334f-a0c7-481e-ac84-8621eae2edd7",
+    "cefr": "B1",
+    "skill": "vocabulary",
+    "difficulty": -0.114,
+    "discrimination": 1.368,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201creliable\u201d.",
+      "options": [
+        "easy to trust",
+        "very expensive",
+        "quick to forget",
+        "hard to see"
+      ],
+      "correctIndex": 0,
+      "rationale": "Academic vocabulary.",
+      "canDoTag": "B1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "6db9de8f-f3db-4abd-b0da-7e7c2f7df23a",
+    "cefr": "B1",
+    "skill": "reading",
+    "difficulty": -0.123,
+    "discrimination": 1.099,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe project was delayed, although the team had finished the research.\u201d What is true?",
+      "options": [
+        "The research was finished.",
+        "The team cancelled the project.",
+        "The project finished early.",
+        "No research was done."
+      ],
+      "correctIndex": 0,
+      "rationale": "Concession and detail.",
+      "canDoTag": "B1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d036ba36-6a98-46df-9cab-9ad55c42d53d",
+    "cefr": "B1",
+    "skill": "grammar",
+    "difficulty": -0.081,
+    "discrimination": 1.381,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct passive sentence.",
+      "options": [
+        "The emails were sent yesterday.",
+        "The emails sent yesterday.",
+        "The emails was sent yesterday.",
+        "The emails were send yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Past passive.",
+      "canDoTag": "B1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "f635931f-82a9-4566-96a4-7b29b39cecf7",
+    "cefr": "B1",
+    "skill": "vocabulary",
+    "difficulty": 0.002,
+    "discrimination": 0.941,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The charity aims to _____ awareness about clean water.",
+      "options": [
+        "raise",
+        "rise",
+        "grow",
+        "lift up"
+      ],
+      "correctIndex": 0,
+      "rationale": "Collocation raise awareness.",
+      "canDoTag": "B1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "9d0eb002-d631-48fd-80e5-0cc7a33616f0",
+    "cefr": "B1",
+    "skill": "grammar",
+    "difficulty": -0.026,
+    "discrimination": 0.989,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: If I _____ more time, I would learn another language.",
+      "options": [
+        "have",
+        "had",
+        "will have",
+        "having"
+      ],
+      "correctIndex": 1,
+      "rationale": "Second conditional.",
+      "canDoTag": "B1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5c0b3385-8c06-473f-848e-359b4fb53336",
+    "cefr": "B1",
+    "skill": "vocabulary",
+    "difficulty": 0.014,
+    "discrimination": 1.141,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201creliable\u201d.",
+      "options": [
+        "easy to trust",
+        "very expensive",
+        "quick to forget",
+        "hard to see"
+      ],
+      "correctIndex": 0,
+      "rationale": "Academic vocabulary.",
+      "canDoTag": "B1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "0b3598b8-457c-4e72-b147-ac204cee74a7",
+    "cefr": "B1",
+    "skill": "reading",
+    "difficulty": 0.077,
+    "discrimination": 1.008,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe project was delayed, although the team had finished the research.\u201d What is true?",
+      "options": [
+        "The research was finished.",
+        "The team cancelled the project.",
+        "The project finished early.",
+        "No research was done."
+      ],
+      "correctIndex": 0,
+      "rationale": "Concession and detail.",
+      "canDoTag": "B1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "eb4bf1a1-e5f9-4ecd-abd9-59f9177ff7b9",
+    "cefr": "B1",
+    "skill": "grammar",
+    "difficulty": 0.065,
+    "discrimination": 1.101,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct passive sentence.",
+      "options": [
+        "The emails were sent yesterday.",
+        "The emails sent yesterday.",
+        "The emails was sent yesterday.",
+        "The emails were send yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Past passive.",
+      "canDoTag": "B1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e4d00746-0f91-44b2-8fe1-1c6b830aa4cc",
+    "cefr": "B1",
+    "skill": "vocabulary",
+    "difficulty": 0.13,
+    "discrimination": 1.19,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The charity aims to _____ awareness about clean water.",
+      "options": [
+        "raise",
+        "rise",
+        "grow",
+        "lift up"
+      ],
+      "correctIndex": 0,
+      "rationale": "Collocation raise awareness.",
+      "canDoTag": "B1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "6475ffd1-4d36-4b0f-8948-302358761bc2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "difficulty": 0.211,
+    "discrimination": 1.264,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: If I _____ more time, I would learn another language.",
+      "options": [
+        "have",
+        "had",
+        "will have",
+        "having"
+      ],
+      "correctIndex": 1,
+      "rationale": "Second conditional.",
+      "canDoTag": "B1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "447aa727-b58e-4ef0-bfcf-d83997118338",
+    "cefr": "B1",
+    "skill": "vocabulary",
+    "difficulty": 0.211,
+    "discrimination": 1.221,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201creliable\u201d.",
+      "options": [
+        "easy to trust",
+        "very expensive",
+        "quick to forget",
+        "hard to see"
+      ],
+      "correctIndex": 0,
+      "rationale": "Academic vocabulary.",
+      "canDoTag": "B1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d1f0de15-6db5-4ec2-b663-2c6329302357",
+    "cefr": "B1",
+    "skill": "reading",
+    "difficulty": 0.259,
+    "discrimination": 0.882,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe project was delayed, although the team had finished the research.\u201d What is true?",
+      "options": [
+        "The research was finished.",
+        "The team cancelled the project.",
+        "The project finished early.",
+        "No research was done."
+      ],
+      "correctIndex": 0,
+      "rationale": "Concession and detail.",
+      "canDoTag": "B1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "36b8c06a-29c4-407b-ab8c-83bb3404018d",
+    "cefr": "B1",
+    "skill": "grammar",
+    "difficulty": 0.312,
+    "discrimination": 1.318,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the correct passive sentence.",
+      "options": [
+        "The emails were sent yesterday.",
+        "The emails sent yesterday.",
+        "The emails was sent yesterday.",
+        "The emails were send yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Past passive.",
+      "canDoTag": "B1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c1cd3016-1c0d-4fd7-8187-56d88e48f870",
+    "cefr": "B1",
+    "skill": "vocabulary",
+    "difficulty": 0.345,
+    "discrimination": 1.329,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The charity aims to _____ awareness about clean water.",
+      "options": [
+        "raise",
+        "rise",
+        "grow",
+        "lift up"
+      ],
+      "correctIndex": 0,
+      "rationale": "Collocation raise awareness.",
+      "canDoTag": "B1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "dce65004-aa5b-4e87-b10d-2744d3e70cc7",
+    "cefr": "B2",
+    "skill": "grammar",
+    "difficulty": 0.641,
+    "discrimination": 1.089,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The report _____ by the committee before it was published.",
+      "options": [
+        "reviewed",
+        "had reviewed",
+        "had been reviewed",
+        "was reviewing"
+      ],
+      "correctIndex": 2,
+      "rationale": "Past perfect passive.",
+      "canDoTag": "B2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "bfaa4664-6586-4a94-88fb-42f34bceeeaa",
+    "cefr": "B2",
+    "skill": "vocabulary",
+    "difficulty": 0.653,
+    "discrimination": 1.231,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best word: The evidence was not strong enough to _____ the claim.",
+      "options": [
+        "support",
+        "avoid",
+        "borrow",
+        "decorate"
+      ],
+      "correctIndex": 0,
+      "rationale": "Argument vocabulary.",
+      "canDoTag": "B2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "f77248f9-2d12-41b2-b472-b54d5db00c89",
+    "cefr": "B2",
+    "skill": "reading",
+    "difficulty": 0.685,
+    "discrimination": 0.89,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe proposal is promising; nevertheless, its financial assumptions remain uncertain.\u201d What is the writer doing?",
+      "options": [
+        "Balancing a positive view with a concern.",
+        "Rejecting the proposal completely.",
+        "Describing a past event.",
+        "Giving instructions."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer writer function.",
+      "canDoTag": "B2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "819fd671-ae17-4422-905a-3395eec29b4b",
+    "cefr": "B2",
+    "skill": "grammar",
+    "difficulty": 0.732,
+    "discrimination": 0.947,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence.",
+      "options": [
+        "Had I known about the delay, I would have called you.",
+        "If had I known about the delay, I called you.",
+        "Had I know about the delay, I would call you.",
+        "I had known about the delay, I call you."
+      ],
+      "correctIndex": 0,
+      "rationale": "Inverted conditional.",
+      "canDoTag": "B2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "799d5d32-84bb-411b-a87e-eb653d695b2c",
+    "cefr": "B2",
+    "skill": "vocabulary",
+    "difficulty": 0.777,
+    "discrimination": 0.882,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which phrase signals contrast?",
+      "options": [
+        "On the other hand",
+        "As a result",
+        "For instance",
+        "In addition"
+      ],
+      "correctIndex": 0,
+      "rationale": "Discourse markers.",
+      "canDoTag": "B2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e3dd9956-e773-45a5-a733-d545be3fe44f",
+    "cefr": "B2",
+    "skill": "grammar",
+    "difficulty": 0.785,
+    "discrimination": 0.941,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The report _____ by the committee before it was published.",
+      "options": [
+        "reviewed",
+        "had reviewed",
+        "had been reviewed",
+        "was reviewing"
+      ],
+      "correctIndex": 2,
+      "rationale": "Past perfect passive.",
+      "canDoTag": "B2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b2b50f31-350f-4a08-b023-199e5ef3b0c2",
+    "cefr": "B2",
+    "skill": "vocabulary",
+    "difficulty": 0.828,
+    "discrimination": 1.068,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best word: The evidence was not strong enough to _____ the claim.",
+      "options": [
+        "support",
+        "avoid",
+        "borrow",
+        "decorate"
+      ],
+      "correctIndex": 0,
+      "rationale": "Argument vocabulary.",
+      "canDoTag": "B2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b910a23a-82d2-4791-81c9-ef44db9a5c23",
+    "cefr": "B2",
+    "skill": "reading",
+    "difficulty": 0.857,
+    "discrimination": 1.375,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe proposal is promising; nevertheless, its financial assumptions remain uncertain.\u201d What is the writer doing?",
+      "options": [
+        "Balancing a positive view with a concern.",
+        "Rejecting the proposal completely.",
+        "Describing a past event.",
+        "Giving instructions."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer writer function.",
+      "canDoTag": "B2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "554d0d79-dcf1-4281-a9c1-222c8c698974",
+    "cefr": "B2",
+    "skill": "grammar",
+    "difficulty": 0.939,
+    "discrimination": 0.939,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence.",
+      "options": [
+        "Had I known about the delay, I would have called you.",
+        "If had I known about the delay, I called you.",
+        "Had I know about the delay, I would call you.",
+        "I had known about the delay, I call you."
+      ],
+      "correctIndex": 0,
+      "rationale": "Inverted conditional.",
+      "canDoTag": "B2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "2b0fef85-daf6-4836-a941-20e10bc586e8",
+    "cefr": "B2",
+    "skill": "vocabulary",
+    "difficulty": 0.945,
+    "discrimination": 1.058,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which phrase signals contrast?",
+      "options": [
+        "On the other hand",
+        "As a result",
+        "For instance",
+        "In addition"
+      ],
+      "correctIndex": 0,
+      "rationale": "Discourse markers.",
+      "canDoTag": "B2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5255a24c-812d-4fe6-8034-51a0ddf845ef",
+    "cefr": "B2",
+    "skill": "grammar",
+    "difficulty": 0.989,
+    "discrimination": 0.924,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The report _____ by the committee before it was published.",
+      "options": [
+        "reviewed",
+        "had reviewed",
+        "had been reviewed",
+        "was reviewing"
+      ],
+      "correctIndex": 2,
+      "rationale": "Past perfect passive.",
+      "canDoTag": "B2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e3117266-ab8c-4aa1-a7a9-94062c7d8d1e",
+    "cefr": "B2",
+    "skill": "vocabulary",
+    "difficulty": 1.063,
+    "discrimination": 1.446,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best word: The evidence was not strong enough to _____ the claim.",
+      "options": [
+        "support",
+        "avoid",
+        "borrow",
+        "decorate"
+      ],
+      "correctIndex": 0,
+      "rationale": "Argument vocabulary.",
+      "canDoTag": "B2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "ae3bba7f-3ac2-49c4-9940-9c10d82b2e52",
+    "cefr": "B2",
+    "skill": "reading",
+    "difficulty": 1.067,
+    "discrimination": 1.14,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe proposal is promising; nevertheless, its financial assumptions remain uncertain.\u201d What is the writer doing?",
+      "options": [
+        "Balancing a positive view with a concern.",
+        "Rejecting the proposal completely.",
+        "Describing a past event.",
+        "Giving instructions."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer writer function.",
+      "canDoTag": "B2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b54d4633-e0d6-4a80-b7ec-61eee9c24866",
+    "cefr": "B2",
+    "skill": "grammar",
+    "difficulty": 1.072,
+    "discrimination": 0.911,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence.",
+      "options": [
+        "Had I known about the delay, I would have called you.",
+        "If had I known about the delay, I called you.",
+        "Had I know about the delay, I would call you.",
+        "I had known about the delay, I call you."
+      ],
+      "correctIndex": 0,
+      "rationale": "Inverted conditional.",
+      "canDoTag": "B2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "1fec5739-f00f-4d47-bfe2-1a2253eac9b4",
+    "cefr": "B2",
+    "skill": "vocabulary",
+    "difficulty": 1.127,
+    "discrimination": 1.009,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which phrase signals contrast?",
+      "options": [
+        "On the other hand",
+        "As a result",
+        "For instance",
+        "In addition"
+      ],
+      "correctIndex": 0,
+      "rationale": "Discourse markers.",
+      "canDoTag": "B2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "f910ded0-abc4-45d0-b639-0b9dd0c89155",
+    "cefr": "B2",
+    "skill": "grammar",
+    "difficulty": 1.201,
+    "discrimination": 0.947,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The report _____ by the committee before it was published.",
+      "options": [
+        "reviewed",
+        "had reviewed",
+        "had been reviewed",
+        "was reviewing"
+      ],
+      "correctIndex": 2,
+      "rationale": "Past perfect passive.",
+      "canDoTag": "B2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "6ec056e9-8145-4575-b044-1f8736c74232",
+    "cefr": "B2",
+    "skill": "vocabulary",
+    "difficulty": 1.172,
+    "discrimination": 1.421,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best word: The evidence was not strong enough to _____ the claim.",
+      "options": [
+        "support",
+        "avoid",
+        "borrow",
+        "decorate"
+      ],
+      "correctIndex": 0,
+      "rationale": "Argument vocabulary.",
+      "canDoTag": "B2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "bfc7436a-296a-4885-8987-796180300a3b",
+    "cefr": "B2",
+    "skill": "reading",
+    "difficulty": 1.247,
+    "discrimination": 0.938,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe proposal is promising; nevertheless, its financial assumptions remain uncertain.\u201d What is the writer doing?",
+      "options": [
+        "Balancing a positive view with a concern.",
+        "Rejecting the proposal completely.",
+        "Describing a past event.",
+        "Giving instructions."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer writer function.",
+      "canDoTag": "B2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "49a94c0c-26c4-479b-8a83-decaa5df1166",
+    "cefr": "B2",
+    "skill": "grammar",
+    "difficulty": 1.283,
+    "discrimination": 0.866,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence.",
+      "options": [
+        "Had I known about the delay, I would have called you.",
+        "If had I known about the delay, I called you.",
+        "Had I know about the delay, I would call you.",
+        "I had known about the delay, I call you."
+      ],
+      "correctIndex": 0,
+      "rationale": "Inverted conditional.",
+      "canDoTag": "B2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "8fd2926a-1a28-4989-96af-1538de421177",
+    "cefr": "B2",
+    "skill": "vocabulary",
+    "difficulty": 1.317,
+    "discrimination": 1.437,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which phrase signals contrast?",
+      "options": [
+        "On the other hand",
+        "As a result",
+        "For instance",
+        "In addition"
+      ],
+      "correctIndex": 0,
+      "rationale": "Discourse markers.",
+      "canDoTag": "B2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "8ef04946-bae8-40c4-91a6-a05627cc7f25",
+    "cefr": "C1",
+    "skill": "grammar",
+    "difficulty": 1.679,
+    "discrimination": 1.268,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: Rarely _____ such a detailed analysis of learner progress.",
+      "options": [
+        "we see",
+        "do we see",
+        "we have seen",
+        "seeing we"
+      ],
+      "correctIndex": 1,
+      "rationale": "Inversion after negative adverbial.",
+      "canDoTag": "C1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "41ce8ea0-04d7-496e-883d-3b2cc8a99d5e",
+    "cefr": "C1",
+    "skill": "vocabulary",
+    "difficulty": 1.666,
+    "discrimination": 1.07,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201cnuanced\u201d.",
+      "options": [
+        "showing fine distinctions",
+        "clearly wrong",
+        "very brief",
+        "mostly visual"
+      ],
+      "correctIndex": 0,
+      "rationale": "C1 vocabulary.",
+      "canDoTag": "C1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "00922da7-0f80-4109-8d35-e06c31d451d0",
+    "cefr": "C1",
+    "skill": "reading",
+    "difficulty": 1.693,
+    "discrimination": 1.313,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cWhile the policy appears equitable in principle, its implementation may amplify existing inequalities.\u201d What is the writer\u2019s stance?",
+      "options": [
+        "Cautiously critical",
+        "Fully supportive",
+        "Uninterested",
+        "Purely descriptive"
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer stance.",
+      "canDoTag": "C1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "7b45bc63-1410-49e2-93ec-a6cfcf50b3c1",
+    "cefr": "C1",
+    "skill": "grammar",
+    "difficulty": 1.758,
+    "discrimination": 1.317,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most natural sentence.",
+      "options": [
+        "What the study highlights is the need for sustained support.",
+        "What highlights the study is need support sustained.",
+        "The study what highlights is support need.",
+        "What the study highlight are needs support."
+      ],
+      "correctIndex": 0,
+      "rationale": "Cleft sentence.",
+      "canDoTag": "C1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4363e4bf-c2df-4e6d-8175-76b10ee1e892",
+    "cefr": "C1",
+    "skill": "vocabulary",
+    "difficulty": 1.776,
+    "discrimination": 0.984,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The speaker tried to _____ the concerns of both sides.",
+      "options": [
+        "reconcile",
+        "refuse",
+        "misplace",
+        "simplify badly"
+      ],
+      "correctIndex": 0,
+      "rationale": "Advanced vocabulary.",
+      "canDoTag": "C1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "7893256c-f4a9-4655-95bc-a35c601a5aa1",
+    "cefr": "C1",
+    "skill": "grammar",
+    "difficulty": 1.85,
+    "discrimination": 1.441,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: Rarely _____ such a detailed analysis of learner progress.",
+      "options": [
+        "we see",
+        "do we see",
+        "we have seen",
+        "seeing we"
+      ],
+      "correctIndex": 1,
+      "rationale": "Inversion after negative adverbial.",
+      "canDoTag": "C1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e7c2ba1e-9d7e-425d-bb63-f589cc41d55f",
+    "cefr": "C1",
+    "skill": "vocabulary",
+    "difficulty": 1.888,
+    "discrimination": 1.334,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201cnuanced\u201d.",
+      "options": [
+        "showing fine distinctions",
+        "clearly wrong",
+        "very brief",
+        "mostly visual"
+      ],
+      "correctIndex": 0,
+      "rationale": "C1 vocabulary.",
+      "canDoTag": "C1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "1836d183-4c2b-4d63-b29f-a29c2d1055b7",
+    "cefr": "C1",
+    "skill": "reading",
+    "difficulty": 1.92,
+    "discrimination": 1.294,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cWhile the policy appears equitable in principle, its implementation may amplify existing inequalities.\u201d What is the writer\u2019s stance?",
+      "options": [
+        "Cautiously critical",
+        "Fully supportive",
+        "Uninterested",
+        "Purely descriptive"
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer stance.",
+      "canDoTag": "C1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4dfd3bc9-08ab-4052-9adf-2c3819771787",
+    "cefr": "C1",
+    "skill": "grammar",
+    "difficulty": 1.908,
+    "discrimination": 1.161,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most natural sentence.",
+      "options": [
+        "What the study highlights is the need for sustained support.",
+        "What highlights the study is need support sustained.",
+        "The study what highlights is support need.",
+        "What the study highlight are needs support."
+      ],
+      "correctIndex": 0,
+      "rationale": "Cleft sentence.",
+      "canDoTag": "C1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "04243f50-10c3-4a92-86f6-d34d8920fee0",
+    "cefr": "C1",
+    "skill": "vocabulary",
+    "difficulty": 1.953,
+    "discrimination": 0.867,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The speaker tried to _____ the concerns of both sides.",
+      "options": [
+        "reconcile",
+        "refuse",
+        "misplace",
+        "simplify badly"
+      ],
+      "correctIndex": 0,
+      "rationale": "Advanced vocabulary.",
+      "canDoTag": "C1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "3e161414-486d-41a8-a6bb-28cb9a1d88bf",
+    "cefr": "C1",
+    "skill": "grammar",
+    "difficulty": 1.962,
+    "discrimination": 1.018,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: Rarely _____ such a detailed analysis of learner progress.",
+      "options": [
+        "we see",
+        "do we see",
+        "we have seen",
+        "seeing we"
+      ],
+      "correctIndex": 1,
+      "rationale": "Inversion after negative adverbial.",
+      "canDoTag": "C1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d60b55e8-1b23-42d3-9559-fe8b5d5a5d9d",
+    "cefr": "C1",
+    "skill": "vocabulary",
+    "difficulty": 2.016,
+    "discrimination": 1.266,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201cnuanced\u201d.",
+      "options": [
+        "showing fine distinctions",
+        "clearly wrong",
+        "very brief",
+        "mostly visual"
+      ],
+      "correctIndex": 0,
+      "rationale": "C1 vocabulary.",
+      "canDoTag": "C1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "bc1f9c24-6d86-4a73-ac61-3905db058663",
+    "cefr": "C1",
+    "skill": "reading",
+    "difficulty": 2.107,
+    "discrimination": 1.118,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cWhile the policy appears equitable in principle, its implementation may amplify existing inequalities.\u201d What is the writer\u2019s stance?",
+      "options": [
+        "Cautiously critical",
+        "Fully supportive",
+        "Uninterested",
+        "Purely descriptive"
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer stance.",
+      "canDoTag": "C1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fb76c116-d9f6-4fb3-8804-fbd1780a64b0",
+    "cefr": "C1",
+    "skill": "grammar",
+    "difficulty": 2.14,
+    "discrimination": 1.443,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most natural sentence.",
+      "options": [
+        "What the study highlights is the need for sustained support.",
+        "What highlights the study is need support sustained.",
+        "The study what highlights is support need.",
+        "What the study highlight are needs support."
+      ],
+      "correctIndex": 0,
+      "rationale": "Cleft sentence.",
+      "canDoTag": "C1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fe55a682-f425-427f-800b-ea284e76e15a",
+    "cefr": "C1",
+    "skill": "vocabulary",
+    "difficulty": 2.176,
+    "discrimination": 1.069,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The speaker tried to _____ the concerns of both sides.",
+      "options": [
+        "reconcile",
+        "refuse",
+        "misplace",
+        "simplify badly"
+      ],
+      "correctIndex": 0,
+      "rationale": "Advanced vocabulary.",
+      "canDoTag": "C1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "8c990401-a8b7-4bd8-aa8e-fbee8cd0f967",
+    "cefr": "C1",
+    "skill": "grammar",
+    "difficulty": 2.153,
+    "discrimination": 0.986,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: Rarely _____ such a detailed analysis of learner progress.",
+      "options": [
+        "we see",
+        "do we see",
+        "we have seen",
+        "seeing we"
+      ],
+      "correctIndex": 1,
+      "rationale": "Inversion after negative adverbial.",
+      "canDoTag": "C1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "00babe7a-73fa-466c-a52e-cf85f462ed85",
+    "cefr": "C1",
+    "skill": "vocabulary",
+    "difficulty": 2.186,
+    "discrimination": 0.973,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201cnuanced\u201d.",
+      "options": [
+        "showing fine distinctions",
+        "clearly wrong",
+        "very brief",
+        "mostly visual"
+      ],
+      "correctIndex": 0,
+      "rationale": "C1 vocabulary.",
+      "canDoTag": "C1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e6201792-38c3-4844-9f36-c46ee82635bf",
+    "cefr": "C1",
+    "skill": "reading",
+    "difficulty": 2.255,
+    "discrimination": 1.39,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cWhile the policy appears equitable in principle, its implementation may amplify existing inequalities.\u201d What is the writer\u2019s stance?",
+      "options": [
+        "Cautiously critical",
+        "Fully supportive",
+        "Uninterested",
+        "Purely descriptive"
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer stance.",
+      "canDoTag": "C1-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e92f1231-0762-49cb-aac2-5b4ce4cbda4e",
+    "cefr": "C1",
+    "skill": "grammar",
+    "difficulty": 2.307,
+    "discrimination": 1.138,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most natural sentence.",
+      "options": [
+        "What the study highlights is the need for sustained support.",
+        "What highlights the study is need support sustained.",
+        "The study what highlights is support need.",
+        "What the study highlight are needs support."
+      ],
+      "correctIndex": 0,
+      "rationale": "Cleft sentence.",
+      "canDoTag": "C1-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "959478db-4650-46c0-9cc1-f308df735c7a",
+    "cefr": "C1",
+    "skill": "vocabulary",
+    "difficulty": 2.327,
+    "discrimination": 1.33,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The speaker tried to _____ the concerns of both sides.",
+      "options": [
+        "reconcile",
+        "refuse",
+        "misplace",
+        "simplify badly"
+      ],
+      "correctIndex": 0,
+      "rationale": "Advanced vocabulary.",
+      "canDoTag": "C1-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "60b30fc1-3d60-4a75-baa0-154d7c263912",
+    "cefr": "C2",
+    "skill": "grammar",
+    "difficulty": 2.417,
+    "discrimination": 1.246,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise sentence.",
+      "options": [
+        "No sooner had the evidence emerged than the committee revised its position.",
+        "No sooner the evidence emerged than the committee revises position.",
+        "Sooner had emerged the evidence than committee revised.",
+        "The evidence no sooner emerged and committee revised."
+      ],
+      "correctIndex": 0,
+      "rationale": "Complex inversion.",
+      "canDoTag": "C2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5e324037-6ee2-440c-9b44-39da87b75d20",
+    "cefr": "C2",
+    "skill": "vocabulary",
+    "difficulty": 2.518,
+    "discrimination": 1.319,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201ctenuous\u201d.",
+      "options": [
+        "weak or uncertain",
+        "highly detailed",
+        "morally admirable",
+        "easy to measure"
+      ],
+      "correctIndex": 0,
+      "rationale": "C2 vocabulary.",
+      "canDoTag": "C2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "54417891-282c-45f9-b6d4-aa38fc0724ae",
+    "cefr": "C2",
+    "skill": "reading",
+    "difficulty": 2.54,
+    "discrimination": 1.137,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe author\u2019s concession is less an admission of error than a strategic recalibration of the argument.\u201d What does this suggest?",
+      "options": [
+        "The concession strengthens the argument tactically.",
+        "The author accepts total failure.",
+        "The argument is unrelated.",
+        "The text is only narrative."
+      ],
+      "correctIndex": 0,
+      "rationale": "Abstract inference.",
+      "canDoTag": "C2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4d451896-c41b-483b-b8df-20cab0f1fb4c",
+    "cefr": "C2",
+    "skill": "grammar",
+    "difficulty": 2.529,
+    "discrimination": 1.323,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the sentence with the most appropriate register for a formal report.",
+      "options": [
+        "The findings warrant a more cautious interpretation.",
+        "The results are kind of weird.",
+        "We totally nailed the answer.",
+        "The numbers are cool."
+      ],
+      "correctIndex": 0,
+      "rationale": "Register control.",
+      "canDoTag": "C2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "27eb904a-0fbf-4239-8625-df1946fd18c9",
+    "cefr": "C2",
+    "skill": "vocabulary",
+    "difficulty": 2.577,
+    "discrimination": 1.33,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The article offers a _____ critique of the policy, avoiding simplistic conclusions.",
+      "options": [
+        "subtle",
+        "clumsy",
+        "random",
+        "careless"
+      ],
+      "correctIndex": 0,
+      "rationale": "Precision adjective.",
+      "canDoTag": "C2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fe48cc81-f5a6-4ebe-9886-5f2563ed77e1",
+    "cefr": "C2",
+    "skill": "grammar",
+    "difficulty": 2.663,
+    "discrimination": 1.088,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise sentence.",
+      "options": [
+        "No sooner had the evidence emerged than the committee revised its position.",
+        "No sooner the evidence emerged than the committee revises position.",
+        "Sooner had emerged the evidence than committee revised.",
+        "The evidence no sooner emerged and committee revised."
+      ],
+      "correctIndex": 0,
+      "rationale": "Complex inversion.",
+      "canDoTag": "C2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d2135057-2f39-4d80-b554-356136977777",
+    "cefr": "C2",
+    "skill": "vocabulary",
+    "difficulty": 2.652,
+    "discrimination": 1.418,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201ctenuous\u201d.",
+      "options": [
+        "weak or uncertain",
+        "highly detailed",
+        "morally admirable",
+        "easy to measure"
+      ],
+      "correctIndex": 0,
+      "rationale": "C2 vocabulary.",
+      "canDoTag": "C2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "1493da22-316b-4446-9bdf-24fc6fe7c8c7",
+    "cefr": "C2",
+    "skill": "reading",
+    "difficulty": 2.713,
+    "discrimination": 0.952,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe author\u2019s concession is less an admission of error than a strategic recalibration of the argument.\u201d What does this suggest?",
+      "options": [
+        "The concession strengthens the argument tactically.",
+        "The author accepts total failure.",
+        "The argument is unrelated.",
+        "The text is only narrative."
+      ],
+      "correctIndex": 0,
+      "rationale": "Abstract inference.",
+      "canDoTag": "C2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "665a7d5b-a859-4b08-b48c-5b7630df2eab",
+    "cefr": "C2",
+    "skill": "grammar",
+    "difficulty": 2.7,
+    "discrimination": 0.941,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the sentence with the most appropriate register for a formal report.",
+      "options": [
+        "The findings warrant a more cautious interpretation.",
+        "The results are kind of weird.",
+        "We totally nailed the answer.",
+        "The numbers are cool."
+      ],
+      "correctIndex": 0,
+      "rationale": "Register control.",
+      "canDoTag": "C2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d98971f9-633f-4b5b-8766-37d82652be37",
+    "cefr": "C2",
+    "skill": "vocabulary",
+    "difficulty": 2.797,
+    "discrimination": 1.334,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The article offers a _____ critique of the policy, avoiding simplistic conclusions.",
+      "options": [
+        "subtle",
+        "clumsy",
+        "random",
+        "careless"
+      ],
+      "correctIndex": 0,
+      "rationale": "Precision adjective.",
+      "canDoTag": "C2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "df9c871e-e7a9-431a-ac63-91c9cf9108e0",
+    "cefr": "C2",
+    "skill": "grammar",
+    "difficulty": 2.772,
+    "discrimination": 1.346,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise sentence.",
+      "options": [
+        "No sooner had the evidence emerged than the committee revised its position.",
+        "No sooner the evidence emerged than the committee revises position.",
+        "Sooner had emerged the evidence than committee revised.",
+        "The evidence no sooner emerged and committee revised."
+      ],
+      "correctIndex": 0,
+      "rationale": "Complex inversion.",
+      "canDoTag": "C2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "bd0a1d56-b3ec-44cd-9e9e-6ca5913c6b63",
+    "cefr": "C2",
+    "skill": "vocabulary",
+    "difficulty": 2.873,
+    "discrimination": 1.244,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201ctenuous\u201d.",
+      "options": [
+        "weak or uncertain",
+        "highly detailed",
+        "morally admirable",
+        "easy to measure"
+      ],
+      "correctIndex": 0,
+      "rationale": "C2 vocabulary.",
+      "canDoTag": "C2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "931567e3-d71c-4588-803c-512357951f97",
+    "cefr": "C2",
+    "skill": "reading",
+    "difficulty": 2.858,
+    "discrimination": 1.179,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe author\u2019s concession is less an admission of error than a strategic recalibration of the argument.\u201d What does this suggest?",
+      "options": [
+        "The concession strengthens the argument tactically.",
+        "The author accepts total failure.",
+        "The argument is unrelated.",
+        "The text is only narrative."
+      ],
+      "correctIndex": 0,
+      "rationale": "Abstract inference.",
+      "canDoTag": "C2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "568244ff-9af3-40df-9193-9529b1042b98",
+    "cefr": "C2",
+    "skill": "grammar",
+    "difficulty": 2.875,
+    "discrimination": 0.859,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the sentence with the most appropriate register for a formal report.",
+      "options": [
+        "The findings warrant a more cautious interpretation.",
+        "The results are kind of weird.",
+        "We totally nailed the answer.",
+        "The numbers are cool."
+      ],
+      "correctIndex": 0,
+      "rationale": "Register control.",
+      "canDoTag": "C2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5def0ab1-ed61-4cb6-895f-c2bff8f2f775",
+    "cefr": "C2",
+    "skill": "vocabulary",
+    "difficulty": 2.978,
+    "discrimination": 1.24,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The article offers a _____ critique of the policy, avoiding simplistic conclusions.",
+      "options": [
+        "subtle",
+        "clumsy",
+        "random",
+        "careless"
+      ],
+      "correctIndex": 0,
+      "rationale": "Precision adjective.",
+      "canDoTag": "C2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "7fe5fc3e-646a-45c5-8202-c33d3954172d",
+    "cefr": "C2",
+    "skill": "grammar",
+    "difficulty": 2.977,
+    "discrimination": 1.41,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise sentence.",
+      "options": [
+        "No sooner had the evidence emerged than the committee revised its position.",
+        "No sooner the evidence emerged than the committee revises position.",
+        "Sooner had emerged the evidence than committee revised.",
+        "The evidence no sooner emerged and committee revised."
+      ],
+      "correctIndex": 0,
+      "rationale": "Complex inversion.",
+      "canDoTag": "C2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "3f948ec8-c380-4ea1-ab14-913a4754157d",
+    "cefr": "C2",
+    "skill": "vocabulary",
+    "difficulty": 3,
+    "discrimination": 1.373,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the closest meaning of \u201ctenuous\u201d.",
+      "options": [
+        "weak or uncertain",
+        "highly detailed",
+        "morally admirable",
+        "easy to measure"
+      ],
+      "correctIndex": 0,
+      "rationale": "C2 vocabulary.",
+      "canDoTag": "C2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "ff575428-afcc-44c1-91c0-275c7addde1d",
+    "cefr": "C2",
+    "skill": "reading",
+    "difficulty": 3,
+    "discrimination": 0.977,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Read: \u201cThe author\u2019s concession is less an admission of error than a strategic recalibration of the argument.\u201d What does this suggest?",
+      "options": [
+        "The concession strengthens the argument tactically.",
+        "The author accepts total failure.",
+        "The argument is unrelated.",
+        "The text is only narrative."
+      ],
+      "correctIndex": 0,
+      "rationale": "Abstract inference.",
+      "canDoTag": "C2-reading-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "3d4af1ff-2b41-47e2-845e-4bbc766d5ffc",
+    "cefr": "C2",
+    "skill": "grammar",
+    "difficulty": 3,
+    "discrimination": 1.026,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the sentence with the most appropriate register for a formal report.",
+      "options": [
+        "The findings warrant a more cautious interpretation.",
+        "The results are kind of weird.",
+        "We totally nailed the answer.",
+        "The numbers are cool."
+      ],
+      "correctIndex": 0,
+      "rationale": "Register control.",
+      "canDoTag": "C2-grammar-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b6b1fba5-a568-4e88-8b85-e8b522bacb3c",
+    "cefr": "C2",
+    "skill": "vocabulary",
+    "difficulty": 3,
+    "discrimination": 1.202,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Complete: The article offers a _____ critique of the policy, avoiding simplistic conclusions.",
+      "options": [
+        "subtle",
+        "clumsy",
+        "random",
+        "careless"
+      ],
+      "correctIndex": 0,
+      "rationale": "Precision adjective.",
+      "canDoTag": "C2-vocabulary-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "a00a6225-9f84-53de-b43d-d6d4bef6540e",
+    "cefr": "A1",
+    "skill": "listening",
+    "difficulty": -2.86,
+    "discrimination": 0.95,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read the message: \u201cThe bus leaves at nine.\u201d What time does it leave? (A1 skill check 1)",
+      "options": [
+        "nine",
+        "ten",
+        "eight",
+        "seven"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify simple spoken detail.",
+      "canDoTag": "A1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4e3f5764-34ca-52c8-8fe5-b2251fcf92fd",
+    "cefr": "A1",
+    "skill": "speaking",
+    "difficulty": -2.819,
+    "discrimination": 1.32,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which response is best? \u201cWhat is your name?\u201d (A1 skill check 2)",
+      "options": [
+        "My name is Sara.",
+        "I am twelve yesterday.",
+        "At school go.",
+        "Blue and chair."
+      ],
+      "correctIndex": 0,
+      "rationale": "Choose appropriate spoken response.",
+      "canDoTag": "A1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "2a978d04-38cb-5bf4-ace5-b05e2050e145",
+    "cefr": "A1",
+    "skill": "writing",
+    "difficulty": -2.779,
+    "discrimination": 1.19,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a short profile. (A1 skill check 3)",
+      "options": [
+        "I live in London with my family.",
+        "I living London family.",
+        "London live family I.",
+        "I am live yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a simple accurate sentence.",
+      "canDoTag": "A1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "7dc6d8af-b8c0-53bf-beb5-3e5966926cbb",
+    "cefr": "A1",
+    "skill": "listening",
+    "difficulty": -2.738,
+    "discrimination": 1.06,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read the message: \u201cThe bus leaves at nine.\u201d What time does it leave? (A1 skill check 4)",
+      "options": [
+        "nine",
+        "ten",
+        "eight",
+        "seven"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify simple spoken detail.",
+      "canDoTag": "A1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "92e7c486-2945-5ed1-9d57-57a0886ebdb8",
+    "cefr": "A1",
+    "skill": "speaking",
+    "difficulty": -2.698,
+    "discrimination": 1.43,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which response is best? \u201cWhat is your name?\u201d (A1 skill check 5)",
+      "options": [
+        "My name is Sara.",
+        "I am twelve yesterday.",
+        "At school go.",
+        "Blue and chair."
+      ],
+      "correctIndex": 0,
+      "rationale": "Choose appropriate spoken response.",
+      "canDoTag": "A1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "32a07e45-d5d3-5df4-b629-ad251441c7a0",
+    "cefr": "A1",
+    "skill": "writing",
+    "difficulty": -2.657,
+    "discrimination": 1.3,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a short profile. (A1 skill check 6)",
+      "options": [
+        "I live in London with my family.",
+        "I living London family.",
+        "London live family I.",
+        "I am live yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a simple accurate sentence.",
+      "canDoTag": "A1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "7c48b1b3-e7e2-56c3-b5ec-87a296f91640",
+    "cefr": "A1",
+    "skill": "listening",
+    "difficulty": -2.617,
+    "discrimination": 1.17,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read the message: \u201cThe bus leaves at nine.\u201d What time does it leave? (A1 skill check 7)",
+      "options": [
+        "nine",
+        "ten",
+        "eight",
+        "seven"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify simple spoken detail.",
+      "canDoTag": "A1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "1fa5b1b2-3acf-5f62-bee8-ca1f1ac1e875",
+    "cefr": "A1",
+    "skill": "speaking",
+    "difficulty": -2.576,
+    "discrimination": 1.04,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which response is best? \u201cWhat is your name?\u201d (A1 skill check 8)",
+      "options": [
+        "My name is Sara.",
+        "I am twelve yesterday.",
+        "At school go.",
+        "Blue and chair."
+      ],
+      "correctIndex": 0,
+      "rationale": "Choose appropriate spoken response.",
+      "canDoTag": "A1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "46c727b0-216e-5f14-8e17-fa3f20bc9b1a",
+    "cefr": "A1",
+    "skill": "writing",
+    "difficulty": -2.536,
+    "discrimination": 1.41,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a short profile. (A1 skill check 9)",
+      "options": [
+        "I live in London with my family.",
+        "I living London family.",
+        "London live family I.",
+        "I am live yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a simple accurate sentence.",
+      "canDoTag": "A1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "6c6a0a2f-68ea-5aa8-b719-558a28a54741",
+    "cefr": "A1",
+    "skill": "listening",
+    "difficulty": -2.495,
+    "discrimination": 1.28,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read the message: \u201cThe bus leaves at nine.\u201d What time does it leave? (A1 skill check 10)",
+      "options": [
+        "nine",
+        "ten",
+        "eight",
+        "seven"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify simple spoken detail.",
+      "canDoTag": "A1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4c9f30e2-07bf-57e1-8e25-e5df6c6e4868",
+    "cefr": "A1",
+    "skill": "speaking",
+    "difficulty": -2.455,
+    "discrimination": 1.15,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which response is best? \u201cWhat is your name?\u201d (A1 skill check 11)",
+      "options": [
+        "My name is Sara.",
+        "I am twelve yesterday.",
+        "At school go.",
+        "Blue and chair."
+      ],
+      "correctIndex": 0,
+      "rationale": "Choose appropriate spoken response.",
+      "canDoTag": "A1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c9c5b2a8-d266-5a8a-985d-341ed6a5461f",
+    "cefr": "A1",
+    "skill": "writing",
+    "difficulty": -2.414,
+    "discrimination": 1.02,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a short profile. (A1 skill check 12)",
+      "options": [
+        "I live in London with my family.",
+        "I living London family.",
+        "London live family I.",
+        "I am live yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a simple accurate sentence.",
+      "canDoTag": "A1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c61540f7-c818-5292-b9e2-57bde53bdebb",
+    "cefr": "A1",
+    "skill": "listening",
+    "difficulty": -2.374,
+    "discrimination": 1.39,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read the message: \u201cThe bus leaves at nine.\u201d What time does it leave? (A1 skill check 13)",
+      "options": [
+        "nine",
+        "ten",
+        "eight",
+        "seven"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify simple spoken detail.",
+      "canDoTag": "A1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "f3c33cf7-5bed-5340-84b2-533aaf124487",
+    "cefr": "A1",
+    "skill": "speaking",
+    "difficulty": -2.333,
+    "discrimination": 1.26,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which response is best? \u201cWhat is your name?\u201d (A1 skill check 14)",
+      "options": [
+        "My name is Sara.",
+        "I am twelve yesterday.",
+        "At school go.",
+        "Blue and chair."
+      ],
+      "correctIndex": 0,
+      "rationale": "Choose appropriate spoken response.",
+      "canDoTag": "A1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "14953fe0-aa16-5a09-9531-99e7141c425d",
+    "cefr": "A1",
+    "skill": "writing",
+    "difficulty": -2.293,
+    "discrimination": 1.13,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a short profile. (A1 skill check 15)",
+      "options": [
+        "I live in London with my family.",
+        "I living London family.",
+        "London live family I.",
+        "I am live yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a simple accurate sentence.",
+      "canDoTag": "A1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "17c214f8-fee3-5085-b25f-f4d4623ba90a",
+    "cefr": "A1",
+    "skill": "listening",
+    "difficulty": -2.252,
+    "discrimination": 1.0,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read the message: \u201cThe bus leaves at nine.\u201d What time does it leave? (A1 skill check 16)",
+      "options": [
+        "nine",
+        "ten",
+        "eight",
+        "seven"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify simple spoken detail.",
+      "canDoTag": "A1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "3e82e2c9-a311-5207-a245-95665883ed91",
+    "cefr": "A1",
+    "skill": "speaking",
+    "difficulty": -2.212,
+    "discrimination": 1.37,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which response is best? \u201cWhat is your name?\u201d (A1 skill check 17)",
+      "options": [
+        "My name is Sara.",
+        "I am twelve yesterday.",
+        "At school go.",
+        "Blue and chair."
+      ],
+      "correctIndex": 0,
+      "rationale": "Choose appropriate spoken response.",
+      "canDoTag": "A1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d276adf9-17bb-556d-9310-a114015518b2",
+    "cefr": "A1",
+    "skill": "writing",
+    "difficulty": -2.171,
+    "discrimination": 1.24,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a short profile. (A1 skill check 18)",
+      "options": [
+        "I live in London with my family.",
+        "I living London family.",
+        "London live family I.",
+        "I am live yesterday."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a simple accurate sentence.",
+      "canDoTag": "A1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4716cadc-e53b-5b67-9e84-9ab37af934d0",
+    "cefr": "A1",
+    "skill": "listening",
+    "difficulty": -2.131,
+    "discrimination": 1.11,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read the message: \u201cThe bus leaves at nine.\u201d What time does it leave? (A1 skill check 19)",
+      "options": [
+        "nine",
+        "ten",
+        "eight",
+        "seven"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify simple spoken detail.",
+      "canDoTag": "A1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "49909b6a-d19b-5194-acac-cfe3e34ee096",
+    "cefr": "A1",
+    "skill": "speaking",
+    "difficulty": -2.09,
+    "discrimination": 0.98,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Which response is best? \u201cWhat is your name?\u201d (A1 skill check 20)",
+      "options": [
+        "My name is Sara.",
+        "I am twelve yesterday.",
+        "At school go.",
+        "Blue and chair."
+      ],
+      "correctIndex": 0,
+      "rationale": "Choose appropriate spoken response.",
+      "canDoTag": "A1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "12658078-029d-53d9-82d7-186f3e4b04ab",
+    "cefr": "A2",
+    "skill": "listening",
+    "difficulty": -1.883,
+    "discrimination": 0.95,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cPlease bring your passport and arrive before 10:15.\u201d What must the person bring? (A2 skill check 1)",
+      "options": [
+        "passport",
+        "laptop",
+        "umbrella",
+        "ticket only"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify key instruction.",
+      "canDoTag": "A2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "eb092864-7b9f-56b7-b153-e7d43cc78960",
+    "cefr": "A2",
+    "skill": "speaking",
+    "difficulty": -1.817,
+    "discrimination": 1.32,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best reply: \u201cWould you like to join us after class?\u201d (A2 skill check 2)",
+      "options": [
+        "Yes, I would. What time?",
+        "I am joined yesterday.",
+        "No, I did an apple.",
+        "Because very much."
+      ],
+      "correctIndex": 0,
+      "rationale": "Respond to an invitation.",
+      "canDoTag": "A2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "84d7bdab-d906-5077-9a57-6a4b74f00a7e",
+    "cefr": "A2",
+    "skill": "writing",
+    "difficulty": -1.75,
+    "discrimination": 1.19,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for an email. (A2 skill check 3)",
+      "options": [
+        "I am writing to ask about the English course.",
+        "I write ask course yesterday now.",
+        "Course asking me English to.",
+        "I am write because course."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a clear functional sentence.",
+      "canDoTag": "A2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "2af63331-d2d4-590a-b40a-53e2b82e0170",
+    "cefr": "A2",
+    "skill": "listening",
+    "difficulty": -1.683,
+    "discrimination": 1.06,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cPlease bring your passport and arrive before 10:15.\u201d What must the person bring? (A2 skill check 4)",
+      "options": [
+        "passport",
+        "laptop",
+        "umbrella",
+        "ticket only"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify key instruction.",
+      "canDoTag": "A2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "047c2f4e-8d47-5a96-a7f7-1bd8005b8893",
+    "cefr": "A2",
+    "skill": "speaking",
+    "difficulty": -1.617,
+    "discrimination": 1.43,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best reply: \u201cWould you like to join us after class?\u201d (A2 skill check 5)",
+      "options": [
+        "Yes, I would. What time?",
+        "I am joined yesterday.",
+        "No, I did an apple.",
+        "Because very much."
+      ],
+      "correctIndex": 0,
+      "rationale": "Respond to an invitation.",
+      "canDoTag": "A2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4c8e53ab-8111-5ccb-b5d9-430f1cec2c2a",
+    "cefr": "A2",
+    "skill": "writing",
+    "difficulty": -1.55,
+    "discrimination": 1.3,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for an email. (A2 skill check 6)",
+      "options": [
+        "I am writing to ask about the English course.",
+        "I write ask course yesterday now.",
+        "Course asking me English to.",
+        "I am write because course."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a clear functional sentence.",
+      "canDoTag": "A2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "45827bc1-1bcc-5a38-95f4-46cc05253d81",
+    "cefr": "A2",
+    "skill": "listening",
+    "difficulty": -1.483,
+    "discrimination": 1.17,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cPlease bring your passport and arrive before 10:15.\u201d What must the person bring? (A2 skill check 7)",
+      "options": [
+        "passport",
+        "laptop",
+        "umbrella",
+        "ticket only"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify key instruction.",
+      "canDoTag": "A2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "1080acd7-43f1-5908-a55e-2444aa95b682",
+    "cefr": "A2",
+    "skill": "speaking",
+    "difficulty": -1.417,
+    "discrimination": 1.04,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best reply: \u201cWould you like to join us after class?\u201d (A2 skill check 8)",
+      "options": [
+        "Yes, I would. What time?",
+        "I am joined yesterday.",
+        "No, I did an apple.",
+        "Because very much."
+      ],
+      "correctIndex": 0,
+      "rationale": "Respond to an invitation.",
+      "canDoTag": "A2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "6a847dc4-9f69-5916-ba08-fb393d8b8781",
+    "cefr": "A2",
+    "skill": "writing",
+    "difficulty": -1.35,
+    "discrimination": 1.41,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for an email. (A2 skill check 9)",
+      "options": [
+        "I am writing to ask about the English course.",
+        "I write ask course yesterday now.",
+        "Course asking me English to.",
+        "I am write because course."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a clear functional sentence.",
+      "canDoTag": "A2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fb58245b-6b62-52c1-baf7-1524e274be55",
+    "cefr": "A2",
+    "skill": "listening",
+    "difficulty": -1.283,
+    "discrimination": 1.28,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cPlease bring your passport and arrive before 10:15.\u201d What must the person bring? (A2 skill check 10)",
+      "options": [
+        "passport",
+        "laptop",
+        "umbrella",
+        "ticket only"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify key instruction.",
+      "canDoTag": "A2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "3b1ca1ac-eb8b-5c7e-8bdd-c33a90805204",
+    "cefr": "A2",
+    "skill": "speaking",
+    "difficulty": -1.217,
+    "discrimination": 1.15,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best reply: \u201cWould you like to join us after class?\u201d (A2 skill check 11)",
+      "options": [
+        "Yes, I would. What time?",
+        "I am joined yesterday.",
+        "No, I did an apple.",
+        "Because very much."
+      ],
+      "correctIndex": 0,
+      "rationale": "Respond to an invitation.",
+      "canDoTag": "A2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "6e693512-c167-5dfd-b83f-6456032b87c9",
+    "cefr": "A2",
+    "skill": "writing",
+    "difficulty": -1.15,
+    "discrimination": 1.02,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for an email. (A2 skill check 12)",
+      "options": [
+        "I am writing to ask about the English course.",
+        "I write ask course yesterday now.",
+        "Course asking me English to.",
+        "I am write because course."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a clear functional sentence.",
+      "canDoTag": "A2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "13d93b54-d394-5c61-a985-88437f2a2c36",
+    "cefr": "A2",
+    "skill": "listening",
+    "difficulty": -1.083,
+    "discrimination": 1.39,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cPlease bring your passport and arrive before 10:15.\u201d What must the person bring? (A2 skill check 13)",
+      "options": [
+        "passport",
+        "laptop",
+        "umbrella",
+        "ticket only"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify key instruction.",
+      "canDoTag": "A2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d4323157-0c22-5bee-97ba-5c30ba9e7b20",
+    "cefr": "A2",
+    "skill": "speaking",
+    "difficulty": -1.017,
+    "discrimination": 1.26,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best reply: \u201cWould you like to join us after class?\u201d (A2 skill check 14)",
+      "options": [
+        "Yes, I would. What time?",
+        "I am joined yesterday.",
+        "No, I did an apple.",
+        "Because very much."
+      ],
+      "correctIndex": 0,
+      "rationale": "Respond to an invitation.",
+      "canDoTag": "A2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "666bcc43-1be1-51a9-83d0-df8487ca0d50",
+    "cefr": "A2",
+    "skill": "writing",
+    "difficulty": -0.95,
+    "discrimination": 1.13,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for an email. (A2 skill check 15)",
+      "options": [
+        "I am writing to ask about the English course.",
+        "I write ask course yesterday now.",
+        "Course asking me English to.",
+        "I am write because course."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a clear functional sentence.",
+      "canDoTag": "A2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "75331d69-b729-5f23-bcfc-0fab2b5941d8",
+    "cefr": "A2",
+    "skill": "listening",
+    "difficulty": -0.883,
+    "discrimination": 1.0,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cPlease bring your passport and arrive before 10:15.\u201d What must the person bring? (A2 skill check 16)",
+      "options": [
+        "passport",
+        "laptop",
+        "umbrella",
+        "ticket only"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify key instruction.",
+      "canDoTag": "A2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "faccd2d0-e7bb-5f1c-8ac4-d5ec429a365d",
+    "cefr": "A2",
+    "skill": "speaking",
+    "difficulty": -0.817,
+    "discrimination": 1.37,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best reply: \u201cWould you like to join us after class?\u201d (A2 skill check 17)",
+      "options": [
+        "Yes, I would. What time?",
+        "I am joined yesterday.",
+        "No, I did an apple.",
+        "Because very much."
+      ],
+      "correctIndex": 0,
+      "rationale": "Respond to an invitation.",
+      "canDoTag": "A2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4a470061-c1b6-5a76-8898-b53652142455",
+    "cefr": "A2",
+    "skill": "writing",
+    "difficulty": -0.75,
+    "discrimination": 1.24,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for an email. (A2 skill check 18)",
+      "options": [
+        "I am writing to ask about the English course.",
+        "I write ask course yesterday now.",
+        "Course asking me English to.",
+        "I am write because course."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write a clear functional sentence.",
+      "canDoTag": "A2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "f6d0860b-a926-5427-b3a4-60bcfeb79354",
+    "cefr": "A2",
+    "skill": "listening",
+    "difficulty": -0.683,
+    "discrimination": 1.11,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cPlease bring your passport and arrive before 10:15.\u201d What must the person bring? (A2 skill check 19)",
+      "options": [
+        "passport",
+        "laptop",
+        "umbrella",
+        "ticket only"
+      ],
+      "correctIndex": 0,
+      "rationale": "Identify key instruction.",
+      "canDoTag": "A2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "68c5bde8-dfc5-51b2-8635-0db451c8cf8f",
+    "cefr": "A2",
+    "skill": "speaking",
+    "difficulty": -0.617,
+    "discrimination": 0.98,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best reply: \u201cWould you like to join us after class?\u201d (A2 skill check 20)",
+      "options": [
+        "Yes, I would. What time?",
+        "I am joined yesterday.",
+        "No, I did an apple.",
+        "Because very much."
+      ],
+      "correctIndex": 0,
+      "rationale": "Respond to an invitation.",
+      "canDoTag": "A2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5dcd3a95-7b90-5a04-b56c-38fea3fd5aa8",
+    "cefr": "B1",
+    "skill": "listening",
+    "difficulty": -0.407,
+    "discrimination": 0.95,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cI was going to call, but the meeting ran late.\u201d Why did the speaker not call? (B1 skill check 1)",
+      "options": [
+        "The meeting finished late.",
+        "The phone was broken.",
+        "The speaker forgot the number.",
+        "The speaker was travelling."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer reason from spoken message.",
+      "canDoTag": "B1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4a1aed0f-ada3-54c5-9217-352592798c0d",
+    "cefr": "B1",
+    "skill": "speaking",
+    "difficulty": -0.364,
+    "discrimination": 1.32,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best way to give an opinion politely. (B1 skill check 2)",
+      "options": [
+        "I think public transport should be cheaper.",
+        "You wrong always.",
+        "This topic no because.",
+        "I opinion transport."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express opinion clearly.",
+      "canDoTag": "B1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "faab8ebd-a6d2-50ec-a6bc-6e1cc541ecd1",
+    "cefr": "B1",
+    "skill": "writing",
+    "difficulty": -0.321,
+    "discrimination": 1.19,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best topic sentence. (B1 skill check 3)",
+      "options": [
+        "There are several reasons why students benefit from regular reading.",
+        "Reading yes students because books.",
+        "This paragraph is about many things.",
+        "I will say reasons later maybe."
+      ],
+      "correctIndex": 0,
+      "rationale": "Organise a paragraph.",
+      "canDoTag": "B1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "91ec69db-942a-56b4-a27d-067be2652458",
+    "cefr": "B1",
+    "skill": "listening",
+    "difficulty": -0.279,
+    "discrimination": 1.06,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cI was going to call, but the meeting ran late.\u201d Why did the speaker not call? (B1 skill check 4)",
+      "options": [
+        "The meeting finished late.",
+        "The phone was broken.",
+        "The speaker forgot the number.",
+        "The speaker was travelling."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer reason from spoken message.",
+      "canDoTag": "B1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "6cfc4031-d745-59f8-a1e8-6265c227617e",
+    "cefr": "B1",
+    "skill": "speaking",
+    "difficulty": -0.236,
+    "discrimination": 1.43,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best way to give an opinion politely. (B1 skill check 5)",
+      "options": [
+        "I think public transport should be cheaper.",
+        "You wrong always.",
+        "This topic no because.",
+        "I opinion transport."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express opinion clearly.",
+      "canDoTag": "B1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "f7d7e8ca-fa94-5dac-902a-4ea5e3838087",
+    "cefr": "B1",
+    "skill": "writing",
+    "difficulty": -0.193,
+    "discrimination": 1.3,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best topic sentence. (B1 skill check 6)",
+      "options": [
+        "There are several reasons why students benefit from regular reading.",
+        "Reading yes students because books.",
+        "This paragraph is about many things.",
+        "I will say reasons later maybe."
+      ],
+      "correctIndex": 0,
+      "rationale": "Organise a paragraph.",
+      "canDoTag": "B1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "2ed4c244-9c7c-5c52-8387-92b054cc31b8",
+    "cefr": "B1",
+    "skill": "listening",
+    "difficulty": -0.15,
+    "discrimination": 1.17,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cI was going to call, but the meeting ran late.\u201d Why did the speaker not call? (B1 skill check 7)",
+      "options": [
+        "The meeting finished late.",
+        "The phone was broken.",
+        "The speaker forgot the number.",
+        "The speaker was travelling."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer reason from spoken message.",
+      "canDoTag": "B1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5b3cf1b3-eb32-55ca-85e0-d6a56db0ee43",
+    "cefr": "B1",
+    "skill": "speaking",
+    "difficulty": -0.107,
+    "discrimination": 1.04,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best way to give an opinion politely. (B1 skill check 8)",
+      "options": [
+        "I think public transport should be cheaper.",
+        "You wrong always.",
+        "This topic no because.",
+        "I opinion transport."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express opinion clearly.",
+      "canDoTag": "B1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "ccfcc731-4480-5516-be8e-d872099fc9d0",
+    "cefr": "B1",
+    "skill": "writing",
+    "difficulty": -0.064,
+    "discrimination": 1.41,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best topic sentence. (B1 skill check 9)",
+      "options": [
+        "There are several reasons why students benefit from regular reading.",
+        "Reading yes students because books.",
+        "This paragraph is about many things.",
+        "I will say reasons later maybe."
+      ],
+      "correctIndex": 0,
+      "rationale": "Organise a paragraph.",
+      "canDoTag": "B1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "749a718c-759b-5410-b3df-e1f483955bde",
+    "cefr": "B1",
+    "skill": "listening",
+    "difficulty": -0.021,
+    "discrimination": 1.28,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cI was going to call, but the meeting ran late.\u201d Why did the speaker not call? (B1 skill check 10)",
+      "options": [
+        "The meeting finished late.",
+        "The phone was broken.",
+        "The speaker forgot the number.",
+        "The speaker was travelling."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer reason from spoken message.",
+      "canDoTag": "B1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "8352025b-8919-5df8-9eba-45616265e032",
+    "cefr": "B1",
+    "skill": "speaking",
+    "difficulty": 0.021,
+    "discrimination": 1.15,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best way to give an opinion politely. (B1 skill check 11)",
+      "options": [
+        "I think public transport should be cheaper.",
+        "You wrong always.",
+        "This topic no because.",
+        "I opinion transport."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express opinion clearly.",
+      "canDoTag": "B1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "3c0c29b1-435b-5509-905f-2b1cdfa433e4",
+    "cefr": "B1",
+    "skill": "writing",
+    "difficulty": 0.064,
+    "discrimination": 1.02,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best topic sentence. (B1 skill check 12)",
+      "options": [
+        "There are several reasons why students benefit from regular reading.",
+        "Reading yes students because books.",
+        "This paragraph is about many things.",
+        "I will say reasons later maybe."
+      ],
+      "correctIndex": 0,
+      "rationale": "Organise a paragraph.",
+      "canDoTag": "B1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fccda427-0ab1-571e-a5a8-5b22c5017014",
+    "cefr": "B1",
+    "skill": "listening",
+    "difficulty": 0.107,
+    "discrimination": 1.39,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cI was going to call, but the meeting ran late.\u201d Why did the speaker not call? (B1 skill check 13)",
+      "options": [
+        "The meeting finished late.",
+        "The phone was broken.",
+        "The speaker forgot the number.",
+        "The speaker was travelling."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer reason from spoken message.",
+      "canDoTag": "B1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "96e74305-4efc-573e-a405-3b5a24485fdb",
+    "cefr": "B1",
+    "skill": "speaking",
+    "difficulty": 0.15,
+    "discrimination": 1.26,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best way to give an opinion politely. (B1 skill check 14)",
+      "options": [
+        "I think public transport should be cheaper.",
+        "You wrong always.",
+        "This topic no because.",
+        "I opinion transport."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express opinion clearly.",
+      "canDoTag": "B1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "3874c65f-3094-5644-8ca5-210f3c3301d7",
+    "cefr": "B1",
+    "skill": "writing",
+    "difficulty": 0.193,
+    "discrimination": 1.13,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best topic sentence. (B1 skill check 15)",
+      "options": [
+        "There are several reasons why students benefit from regular reading.",
+        "Reading yes students because books.",
+        "This paragraph is about many things.",
+        "I will say reasons later maybe."
+      ],
+      "correctIndex": 0,
+      "rationale": "Organise a paragraph.",
+      "canDoTag": "B1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "10e1b984-aa8b-5e26-bef6-3baa8cd0a069",
+    "cefr": "B1",
+    "skill": "listening",
+    "difficulty": 0.236,
+    "discrimination": 1.0,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cI was going to call, but the meeting ran late.\u201d Why did the speaker not call? (B1 skill check 16)",
+      "options": [
+        "The meeting finished late.",
+        "The phone was broken.",
+        "The speaker forgot the number.",
+        "The speaker was travelling."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer reason from spoken message.",
+      "canDoTag": "B1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5094a44b-a387-50c4-bb27-75d3b7d98e1b",
+    "cefr": "B1",
+    "skill": "speaking",
+    "difficulty": 0.279,
+    "discrimination": 1.37,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best way to give an opinion politely. (B1 skill check 17)",
+      "options": [
+        "I think public transport should be cheaper.",
+        "You wrong always.",
+        "This topic no because.",
+        "I opinion transport."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express opinion clearly.",
+      "canDoTag": "B1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "8ae27da6-bfd3-5ebc-b053-699dac4df892",
+    "cefr": "B1",
+    "skill": "writing",
+    "difficulty": 0.321,
+    "discrimination": 1.24,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best topic sentence. (B1 skill check 18)",
+      "options": [
+        "There are several reasons why students benefit from regular reading.",
+        "Reading yes students because books.",
+        "This paragraph is about many things.",
+        "I will say reasons later maybe."
+      ],
+      "correctIndex": 0,
+      "rationale": "Organise a paragraph.",
+      "canDoTag": "B1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "af3ff7fc-736a-5048-8b6b-b25f1be94552",
+    "cefr": "B1",
+    "skill": "listening",
+    "difficulty": 0.364,
+    "discrimination": 1.11,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cI was going to call, but the meeting ran late.\u201d Why did the speaker not call? (B1 skill check 19)",
+      "options": [
+        "The meeting finished late.",
+        "The phone was broken.",
+        "The speaker forgot the number.",
+        "The speaker was travelling."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer reason from spoken message.",
+      "canDoTag": "B1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4d270ffa-5e0f-5d90-8436-2caa4b720d51",
+    "cefr": "B1",
+    "skill": "speaking",
+    "difficulty": 0.407,
+    "discrimination": 0.98,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best way to give an opinion politely. (B1 skill check 20)",
+      "options": [
+        "I think public transport should be cheaper.",
+        "You wrong always.",
+        "This topic no because.",
+        "I opinion transport."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express opinion clearly.",
+      "canDoTag": "B1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "863061d4-a8be-5919-90e0-e400859f8728",
+    "cefr": "B2",
+    "skill": "listening",
+    "difficulty": 0.593,
+    "discrimination": 0.95,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe proposal is promising, although the budget assumptions need revising.\u201d What is the speaker\u2019s view? (B2 skill check 1)",
+      "options": [
+        "Positive but cautious",
+        "Completely negative",
+        "Confused and uninterested",
+        "Only focused on timing"
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand speaker attitude.",
+      "canDoTag": "B2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "83785ec0-06eb-5a70-bf27-5e311a498636",
+    "cefr": "B2",
+    "skill": "speaking",
+    "difficulty": 0.636,
+    "discrimination": 1.32,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most fluent response in a discussion. (B2 skill check 2)",
+      "options": [
+        "I see your point, but I would argue that online learning also builds independence.",
+        "No, that is bad only.",
+        "Because internet and students yes.",
+        "I am not agree in all things very."
+      ],
+      "correctIndex": 0,
+      "rationale": "Take turns and develop argument.",
+      "canDoTag": "B2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "6412b81d-7a0a-5bc0-b051-c25599bd0517",
+    "cefr": "B2",
+    "skill": "writing",
+    "difficulty": 0.679,
+    "discrimination": 1.19,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a formal report. (B2 skill check 3)",
+      "options": [
+        "The survey results indicate a clear increase in learner confidence after the programme.",
+        "The survey says students good and happy a lot.",
+        "The programme made things nice.",
+        "I think the report is very very clear."
+      ],
+      "correctIndex": 0,
+      "rationale": "Use formal written register.",
+      "canDoTag": "B2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "77670f25-3ed6-59ed-bbe2-dc23171ba85a",
+    "cefr": "B2",
+    "skill": "listening",
+    "difficulty": 0.721,
+    "discrimination": 1.06,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe proposal is promising, although the budget assumptions need revising.\u201d What is the speaker\u2019s view? (B2 skill check 4)",
+      "options": [
+        "Positive but cautious",
+        "Completely negative",
+        "Confused and uninterested",
+        "Only focused on timing"
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand speaker attitude.",
+      "canDoTag": "B2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e20bd00d-4d4e-59de-afa7-59f9790d6aec",
+    "cefr": "B2",
+    "skill": "speaking",
+    "difficulty": 0.764,
+    "discrimination": 1.43,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most fluent response in a discussion. (B2 skill check 5)",
+      "options": [
+        "I see your point, but I would argue that online learning also builds independence.",
+        "No, that is bad only.",
+        "Because internet and students yes.",
+        "I am not agree in all things very."
+      ],
+      "correctIndex": 0,
+      "rationale": "Take turns and develop argument.",
+      "canDoTag": "B2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "18520a35-9c52-50c7-9034-09a8d1443216",
+    "cefr": "B2",
+    "skill": "writing",
+    "difficulty": 0.807,
+    "discrimination": 1.3,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a formal report. (B2 skill check 6)",
+      "options": [
+        "The survey results indicate a clear increase in learner confidence after the programme.",
+        "The survey says students good and happy a lot.",
+        "The programme made things nice.",
+        "I think the report is very very clear."
+      ],
+      "correctIndex": 0,
+      "rationale": "Use formal written register.",
+      "canDoTag": "B2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "504df6a1-7eec-5876-9b37-8c4d123e1f44",
+    "cefr": "B2",
+    "skill": "listening",
+    "difficulty": 0.85,
+    "discrimination": 1.17,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe proposal is promising, although the budget assumptions need revising.\u201d What is the speaker\u2019s view? (B2 skill check 7)",
+      "options": [
+        "Positive but cautious",
+        "Completely negative",
+        "Confused and uninterested",
+        "Only focused on timing"
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand speaker attitude.",
+      "canDoTag": "B2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "16326ae2-c7f9-52f5-911d-058c6759f949",
+    "cefr": "B2",
+    "skill": "speaking",
+    "difficulty": 0.893,
+    "discrimination": 1.04,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most fluent response in a discussion. (B2 skill check 8)",
+      "options": [
+        "I see your point, but I would argue that online learning also builds independence.",
+        "No, that is bad only.",
+        "Because internet and students yes.",
+        "I am not agree in all things very."
+      ],
+      "correctIndex": 0,
+      "rationale": "Take turns and develop argument.",
+      "canDoTag": "B2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fc0ccebb-e37b-5bfe-9a6b-575fd7923807",
+    "cefr": "B2",
+    "skill": "writing",
+    "difficulty": 0.936,
+    "discrimination": 1.41,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a formal report. (B2 skill check 9)",
+      "options": [
+        "The survey results indicate a clear increase in learner confidence after the programme.",
+        "The survey says students good and happy a lot.",
+        "The programme made things nice.",
+        "I think the report is very very clear."
+      ],
+      "correctIndex": 0,
+      "rationale": "Use formal written register.",
+      "canDoTag": "B2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "ca022e07-aa68-5002-a8a9-8eccff535d8a",
+    "cefr": "B2",
+    "skill": "listening",
+    "difficulty": 0.979,
+    "discrimination": 1.28,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe proposal is promising, although the budget assumptions need revising.\u201d What is the speaker\u2019s view? (B2 skill check 10)",
+      "options": [
+        "Positive but cautious",
+        "Completely negative",
+        "Confused and uninterested",
+        "Only focused on timing"
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand speaker attitude.",
+      "canDoTag": "B2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c0eaf760-394a-59b3-ab34-89969c0d5ecc",
+    "cefr": "B2",
+    "skill": "speaking",
+    "difficulty": 1.021,
+    "discrimination": 1.15,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most fluent response in a discussion. (B2 skill check 11)",
+      "options": [
+        "I see your point, but I would argue that online learning also builds independence.",
+        "No, that is bad only.",
+        "Because internet and students yes.",
+        "I am not agree in all things very."
+      ],
+      "correctIndex": 0,
+      "rationale": "Take turns and develop argument.",
+      "canDoTag": "B2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "a7ed230c-745b-503d-b4a2-fd4286a4f3ad",
+    "cefr": "B2",
+    "skill": "writing",
+    "difficulty": 1.064,
+    "discrimination": 1.02,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a formal report. (B2 skill check 12)",
+      "options": [
+        "The survey results indicate a clear increase in learner confidence after the programme.",
+        "The survey says students good and happy a lot.",
+        "The programme made things nice.",
+        "I think the report is very very clear."
+      ],
+      "correctIndex": 0,
+      "rationale": "Use formal written register.",
+      "canDoTag": "B2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "8c62bec6-746d-5efe-b2de-d13da06da78a",
+    "cefr": "B2",
+    "skill": "listening",
+    "difficulty": 1.107,
+    "discrimination": 1.39,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe proposal is promising, although the budget assumptions need revising.\u201d What is the speaker\u2019s view? (B2 skill check 13)",
+      "options": [
+        "Positive but cautious",
+        "Completely negative",
+        "Confused and uninterested",
+        "Only focused on timing"
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand speaker attitude.",
+      "canDoTag": "B2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "25ec4a08-2a2d-57ce-8037-fd4ca73252fc",
+    "cefr": "B2",
+    "skill": "speaking",
+    "difficulty": 1.15,
+    "discrimination": 1.26,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most fluent response in a discussion. (B2 skill check 14)",
+      "options": [
+        "I see your point, but I would argue that online learning also builds independence.",
+        "No, that is bad only.",
+        "Because internet and students yes.",
+        "I am not agree in all things very."
+      ],
+      "correctIndex": 0,
+      "rationale": "Take turns and develop argument.",
+      "canDoTag": "B2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5c60a2ff-6449-5e9c-9388-9013b8e0a201",
+    "cefr": "B2",
+    "skill": "writing",
+    "difficulty": 1.193,
+    "discrimination": 1.13,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a formal report. (B2 skill check 15)",
+      "options": [
+        "The survey results indicate a clear increase in learner confidence after the programme.",
+        "The survey says students good and happy a lot.",
+        "The programme made things nice.",
+        "I think the report is very very clear."
+      ],
+      "correctIndex": 0,
+      "rationale": "Use formal written register.",
+      "canDoTag": "B2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "ccfdc64c-eaac-514c-9001-02189abb0569",
+    "cefr": "B2",
+    "skill": "listening",
+    "difficulty": 1.236,
+    "discrimination": 1.0,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe proposal is promising, although the budget assumptions need revising.\u201d What is the speaker\u2019s view? (B2 skill check 16)",
+      "options": [
+        "Positive but cautious",
+        "Completely negative",
+        "Confused and uninterested",
+        "Only focused on timing"
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand speaker attitude.",
+      "canDoTag": "B2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "2e9b3646-bbc5-564e-9a3f-0a50663133a0",
+    "cefr": "B2",
+    "skill": "speaking",
+    "difficulty": 1.279,
+    "discrimination": 1.37,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most fluent response in a discussion. (B2 skill check 17)",
+      "options": [
+        "I see your point, but I would argue that online learning also builds independence.",
+        "No, that is bad only.",
+        "Because internet and students yes.",
+        "I am not agree in all things very."
+      ],
+      "correctIndex": 0,
+      "rationale": "Take turns and develop argument.",
+      "canDoTag": "B2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "5eb3817e-1290-5952-82bf-9895bd9b2af8",
+    "cefr": "B2",
+    "skill": "writing",
+    "difficulty": 1.321,
+    "discrimination": 1.24,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the best sentence for a formal report. (B2 skill check 18)",
+      "options": [
+        "The survey results indicate a clear increase in learner confidence after the programme.",
+        "The survey says students good and happy a lot.",
+        "The programme made things nice.",
+        "I think the report is very very clear."
+      ],
+      "correctIndex": 0,
+      "rationale": "Use formal written register.",
+      "canDoTag": "B2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d4ab75c3-add6-52bd-9565-8407ef375e16",
+    "cefr": "B2",
+    "skill": "listening",
+    "difficulty": 1.364,
+    "discrimination": 1.11,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe proposal is promising, although the budget assumptions need revising.\u201d What is the speaker\u2019s view? (B2 skill check 19)",
+      "options": [
+        "Positive but cautious",
+        "Completely negative",
+        "Confused and uninterested",
+        "Only focused on timing"
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand speaker attitude.",
+      "canDoTag": "B2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "613e9138-8b61-5452-9e64-8bf49666402a",
+    "cefr": "B2",
+    "skill": "speaking",
+    "difficulty": 1.407,
+    "discrimination": 0.98,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most fluent response in a discussion. (B2 skill check 20)",
+      "options": [
+        "I see your point, but I would argue that online learning also builds independence.",
+        "No, that is bad only.",
+        "Because internet and students yes.",
+        "I am not agree in all things very."
+      ],
+      "correctIndex": 0,
+      "rationale": "Take turns and develop argument.",
+      "canDoTag": "B2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b79ec2ae-0191-5494-8c3d-6e70abe06538",
+    "cefr": "C1",
+    "skill": "listening",
+    "difficulty": 1.593,
+    "discrimination": 0.95,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cHer argument is persuasive, but it rests on a rather narrow interpretation of the data.\u201d What is implied? (C1 skill check 1)",
+      "options": [
+        "The argument has a limitation.",
+        "The data is impossible to read.",
+        "The speaker rejects all evidence.",
+        "The interpretation is irrelevant."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer nuanced evaluation.",
+      "canDoTag": "C1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "40a6b831-bc1e-5f27-9429-4162da5a8fd6",
+    "cefr": "C1",
+    "skill": "speaking",
+    "difficulty": 1.636,
+    "discrimination": 1.32,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the strongest seminar contribution. (C1 skill check 2)",
+      "options": [
+        "To build on that point, the evidence suggests a more complex relationship between motivation and assessment.",
+        "I want say same thing good.",
+        "This is not because everyone knows.",
+        "Assessment is assessment and motivation is motivation."
+      ],
+      "correctIndex": 0,
+      "rationale": "Contribute with academic nuance.",
+      "canDoTag": "C1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "71f61917-fad6-56db-90f3-499035ca19fa",
+    "cefr": "C1",
+    "skill": "writing",
+    "difficulty": 1.679,
+    "discrimination": 1.19,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most effective academic sentence. (C1 skill check 3)",
+      "options": [
+        "Although the sample was limited, the findings provide useful insight into learner engagement.",
+        "The sample was small but it was all fine and useful.",
+        "Learners engaged because good teaching probably.",
+        "The findings are useful because they are findings."
+      ],
+      "correctIndex": 0,
+      "rationale": "Qualify claims precisely.",
+      "canDoTag": "C1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "44b8210b-8cac-5daa-bc53-ff1c7e128723",
+    "cefr": "C1",
+    "skill": "listening",
+    "difficulty": 1.721,
+    "discrimination": 1.06,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cHer argument is persuasive, but it rests on a rather narrow interpretation of the data.\u201d What is implied? (C1 skill check 4)",
+      "options": [
+        "The argument has a limitation.",
+        "The data is impossible to read.",
+        "The speaker rejects all evidence.",
+        "The interpretation is irrelevant."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer nuanced evaluation.",
+      "canDoTag": "C1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "de793a0e-255c-5227-80bf-e1bfa75d886a",
+    "cefr": "C1",
+    "skill": "speaking",
+    "difficulty": 1.764,
+    "discrimination": 1.43,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the strongest seminar contribution. (C1 skill check 5)",
+      "options": [
+        "To build on that point, the evidence suggests a more complex relationship between motivation and assessment.",
+        "I want say same thing good.",
+        "This is not because everyone knows.",
+        "Assessment is assessment and motivation is motivation."
+      ],
+      "correctIndex": 0,
+      "rationale": "Contribute with academic nuance.",
+      "canDoTag": "C1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "ae6bf480-4aca-5f85-9768-fb79fc105d6a",
+    "cefr": "C1",
+    "skill": "writing",
+    "difficulty": 1.807,
+    "discrimination": 1.3,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most effective academic sentence. (C1 skill check 6)",
+      "options": [
+        "Although the sample was limited, the findings provide useful insight into learner engagement.",
+        "The sample was small but it was all fine and useful.",
+        "Learners engaged because good teaching probably.",
+        "The findings are useful because they are findings."
+      ],
+      "correctIndex": 0,
+      "rationale": "Qualify claims precisely.",
+      "canDoTag": "C1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "153c14d2-aa51-5f9f-b21e-99f231533bd6",
+    "cefr": "C1",
+    "skill": "listening",
+    "difficulty": 1.85,
+    "discrimination": 1.17,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cHer argument is persuasive, but it rests on a rather narrow interpretation of the data.\u201d What is implied? (C1 skill check 7)",
+      "options": [
+        "The argument has a limitation.",
+        "The data is impossible to read.",
+        "The speaker rejects all evidence.",
+        "The interpretation is irrelevant."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer nuanced evaluation.",
+      "canDoTag": "C1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "39b998e4-4f03-517b-a3c7-cbf3529793e8",
+    "cefr": "C1",
+    "skill": "speaking",
+    "difficulty": 1.893,
+    "discrimination": 1.04,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the strongest seminar contribution. (C1 skill check 8)",
+      "options": [
+        "To build on that point, the evidence suggests a more complex relationship between motivation and assessment.",
+        "I want say same thing good.",
+        "This is not because everyone knows.",
+        "Assessment is assessment and motivation is motivation."
+      ],
+      "correctIndex": 0,
+      "rationale": "Contribute with academic nuance.",
+      "canDoTag": "C1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e273f9ab-7ec8-5dad-a0de-e30957a4d226",
+    "cefr": "C1",
+    "skill": "writing",
+    "difficulty": 1.936,
+    "discrimination": 1.41,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most effective academic sentence. (C1 skill check 9)",
+      "options": [
+        "Although the sample was limited, the findings provide useful insight into learner engagement.",
+        "The sample was small but it was all fine and useful.",
+        "Learners engaged because good teaching probably.",
+        "The findings are useful because they are findings."
+      ],
+      "correctIndex": 0,
+      "rationale": "Qualify claims precisely.",
+      "canDoTag": "C1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4064b452-48a0-5f26-ace0-d52b6ace65f2",
+    "cefr": "C1",
+    "skill": "listening",
+    "difficulty": 1.979,
+    "discrimination": 1.28,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cHer argument is persuasive, but it rests on a rather narrow interpretation of the data.\u201d What is implied? (C1 skill check 10)",
+      "options": [
+        "The argument has a limitation.",
+        "The data is impossible to read.",
+        "The speaker rejects all evidence.",
+        "The interpretation is irrelevant."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer nuanced evaluation.",
+      "canDoTag": "C1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b9b1cec8-0460-5e01-8122-a35fc68c4bef",
+    "cefr": "C1",
+    "skill": "speaking",
+    "difficulty": 2.021,
+    "discrimination": 1.15,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the strongest seminar contribution. (C1 skill check 11)",
+      "options": [
+        "To build on that point, the evidence suggests a more complex relationship between motivation and assessment.",
+        "I want say same thing good.",
+        "This is not because everyone knows.",
+        "Assessment is assessment and motivation is motivation."
+      ],
+      "correctIndex": 0,
+      "rationale": "Contribute with academic nuance.",
+      "canDoTag": "C1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c9ac1d6c-40ac-5671-8a45-85627dbd3dd3",
+    "cefr": "C1",
+    "skill": "writing",
+    "difficulty": 2.064,
+    "discrimination": 1.02,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most effective academic sentence. (C1 skill check 12)",
+      "options": [
+        "Although the sample was limited, the findings provide useful insight into learner engagement.",
+        "The sample was small but it was all fine and useful.",
+        "Learners engaged because good teaching probably.",
+        "The findings are useful because they are findings."
+      ],
+      "correctIndex": 0,
+      "rationale": "Qualify claims precisely.",
+      "canDoTag": "C1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "75620e31-5907-539d-b169-a8292e51b1b8",
+    "cefr": "C1",
+    "skill": "listening",
+    "difficulty": 2.107,
+    "discrimination": 1.39,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cHer argument is persuasive, but it rests on a rather narrow interpretation of the data.\u201d What is implied? (C1 skill check 13)",
+      "options": [
+        "The argument has a limitation.",
+        "The data is impossible to read.",
+        "The speaker rejects all evidence.",
+        "The interpretation is irrelevant."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer nuanced evaluation.",
+      "canDoTag": "C1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "1524f40f-8b08-5074-b58a-21fd857c682d",
+    "cefr": "C1",
+    "skill": "speaking",
+    "difficulty": 2.15,
+    "discrimination": 1.26,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the strongest seminar contribution. (C1 skill check 14)",
+      "options": [
+        "To build on that point, the evidence suggests a more complex relationship between motivation and assessment.",
+        "I want say same thing good.",
+        "This is not because everyone knows.",
+        "Assessment is assessment and motivation is motivation."
+      ],
+      "correctIndex": 0,
+      "rationale": "Contribute with academic nuance.",
+      "canDoTag": "C1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "675a6dd4-4d0c-55ab-9632-d7388bc1b4b6",
+    "cefr": "C1",
+    "skill": "writing",
+    "difficulty": 2.193,
+    "discrimination": 1.13,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most effective academic sentence. (C1 skill check 15)",
+      "options": [
+        "Although the sample was limited, the findings provide useful insight into learner engagement.",
+        "The sample was small but it was all fine and useful.",
+        "Learners engaged because good teaching probably.",
+        "The findings are useful because they are findings."
+      ],
+      "correctIndex": 0,
+      "rationale": "Qualify claims precisely.",
+      "canDoTag": "C1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "084e8acc-7404-58fc-964e-294418a9d0dc",
+    "cefr": "C1",
+    "skill": "listening",
+    "difficulty": 2.236,
+    "discrimination": 1.0,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cHer argument is persuasive, but it rests on a rather narrow interpretation of the data.\u201d What is implied? (C1 skill check 16)",
+      "options": [
+        "The argument has a limitation.",
+        "The data is impossible to read.",
+        "The speaker rejects all evidence.",
+        "The interpretation is irrelevant."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer nuanced evaluation.",
+      "canDoTag": "C1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "c78b89e5-c7bd-5cbc-8ad4-4bf89fbc795c",
+    "cefr": "C1",
+    "skill": "speaking",
+    "difficulty": 2.279,
+    "discrimination": 1.37,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the strongest seminar contribution. (C1 skill check 17)",
+      "options": [
+        "To build on that point, the evidence suggests a more complex relationship between motivation and assessment.",
+        "I want say same thing good.",
+        "This is not because everyone knows.",
+        "Assessment is assessment and motivation is motivation."
+      ],
+      "correctIndex": 0,
+      "rationale": "Contribute with academic nuance.",
+      "canDoTag": "C1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "78f6b2a4-d35d-530e-ac4d-df7076426a7f",
+    "cefr": "C1",
+    "skill": "writing",
+    "difficulty": 2.321,
+    "discrimination": 1.24,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most effective academic sentence. (C1 skill check 18)",
+      "options": [
+        "Although the sample was limited, the findings provide useful insight into learner engagement.",
+        "The sample was small but it was all fine and useful.",
+        "Learners engaged because good teaching probably.",
+        "The findings are useful because they are findings."
+      ],
+      "correctIndex": 0,
+      "rationale": "Qualify claims precisely.",
+      "canDoTag": "C1-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "20102270-4bdb-5556-abde-c6be202d7c19",
+    "cefr": "C1",
+    "skill": "listening",
+    "difficulty": 2.364,
+    "discrimination": 1.11,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cHer argument is persuasive, but it rests on a rather narrow interpretation of the data.\u201d What is implied? (C1 skill check 19)",
+      "options": [
+        "The argument has a limitation.",
+        "The data is impossible to read.",
+        "The speaker rejects all evidence.",
+        "The interpretation is irrelevant."
+      ],
+      "correctIndex": 0,
+      "rationale": "Infer nuanced evaluation.",
+      "canDoTag": "C1-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "7f646b24-253c-50bf-b1ac-c79dbd339278",
+    "cefr": "C1",
+    "skill": "speaking",
+    "difficulty": 2.407,
+    "discrimination": 0.98,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the strongest seminar contribution. (C1 skill check 20)",
+      "options": [
+        "To build on that point, the evidence suggests a more complex relationship between motivation and assessment.",
+        "I want say same thing good.",
+        "This is not because everyone knows.",
+        "Assessment is assessment and motivation is motivation."
+      ],
+      "correctIndex": 0,
+      "rationale": "Contribute with academic nuance.",
+      "canDoTag": "C1-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "2e5e5154-3b76-50e6-9fc4-bc433960414a",
+    "cefr": "C2",
+    "skill": "listening",
+    "difficulty": 2.521,
+    "discrimination": 0.95,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe policy is less a rupture than a recalibration of existing priorities.\u201d What does the speaker mean? (C2 skill check 1)",
+      "options": [
+        "It adjusts rather than completely changes policy.",
+        "It destroys all previous policy.",
+        "It is unrelated to previous priorities.",
+        "It avoids any political purpose."
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand compressed abstract meaning.",
+      "canDoTag": "C2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fcdef5e5-268b-58db-b709-90eabf4cf515",
+    "cefr": "C2",
+    "skill": "speaking",
+    "difficulty": 2.543,
+    "discrimination": 1.32,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise response in a high-level debate. (C2 skill check 2)",
+      "options": [
+        "That distinction is useful, but it risks overstating causality where the evidence shows correlation.",
+        "You are kind of wrong maybe.",
+        "It is just not good evidence thing.",
+        "I disagree because it sounds strange."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express fine shades of meaning.",
+      "canDoTag": "C2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "9ff8f108-485c-5b7d-846b-ac63acd24cd8",
+    "cefr": "C2",
+    "skill": "writing",
+    "difficulty": 2.564,
+    "discrimination": 1.19,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most sophisticated written formulation. (C2 skill check 3)",
+      "options": [
+        "The evidence warrants cautious optimism rather than an unequivocal claim of success.",
+        "The evidence says success totally but maybe not.",
+        "It is good evidence for good results.",
+        "Success is very clear in a cautious way."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write with precision and rhetorical control.",
+      "canDoTag": "C2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4067cc66-0918-56b6-9017-4e0b27dd5e26",
+    "cefr": "C2",
+    "skill": "listening",
+    "difficulty": 2.586,
+    "discrimination": 1.06,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe policy is less a rupture than a recalibration of existing priorities.\u201d What does the speaker mean? (C2 skill check 4)",
+      "options": [
+        "It adjusts rather than completely changes policy.",
+        "It destroys all previous policy.",
+        "It is unrelated to previous priorities.",
+        "It avoids any political purpose."
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand compressed abstract meaning.",
+      "canDoTag": "C2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "de1b2acc-848c-553a-acfd-a6f41ae2c964",
+    "cefr": "C2",
+    "skill": "speaking",
+    "difficulty": 2.607,
+    "discrimination": 1.43,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise response in a high-level debate. (C2 skill check 5)",
+      "options": [
+        "That distinction is useful, but it risks overstating causality where the evidence shows correlation.",
+        "You are kind of wrong maybe.",
+        "It is just not good evidence thing.",
+        "I disagree because it sounds strange."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express fine shades of meaning.",
+      "canDoTag": "C2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "84599a6e-6d5b-5464-962d-3c2fc2029258",
+    "cefr": "C2",
+    "skill": "writing",
+    "difficulty": 2.629,
+    "discrimination": 1.3,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most sophisticated written formulation. (C2 skill check 6)",
+      "options": [
+        "The evidence warrants cautious optimism rather than an unequivocal claim of success.",
+        "The evidence says success totally but maybe not.",
+        "It is good evidence for good results.",
+        "Success is very clear in a cautious way."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write with precision and rhetorical control.",
+      "canDoTag": "C2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "16b59e74-5083-59ff-9ab9-49334da0201c",
+    "cefr": "C2",
+    "skill": "listening",
+    "difficulty": 2.65,
+    "discrimination": 1.17,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe policy is less a rupture than a recalibration of existing priorities.\u201d What does the speaker mean? (C2 skill check 7)",
+      "options": [
+        "It adjusts rather than completely changes policy.",
+        "It destroys all previous policy.",
+        "It is unrelated to previous priorities.",
+        "It avoids any political purpose."
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand compressed abstract meaning.",
+      "canDoTag": "C2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "a686d5e6-56cd-504d-abe0-60ced80c91e5",
+    "cefr": "C2",
+    "skill": "speaking",
+    "difficulty": 2.671,
+    "discrimination": 1.04,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise response in a high-level debate. (C2 skill check 8)",
+      "options": [
+        "That distinction is useful, but it risks overstating causality where the evidence shows correlation.",
+        "You are kind of wrong maybe.",
+        "It is just not good evidence thing.",
+        "I disagree because it sounds strange."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express fine shades of meaning.",
+      "canDoTag": "C2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "aec5372e-65db-5411-ac1c-ba8a6211ba4e",
+    "cefr": "C2",
+    "skill": "writing",
+    "difficulty": 2.693,
+    "discrimination": 1.41,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most sophisticated written formulation. (C2 skill check 9)",
+      "options": [
+        "The evidence warrants cautious optimism rather than an unequivocal claim of success.",
+        "The evidence says success totally but maybe not.",
+        "It is good evidence for good results.",
+        "Success is very clear in a cautious way."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write with precision and rhetorical control.",
+      "canDoTag": "C2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "fae9fa8a-ed77-587c-ae14-65a17a7348ff",
+    "cefr": "C2",
+    "skill": "listening",
+    "difficulty": 2.714,
+    "discrimination": 1.28,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe policy is less a rupture than a recalibration of existing priorities.\u201d What does the speaker mean? (C2 skill check 10)",
+      "options": [
+        "It adjusts rather than completely changes policy.",
+        "It destroys all previous policy.",
+        "It is unrelated to previous priorities.",
+        "It avoids any political purpose."
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand compressed abstract meaning.",
+      "canDoTag": "C2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "532c1155-3a63-55bc-a0a7-b61864bf95c7",
+    "cefr": "C2",
+    "skill": "speaking",
+    "difficulty": 2.736,
+    "discrimination": 1.15,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise response in a high-level debate. (C2 skill check 11)",
+      "options": [
+        "That distinction is useful, but it risks overstating causality where the evidence shows correlation.",
+        "You are kind of wrong maybe.",
+        "It is just not good evidence thing.",
+        "I disagree because it sounds strange."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express fine shades of meaning.",
+      "canDoTag": "C2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "45761a1e-e77e-5fff-b21f-aadd74dc11b5",
+    "cefr": "C2",
+    "skill": "writing",
+    "difficulty": 2.757,
+    "discrimination": 1.02,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most sophisticated written formulation. (C2 skill check 12)",
+      "options": [
+        "The evidence warrants cautious optimism rather than an unequivocal claim of success.",
+        "The evidence says success totally but maybe not.",
+        "It is good evidence for good results.",
+        "Success is very clear in a cautious way."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write with precision and rhetorical control.",
+      "canDoTag": "C2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "aa2b8a0d-87bd-561a-8800-9d1f1d5b7e7b",
+    "cefr": "C2",
+    "skill": "listening",
+    "difficulty": 2.779,
+    "discrimination": 1.39,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe policy is less a rupture than a recalibration of existing priorities.\u201d What does the speaker mean? (C2 skill check 13)",
+      "options": [
+        "It adjusts rather than completely changes policy.",
+        "It destroys all previous policy.",
+        "It is unrelated to previous priorities.",
+        "It avoids any political purpose."
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand compressed abstract meaning.",
+      "canDoTag": "C2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "d5e72d54-24ba-5a1b-b4b4-42da14e61728",
+    "cefr": "C2",
+    "skill": "speaking",
+    "difficulty": 2.8,
+    "discrimination": 1.26,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise response in a high-level debate. (C2 skill check 14)",
+      "options": [
+        "That distinction is useful, but it risks overstating causality where the evidence shows correlation.",
+        "You are kind of wrong maybe.",
+        "It is just not good evidence thing.",
+        "I disagree because it sounds strange."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express fine shades of meaning.",
+      "canDoTag": "C2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "82272933-792f-5a4a-ae28-9e8c76827f48",
+    "cefr": "C2",
+    "skill": "writing",
+    "difficulty": 2.821,
+    "discrimination": 1.13,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most sophisticated written formulation. (C2 skill check 15)",
+      "options": [
+        "The evidence warrants cautious optimism rather than an unequivocal claim of success.",
+        "The evidence says success totally but maybe not.",
+        "It is good evidence for good results.",
+        "Success is very clear in a cautious way."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write with precision and rhetorical control.",
+      "canDoTag": "C2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "4e0513c2-aea6-593b-afdd-8eed854b5034",
+    "cefr": "C2",
+    "skill": "listening",
+    "difficulty": 2.843,
+    "discrimination": 1.0,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe policy is less a rupture than a recalibration of existing priorities.\u201d What does the speaker mean? (C2 skill check 16)",
+      "options": [
+        "It adjusts rather than completely changes policy.",
+        "It destroys all previous policy.",
+        "It is unrelated to previous priorities.",
+        "It avoids any political purpose."
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand compressed abstract meaning.",
+      "canDoTag": "C2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "b9f4e60a-af73-5ad9-af24-a5fc8972d60c",
+    "cefr": "C2",
+    "skill": "speaking",
+    "difficulty": 2.864,
+    "discrimination": 1.37,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise response in a high-level debate. (C2 skill check 17)",
+      "options": [
+        "That distinction is useful, but it risks overstating causality where the evidence shows correlation.",
+        "You are kind of wrong maybe.",
+        "It is just not good evidence thing.",
+        "I disagree because it sounds strange."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express fine shades of meaning.",
+      "canDoTag": "C2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "e94fcd34-99ce-510c-b8d8-3cc2980ba73b",
+    "cefr": "C2",
+    "skill": "writing",
+    "difficulty": 2.886,
+    "discrimination": 1.24,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most sophisticated written formulation. (C2 skill check 18)",
+      "options": [
+        "The evidence warrants cautious optimism rather than an unequivocal claim of success.",
+        "The evidence says success totally but maybe not.",
+        "It is good evidence for good results.",
+        "Success is very clear in a cautious way."
+      ],
+      "correctIndex": 0,
+      "rationale": "Write with precision and rhetorical control.",
+      "canDoTag": "C2-writing-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "72439f34-94cf-5547-a83f-0db920109a8b",
+    "cefr": "C2",
+    "skill": "listening",
+    "difficulty": 2.907,
+    "discrimination": 1.11,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Listen/read: \u201cThe policy is less a rupture than a recalibration of existing priorities.\u201d What does the speaker mean? (C2 skill check 19)",
+      "options": [
+        "It adjusts rather than completely changes policy.",
+        "It destroys all previous policy.",
+        "It is unrelated to previous priorities.",
+        "It avoids any political purpose."
+      ],
+      "correctIndex": 0,
+      "rationale": "Understand compressed abstract meaning.",
+      "canDoTag": "C2-listening-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  },
+  {
+    "id": "87063b2a-6497-5bc6-8de4-53c3f1aa77ad",
+    "cefr": "C2",
+    "skill": "speaking",
+    "difficulty": 2.929,
+    "discrimination": 0.98,
+    "guessing": 0.25,
+    "active": true,
+    "question_data": {
+      "stem": "Choose the most precise response in a high-level debate. (C2 skill check 20)",
+      "options": [
+        "That distinction is useful, but it risks overstating causality where the evidence shows correlation.",
+        "You are kind of wrong maybe.",
+        "It is just not good evidence thing.",
+        "I disagree because it sounds strange."
+      ],
+      "correctIndex": 0,
+      "rationale": "Express fine shades of meaning.",
+      "canDoTag": "C2-speaking-descriptor",
+      "originalContentNotice": "Original item created for British English Academy ESL platform seed bank."
+    }
+  }
+]

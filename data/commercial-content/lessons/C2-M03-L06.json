@@ -1,0 +1,189 @@
+{
+  "lesson_id": "C2-M03-L06",
+  "slug": "c2-m03-l06-specialised-academic-and-professional-english-writing-lesson-6",
+  "cefr_level": "C2",
+  "course_title": "C2 Mastery English",
+  "module_number": 3,
+  "module_title": "Specialised Academic and Professional English",
+  "lesson_number": 6,
+  "lesson_title": "Specialised Academic and Professional English: Writing Lesson 6",
+  "primary_skill": "writing",
+  "grammar_target": "ellipsis",
+  "vocabulary_theme": "literary nuance",
+  "learning_objective": "Learners can critique, refine, interpret nuance and produce expert-level responses in a writing task about literary nuance.",
+  "cefr_outcome": "Learners can understand virtually everything heard or read and express themselves precisely in complex situations.",
+  "learner_facing_explanation": "In this lesson you will practise writing for specialised academic and professional english. You will learn useful language connected to literary nuance and practise ellipsis. By the end, you should be able to complete a short real-life task and explain your answer clearly at C2 level.",
+  "complete_teaching_input": "Focus language: ellipsis. Vocabulary theme: literary nuance. The teacher introduces the target language in a meaningful context, models pronunciation and form, checks meaning with concept questions, and moves learners from controlled practice to freer use. At C2, learners should critique, refine, interpret nuance and produce expert-level responses with increasing independence. The lesson should use board examples, short teacher modelling, pair practice, feedback and a final communicative task.",
+  "examples": [
+    "Example 1: I can use ellipsis to talk about literary nuance.",
+    "Example 2: The learner gives a C2 answer with clear meaning and correct key language.",
+    "Example 3: The learner checks, improves and repeats the answer after feedback.",
+    "Example 4: The learner uses one linking phrase or support phrase suitable for C2."
+  ],
+  "interactive_practice": [
+    {
+      "item_id": "C2-M03-L06-P1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence using ellipsis.",
+      "options": [
+        "Correct use of ellipsis in a C2 sentence.",
+        "Incorrect word order with ellipsis.",
+        "Wrong tense for the meaning.",
+        "Unclear sentence with missing information."
+      ],
+      "correct_answer": 0,
+      "distractors": [
+        1,
+        2,
+        3
+      ],
+      "feedback_correct": "Correct. The sentence uses ellipsis accurately.",
+      "feedback_incorrect": "Check the form and meaning of ellipsis."
+    },
+    {
+      "item_id": "C2-M03-L06-P2",
+      "type": "matching",
+      "prompt": "Match the literary nuance phrase to its meaning.",
+      "pairs": [
+        {
+          "left": "literary nuance phrase A",
+          "right": "meaning A"
+        },
+        {
+          "left": "literary nuance phrase B",
+          "right": "meaning B"
+        },
+        {
+          "left": "literary nuance phrase C",
+          "right": "meaning C"
+        }
+      ],
+      "feedback_correct": "Good matching. You understand the phrase meaning.",
+      "feedback_incorrect": "Look again at the context and key words."
+    },
+    {
+      "item_id": "C2-M03-L06-P3",
+      "type": "sentence_builder",
+      "prompt": "Build a complete answer for the lesson task.",
+      "word_bank": [
+        "I",
+        "can",
+        "explain",
+        "my",
+        "idea",
+        "clearly",
+        "because"
+      ],
+      "model_answer": "I can explain my idea clearly because I understand literary nuance.",
+      "feedback_correct": "Well done. Your sentence is complete and meaningful.",
+      "feedback_incorrect": "Check that your sentence has a subject, verb and clear meaning."
+    }
+  ],
+  "correct_answers": {
+    "P1": 0,
+    "P2": [
+      "A->meaning A",
+      "B->meaning B",
+      "C->meaning C"
+    ],
+    "P3": "I can explain my idea clearly because I understand literary nuance."
+  },
+  "distractors": [
+    "Wrong tense for ellipsis",
+    "Unclear word order",
+    "Answer does not match context",
+    "Too short for the task"
+  ],
+  "instant_feedback": {
+    "correct": "Correct. Continue to the next step.",
+    "partly_correct": "Good start. Check accuracy and add one more detail.",
+    "incorrect": "Try again. Review the model and look at the key language."
+  },
+  "teacher_notes": "Begin with a quick diagnostic question. Model the target form ellipsis. Use choral repetition if pronunciation is important. Monitor pair work and record three common errors. Finish with delayed correction and one confidence-building success point.",
+  "homework_task": "Write or record five sentences about literary nuance using language from this lesson.",
+  "assessment_task": {
+    "task_title": "C2 Writing Check - Specialised Academic and Professional English",
+    "instructions": "Complete a short writing task using ellipsis and vocabulary from literary nuance.",
+    "success_criteria": [
+      "Uses ellipsis with reasonable accuracy",
+      "Uses vocabulary connected to literary nuance",
+      "Completes the communicative purpose",
+      "Responds at the expected CEFR level"
+    ],
+    "pass_score": 70
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "name": "Task achievement",
+        "max": 5,
+        "descriptor": "Completes the communicative purpose."
+      },
+      {
+        "name": "Language control",
+        "max": 5,
+        "descriptor": "Uses ellipsis and sentence structure accurately."
+      },
+      {
+        "name": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses appropriate words connected to literary nuance."
+      },
+      {
+        "name": "Fluency/coherence",
+        "max": 5,
+        "descriptor": "Organises ideas clearly for the level."
+      }
+    ],
+    "pass_total": 14
+  },
+  "speaking_task": "Speak for 60-120 seconds about literary nuance. Use at least two examples and one reason.",
+  "writing_task": "Write a short C2 response about literary nuance. Include the target language: ellipsis.",
+  "listening_audio": {
+    "audio_file": "audio/c2-m03-l06-listening.mp3",
+    "script": "Audio script for C2-M03-L06. Speaker one: Today we are practising literary nuance. Speaker two: I need to use ellipsis correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m03-l06-listening.ssml"
+  },
+  "visual_activity_cards": [
+    {
+      "card_id": "C2-M03-L06-VC1",
+      "title": "Literary Nuance word",
+      "alt_text": "Illustration for literary nuance vocabulary"
+    },
+    {
+      "card_id": "C2-M03-L06-VC2",
+      "title": "Ellipsis form",
+      "alt_text": "Visual grammar card for ellipsis"
+    },
+    {
+      "card_id": "C2-M03-L06-VC3",
+      "title": "Writing task",
+      "alt_text": "Visual task card for writing"
+    },
+    {
+      "card_id": "C2-M03-L06-VC4",
+      "title": "Success badge",
+      "alt_text": "Star badge showing lesson completion"
+    }
+  ],
+  "downloadables": {
+    "worksheet_pdf": "worksheets/c2-m03-l06-specialised-academic-and-professional-english-writing-lesson-6.pdf",
+    "worksheet_docx": "worksheets/c2-m03-l06-specialised-academic-and-professional-english-writing-lesson-6.docx",
+    "answer_key": "answer_keys/c2-m03-l06-specialised-academic-and-professional-english-writing-lesson-6-answer-key.pdf",
+    "teacher_notes": "teacher_packs/c2-m03-l06-specialised-academic-and-professional-english-writing-lesson-6-teacher-notes.pdf"
+  },
+  "completion_rule": {
+    "required_view_blocks": [
+      "learner_facing_explanation",
+      "examples",
+      "interactive_practice"
+    ],
+    "required_activity_score": 70,
+    "requires_homework_submission": true,
+    "requires_teacher_review": true,
+    "issue_progress_star": true,
+    "unlock_next_lesson": true
+  },
+  "qa_status": "ready_for_editorial_review",
+  "cefr_validation_status": "mapped_pending_external_validation"
+}

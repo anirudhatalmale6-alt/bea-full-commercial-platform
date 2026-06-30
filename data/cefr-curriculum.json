@@ -1,0 +1,2407 @@
+{
+  "platform": "British English Academy English Language Platform",
+  "framework": "CEFR A1-C2 benchmarked original ESL curriculum",
+  "curriculum_principles": [
+    "CEFR can-do outcomes drive every unit, lesson objective, assessment task and report statement.",
+    "Original content only: no proprietary Cambridge, Oxford, Pearson or McGraw Hill content is copied.",
+    "Adaptive placement starts with broad-calibration items, then selects the next highest-information item.",
+    "Every learner is placed into a course pathway with remediation, target outcomes and suggested modules.",
+    "Assessment is learning-oriented: reports show level, evidence, skill gaps, next steps and course placement."
+  ],
+  "levels": [
+    {
+      "cefr": "A1",
+      "label": "Breakthrough",
+      "theta_anchor": -2.5,
+      "entry_profile": "Learner demonstrates breakthrough control of English across familiar and increasingly complex contexts.",
+      "exit_profile": "Learner can perform the listed A1 can-do outcomes with increasing independence.",
+      "modules": [
+        {
+          "module_id": "A1-M01",
+          "title": "People & introductions",
+          "cefr_level": "A1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about people & introductions at A1 level.",
+            "I can speak or write about people & introductions using language appropriate to A1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "people & introductions",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "be and have",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A1-M02",
+          "title": "Classroom language",
+          "cefr_level": "A1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about classroom language at A1 level.",
+            "I can speak or write about classroom language using language appropriate to A1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "classroom language",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "present simple",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A1-M03",
+          "title": "Home & family",
+          "cefr_level": "A1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about home & family at A1 level.",
+            "I can speak or write about home & family using language appropriate to A1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "home & family",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "imperatives",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A1-M04",
+          "title": "Daily routines",
+          "cefr_level": "A1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about daily routines at A1 level.",
+            "I can speak or write about daily routines using language appropriate to A1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "daily routines",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "there is/are",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A1-M05",
+          "title": "Food & shopping",
+          "cefr_level": "A1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about food & shopping at A1 level.",
+            "I can speak or write about food & shopping using language appropriate to A1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "food & shopping",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "basic determiners",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A1-M06",
+          "title": "Places in town",
+          "cefr_level": "A1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about places in town at A1 level.",
+            "I can speak or write about places in town using language appropriate to A1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "places in town",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "can for ability",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "cefr": "A2",
+      "label": "Waystage",
+      "theta_anchor": -1.5,
+      "entry_profile": "Learner demonstrates waystage control of English across familiar and increasingly complex contexts.",
+      "exit_profile": "Learner can perform the listed A2 can-do outcomes with increasing independence.",
+      "modules": [
+        {
+          "module_id": "A2-M01",
+          "title": "Past experiences",
+          "cefr_level": "A2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about past experiences at A2 level.",
+            "I can speak or write about past experiences using language appropriate to A2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "past experiences",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "past simple",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A2-M02",
+          "title": "Travel & directions",
+          "cefr_level": "A2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about travel & directions at A2 level.",
+            "I can speak or write about travel & directions using language appropriate to A2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "travel & directions",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "present continuous for future",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A2-M03",
+          "title": "Health & habits",
+          "cefr_level": "A2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about health & habits at A2 level.",
+            "I can speak or write about health & habits using language appropriate to A2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "health & habits",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "comparatives/superlatives",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A2-M04",
+          "title": "Comparing places",
+          "cefr_level": "A2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about comparing places at A2 level.",
+            "I can speak or write about comparing places using language appropriate to A2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "comparing places",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "present perfect introduction",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A2-M05",
+          "title": "Plans & invitations",
+          "cefr_level": "A2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about plans & invitations at A2 level.",
+            "I can speak or write about plans & invitations using language appropriate to A2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "plans & invitations",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "countable/uncountable nouns",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "A2-M06",
+          "title": "Stories & events",
+          "cefr_level": "A2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about stories & events at A2 level.",
+            "I can speak or write about stories & events using language appropriate to A2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "stories & events",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "must/should/have to",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "cefr": "B1",
+      "label": "Threshold",
+      "theta_anchor": 0.0,
+      "entry_profile": "Learner demonstrates threshold control of English across familiar and increasingly complex contexts.",
+      "exit_profile": "Learner can perform the listed B1 can-do outcomes with increasing independence.",
+      "modules": [
+        {
+          "module_id": "B1-M01",
+          "title": "Opinions & reasons",
+          "cefr_level": "B1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about opinions & reasons at B1 level.",
+            "I can speak or write about opinions & reasons using language appropriate to B1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "opinions & reasons",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "present perfect vs past simple",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B1-M02",
+          "title": "Work and study",
+          "cefr_level": "B1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about work and study at B1 level.",
+            "I can speak or write about work and study using language appropriate to B1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "work and study",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "first and second conditionals",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B1-M03",
+          "title": "Media & technology",
+          "cefr_level": "B1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about media & technology at B1 level.",
+            "I can speak or write about media & technology using language appropriate to B1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "media & technology",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "relative clauses",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B1-M04",
+          "title": "Environment",
+          "cefr_level": "B1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about environment at B1 level.",
+            "I can speak or write about environment using language appropriate to B1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "environment",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "passive voice basics",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B1-M05",
+          "title": "Travel problems",
+          "cefr_level": "B1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about travel problems at B1 level.",
+            "I can speak or write about travel problems using language appropriate to B1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "travel problems",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "reported statements",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B1-M06",
+          "title": "Community projects",
+          "cefr_level": "B1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about community projects at B1 level.",
+            "I can speak or write about community projects using language appropriate to B1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "community projects",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "modals of deduction",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "cefr": "B2",
+      "label": "Vantage",
+      "theta_anchor": 1.0,
+      "entry_profile": "Learner demonstrates vantage control of English across familiar and increasingly complex contexts.",
+      "exit_profile": "Learner can perform the listed B2 can-do outcomes with increasing independence.",
+      "modules": [
+        {
+          "module_id": "B2-M01",
+          "title": "Debate & argument",
+          "cefr_level": "B2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about debate & argument at B2 level.",
+            "I can speak or write about debate & argument using language appropriate to B2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "debate & argument",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "advanced passive",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B2-M02",
+          "title": "Academic reading",
+          "cefr_level": "B2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about academic reading at B2 level.",
+            "I can speak or write about academic reading using language appropriate to B2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "academic reading",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "mixed conditionals",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B2-M03",
+          "title": "Workplace communication",
+          "cefr_level": "B2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about workplace communication at B2 level.",
+            "I can speak or write about workplace communication using language appropriate to B2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "workplace communication",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "modal perfects",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B2-M04",
+          "title": "News and reliability",
+          "cefr_level": "B2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about news and reliability at B2 level.",
+            "I can speak or write about news and reliability using language appropriate to B2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "news and reliability",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "reported speech range",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B2-M05",
+          "title": "Culture and identity",
+          "cefr_level": "B2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about culture and identity at B2 level.",
+            "I can speak or write about culture and identity using language appropriate to B2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "culture and identity",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "participle clauses",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "B2-M06",
+          "title": "Problem solving",
+          "cefr_level": "B2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about problem solving at B2 level.",
+            "I can speak or write about problem solving using language appropriate to B2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "problem solving",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "linking and concession",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "cefr": "C1",
+      "label": "Effective Operational Proficiency",
+      "theta_anchor": 2.0,
+      "entry_profile": "Learner demonstrates effective operational proficiency control of English across familiar and increasingly complex contexts.",
+      "exit_profile": "Learner can perform the listed C1 can-do outcomes with increasing independence.",
+      "modules": [
+        {
+          "module_id": "C1-M01",
+          "title": "Nuanced opinions",
+          "cefr_level": "C1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about nuanced opinions at C1 level.",
+            "I can speak or write about nuanced opinions using language appropriate to C1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "nuanced opinions",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "inversion",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C1-M02",
+          "title": "Research and evidence",
+          "cefr_level": "C1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about research and evidence at C1 level.",
+            "I can speak or write about research and evidence using language appropriate to C1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "research and evidence",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "cleft sentences",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C1-M03",
+          "title": "Professional communication",
+          "cefr_level": "C1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about professional communication at C1 level.",
+            "I can speak or write about professional communication using language appropriate to C1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "professional communication",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "subjunctive patterns",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C1-M04",
+          "title": "Policy and society",
+          "cefr_level": "C1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about policy and society at C1 level.",
+            "I can speak or write about policy and society using language appropriate to C1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "policy and society",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "hedging and stance",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C1-M05",
+          "title": "Complex narratives",
+          "cefr_level": "C1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about complex narratives at C1 level.",
+            "I can speak or write about complex narratives using language appropriate to C1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "complex narratives",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "nominalisation",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C1-M06",
+          "title": "Presentation skills",
+          "cefr_level": "C1",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about presentation skills at C1 level.",
+            "I can speak or write about presentation skills using language appropriate to C1.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "presentation skills",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "complex clause control",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "cefr": "C2",
+      "label": "Mastery",
+      "theta_anchor": 2.8,
+      "entry_profile": "Learner demonstrates mastery control of English across familiar and increasingly complex contexts.",
+      "exit_profile": "Learner can perform the listed C2 can-do outcomes with increasing independence.",
+      "modules": [
+        {
+          "module_id": "C2-M01",
+          "title": "Critical synthesis",
+          "cefr_level": "C2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about critical synthesis at C2 level.",
+            "I can speak or write about critical synthesis using language appropriate to C2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "critical synthesis",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "rhetorical patterning",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C2-M02",
+          "title": "Rhetoric and style",
+          "cefr_level": "C2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about rhetoric and style at C2 level.",
+            "I can speak or write about rhetoric and style using language appropriate to C2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "rhetoric and style",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "ellipsis and substitution",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C2-M03",
+          "title": "Specialist discourse",
+          "cefr_level": "C2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about specialist discourse at C2 level.",
+            "I can speak or write about specialist discourse using language appropriate to C2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "specialist discourse",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "idiomatic modality",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C2-M04",
+          "title": "Abstract debate",
+          "cefr_level": "C2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about abstract debate at C2 level.",
+            "I can speak or write about abstract debate using language appropriate to C2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "abstract debate",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "register shifts",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C2-M05",
+          "title": "Advanced writing",
+          "cefr_level": "C2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about advanced writing at C2 level.",
+            "I can speak or write about advanced writing using language appropriate to C2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "advanced writing",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "advanced cohesion",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        },
+        {
+          "module_id": "C2-M06",
+          "title": "High-stakes communication",
+          "cefr_level": "C2",
+          "duration_hours": 10,
+          "can_do_outcomes": [
+            "I can understand key information about high-stakes communication at C2 level.",
+            "I can speak or write about high-stakes communication using language appropriate to C2.",
+            "I can use target grammar and vocabulary from this module in a real communicative task."
+          ],
+          "vocabulary_fields": [
+            "high-stakes communication",
+            "classroom interaction",
+            "functional phrases",
+            "collocations",
+            "review words"
+          ],
+          "grammar_focus": "precision grammar",
+          "lesson_sequence": [
+            {
+              "lesson": 1,
+              "focus": "diagnostic warmer and vocabulary input"
+            },
+            {
+              "lesson": 2,
+              "focus": "guided listening or reading with noticing task"
+            },
+            {
+              "lesson": 3,
+              "focus": "grammar discovery and controlled practice"
+            },
+            {
+              "lesson": 4,
+              "focus": "speaking task with sentence frames"
+            },
+            {
+              "lesson": 5,
+              "focus": "writing or presentation product"
+            },
+            {
+              "lesson": 6,
+              "focus": "review, mini-test, feedback and next-step plan"
+            }
+          ],
+          "assessment_evidence": [
+            "short receptive quiz",
+            "speaking performance checklist",
+            "writing sample",
+            "self-reflection can-do tracker"
+          ],
+          "teacher_support": {
+            "differentiation": [
+              "extra sentence stems",
+              "challenge extension",
+              "peer rehearsal",
+              "visual model"
+            ],
+            "feedback_codes": [
+              "G=grammar",
+              "V=vocabulary",
+              "C=coherence",
+              "T=task achievement"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

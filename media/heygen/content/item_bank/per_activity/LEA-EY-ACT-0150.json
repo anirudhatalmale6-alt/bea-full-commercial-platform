@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0150",
+  "title": "Measurement: Standard Units - Listen and Choose 2",
+  "grade_band": "Grade 2",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can standard units through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: answer.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: answer.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "answer",
+      "distractors": [
+        "record",
+        "measure",
+        "solution"
+      ],
+      "choices": [
+        "record",
+        "measure",
+        "solution",
+        "answer"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for answer",
+        "caption_text": "Choose the best answer for standard units: answer.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: listen.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: listen.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "listen",
+      "distractors": [
+        "measure",
+        "paragraph",
+        "describe"
+      ],
+      "choices": [
+        "measure",
+        "paragraph",
+        "listen",
+        "describe"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for listen",
+        "caption_text": "Choose the best answer for standard units: listen.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: record.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: record.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "record",
+      "distractors": [
+        "pattern",
+        "example",
+        "topic"
+      ],
+      "choices": [
+        "pattern",
+        "example",
+        "record",
+        "topic"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for record",
+        "caption_text": "Choose the best answer for standard units: record.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: sentence.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: sentence.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "sentence",
+      "distractors": [
+        "paragraph",
+        "compare",
+        "reason"
+      ],
+      "choices": [
+        "paragraph",
+        "compare",
+        "reason",
+        "sentence"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for sentence",
+        "caption_text": "Choose the best answer for standard units: sentence.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: paragraph.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: paragraph.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "paragraph",
+      "distractors": [
+        "predict",
+        "listen",
+        "explain"
+      ],
+      "choices": [
+        "paragraph",
+        "predict",
+        "listen",
+        "explain"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for paragraph",
+        "caption_text": "Choose the best answer for standard units: paragraph.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: topic.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: topic.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "topic",
+      "distractors": [
+        "reason",
+        "support",
+        "pattern"
+      ],
+      "choices": [
+        "reason",
+        "support",
+        "pattern",
+        "topic"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for topic",
+        "caption_text": "Choose the best answer for standard units: topic.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: detail.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: detail.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "detail",
+      "distractors": [
+        "explain",
+        "paragraph",
+        "compare"
+      ],
+      "choices": [
+        "explain",
+        "detail",
+        "paragraph",
+        "compare"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for detail",
+        "caption_text": "Choose the best answer for standard units: detail.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: reason.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: reason.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "reason",
+      "distractors": [
+        "explain",
+        "solution",
+        "evidence"
+      ],
+      "choices": [
+        "explain",
+        "solution",
+        "evidence",
+        "reason"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for reason",
+        "caption_text": "Choose the best answer for standard units: reason.",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: example.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: example.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "example",
+      "distractors": [
+        "describe",
+        "predict",
+        "detail"
+      ],
+      "choices": [
+        "describe",
+        "example",
+        "predict",
+        "detail"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for example",
+        "caption_text": "Choose the best answer for standard units: example.",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0150-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0150",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for standard units: compare.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for standard units: compare.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "compare",
+      "distractors": [
+        "sentence",
+        "pattern",
+        "answer"
+      ],
+      "choices": [
+        "sentence",
+        "compare",
+        "pattern",
+        "answer"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to standard units.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of standard units, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0150-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0150-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0150-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for compare",
+        "caption_text": "Choose the best answer for standard units: compare.",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

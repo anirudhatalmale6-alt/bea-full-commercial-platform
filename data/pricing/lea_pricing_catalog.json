@@ -1,0 +1,522 @@
+{
+  "version": "1.0",
+  "currency": "GBP",
+  "currency_symbol": "\u00a3",
+  "brand": "British English Academy",
+  "pricing_strategy": {
+    "positioning": "Affordable self-paced commercial ESL LMS with paid Level Test, short trial lesson unlock, paid courses, subscriptions and institution licences.",
+    "primary_conversion": "Paid Level Test first, then mapped pathway, short trial lesson, then full-course purchase.",
+    "public_note": "Prices can be edited by platform admins in the pricing CMS/admin dashboard."
+  },
+  "products": [
+    {
+      "product_id": "lea_level_test",
+      "stripe_product_key": "prod_lea_level_test",
+      "type": "level_test",
+      "name": "BEA Level Test, Score Report and Diagnostic Certificate",
+      "public_name": "Level Test",
+      "description": "Paid adaptive Level Test with mapped course pathway, score report and BEA diagnostic certificate.",
+      "price_gbp": 9.99,
+      "price_pence": 999,
+      "billing": "one_time",
+      "access_rule": "unlock_level_test",
+      "includes": [
+        "adaptive level test",
+        "score report",
+        "diagnostic certificate",
+        "mapped pathway",
+        "short trial eligibility"
+      ],
+      "recommended": true,
+      "active": true,
+      "stripe_price_env": "STRIPE_PRICE_BEA_LEVEL_TEST"
+    },
+    {
+      "product_id": "lea_short_trial",
+      "stripe_product_key": "internal_lea_short_trial",
+      "type": "trial_lesson",
+      "name": "Mapped Short Trial Lesson",
+      "public_name": "Short Trial Lesson",
+      "description": "Very short appetiser lesson unlocked only after paid and completed Level Test.",
+      "price_gbp": 0,
+      "price_pence": 0,
+      "billing": "included_after_level_test",
+      "access_rule": "unlock_after_paid_completed_level_test",
+      "includes": [
+        "one mapped mini lesson",
+        "short interactive practice",
+        "full course CTA"
+      ],
+      "recommended": false,
+      "active": true,
+      "stripe_price_env": null
+    }
+  ],
+  "courses": [
+    {
+      "course_id": "lea_a1_starter",
+      "slug": "a1-starter-english",
+      "type": "single_course",
+      "level": "A1",
+      "name": "A1 Starter English",
+      "description": "Beginner self-paced course with lessons, games, worksheets and final assessment.",
+      "launch_price_gbp": 27.0,
+      "launch_price_pence": 2700,
+      "standard_price_gbp": 49.0,
+      "standard_price_pence": 4900,
+      "billing": "one_time",
+      "duration_access_days": 180,
+      "includes": [
+        "36 lessons",
+        "6 modules",
+        "interactive activities",
+        "PDF/DOCX worksheets",
+        "answer keys",
+        "final level assessment",
+        "course completion certificate"
+      ],
+      "access_rule": "unlock_course_after_payment_or_active_subscription_or_institution_licence",
+      "requires_level_test_first": true,
+      "stripe_product_key": "prod_lea_a1_starter",
+      "stripe_price_env_launch": "STRIPE_PRICE_BEA_A1_STARTER_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BEA_A1_STARTER_STANDARD",
+      "active": true
+    },
+    {
+      "course_id": "lea_a2_everyday",
+      "slug": "a2-everyday-english",
+      "type": "single_course",
+      "level": "A2",
+      "name": "A2 Everyday English",
+      "description": "Elementary self-paced course for daily life, travel, shopping and short messages.",
+      "launch_price_gbp": 27.0,
+      "launch_price_pence": 2700,
+      "standard_price_gbp": 49.0,
+      "standard_price_pence": 4900,
+      "billing": "one_time",
+      "duration_access_days": 180,
+      "includes": [
+        "36 lessons",
+        "6 modules",
+        "interactive activities",
+        "PDF/DOCX worksheets",
+        "answer keys",
+        "final level assessment",
+        "course completion certificate"
+      ],
+      "access_rule": "unlock_course_after_payment_or_active_subscription_or_institution_licence",
+      "requires_level_test_first": true,
+      "stripe_product_key": "prod_lea_a2_everyday",
+      "stripe_price_env_launch": "STRIPE_PRICE_BEA_A2_EVERYDAY_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BEA_A2_EVERYDAY_STANDARD",
+      "active": true
+    },
+    {
+      "course_id": "lea_b1_independent",
+      "slug": "b1-independent-english",
+      "type": "single_course",
+      "level": "B1",
+      "name": "B1 Independent English",
+      "description": "Intermediate self-paced course for opinions, stories, work and study.",
+      "launch_price_gbp": 27.0,
+      "launch_price_pence": 2700,
+      "standard_price_gbp": 49.0,
+      "standard_price_pence": 4900,
+      "billing": "one_time",
+      "duration_access_days": 180,
+      "includes": [
+        "36 lessons",
+        "6 modules",
+        "interactive activities",
+        "PDF/DOCX worksheets",
+        "answer keys",
+        "final level assessment",
+        "course completion certificate"
+      ],
+      "access_rule": "unlock_course_after_payment_or_active_subscription_or_institution_licence",
+      "requires_level_test_first": true,
+      "stripe_product_key": "prod_lea_b1_independent",
+      "stripe_price_env_launch": "STRIPE_PRICE_BEA_B1_INDEPENDENT_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BEA_B1_INDEPENDENT_STANDARD",
+      "active": true
+    },
+    {
+      "course_id": "lea_b2_confident",
+      "slug": "b2-confident-english",
+      "type": "single_course",
+      "level": "B2",
+      "name": "B2 Confident English",
+      "description": "Upper-intermediate self-paced course for detailed academic and workplace communication.",
+      "launch_price_gbp": 27.0,
+      "launch_price_pence": 2700,
+      "standard_price_gbp": 49.0,
+      "standard_price_pence": 4900,
+      "billing": "one_time",
+      "duration_access_days": 180,
+      "includes": [
+        "36 lessons",
+        "6 modules",
+        "interactive activities",
+        "PDF/DOCX worksheets",
+        "answer keys",
+        "final level assessment",
+        "course completion certificate"
+      ],
+      "access_rule": "unlock_course_after_payment_or_active_subscription_or_institution_licence",
+      "requires_level_test_first": true,
+      "stripe_product_key": "prod_lea_b2_confident",
+      "stripe_price_env_launch": "STRIPE_PRICE_BEA_B2_CONFIDENT_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BEA_B2_CONFIDENT_STANDARD",
+      "active": true
+    },
+    {
+      "course_id": "lea_c1_advanced",
+      "slug": "c1-advanced-english",
+      "type": "single_course",
+      "level": "C1",
+      "name": "C1 Advanced English",
+      "description": "Advanced self-paced course for precise professional and academic communication.",
+      "launch_price_gbp": 27.0,
+      "launch_price_pence": 2700,
+      "standard_price_gbp": 49.0,
+      "standard_price_pence": 4900,
+      "billing": "one_time",
+      "duration_access_days": 180,
+      "includes": [
+        "36 lessons",
+        "6 modules",
+        "interactive activities",
+        "PDF/DOCX worksheets",
+        "answer keys",
+        "final level assessment",
+        "course completion certificate"
+      ],
+      "access_rule": "unlock_course_after_payment_or_active_subscription_or_institution_licence",
+      "requires_level_test_first": true,
+      "stripe_product_key": "prod_lea_c1_advanced",
+      "stripe_price_env_launch": "STRIPE_PRICE_BEA_C1_ADVANCED_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BEA_C1_ADVANCED_STANDARD",
+      "active": true
+    },
+    {
+      "course_id": "lea_c2_mastery",
+      "slug": "c2-mastery-english",
+      "type": "single_course",
+      "level": "C2",
+      "name": "C2 Mastery English",
+      "description": "Mastery course for nuance, tone, synthesis and high-level communication.",
+      "launch_price_gbp": 27.0,
+      "launch_price_pence": 2700,
+      "standard_price_gbp": 49.0,
+      "standard_price_pence": 4900,
+      "billing": "one_time",
+      "duration_access_days": 180,
+      "includes": [
+        "36 lessons",
+        "6 modules",
+        "interactive activities",
+        "PDF/DOCX worksheets",
+        "answer keys",
+        "final level assessment",
+        "course completion certificate"
+      ],
+      "access_rule": "unlock_course_after_payment_or_active_subscription_or_institution_licence",
+      "requires_level_test_first": true,
+      "stripe_product_key": "prod_lea_c2_mastery",
+      "stripe_price_env_launch": "STRIPE_PRICE_BEA_C2_MASTERY_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BEA_C2_MASTERY_STANDARD",
+      "active": true
+    }
+  ],
+  "bundles": [
+    {
+      "bundle_id": "bundle_a1_b1_foundations",
+      "type": "course_bundle",
+      "name": "Foundation English Bundle A1-B1",
+      "description": "A1, A2 and B1 self-paced courses for beginner to independent learners.",
+      "course_ids": [
+        "lea_a1_starter",
+        "lea_a2_everyday",
+        "lea_b1_independent"
+      ],
+      "launch_price_gbp": 69.0,
+      "launch_price_pence": 6900,
+      "standard_price_gbp": 99.0,
+      "standard_price_pence": 9900,
+      "billing": "one_time",
+      "duration_access_days": 365,
+      "access_rule": "unlock_bundle_courses_after_payment",
+      "stripe_price_env_launch": "STRIPE_PRICE_BUNDLE_A1_B1_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BUNDLE_A1_B1_STANDARD",
+      "active": true
+    },
+    {
+      "bundle_id": "bundle_b2_c2_advanced",
+      "type": "course_bundle",
+      "name": "Advanced English Bundle B2-C2",
+      "description": "B2, C1 and C2 self-paced courses for academic, professional and mastery-level learners.",
+      "course_ids": [
+        "lea_b2_confident",
+        "lea_c1_advanced",
+        "lea_c2_mastery"
+      ],
+      "launch_price_gbp": 89.0,
+      "launch_price_pence": 8900,
+      "standard_price_gbp": 129.0,
+      "standard_price_pence": 12900,
+      "billing": "one_time",
+      "duration_access_days": 365,
+      "access_rule": "unlock_bundle_courses_after_payment",
+      "stripe_price_env_launch": "STRIPE_PRICE_BUNDLE_B2_C2_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BUNDLE_B2_C2_STANDARD",
+      "active": true
+    },
+    {
+      "bundle_id": "bundle_a1_c2_complete",
+      "type": "course_bundle",
+      "name": "Complete English Pathway A1-C2",
+      "description": "Full A1-C2 self-paced BEA course library with all six level pathways.",
+      "course_ids": [
+        "lea_a1_starter",
+        "lea_a2_everyday",
+        "lea_b1_independent",
+        "lea_b2_confident",
+        "lea_c1_advanced",
+        "lea_c2_mastery"
+      ],
+      "launch_price_gbp": 149.0,
+      "launch_price_pence": 14900,
+      "standard_price_gbp": 249.0,
+      "standard_price_pence": 24900,
+      "billing": "one_time",
+      "duration_access_days": 730,
+      "access_rule": "unlock_all_courses_after_payment",
+      "stripe_price_env_launch": "STRIPE_PRICE_BUNDLE_A1_C2_LAUNCH",
+      "stripe_price_env_standard": "STRIPE_PRICE_BUNDLE_A1_C2_STANDARD",
+      "active": true,
+      "recommended": true
+    }
+  ],
+  "subscriptions": [
+    {
+      "subscription_id": "sub_monthly_self_study",
+      "type": "subscription",
+      "name": "BEA Monthly Self-Study Access",
+      "description": "Monthly access to all self-paced courses, games, worksheets and learner dashboard.",
+      "price_gbp": 19.0,
+      "price_pence": 1900,
+      "billing": "monthly",
+      "trial_days": 0,
+      "access_rule": "unlock_all_self_study_while_subscription_active",
+      "includes": [
+        "all self-paced courses",
+        "games",
+        "worksheets",
+        "progress tracking",
+        "course certificates"
+      ],
+      "stripe_price_env": "STRIPE_PRICE_SUB_MONTHLY_SELF_STUDY",
+      "active": true
+    },
+    {
+      "subscription_id": "sub_annual_self_study",
+      "type": "subscription",
+      "name": "BEA Annual Self-Study Access",
+      "description": "Annual access to all self-paced courses at a reduced annual price.",
+      "price_gbp": 149.0,
+      "price_pence": 14900,
+      "billing": "annual",
+      "trial_days": 0,
+      "access_rule": "unlock_all_self_study_while_subscription_active",
+      "includes": [
+        "all self-paced courses",
+        "games",
+        "worksheets",
+        "progress tracking",
+        "course certificates"
+      ],
+      "stripe_price_env": "STRIPE_PRICE_SUB_ANNUAL_SELF_STUDY",
+      "active": true,
+      "recommended": true
+    },
+    {
+      "subscription_id": "sub_premium_with_feedback",
+      "type": "subscription",
+      "name": "BEA Premium With Teacher Feedback",
+      "description": "Monthly self-study access plus limited teacher feedback credits for speaking/writing tasks.",
+      "price_gbp": 39.0,
+      "price_pence": 3900,
+      "billing": "monthly",
+      "teacher_feedback_credits": 4,
+      "trial_days": 0,
+      "access_rule": "unlock_all_self_study_and_feedback_credits",
+      "includes": [
+        "all self-paced courses",
+        "4 feedback credits/month",
+        "course certificates",
+        "priority support"
+      ],
+      "stripe_price_env": "STRIPE_PRICE_SUB_PREMIUM_FEEDBACK",
+      "active": true
+    }
+  ],
+  "institution_licences": [
+    {
+      "licence_id": "inst_starter_25",
+      "type": "institution_licence",
+      "name": "Institution Starter Licence",
+      "description": "For small schools, tutors or training centres.",
+      "learner_limit": 25,
+      "teacher_limit": 3,
+      "price_gbp": 299.0,
+      "price_pence": 29900,
+      "billing": "annual",
+      "extra_learner_price_gbp": 8.0,
+      "extra_learner_price_pence": 800,
+      "includes": [
+        "institution dashboard",
+        "teacher dashboard",
+        "25 learner seats",
+        "course assignment",
+        "CSV/PDF reports"
+      ],
+      "stripe_price_env": "STRIPE_PRICE_INST_STARTER_25",
+      "active": true
+    },
+    {
+      "licence_id": "inst_growth_100",
+      "type": "institution_licence",
+      "name": "Institution Growth Licence",
+      "description": "For schools, academies and employers with up to 100 learners.",
+      "learner_limit": 100,
+      "teacher_limit": 10,
+      "price_gbp": 799.0,
+      "price_pence": 79900,
+      "billing": "annual",
+      "extra_learner_price_gbp": 7.0,
+      "extra_learner_price_pence": 700,
+      "includes": [
+        "institution dashboard",
+        "teacher accounts",
+        "100 learner seats",
+        "bulk upload",
+        "CSV/PDF reports",
+        "certificate verification"
+      ],
+      "stripe_price_env": "STRIPE_PRICE_INST_GROWTH_100",
+      "active": true,
+      "recommended": true
+    },
+    {
+      "licence_id": "inst_pro_300",
+      "type": "institution_licence",
+      "name": "Institution Pro Licence",
+      "description": "For larger institutions with up to 300 learners.",
+      "learner_limit": 300,
+      "teacher_limit": 30,
+      "price_gbp": 1999.0,
+      "price_pence": 199900,
+      "billing": "annual",
+      "extra_learner_price_gbp": 6.0,
+      "extra_learner_price_pence": 600,
+      "includes": [
+        "organisation dashboard",
+        "30 teacher accounts",
+        "300 learner seats",
+        "bulk upload",
+        "advanced reports",
+        "onboarding support"
+      ],
+      "stripe_price_env": "STRIPE_PRICE_INST_PRO_300",
+      "active": true
+    },
+    {
+      "licence_id": "inst_enterprise_custom",
+      "type": "institution_licence",
+      "name": "Enterprise Licence",
+      "description": "Custom pricing for large schools, employers, councils or training providers.",
+      "learner_limit": null,
+      "teacher_limit": null,
+      "price_gbp": null,
+      "price_pence": null,
+      "billing": "custom_quote",
+      "extra_learner_price_gbp": null,
+      "extra_learner_price_pence": null,
+      "includes": [
+        "custom learner allocation",
+        "custom onboarding",
+        "reporting",
+        "integration support"
+      ],
+      "stripe_price_env": null,
+      "active": true,
+      "requires_sales_contact": true
+    }
+  ],
+  "coupons": [
+    {
+      "code": "LEAFOUNDERS30",
+      "discount_percent": 30,
+      "applies_to": [
+        "single_course",
+        "course_bundle",
+        "subscription"
+      ],
+      "duration": "launch_period",
+      "max_redemptions": 500,
+      "active": true
+    },
+    {
+      "code": "LEATESTFREE",
+      "discount_percent": 100,
+      "applies_to": [
+        "level_test"
+      ],
+      "duration": "admin_only",
+      "max_redemptions": 100,
+      "active": false
+    },
+    {
+      "code": "SCHOOL10",
+      "discount_percent": 10,
+      "applies_to": [
+        "institution_licence"
+      ],
+      "duration": "annual_first_invoice",
+      "max_redemptions": 100,
+      "active": true
+    }
+  ],
+  "refund_policy_rules": [
+    {
+      "product_type": "level_test",
+      "refund_window_days": 7,
+      "condition": "Refund only before the Level Test is started. No automatic refund after test attempt begins.",
+      "auto_revoke_access": true
+    },
+    {
+      "product_type": "single_course",
+      "refund_window_days": 14,
+      "condition": "Refund available if less than 20% of the course has been completed and no certificate has been issued.",
+      "auto_revoke_access": true
+    },
+    {
+      "product_type": "course_bundle",
+      "refund_window_days": 14,
+      "condition": "Refund available if no more than one course in the bundle has been started and no certificate has been issued.",
+      "auto_revoke_access": true
+    },
+    {
+      "product_type": "subscription",
+      "refund_window_days": 7,
+      "condition": "First billing period refund only where usage is minimal. Cancellation stops future billing.",
+      "auto_revoke_access": "at_period_end_or_immediate_if_refunded"
+    },
+    {
+      "product_type": "institution_licence",
+      "refund_window_days": 14,
+      "condition": "Refund subject to written agreement if onboarding has not been completed and fewer than 10 learner accounts have been activated.",
+      "auto_revoke_access": true
+    }
+  ]
+}

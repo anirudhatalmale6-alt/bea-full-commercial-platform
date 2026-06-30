@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0087",
+  "title": "Spelling: Encode One-Syllable Words - Tap the Sound 3",
+  "grade_band": "Grade 1",
+  "mechanic": "Tap the Sound",
+  "learning_goal": "Learner can encode one-syllable words through a short guided tap the sound activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /a/. Which word begins with /a/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /a/. Which word begins with /a/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "after",
+      "distractors": [
+        "school",
+        "cloud",
+        "garden"
+      ],
+      "choices": [
+        "after",
+        "school",
+        "cloud",
+        "garden"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for after",
+        "caption_text": "Listen: /a/. Which word begins with /a/?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /l/. Which word begins with /l/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /l/. Which word begins with /l/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "little",
+      "distractors": [
+        "people",
+        "after",
+        "street"
+      ],
+      "choices": [
+        "people",
+        "after",
+        "little",
+        "street"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for little",
+        "caption_text": "Listen: /l/. Which word begins with /l/?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /p/. Which word begins with /p/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /p/. Which word begins with /p/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "people",
+      "distractors": [
+        "kind",
+        "before",
+        "friend"
+      ],
+      "choices": [
+        "kind",
+        "before",
+        "people",
+        "friend"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for people",
+        "caption_text": "Listen: /p/. Which word begins with /p/?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /g/. Which word begins with /g/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /g/. Which word begins with /g/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "garden",
+      "distractors": [
+        "street",
+        "before",
+        "bright"
+      ],
+      "choices": [
+        "street",
+        "before",
+        "garden",
+        "bright"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for garden",
+        "caption_text": "Listen: /g/. Which word begins with /g/?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /a/. Which word begins with /a/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /a/. Which word begins with /a/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "animal",
+      "distractors": [
+        "cloud",
+        "little",
+        "kind"
+      ],
+      "choices": [
+        "cloud",
+        "little",
+        "kind",
+        "animal"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for animal",
+        "caption_text": "Listen: /a/. Which word begins with /a/?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /m/. Which word begins with /m/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /m/. Which word begins with /m/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "market",
+      "distractors": [
+        "letter",
+        "cloud",
+        "school"
+      ],
+      "choices": [
+        "letter",
+        "cloud",
+        "market",
+        "school"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for market",
+        "caption_text": "Listen: /m/. Which word begins with /m/?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "story",
+      "distractors": [
+        "cloud",
+        "before",
+        "family"
+      ],
+      "choices": [
+        "story",
+        "cloud",
+        "before",
+        "family"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for story",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /l/. Which word begins with /l/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /l/. Which word begins with /l/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "letter",
+      "distractors": [
+        "market",
+        "story",
+        "bright"
+      ],
+      "choices": [
+        "market",
+        "letter",
+        "story",
+        "bright"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for letter",
+        "caption_text": "Listen: /l/. Which word begins with /l/?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /p/. Which word begins with /p/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /p/. Which word begins with /p/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "picture",
+      "distractors": [
+        "letter",
+        "kind",
+        "after"
+      ],
+      "choices": [
+        "letter",
+        "kind",
+        "picture",
+        "after"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for picture",
+        "caption_text": "Listen: /p/. Which word begins with /p/?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0087-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0087",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-03",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /f/. Which word begins with /f/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /f/. Which word begins with /f/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "family",
+      "distractors": [
+        "people",
+        "picture",
+        "story"
+      ],
+      "choices": [
+        "people",
+        "picture",
+        "family",
+        "story"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0087-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0087-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0087-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for family",
+        "caption_text": "Listen: /f/. Which word begins with /f/?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0003",
+  "title": "Oral Language: Listen/Respond To Simple Directions - Find the Mistake 3",
+  "grade_band": "Pre-K",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can listen/respond to simple directions through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0003-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0003",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an dad.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an dad.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a dad.",
+      "distractors": [
+        "Clear the dad is.",
+        "The dad clear is.",
+        "I see an dad."
+      ],
+      "choices": [
+        "I see a dad.",
+        "Clear the dad is.",
+        "The dad clear is.",
+        "I see an dad."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0003-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0003-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0003-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a dad.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an dad.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0003-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0003",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an cup.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an cup.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a cup.",
+      "distractors": [
+        "The cup clear is.",
+        "I see an cup.",
+        "Clear the cup is."
+      ],
+      "choices": [
+        "I see a cup.",
+        "The cup clear is.",
+        "I see an cup.",
+        "Clear the cup is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0003-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0003-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0003-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a cup.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an cup.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0003-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0003",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an pen.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an pen.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a pen.",
+      "distractors": [
+        "I see an pen.",
+        "Clear the pen is.",
+        "The pen clear is."
+      ],
+      "choices": [
+        "I see an pen.",
+        "Clear the pen is.",
+        "I see a pen.",
+        "The pen clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0003-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0003-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0003-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a pen.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an pen.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0003-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0003",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an bag.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an bag.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a bag.",
+      "distractors": [
+        "I see an bag.",
+        "Clear the bag is.",
+        "The bag clear is."
+      ],
+      "choices": [
+        "I see a bag.",
+        "I see an bag.",
+        "Clear the bag is.",
+        "The bag clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0003-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0003-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0003-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a bag.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an bag.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0003-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0003",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an hat.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an hat.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a hat.",
+      "distractors": [
+        "The hat clear is.",
+        "I see an hat.",
+        "Clear the hat is."
+      ],
+      "choices": [
+        "The hat clear is.",
+        "I see a hat.",
+        "I see an hat.",
+        "Clear the hat is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0003-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0003-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0003-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a hat.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an hat.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0003-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0003",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an red.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an red.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a red.",
+      "distractors": [
+        "I see an red.",
+        "The red clear is.",
+        "Clear the red is."
+      ],
+      "choices": [
+        "I see an red.",
+        "The red clear is.",
+        "I see a red.",
+        "Clear the red is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0003-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0003-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0003-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a red.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an red.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0003-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0003",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an big.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an big.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a big.",
+      "distractors": [
+        "Clear the big is.",
+        "The big clear is.",
+        "I see an big."
+      ],
+      "choices": [
+        "Clear the big is.",
+        "I see a big.",
+        "The big clear is.",
+        "I see an big."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0003-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0003-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0003-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a big.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an big.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0003-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0003",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a sit.",
+      "distractors": [
+        "I see an sit.",
+        "The sit clear is.",
+        "Clear the sit is."
+      ],
+      "choices": [
+        "I see an sit.",
+        "I see a sit.",
+        "The sit clear is.",
+        "Clear the sit is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0003-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0003-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0003-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a sit.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

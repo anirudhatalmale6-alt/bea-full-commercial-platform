@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0029",
+  "title": "Patterns: Copy And Continue Ab Patterns - Drag to Build 1",
+  "grade_band": "Pre-K",
+  "mechanic": "Drag to Build",
+  "learning_goal": "Learner can copy and continue AB patterns through a short guided drag to build activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0029-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0029",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Patterns",
+      "skill_code": "EY-PRE-MAT-PAT-01",
+      "mechanic": "Drag to Build",
+      "prompt_text": "Put the steps in order for: copy and continue AB patterns.",
+      "prompt_audio_text": "Drag the cards to build the correct answer. Put the steps in order for: copy and continue AB patterns.",
+      "answer_format": "ordered_array",
+      "item_type": "drag_sequence",
+      "correct_answer": "First > Next > Then > Finally",
+      "distractors": [
+        "Finally > Then > Next > First",
+        "First > Next > First > Next",
+        "Next > First > Then > Finally"
+      ],
+      "choices": [
+        "Finally > Then > Next > First",
+        "First > Next > Then > Finally",
+        "First > Next > First > Next",
+        "Next > First > Then > Finally"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to copy and continue ab patterns.",
+        "interventions_by_error_type": {
+          "sequence_order": "Mini-teach: model one example of copy and continue ab patterns, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0029-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0029-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0029-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for First > Next > Then > Finally",
+        "caption_text": "Put the steps in order for: copy and continue AB patterns.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0029-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0029",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Patterns",
+      "skill_code": "EY-PRE-MAT-PAT-01",
+      "mechanic": "Drag to Build",
+      "prompt_text": "Put the steps in order for: copy and continue AB patterns.",
+      "prompt_audio_text": "Drag the cards to build the correct answer. Put the steps in order for: copy and continue AB patterns.",
+      "answer_format": "ordered_array",
+      "item_type": "drag_sequence",
+      "correct_answer": "First > Next > Then > Finally",
+      "distractors": [
+        "Next > First > Then > Finally",
+        "Finally > Then > Next > First",
+        "First > Next > First > Next"
+      ],
+      "choices": [
+        "First > Next > Then > Finally",
+        "Next > First > Then > Finally",
+        "Finally > Then > Next > First",
+        "First > Next > First > Next"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to copy and continue ab patterns.",
+        "interventions_by_error_type": {
+          "sequence_order": "Mini-teach: model one example of copy and continue ab patterns, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0029-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0029-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0029-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for First > Next > Then > Finally",
+        "caption_text": "Put the steps in order for: copy and continue AB patterns.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0029-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0029",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Patterns",
+      "skill_code": "EY-PRE-MAT-PAT-01",
+      "mechanic": "Drag to Build",
+      "prompt_text": "Put the steps in order for: copy and continue AB patterns.",
+      "prompt_audio_text": "Drag the cards to build the correct answer. Put the steps in order for: copy and continue AB patterns.",
+      "answer_format": "ordered_array",
+      "item_type": "drag_sequence",
+      "correct_answer": "First > Next > Then > Finally",
+      "distractors": [
+        "Finally > Then > Next > First",
+        "Next > First > Then > Finally",
+        "First > Next > First > Next"
+      ],
+      "choices": [
+        "First > Next > Then > Finally",
+        "Finally > Then > Next > First",
+        "Next > First > Then > Finally",
+        "First > Next > First > Next"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to copy and continue ab patterns.",
+        "interventions_by_error_type": {
+          "sequence_order": "Mini-teach: model one example of copy and continue ab patterns, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0029-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0029-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0029-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for First > Next > Then > Finally",
+        "caption_text": "Put the steps in order for: copy and continue AB patterns.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0029-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0029",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Patterns",
+      "skill_code": "EY-PRE-MAT-PAT-01",
+      "mechanic": "Drag to Build",
+      "prompt_text": "Put the steps in order for: copy and continue AB patterns.",
+      "prompt_audio_text": "Drag the cards to build the correct answer. Put the steps in order for: copy and continue AB patterns.",
+      "answer_format": "ordered_array",
+      "item_type": "drag_sequence",
+      "correct_answer": "First > Next > Then > Finally",
+      "distractors": [
+        "First > Next > First > Next",
+        "Finally > Then > Next > First",
+        "Next > First > Then > Finally"
+      ],
+      "choices": [
+        "First > Next > First > Next",
+        "Finally > Then > Next > First",
+        "First > Next > Then > Finally",
+        "Next > First > Then > Finally"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to copy and continue ab patterns.",
+        "interventions_by_error_type": {
+          "sequence_order": "Mini-teach: model one example of copy and continue ab patterns, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0029-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0029-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0029-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for First > Next > Then > Finally",
+        "caption_text": "Put the steps in order for: copy and continue AB patterns.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0029-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0029",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Patterns",
+      "skill_code": "EY-PRE-MAT-PAT-01",
+      "mechanic": "Drag to Build",
+      "prompt_text": "Put the steps in order for: copy and continue AB patterns.",
+      "prompt_audio_text": "Drag the cards to build the correct answer. Put the steps in order for: copy and continue AB patterns.",
+      "answer_format": "ordered_array",
+      "item_type": "drag_sequence",
+      "correct_answer": "First > Next > Then > Finally",
+      "distractors": [
+        "Next > First > Then > Finally",
+        "Finally > Then > Next > First",
+        "First > Next > First > Next"
+      ],
+      "choices": [
+        "Next > First > Then > Finally",
+        "Finally > Then > Next > First",
+        "First > Next > First > Next",
+        "First > Next > Then > Finally"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to copy and continue ab patterns.",
+        "interventions_by_error_type": {
+          "sequence_order": "Mini-teach: model one example of copy and continue ab patterns, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0029-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0029-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0029-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for First > Next > Then > Finally",
+        "caption_text": "Put the steps in order for: copy and continue AB patterns.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0029-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0029",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Patterns",
+      "skill_code": "EY-PRE-MAT-PAT-01",
+      "mechanic": "Drag to Build",
+      "prompt_text": "Put the steps in order for: copy and continue AB patterns.",
+      "prompt_audio_text": "Drag the cards to build the correct answer. Put the steps in order for: copy and continue AB patterns.",
+      "answer_format": "ordered_array",
+      "item_type": "drag_sequence",
+      "correct_answer": "First > Next > Then > Finally",
+      "distractors": [
+        "Finally > Then > Next > First",
+        "First > Next > First > Next",
+        "Next > First > Then > Finally"
+      ],
+      "choices": [
+        "First > Next > Then > Finally",
+        "Finally > Then > Next > First",
+        "First > Next > First > Next",
+        "Next > First > Then > Finally"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to copy and continue ab patterns.",
+        "interventions_by_error_type": {
+          "sequence_order": "Mini-teach: model one example of copy and continue ab patterns, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0029-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0029-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0029-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for First > Next > Then > Finally",
+        "caption_text": "Put the steps in order for: copy and continue AB patterns.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0029-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0029",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Patterns",
+      "skill_code": "EY-PRE-MAT-PAT-01",
+      "mechanic": "Drag to Build",
+      "prompt_text": "Put the steps in order for: copy and continue AB patterns.",
+      "prompt_audio_text": "Drag the cards to build the correct answer. Put the steps in order for: copy and continue AB patterns.",
+      "answer_format": "ordered_array",
+      "item_type": "drag_sequence",
+      "correct_answer": "First > Next > Then > Finally",
+      "distractors": [
+        "First > Next > First > Next",
+        "Finally > Then > Next > First",
+        "Next > First > Then > Finally"
+      ],
+      "choices": [
+        "First > Next > First > Next",
+        "Finally > Then > Next > First",
+        "First > Next > Then > Finally",
+        "Next > First > Then > Finally"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to copy and continue ab patterns.",
+        "interventions_by_error_type": {
+          "sequence_order": "Mini-teach: model one example of copy and continue ab patterns, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0029-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0029-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0029-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for First > Next > Then > Finally",
+        "caption_text": "Put the steps in order for: copy and continue AB patterns.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0029-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0029",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Patterns",
+      "skill_code": "EY-PRE-MAT-PAT-01",
+      "mechanic": "Drag to Build",
+      "prompt_text": "Put the steps in order for: copy and continue AB patterns.",
+      "prompt_audio_text": "Drag the cards to build the correct answer. Put the steps in order for: copy and continue AB patterns.",
+      "answer_format": "ordered_array",
+      "item_type": "drag_sequence",
+      "correct_answer": "First > Next > Then > Finally",
+      "distractors": [
+        "Finally > Then > Next > First",
+        "First > Next > First > Next",
+        "Next > First > Then > Finally"
+      ],
+      "choices": [
+        "Finally > Then > Next > First",
+        "First > Next > First > Next",
+        "Next > First > Then > Finally",
+        "First > Next > Then > Finally"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to copy and continue ab patterns.",
+        "interventions_by_error_type": {
+          "sequence_order": "Mini-teach: model one example of copy and continue ab patterns, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0029-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0029-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0029-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for First > Next > Then > Finally",
+        "caption_text": "Put the steps in order for: copy and continue AB patterns.",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

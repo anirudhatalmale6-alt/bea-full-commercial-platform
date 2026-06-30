@@ -1,0 +1,189 @@
+{
+  "lesson_id": "B1-M06-L04",
+  "slug": "b1-m06-l04-b1-review-projects-and-integrated-skills-listening-lesson-4",
+  "cefr_level": "B1",
+  "course_title": "B1 Independent English",
+  "module_number": 6,
+  "module_title": "B1 Review, Projects and Integrated Skills",
+  "lesson_number": 4,
+  "lesson_title": "B1 Review, Projects and Integrated Skills: Listening Lesson 4",
+  "primary_skill": "listening",
+  "grammar_target": "passive voice basics",
+  "vocabulary_theme": "media",
+  "learning_objective": "Learners can explain, narrate, give reasons and manage familiar situations in a listening task about media.",
+  "cefr_outcome": "Learners can deal with most situations while travelling and produce simple connected text on familiar topics.",
+  "learner_facing_explanation": "In this lesson you will practise listening for b1 review, projects and integrated skills. You will learn useful language connected to media and practise passive voice basics. By the end, you should be able to complete a short real-life task and explain your answer clearly at B1 level.",
+  "complete_teaching_input": "Focus language: passive voice basics. Vocabulary theme: media. The teacher introduces the target language in a meaningful context, models pronunciation and form, checks meaning with concept questions, and moves learners from controlled practice to freer use. At B1, learners should explain, narrate, give reasons and manage familiar situations with increasing independence. The lesson should use board examples, short teacher modelling, pair practice, feedback and a final communicative task.",
+  "examples": [
+    "Example 1: I can use passive voice basics to talk about media.",
+    "Example 2: The learner gives a B1 answer with clear meaning and correct key language.",
+    "Example 3: The learner checks, improves and repeats the answer after feedback.",
+    "Example 4: The learner uses one linking phrase or support phrase suitable for B1."
+  ],
+  "interactive_practice": [
+    {
+      "item_id": "B1-M06-L04-P1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence using passive voice basics.",
+      "options": [
+        "Correct use of passive voice basics in a B1 sentence.",
+        "Incorrect word order with passive voice basics.",
+        "Wrong tense for the meaning.",
+        "Unclear sentence with missing information."
+      ],
+      "correct_answer": 0,
+      "distractors": [
+        1,
+        2,
+        3
+      ],
+      "feedback_correct": "Correct. The sentence uses passive voice basics accurately.",
+      "feedback_incorrect": "Check the form and meaning of passive voice basics."
+    },
+    {
+      "item_id": "B1-M06-L04-P2",
+      "type": "matching",
+      "prompt": "Match the media phrase to its meaning.",
+      "pairs": [
+        {
+          "left": "media phrase A",
+          "right": "meaning A"
+        },
+        {
+          "left": "media phrase B",
+          "right": "meaning B"
+        },
+        {
+          "left": "media phrase C",
+          "right": "meaning C"
+        }
+      ],
+      "feedback_correct": "Good matching. You understand the phrase meaning.",
+      "feedback_incorrect": "Look again at the context and key words."
+    },
+    {
+      "item_id": "B1-M06-L04-P3",
+      "type": "sentence_builder",
+      "prompt": "Build a complete answer for the lesson task.",
+      "word_bank": [
+        "I",
+        "can",
+        "explain",
+        "my",
+        "idea",
+        "clearly",
+        "because"
+      ],
+      "model_answer": "I can explain my idea clearly because I understand media.",
+      "feedback_correct": "Well done. Your sentence is complete and meaningful.",
+      "feedback_incorrect": "Check that your sentence has a subject, verb and clear meaning."
+    }
+  ],
+  "correct_answers": {
+    "P1": 0,
+    "P2": [
+      "A->meaning A",
+      "B->meaning B",
+      "C->meaning C"
+    ],
+    "P3": "I can explain my idea clearly because I understand media."
+  },
+  "distractors": [
+    "Wrong tense for passive voice basics",
+    "Unclear word order",
+    "Answer does not match context",
+    "Too short for the task"
+  ],
+  "instant_feedback": {
+    "correct": "Correct. Continue to the next step.",
+    "partly_correct": "Good start. Check accuracy and add one more detail.",
+    "incorrect": "Try again. Review the model and look at the key language."
+  },
+  "teacher_notes": "Begin with a quick diagnostic question. Model the target form passive voice basics. Use choral repetition if pronunciation is important. Monitor pair work and record three common errors. Finish with delayed correction and one confidence-building success point.",
+  "homework_task": "Write or record five sentences about media using language from this lesson.",
+  "assessment_task": {
+    "task_title": "B1 Listening Check - B1 Review, Projects and Integrated Skills",
+    "instructions": "Complete a short listening task using passive voice basics and vocabulary from media.",
+    "success_criteria": [
+      "Uses passive voice basics with reasonable accuracy",
+      "Uses vocabulary connected to media",
+      "Completes the communicative purpose",
+      "Responds at the expected CEFR level"
+    ],
+    "pass_score": 70
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "name": "Task achievement",
+        "max": 5,
+        "descriptor": "Completes the communicative purpose."
+      },
+      {
+        "name": "Language control",
+        "max": 5,
+        "descriptor": "Uses passive voice basics and sentence structure accurately."
+      },
+      {
+        "name": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses appropriate words connected to media."
+      },
+      {
+        "name": "Fluency/coherence",
+        "max": 5,
+        "descriptor": "Organises ideas clearly for the level."
+      }
+    ],
+    "pass_total": 14
+  },
+  "speaking_task": "Speak for 60-120 seconds about media. Use at least two examples and one reason.",
+  "writing_task": "Write a short B1 response about media. Include the target language: passive voice basics.",
+  "listening_audio": {
+    "audio_file": "audio/b1-m06-l04-listening.mp3",
+    "script": "Audio script for B1-M06-L04. Speaker one: Today we are practising media. Speaker two: I need to use passive voice basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m06-l04-listening.ssml"
+  },
+  "visual_activity_cards": [
+    {
+      "card_id": "B1-M06-L04-VC1",
+      "title": "Media word",
+      "alt_text": "Illustration for media vocabulary"
+    },
+    {
+      "card_id": "B1-M06-L04-VC2",
+      "title": "Passive Voice Basics form",
+      "alt_text": "Visual grammar card for passive voice basics"
+    },
+    {
+      "card_id": "B1-M06-L04-VC3",
+      "title": "Listening task",
+      "alt_text": "Visual task card for listening"
+    },
+    {
+      "card_id": "B1-M06-L04-VC4",
+      "title": "Success badge",
+      "alt_text": "Star badge showing lesson completion"
+    }
+  ],
+  "downloadables": {
+    "worksheet_pdf": "worksheets/b1-m06-l04-b1-review-projects-and-integrated-skills-listening-lesson-4.pdf",
+    "worksheet_docx": "worksheets/b1-m06-l04-b1-review-projects-and-integrated-skills-listening-lesson-4.docx",
+    "answer_key": "answer_keys/b1-m06-l04-b1-review-projects-and-integrated-skills-listening-lesson-4-answer-key.pdf",
+    "teacher_notes": "teacher_packs/b1-m06-l04-b1-review-projects-and-integrated-skills-listening-lesson-4-teacher-notes.pdf"
+  },
+  "completion_rule": {
+    "required_view_blocks": [
+      "learner_facing_explanation",
+      "examples",
+      "interactive_practice"
+    ],
+    "required_activity_score": 70,
+    "requires_homework_submission": false,
+    "requires_teacher_review": false,
+    "issue_progress_star": true,
+    "unlock_next_lesson": true
+  },
+  "qa_status": "ready_for_editorial_review",
+  "cefr_validation_status": "mapped_pending_external_validation"
+}

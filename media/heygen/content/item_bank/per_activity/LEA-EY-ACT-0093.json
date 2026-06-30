@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0093",
+  "title": "Vocabulary: Context And Categories - Blend Builder 1",
+  "grade_band": "Grade 1",
+  "mechanic": "Blend Builder",
+  "learning_goal": "Learner can context and categories through a short guided blend builder activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in story: s-t-o-r. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in story: s-t-o-r. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "story",
+      "distractors": [
+        "friend",
+        "kind",
+        "after"
+      ],
+      "choices": [
+        "story",
+        "friend",
+        "kind",
+        "after"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for story",
+        "caption_text": "Blend the sounds in story: s-t-o-r. What word do you hear?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in letter: l-e-t-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in letter: l-e-t-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "letter",
+      "distractors": [
+        "picture",
+        "community",
+        "bright"
+      ],
+      "choices": [
+        "picture",
+        "community",
+        "letter",
+        "bright"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for letter",
+        "caption_text": "Blend the sounds in letter: l-e-t-t. What word do you hear?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in picture: p-i-c-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in picture: p-i-c-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "picture",
+      "distractors": [
+        "community",
+        "friend",
+        "school"
+      ],
+      "choices": [
+        "community",
+        "friend",
+        "school",
+        "picture"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for picture",
+        "caption_text": "Blend the sounds in picture: p-i-c-t. What word do you hear?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in family: f-a-m-i. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in family: f-a-m-i. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "family",
+      "distractors": [
+        "little",
+        "market",
+        "picture"
+      ],
+      "choices": [
+        "little",
+        "market",
+        "family",
+        "picture"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for family",
+        "caption_text": "Blend the sounds in family: f-a-m-i. What word do you hear?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in community: c-o-m-m. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in community: c-o-m-m. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "community",
+      "distractors": [
+        "kind",
+        "happy",
+        "market"
+      ],
+      "choices": [
+        "kind",
+        "happy",
+        "market",
+        "community"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for community",
+        "caption_text": "Blend the sounds in community: c-o-m-m. What word do you hear?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in kind: k-i-n-d. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in kind: k-i-n-d. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "kind",
+      "distractors": [
+        "letter",
+        "before",
+        "street"
+      ],
+      "choices": [
+        "letter",
+        "kind",
+        "before",
+        "street"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for kind",
+        "caption_text": "Blend the sounds in kind: k-i-n-d. What word do you hear?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in bright: b-r-i-g. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in bright: b-r-i-g. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "bright",
+      "distractors": [
+        "animal",
+        "kind",
+        "happy"
+      ],
+      "choices": [
+        "animal",
+        "bright",
+        "kind",
+        "happy"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bright",
+        "caption_text": "Blend the sounds in bright: b-r-i-g. What word do you hear?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in street: s-t-r-e. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in street: s-t-r-e. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "street",
+      "distractors": [
+        "garden",
+        "because",
+        "market"
+      ],
+      "choices": [
+        "street",
+        "garden",
+        "because",
+        "market"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for street",
+        "caption_text": "Blend the sounds in street: s-t-r-e. What word do you hear?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in cloud: c-l-o-u. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in cloud: c-l-o-u. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "cloud",
+      "distractors": [
+        "friend",
+        "story",
+        "before"
+      ],
+      "choices": [
+        "friend",
+        "story",
+        "cloud",
+        "before"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cloud",
+        "caption_text": "Blend the sounds in cloud: c-l-o-u. What word do you hear?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0093-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0093",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Vocabulary",
+      "skill_code": "EY-GRA-LIT-VOC-01",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in friend: f-r-i-e. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in friend: f-r-i-e. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "friend",
+      "distractors": [
+        "picture",
+        "animal",
+        "community"
+      ],
+      "choices": [
+        "picture",
+        "animal",
+        "community",
+        "friend"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to context and categories.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of context and categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0093-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0093-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0093-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for friend",
+        "caption_text": "Blend the sounds in friend: f-r-i-e. What word do you hear?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

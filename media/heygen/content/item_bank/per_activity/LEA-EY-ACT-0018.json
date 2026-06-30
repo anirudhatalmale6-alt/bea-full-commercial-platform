@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0018",
+  "title": "Vocabulary: Name And Describe Common Objects - Tap the Sound 2",
+  "grade_band": "Pre-K",
+  "mechanic": "Tap the Sound",
+  "learning_goal": "Learner can name and describe common objects through a short guided tap the sound activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0018-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0018",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Vocabulary",
+      "skill_code": "EY-PRE-LIT-VOC-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /f/. Which word begins with /f/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /f/. Which word begins with /f/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "fox",
+      "distractors": [
+        "hat",
+        "bag",
+        "hop"
+      ],
+      "choices": [
+        "hat",
+        "bag",
+        "fox",
+        "hop"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to name and describe common objects.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of name and describe common objects, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0018-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0018-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0018-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for fox",
+        "caption_text": "Listen: /f/. Which word begins with /f/?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0018-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0018",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Vocabulary",
+      "skill_code": "EY-PRE-LIT-VOC-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "sun",
+      "distractors": [
+        "jam",
+        "pen",
+        "tap"
+      ],
+      "choices": [
+        "jam",
+        "sun",
+        "pen",
+        "tap"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to name and describe common objects.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of name and describe common objects, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0018-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0018-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0018-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for sun",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0018-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0018",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Vocabulary",
+      "skill_code": "EY-PRE-LIT-VOC-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /c/. Which word begins with /c/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /c/. Which word begins with /c/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "cat",
+      "distractors": [
+        "mum",
+        "map",
+        "sun"
+      ],
+      "choices": [
+        "mum",
+        "cat",
+        "map",
+        "sun"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to name and describe common objects.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of name and describe common objects, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0018-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0018-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0018-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cat",
+        "caption_text": "Listen: /c/. Which word begins with /c/?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0018-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0018",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Vocabulary",
+      "skill_code": "EY-PRE-LIT-VOC-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /d/. Which word begins with /d/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /d/. Which word begins with /d/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "dog",
+      "distractors": [
+        "tap",
+        "run",
+        "big"
+      ],
+      "choices": [
+        "dog",
+        "tap",
+        "run",
+        "big"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to name and describe common objects.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of name and describe common objects, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0018-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0018-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0018-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for dog",
+        "caption_text": "Listen: /d/. Which word begins with /d/?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0018-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0018",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Vocabulary",
+      "skill_code": "EY-PRE-LIT-VOC-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /m/. Which word begins with /m/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /m/. Which word begins with /m/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "mum",
+      "distractors": [
+        "tap",
+        "hop",
+        "red"
+      ],
+      "choices": [
+        "tap",
+        "hop",
+        "mum",
+        "red"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to name and describe common objects.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of name and describe common objects, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0018-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0018-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0018-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for mum",
+        "caption_text": "Listen: /m/. Which word begins with /m/?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0018-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0018",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Vocabulary",
+      "skill_code": "EY-PRE-LIT-VOC-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /d/. Which word begins with /d/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /d/. Which word begins with /d/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "dad",
+      "distractors": [
+        "hop",
+        "cat",
+        "fox"
+      ],
+      "choices": [
+        "hop",
+        "dad",
+        "cat",
+        "fox"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to name and describe common objects.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of name and describe common objects, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0018-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0018-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0018-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for dad",
+        "caption_text": "Listen: /d/. Which word begins with /d/?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0018-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0018",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Vocabulary",
+      "skill_code": "EY-PRE-LIT-VOC-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /c/. Which word begins with /c/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /c/. Which word begins with /c/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "cup",
+      "distractors": [
+        "red",
+        "sun",
+        "dog"
+      ],
+      "choices": [
+        "red",
+        "sun",
+        "cup",
+        "dog"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to name and describe common objects.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of name and describe common objects, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0018-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0018-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0018-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cup",
+        "caption_text": "Listen: /c/. Which word begins with /c/?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0018-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0018",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Vocabulary",
+      "skill_code": "EY-PRE-LIT-VOC-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /p/. Which word begins with /p/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /p/. Which word begins with /p/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "pen",
+      "distractors": [
+        "jam",
+        "mum",
+        "dad"
+      ],
+      "choices": [
+        "pen",
+        "jam",
+        "mum",
+        "dad"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to name and describe common objects.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of name and describe common objects, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0018-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0018-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0018-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pen",
+        "caption_text": "Listen: /p/. Which word begins with /p/?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

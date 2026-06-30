@@ -1,0 +1,85 @@
+{
+  "activity_id": "ACT-A1-M04-L03",
+  "lesson_id": "A1-M04-L03",
+  "activity_type": "listen_and_choose",
+  "title": "Places, Directions and Local Life: Reading Lesson 3 - Interactive Practice",
+  "cefr_level": "A1",
+  "skill": "reading",
+  "instructions": "Complete the listen and choose task. Use the lesson examples for support.",
+  "items": [
+    {
+      "item_id": "A1-M04-L03-P1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence using singular/plural nouns.",
+      "options": [
+        "Correct use of singular/plural nouns in a A1 sentence.",
+        "Incorrect word order with singular/plural nouns.",
+        "Wrong tense for the meaning.",
+        "Unclear sentence with missing information."
+      ],
+      "correct_answer": 0,
+      "distractors": [
+        1,
+        2,
+        3
+      ],
+      "feedback_correct": "Correct. The sentence uses singular/plural nouns accurately.",
+      "feedback_incorrect": "Check the form and meaning of singular/plural nouns."
+    },
+    {
+      "item_id": "A1-M04-L03-P2",
+      "type": "matching",
+      "prompt": "Match the places phrase to its meaning.",
+      "pairs": [
+        {
+          "left": "places phrase A",
+          "right": "meaning A"
+        },
+        {
+          "left": "places phrase B",
+          "right": "meaning B"
+        },
+        {
+          "left": "places phrase C",
+          "right": "meaning C"
+        }
+      ],
+      "feedback_correct": "Good matching. You understand the phrase meaning.",
+      "feedback_incorrect": "Look again at the context and key words."
+    },
+    {
+      "item_id": "A1-M04-L03-P3",
+      "type": "sentence_builder",
+      "prompt": "Build a complete answer for the lesson task.",
+      "word_bank": [
+        "I",
+        "can",
+        "explain",
+        "my",
+        "idea",
+        "clearly",
+        "because"
+      ],
+      "model_answer": "I can explain my idea clearly because I understand places.",
+      "feedback_correct": "Well done. Your sentence is complete and meaningful.",
+      "feedback_incorrect": "Check that your sentence has a subject, verb and clear meaning."
+    }
+  ],
+  "scoring_rules": {
+    "max_score": 100,
+    "pass_score": 70,
+    "retry_limit": 3
+  },
+  "success_animation": "star_burst",
+  "badge": "A1 Reading Star",
+  "sound_effects": {
+    "success": "success-chime.mp3",
+    "retry": "gentle-retry.mp3"
+  },
+  "child_friendly_screen": true,
+  "instant_feedback": {
+    "correct": "Correct. Continue to the next step.",
+    "partly_correct": "Good start. Check accuracy and add one more detail.",
+    "incorrect": "Try again. Review the model and look at the key language."
+  }
+}

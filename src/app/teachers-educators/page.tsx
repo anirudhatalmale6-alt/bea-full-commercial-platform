@@ -1,0 +1,5 @@
+import Link from "next/link";
+
+export default function TeachersEducatorsPage() {
+  return <main className="page-shell"><section className="hero-card"><p className="eyebrow">For Teachers & Educators</p><h1>Teach, assign, track and support learners with BEA</h1><p>Teachers can preview course content, set learner pathways, assign modules and monitor progress. Course access opens after payment, subscription or institution licence.</p><div className="cta-row"><Link className="primary" href="/pricing">View pricing and enrol</Link><Link className="secondary" href="/teacher-dashboard">Open teacher dashboard</Link></div></section><section className="grid cards"><article><h2>Class tracking</h2><p>See lesson completion, activity scores, homework and review queues.</p></article><article><h2>Teacher feedback</h2><p>Review speaking and writing tasks and choose what parents can see.</p></article><article><h2>Institution ready</h2><p>Connect teachers, learners, parents and reports under one licence.</p></article></section></main>;
+}

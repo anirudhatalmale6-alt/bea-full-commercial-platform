@@ -1,0 +1,342 @@
+{
+  "activity_id": "LEA-EY-ACT-0208",
+  "title": "Turn-taking: Select Kind Words In A Partner Task - Kind Words Quest 2",
+  "grade_band": "Grade 2",
+  "mechanic": "Kind Words Quest",
+  "learning_goal": "Learner can select kind words in a partner task in a child-safe scenario.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0208-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0208",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Turn-taking",
+      "skill_code": "EY-GR-SOFT-TUR-02",
+      "mechanic": "Kind Words Quest",
+      "prompt_text": "Situation: You make a mistake in reading. Choose kind words.",
+      "prompt_audio_text": "Choose the kind words for the situation. Situation: You make a mistake in reading. Choose kind words.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Can I help you?",
+      "distractors": [
+        "That is wrong.",
+        "Move away.",
+        "I am first."
+      ],
+      "choices": [
+        "That is wrong.",
+        "Move away.",
+        "I am first.",
+        "Can I help you?"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to select kind words in a partner task.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of select kind words in a partner task, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0208-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0208-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0208-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Can I help you?",
+        "caption_text": "Situation: You make a mistake in reading. Choose kind words.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0208-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0208",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Turn-taking",
+      "skill_code": "EY-GR-SOFT-TUR-02",
+      "mechanic": "Kind Words Quest",
+      "prompt_text": "Situation: A classmate is left out. Choose kind words.",
+      "prompt_audio_text": "Choose the kind words for the situation. Situation: A classmate is left out. Choose kind words.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Can I help you?",
+      "distractors": [
+        "That is wrong.",
+        "I am first.",
+        "Move away."
+      ],
+      "choices": [
+        "That is wrong.",
+        "Can I help you?",
+        "I am first.",
+        "Move away."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to select kind words in a partner task.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of select kind words in a partner task, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0208-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0208-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0208-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Can I help you?",
+        "caption_text": "Situation: A classmate is left out. Choose kind words.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0208-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0208",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Turn-taking",
+      "skill_code": "EY-GR-SOFT-TUR-02",
+      "mechanic": "Kind Words Quest",
+      "prompt_text": "Situation: The game feels difficult. Choose kind words.",
+      "prompt_audio_text": "Choose the kind words for the situation. Situation: The game feels difficult. Choose kind words.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Can I help you?",
+      "distractors": [
+        "That is wrong.",
+        "Move away.",
+        "I am first."
+      ],
+      "choices": [
+        "That is wrong.",
+        "Move away.",
+        "I am first.",
+        "Can I help you?"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to select kind words in a partner task.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of select kind words in a partner task, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0208-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0208-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0208-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Can I help you?",
+        "caption_text": "Situation: The game feels difficult. Choose kind words.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0208-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0208",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Turn-taking",
+      "skill_code": "EY-GR-SOFT-TUR-02",
+      "mechanic": "Kind Words Quest",
+      "prompt_text": "Situation: A friend drops the crayons. Choose kind words.",
+      "prompt_audio_text": "Choose the kind words for the situation. Situation: A friend drops the crayons. Choose kind words.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Can I help you?",
+      "distractors": [
+        "That is wrong.",
+        "I am first.",
+        "Move away."
+      ],
+      "choices": [
+        "That is wrong.",
+        "I am first.",
+        "Move away.",
+        "Can I help you?"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to select kind words in a partner task.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of select kind words in a partner task, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0208-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0208-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0208-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Can I help you?",
+        "caption_text": "Situation: A friend drops the crayons. Choose kind words.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0208-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0208",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Turn-taking",
+      "skill_code": "EY-GR-SOFT-TUR-02",
+      "mechanic": "Kind Words Quest",
+      "prompt_text": "Situation: You make a mistake in reading. Choose kind words.",
+      "prompt_audio_text": "Choose the kind words for the situation. Situation: You make a mistake in reading. Choose kind words.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Can I help you?",
+      "distractors": [
+        "Move away.",
+        "That is wrong.",
+        "I am first."
+      ],
+      "choices": [
+        "Move away.",
+        "That is wrong.",
+        "I am first.",
+        "Can I help you?"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to select kind words in a partner task.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of select kind words in a partner task, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0208-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0208-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0208-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Can I help you?",
+        "caption_text": "Situation: You make a mistake in reading. Choose kind words.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0208-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0208",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Turn-taking",
+      "skill_code": "EY-GR-SOFT-TUR-02",
+      "mechanic": "Kind Words Quest",
+      "prompt_text": "Situation: A classmate is left out. Choose kind words.",
+      "prompt_audio_text": "Choose the kind words for the situation. Situation: A classmate is left out. Choose kind words.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Can I help you?",
+      "distractors": [
+        "I am first.",
+        "That is wrong.",
+        "Move away."
+      ],
+      "choices": [
+        "I am first.",
+        "Can I help you?",
+        "That is wrong.",
+        "Move away."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to select kind words in a partner task.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of select kind words in a partner task, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0208-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0208-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0208-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Can I help you?",
+        "caption_text": "Situation: A classmate is left out. Choose kind words.",
+        "keyboard_focus_order": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "lesson_id": "A1-M06-L02",
+  "slug": "a1-m06-l02-a1-review-speaking-and-everyday-tasks-vocabulary-lesson-2",
+  "cefr_level": "A1",
+  "course_title": "A1 Starter English",
+  "module_number": 6,
+  "module_title": "A1 Review, Speaking and Everyday Tasks",
+  "lesson_number": 2,
+  "lesson_title": "A1 Review, Speaking and Everyday Tasks: Vocabulary Lesson 2",
+  "primary_skill": "vocabulary",
+  "grammar_target": "be: am/is/are",
+  "vocabulary_theme": "personal information",
+  "learning_objective": "Learners can name, identify, ask and answer basic questions in a vocabulary task about personal information.",
+  "cefr_outcome": "Learners can understand and use familiar everyday expressions and very basic phrases for immediate needs.",
+  "learner_facing_explanation": "In this lesson you will practise vocabulary for a1 review, speaking and everyday tasks. You will learn useful language connected to personal information and practise be: am/is/are. By the end, you should be able to complete a short real-life task and explain your answer clearly at A1 level.",
+  "complete_teaching_input": "Focus language: be: am/is/are. Vocabulary theme: personal information. The teacher introduces the target language in a meaningful context, models pronunciation and form, checks meaning with concept questions, and moves learners from controlled practice to freer use. At A1, learners should name, identify, ask and answer basic questions with increasing independence. The lesson should use board examples, short teacher modelling, pair practice, feedback and a final communicative task.",
+  "examples": [
+    "Example 1: I can use be: am/is/are to talk about personal information.",
+    "Example 2: The learner gives a A1 answer with clear meaning and correct key language.",
+    "Example 3: The learner checks, improves and repeats the answer after feedback.",
+    "Example 4: The learner uses one linking phrase or support phrase suitable for A1."
+  ],
+  "interactive_practice": [
+    {
+      "item_id": "A1-M06-L02-P1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence using be: am/is/are.",
+      "options": [
+        "Correct use of be: am/is/are in a A1 sentence.",
+        "Incorrect word order with be: am/is/are.",
+        "Wrong tense for the meaning.",
+        "Unclear sentence with missing information."
+      ],
+      "correct_answer": 0,
+      "distractors": [
+        1,
+        2,
+        3
+      ],
+      "feedback_correct": "Correct. The sentence uses be: am/is/are accurately.",
+      "feedback_incorrect": "Check the form and meaning of be: am/is/are."
+    },
+    {
+      "item_id": "A1-M06-L02-P2",
+      "type": "matching",
+      "prompt": "Match the personal information phrase to its meaning.",
+      "pairs": [
+        {
+          "left": "personal information phrase A",
+          "right": "meaning A"
+        },
+        {
+          "left": "personal information phrase B",
+          "right": "meaning B"
+        },
+        {
+          "left": "personal information phrase C",
+          "right": "meaning C"
+        }
+      ],
+      "feedback_correct": "Good matching. You understand the phrase meaning.",
+      "feedback_incorrect": "Look again at the context and key words."
+    },
+    {
+      "item_id": "A1-M06-L02-P3",
+      "type": "sentence_builder",
+      "prompt": "Build a complete answer for the lesson task.",
+      "word_bank": [
+        "I",
+        "can",
+        "explain",
+        "my",
+        "idea",
+        "clearly",
+        "because"
+      ],
+      "model_answer": "I can explain my idea clearly because I understand personal information.",
+      "feedback_correct": "Well done. Your sentence is complete and meaningful.",
+      "feedback_incorrect": "Check that your sentence has a subject, verb and clear meaning."
+    }
+  ],
+  "correct_answers": {
+    "P1": 0,
+    "P2": [
+      "A->meaning A",
+      "B->meaning B",
+      "C->meaning C"
+    ],
+    "P3": "I can explain my idea clearly because I understand personal information."
+  },
+  "distractors": [
+    "Wrong tense for be: am/is/are",
+    "Unclear word order",
+    "Answer does not match context",
+    "Too short for the task"
+  ],
+  "instant_feedback": {
+    "correct": "Correct. Continue to the next step.",
+    "partly_correct": "Good start. Check accuracy and add one more detail.",
+    "incorrect": "Try again. Review the model and look at the key language."
+  },
+  "teacher_notes": "Begin with a quick diagnostic question. Model the target form be: am/is/are. Use choral repetition if pronunciation is important. Monitor pair work and record three common errors. Finish with delayed correction and one confidence-building success point.",
+  "homework_task": "Write or record five sentences about personal information using language from this lesson.",
+  "assessment_task": {
+    "task_title": "A1 Vocabulary Check - A1 Review, Speaking and Everyday Tasks",
+    "instructions": "Complete a short vocabulary task using be: am/is/are and vocabulary from personal information.",
+    "success_criteria": [
+      "Uses be: am/is/are with reasonable accuracy",
+      "Uses vocabulary connected to personal information",
+      "Completes the communicative purpose",
+      "Responds at the expected CEFR level"
+    ],
+    "pass_score": 70
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "name": "Task achievement",
+        "max": 5,
+        "descriptor": "Completes the communicative purpose."
+      },
+      {
+        "name": "Language control",
+        "max": 5,
+        "descriptor": "Uses be: am/is/are and sentence structure accurately."
+      },
+      {
+        "name": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses appropriate words connected to personal information."
+      },
+      {
+        "name": "Fluency/coherence",
+        "max": 5,
+        "descriptor": "Organises ideas clearly for the level."
+      }
+    ],
+    "pass_total": 14
+  },
+  "speaking_task": "Speak for 60-120 seconds about personal information. Use at least two examples and one reason.",
+  "writing_task": "Write a short A1 response about personal information. Include the target language: be: am/is/are.",
+  "listening_audio": {
+    "audio_file": "audio/a1-m06-l02-listening.mp3",
+    "script": "Audio script for A1-M06-L02. Speaker one: Today we are practising personal information. Speaker two: I need to use be: am/is/are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m06-l02-listening.ssml"
+  },
+  "visual_activity_cards": [
+    {
+      "card_id": "A1-M06-L02-VC1",
+      "title": "Personal Information word",
+      "alt_text": "Illustration for personal information vocabulary"
+    },
+    {
+      "card_id": "A1-M06-L02-VC2",
+      "title": "Be: Am/Is/Are form",
+      "alt_text": "Visual grammar card for be: am/is/are"
+    },
+    {
+      "card_id": "A1-M06-L02-VC3",
+      "title": "Vocabulary task",
+      "alt_text": "Visual task card for vocabulary"
+    },
+    {
+      "card_id": "A1-M06-L02-VC4",
+      "title": "Success badge",
+      "alt_text": "Star badge showing lesson completion"
+    }
+  ],
+  "downloadables": {
+    "worksheet_pdf": "worksheets/a1-m06-l02-a1-review-speaking-and-everyday-tasks-vocabulary-lesson-2.pdf",
+    "worksheet_docx": "worksheets/a1-m06-l02-a1-review-speaking-and-everyday-tasks-vocabulary-lesson-2.docx",
+    "answer_key": "answer_keys/a1-m06-l02-a1-review-speaking-and-everyday-tasks-vocabulary-lesson-2-answer-key.pdf",
+    "teacher_notes": "teacher_packs/a1-m06-l02-a1-review-speaking-and-everyday-tasks-vocabulary-lesson-2-teacher-notes.pdf"
+  },
+  "completion_rule": {
+    "required_view_blocks": [
+      "learner_facing_explanation",
+      "examples",
+      "interactive_practice"
+    ],
+    "required_activity_score": 70,
+    "requires_homework_submission": false,
+    "requires_teacher_review": false,
+    "issue_progress_star": true,
+    "unlock_next_lesson": true
+  },
+  "qa_status": "ready_for_editorial_review",
+  "cefr_validation_status": "mapped_pending_external_validation"
+}

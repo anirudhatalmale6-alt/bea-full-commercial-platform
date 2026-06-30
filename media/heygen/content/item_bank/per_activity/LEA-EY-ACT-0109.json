@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0109",
+  "title": "Measurement: Non-Standard Measurement - Listen and Choose 1",
+  "grade_band": "Grade 1",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can non-standard measurement through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: people.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: people.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "people",
+      "distractors": [
+        "story",
+        "because",
+        "animal"
+      ],
+      "choices": [
+        "story",
+        "because",
+        "people",
+        "animal"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for people",
+        "caption_text": "Choose the best answer for non-standard measurement: people.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: garden.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: garden.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "garden",
+      "distractors": [
+        "friend",
+        "because",
+        "after"
+      ],
+      "choices": [
+        "friend",
+        "garden",
+        "because",
+        "after"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for garden",
+        "caption_text": "Choose the best answer for non-standard measurement: garden.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: animal.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: animal.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "animal",
+      "distractors": [
+        "letter",
+        "cloud",
+        "community"
+      ],
+      "choices": [
+        "letter",
+        "animal",
+        "cloud",
+        "community"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for animal",
+        "caption_text": "Choose the best answer for non-standard measurement: animal.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: market.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: market.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "market",
+      "distractors": [
+        "picture",
+        "friend",
+        "because"
+      ],
+      "choices": [
+        "picture",
+        "market",
+        "friend",
+        "because"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for market",
+        "caption_text": "Choose the best answer for non-standard measurement: market.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: story.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: story.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "story",
+      "distractors": [
+        "friend",
+        "before",
+        "little"
+      ],
+      "choices": [
+        "friend",
+        "before",
+        "little",
+        "story"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for story",
+        "caption_text": "Choose the best answer for non-standard measurement: story.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: letter.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: letter.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "letter",
+      "distractors": [
+        "little",
+        "people",
+        "story"
+      ],
+      "choices": [
+        "letter",
+        "little",
+        "people",
+        "story"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for letter",
+        "caption_text": "Choose the best answer for non-standard measurement: letter.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: picture.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: picture.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "picture",
+      "distractors": [
+        "market",
+        "bright",
+        "happy"
+      ],
+      "choices": [
+        "market",
+        "bright",
+        "picture",
+        "happy"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for picture",
+        "caption_text": "Choose the best answer for non-standard measurement: picture.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: family.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: family.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "family",
+      "distractors": [
+        "garden",
+        "after",
+        "market"
+      ],
+      "choices": [
+        "family",
+        "garden",
+        "after",
+        "market"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for family",
+        "caption_text": "Choose the best answer for non-standard measurement: family.",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: community.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: community.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "community",
+      "distractors": [
+        "garden",
+        "story",
+        "kind"
+      ],
+      "choices": [
+        "garden",
+        "community",
+        "story",
+        "kind"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for community",
+        "caption_text": "Choose the best answer for non-standard measurement: community.",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0109-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0109",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for non-standard measurement: kind.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for non-standard measurement: kind.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "kind",
+      "distractors": [
+        "after",
+        "school",
+        "cloud"
+      ],
+      "choices": [
+        "after",
+        "kind",
+        "school",
+        "cloud"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0109-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0109-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0109-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for kind",
+        "caption_text": "Choose the best answer for non-standard measurement: kind.",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

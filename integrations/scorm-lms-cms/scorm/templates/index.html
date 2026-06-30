@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>British English Academy SCORM Lesson</title>
+  <script src="scormdriver.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f6fbf9; color: #111; }
+    main { max-width: 920px; margin: 0 auto; padding: 32px; }
+    .card { background: #fff; border: 1px solid #d8e6df; border-radius: 18px; padding: 24px; box-shadow: 0 2px 10px rgba(0,0,0,.06); }
+    button { background: #40C788; border: 0; color: #000; padding: 12px 18px; border-radius: 999px; font-weight: 700; cursor: pointer; }
+    .choice { display: block; margin: 12px 0; padding: 12px; border: 1px solid #ddd; border-radius: 12px; background: white; }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="card">
+      <h1 id="title">British English Academy Lesson</h1>
+      <p id="summary"></p>
+      <div id="question"></div>
+      <button id="submit">Submit and complete</button>
+      <p id="status"></p>
+    </section>
+  </main>
+  <script>
+    let data;
+    let selected = null;
+    function render() {
+      document.getElementById('title').textContent = data.title;
+      document.getElementById('summary').textContent = data.summary;
+      const q = data.items[0];
+      document.getElementById('question').innerHTML = '<h2>' + q.prompt + '</h2>' + q.choices.map(c => '<label class="choice"><input type="radio" name="answer" value="' + c + '"> ' + c + '</label>').join('');
+      document.querySelectorAll('input[name="answer"]').forEach(el => el.addEventListener('change', e => { selected = e.target.value; }));
+    }
+    async function start() {
+      LEASCORM.initialize();
+      const res = await fetch('content/data.json');
+      data = await res.json();
+      LEASCORM.setLocation('start');
+      render();
+    }
+    document.getElementById('submit').addEventListener('click', () => {
+      const q = data.items[0];
+      const score = selected === q.correct_answer ? 100 : 0;
+      LEASCORM.setScore(score, data.mastery_score || 80);
+      LEASCORM.setLocation('complete');
+      LEASCORM.setSuspendData({ selected, score, completedAt: new Date().toISOString() });
+      document.getElementById('status').textContent = score >= (data.mastery_score || 80) ? 'Completed and passed.' : 'Completed. Review and try again.';
+      LEASCORM.finish();
+    });
+    start();
+  </script>
+</body>
+</html>

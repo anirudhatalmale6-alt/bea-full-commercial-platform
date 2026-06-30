@@ -1,0 +1,20 @@
+{
+  "brand": "British English Academy",
+  "short_name": "BEA",
+  "currency": "GBP",
+  "price_label_updates": {
+    "level_test": "BEA Level Test, Score Report and Diagnostic Certificate",
+    "single_course_cta": "Start Full Course After Payment",
+    "certificate_diagnostic": "British English Academy Diagnostic Certificate",
+    "certificate_completion": "British English Academy Course Completion Certificate"
+  },
+  "env_var_prefix_changes": {
+    "STRIPE_PRICE_BEA_LEVEL_TEST": "STRIPE_PRICE_BEA_LEVEL_TEST",
+    "STRIPE_PRICE_BEA_A1_STARTER_LAUNCH": "STRIPE_PRICE_BEA_A1_STARTER_LAUNCH",
+    "STRIPE_PRICE_BEA_A2_EVERYDAY_LAUNCH": "STRIPE_PRICE_BEA_A2_EVERYDAY_LAUNCH",
+    "STRIPE_PRICE_BEA_B1_INDEPENDENT_LAUNCH": "STRIPE_PRICE_BEA_B1_INDEPENDENT_LAUNCH",
+    "STRIPE_PRICE_BEA_B2_CONFIDENT_LAUNCH": "STRIPE_PRICE_BEA_B2_CONFIDENT_LAUNCH",
+    "STRIPE_PRICE_BEA_C1_ADVANCED_LAUNCH": "STRIPE_PRICE_BEA_C1_ADVANCED_LAUNCH",
+    "STRIPE_PRICE_BEA_C2_MASTERY_LAUNCH": "STRIPE_PRICE_BEA_C2_MASTERY_LAUNCH"
+  }
+}

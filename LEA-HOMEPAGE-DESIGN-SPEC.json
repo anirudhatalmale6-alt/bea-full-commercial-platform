@@ -1,0 +1,22 @@
+{
+  "brand": "British English Academy",
+  "homepage_pattern": "Course-search marketplace style inspired by CoursesOnline: course navigator, quick goals, subjects, popular courses, course levels, providers/resources-style footer.",
+  "colour_direction": {
+    "primary": "#361163 Pearson-style deep purple",
+    "secondary": "#00A7A3 teal",
+    "accent": "#FFB81C yellow",
+    "support": "#EFE7F7 lilac, #DFF8F6 mint, #FF6955 coral",
+    "background": "#FAF7FD soft off-white"
+  },
+  "primary_conversion": "Paid adaptive CEFR placement test",
+  "updated_files": [
+    "src/app/page.tsx",
+    "british_english_academy_coursesonline_pearson_homepage.html",
+    "LEA-HOMEPAGE-DESIGN-SPEC.json",
+    "LEA-HOMEPAGE-STYLE-UPDATE.md"
+  ],
+  "notes": [
+    "The implementation is an original design. It does not copy third-party code, assets or proprietary content.",
+    "Benchmark names may appear only in internal design notes or citations."
+  ]
+}

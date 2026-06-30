@@ -1,0 +1,70 @@
+{
+  "created_at": "2026-06-17T11:04:50.426964Z",
+  "platform_name": "British English Academy",
+  "source_files_reviewed": [
+    {
+      "file": "london-english-academy-esl-platform-commercial-ready.zip",
+      "size_bytes": 204348
+    },
+    {
+      "file": "BEA_Brand_Rename_Splash_Style_Integration_Pack_v1_0.zip",
+      "size_bytes": 28281
+    },
+    {
+      "file": "BEA_LEA_Full_Commercial_Flow_Integration_Pack_v1_0.zip",
+      "size_bytes": 31787
+    },
+    {
+      "file": "LEA_Course_Pricing_Deployment_Pack_v1_0.zip",
+      "size_bytes": 29622
+    },
+    {
+      "file": "LEA_Commercial_Course_Content_Completion_Pack_v1_0.zip",
+      "size_bytes": 1765795
+    },
+    {
+      "file": "BEA_AMOZON POLLY_ SCRIPTS_Audio_Scripts_SSML_Batch_Pack_v1_0.zip",
+      "size_bytes": 1185895
+    },
+    {
+      "file": "LEA_Content_Media_HeyGen_Completion_Suite_v1_3.zip",
+      "size_bytes": 49227672
+    },
+    {
+      "file": "LEA_SCORM_LMS_CMS_Infrastructure_Pack_v2_0.zip",
+      "size_bytes": 188716
+    },
+    {
+      "file": "LEA_Early_Years_Interactive_Learning_Architecture_Addon_v1_2.zip",
+      "size_bytes": 99626
+    },
+    {
+      "file": "LEA_Early_Years_OpenAPI_v1_2.zip",
+      "size_bytes": 4897
+    },
+    {
+      "file": "BEA_BACKEND COMMERCIAL ENGINE INTEGRATIONS.zip",
+      "size_bytes": 28405
+    },
+    {
+      "file": "LEA_Final_Live_Deployment_Platform_Pack_v1_2.zip",
+      "size_bytes": 1332727
+    },
+    {
+      "file": "LEA_Early_Years_Adaptive_Game_Engine_Spec_v1_2.json",
+      "size_bytes": 33699
+    }
+  ],
+  "integrated_modules": {
+    "base_next_platform": "commercial-ready Next.js LMS shell from LEA package, rebranded to BEA",
+    "brand_landing": "BEA Splash-style landing page and brand config",
+    "commercial_flow": "paid Level Test, pathway mapping, trial lesson, payment-to-enrolment, LMS access",
+    "pricing": "Level Test, single courses, bundles, subscriptions, institution licences",
+    "course_content": "A1-C2 course content, activities, assessments, answer keys, rubrics, worksheets",
+    "audio": "Amazon Polly SSML scripts, captions, transcripts and LMS import scripts",
+    "media": "HeyGen/video and media completion suite manifests and docs",
+    "early_years": "adaptive game engine telemetry, rules, APIs and dashboard contracts",
+    "scorm_cms": "SCORM/LMS/CMS infrastructure reference and deployment contracts",
+    "dashboards": "learner, parent, teacher and institution dashboard pages/routes"
+  }
+}

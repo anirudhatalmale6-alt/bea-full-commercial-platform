@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0005",
+  "title": "Print Awareness: Book Handling And Environmental Print - Find the Mistake 1",
+  "grade_band": "Pre-K",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can book handling and environmental print through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0005-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0005",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Print Awareness",
+      "skill_code": "EY-PRE-LIT-PRI-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an pen.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an pen.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a pen.",
+      "distractors": [
+        "Clear the pen is.",
+        "I see an pen.",
+        "The pen clear is."
+      ],
+      "choices": [
+        "Clear the pen is.",
+        "I see an pen.",
+        "The pen clear is.",
+        "I see a pen."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to book handling and environmental print.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of book handling and environmental print, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0005-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0005-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0005-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a pen.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an pen.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0005-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0005",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Print Awareness",
+      "skill_code": "EY-PRE-LIT-PRI-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an bag.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an bag.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a bag.",
+      "distractors": [
+        "Clear the bag is.",
+        "I see an bag.",
+        "The bag clear is."
+      ],
+      "choices": [
+        "Clear the bag is.",
+        "I see an bag.",
+        "I see a bag.",
+        "The bag clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to book handling and environmental print.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of book handling and environmental print, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0005-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0005-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0005-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a bag.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an bag.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0005-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0005",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Print Awareness",
+      "skill_code": "EY-PRE-LIT-PRI-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an hat.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an hat.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a hat.",
+      "distractors": [
+        "The hat clear is.",
+        "Clear the hat is.",
+        "I see an hat."
+      ],
+      "choices": [
+        "The hat clear is.",
+        "I see a hat.",
+        "Clear the hat is.",
+        "I see an hat."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to book handling and environmental print.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of book handling and environmental print, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0005-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0005-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0005-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a hat.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an hat.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0005-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0005",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Print Awareness",
+      "skill_code": "EY-PRE-LIT-PRI-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an red.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an red.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a red.",
+      "distractors": [
+        "I see an red.",
+        "Clear the red is.",
+        "The red clear is."
+      ],
+      "choices": [
+        "I see an red.",
+        "I see a red.",
+        "Clear the red is.",
+        "The red clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to book handling and environmental print.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of book handling and environmental print, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0005-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0005-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0005-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a red.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an red.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0005-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0005",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Print Awareness",
+      "skill_code": "EY-PRE-LIT-PRI-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an big.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an big.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a big.",
+      "distractors": [
+        "Clear the big is.",
+        "I see an big.",
+        "The big clear is."
+      ],
+      "choices": [
+        "Clear the big is.",
+        "I see an big.",
+        "The big clear is.",
+        "I see a big."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to book handling and environmental print.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of book handling and environmental print, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0005-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0005-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0005-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a big.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an big.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0005-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0005",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Print Awareness",
+      "skill_code": "EY-PRE-LIT-PRI-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a sit.",
+      "distractors": [
+        "The sit clear is.",
+        "Clear the sit is.",
+        "I see an sit."
+      ],
+      "choices": [
+        "The sit clear is.",
+        "Clear the sit is.",
+        "I see a sit.",
+        "I see an sit."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to book handling and environmental print.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of book handling and environmental print, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0005-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0005-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0005-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a sit.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0005-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0005",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Print Awareness",
+      "skill_code": "EY-PRE-LIT-PRI-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an run.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an run.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a run.",
+      "distractors": [
+        "Clear the run is.",
+        "I see an run.",
+        "The run clear is."
+      ],
+      "choices": [
+        "Clear the run is.",
+        "I see an run.",
+        "The run clear is.",
+        "I see a run."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to book handling and environmental print.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of book handling and environmental print, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0005-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0005-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0005-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a run.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an run.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0005-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0005",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Print Awareness",
+      "skill_code": "EY-PRE-LIT-PRI-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a hop.",
+      "distractors": [
+        "The hop clear is.",
+        "I see an hop.",
+        "Clear the hop is."
+      ],
+      "choices": [
+        "The hop clear is.",
+        "I see an hop.",
+        "Clear the hop is.",
+        "I see a hop."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to book handling and environmental print.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of book handling and environmental print, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0005-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0005-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0005-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a hop.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

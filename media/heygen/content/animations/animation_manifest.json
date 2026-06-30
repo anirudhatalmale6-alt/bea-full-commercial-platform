@@ -1,0 +1,19 @@
+{
+  "animations": [
+    {
+      "id": "success_star",
+      "file": "content/animations/lottie/success_star.json",
+      "trigger": "item_correct_or_activity_complete"
+    },
+    {
+      "id": "success_confetti",
+      "file": "content/animations/lottie/success_confetti.json",
+      "trigger": "module_mastery"
+    },
+    {
+      "id": "success_badge",
+      "file": "content/animations/lottie/success_badge.json",
+      "trigger": "certificate_or_badge_unlock"
+    }
+  ]
+}

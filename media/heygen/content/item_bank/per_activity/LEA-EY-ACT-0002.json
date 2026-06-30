@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0002",
+  "title": "Oral Language: Listen/Respond To Simple Directions - Blend Builder 2",
+  "grade_band": "Pre-K",
+  "mechanic": "Blend Builder",
+  "learning_goal": "Learner can listen/respond to simple directions through a short guided blend builder activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0002-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0002",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in mum: m-u-m. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in mum: m-u-m. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "mum",
+      "distractors": [
+        "sit",
+        "dad",
+        "bag"
+      ],
+      "choices": [
+        "sit",
+        "dad",
+        "bag",
+        "mum"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0002-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0002-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0002-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for mum",
+        "caption_text": "Blend the sounds in mum: m-u-m. What word do you hear?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0002-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0002",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in dad: d-a-d. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in dad: d-a-d. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "dad",
+      "distractors": [
+        "hop",
+        "big",
+        "cat"
+      ],
+      "choices": [
+        "hop",
+        "dad",
+        "big",
+        "cat"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0002-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0002-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0002-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for dad",
+        "caption_text": "Blend the sounds in dad: d-a-d. What word do you hear?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0002-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0002",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in cup: c-u-p. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in cup: c-u-p. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "cup",
+      "distractors": [
+        "hop",
+        "sit",
+        "mum"
+      ],
+      "choices": [
+        "hop",
+        "cup",
+        "sit",
+        "mum"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0002-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0002-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0002-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cup",
+        "caption_text": "Blend the sounds in cup: c-u-p. What word do you hear?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0002-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0002",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in pen: p-e-n. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in pen: p-e-n. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "pen",
+      "distractors": [
+        "big",
+        "dog",
+        "hat"
+      ],
+      "choices": [
+        "big",
+        "dog",
+        "pen",
+        "hat"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0002-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0002-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0002-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pen",
+        "caption_text": "Blend the sounds in pen: p-e-n. What word do you hear?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0002-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0002",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in bag: b-a-g. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in bag: b-a-g. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "bag",
+      "distractors": [
+        "map",
+        "jam",
+        "run"
+      ],
+      "choices": [
+        "map",
+        "jam",
+        "bag",
+        "run"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0002-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0002-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0002-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bag",
+        "caption_text": "Blend the sounds in bag: b-a-g. What word do you hear?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0002-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0002",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in hat: h-a-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in hat: h-a-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "hat",
+      "distractors": [
+        "dog",
+        "red",
+        "pen"
+      ],
+      "choices": [
+        "dog",
+        "hat",
+        "red",
+        "pen"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0002-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0002-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0002-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for hat",
+        "caption_text": "Blend the sounds in hat: h-a-t. What word do you hear?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0002-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0002",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in red: r-e-d. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in red: r-e-d. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "red",
+      "distractors": [
+        "hat",
+        "tap",
+        "jam"
+      ],
+      "choices": [
+        "red",
+        "hat",
+        "tap",
+        "jam"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0002-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0002-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0002-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for red",
+        "caption_text": "Blend the sounds in red: r-e-d. What word do you hear?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0002-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0002",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Oral Language",
+      "skill_code": "EY-PRE-LIT-ORA-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in big: b-i-g. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in big: b-i-g. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "big",
+      "distractors": [
+        "sun",
+        "hat",
+        "map"
+      ],
+      "choices": [
+        "big",
+        "sun",
+        "hat",
+        "map"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to listen/respond to simple directions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of listen/respond to simple directions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0002-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0002-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0002-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for big",
+        "caption_text": "Blend the sounds in big: b-i-g. What word do you hear?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

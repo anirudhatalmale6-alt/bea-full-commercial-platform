@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0075",
+  "title": "Measurement: Length, Weight And Capacity Comparisons - Math Mission 3",
+  "grade_band": "Kindergarten",
+  "mechanic": "Math Mission",
+  "learning_goal": "Learner can length, weight and capacity comparisons through a short guided math mission activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0075-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0075",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Measurement",
+      "skill_code": "EY-KIN-MAT-MEA-03",
+      "mechanic": "Math Mission",
+      "prompt_text": "Math mission: 7 + 2 = ?",
+      "prompt_audio_text": "Solve the mission and choose the correct number. Math mission: 7 + 2 = ?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "9",
+      "distractors": [
+        "10",
+        "5",
+        "8"
+      ],
+      "choices": [
+        "9",
+        "10",
+        "5",
+        "8"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to length, weight and capacity comparisons.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of length, weight and capacity comparisons, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0075-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0075-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0075-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 9",
+        "caption_text": "Math mission: 7 + 2 = ?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0075-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0075",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Measurement",
+      "skill_code": "EY-KIN-MAT-MEA-03",
+      "mechanic": "Math Mission",
+      "prompt_text": "Math mission: 8 + 3 = ?",
+      "prompt_audio_text": "Solve the mission and choose the correct number. Math mission: 8 + 3 = ?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "11",
+      "distractors": [
+        "12",
+        "5",
+        "10"
+      ],
+      "choices": [
+        "11",
+        "12",
+        "5",
+        "10"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to length, weight and capacity comparisons.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of length, weight and capacity comparisons, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0075-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0075-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0075-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 11",
+        "caption_text": "Math mission: 8 + 3 = ?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0075-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0075",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Measurement",
+      "skill_code": "EY-KIN-MAT-MEA-03",
+      "mechanic": "Math Mission",
+      "prompt_text": "Math mission: 9 + 4 = ?",
+      "prompt_audio_text": "Solve the mission and choose the correct number. Math mission: 9 + 4 = ?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "13",
+      "distractors": [
+        "14",
+        "5",
+        "12"
+      ],
+      "choices": [
+        "14",
+        "5",
+        "12",
+        "13"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to length, weight and capacity comparisons.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of length, weight and capacity comparisons, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0075-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0075-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0075-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 13",
+        "caption_text": "Math mission: 9 + 4 = ?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0075-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0075",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Measurement",
+      "skill_code": "EY-KIN-MAT-MEA-03",
+      "mechanic": "Math Mission",
+      "prompt_text": "Math mission: 10 + 5 = ?",
+      "prompt_audio_text": "Solve the mission and choose the correct number. Math mission: 10 + 5 = ?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "15",
+      "distractors": [
+        "16",
+        "5",
+        "14"
+      ],
+      "choices": [
+        "16",
+        "5",
+        "15",
+        "14"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to length, weight and capacity comparisons.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of length, weight and capacity comparisons, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0075-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0075-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0075-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 15",
+        "caption_text": "Math mission: 10 + 5 = ?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0075-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0075",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Measurement",
+      "skill_code": "EY-KIN-MAT-MEA-03",
+      "mechanic": "Math Mission",
+      "prompt_text": "Math mission: 1 + 1 = ?",
+      "prompt_audio_text": "Solve the mission and choose the correct number. Math mission: 1 + 1 = ?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "2",
+      "distractors": [
+        "3",
+        "1",
+        "0"
+      ],
+      "choices": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to length, weight and capacity comparisons.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of length, weight and capacity comparisons, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0075-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0075-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0075-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 2",
+        "caption_text": "Math mission: 1 + 1 = ?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0075-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0075",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Measurement",
+      "skill_code": "EY-KIN-MAT-MEA-03",
+      "mechanic": "Math Mission",
+      "prompt_text": "Math mission: 2 + 2 = ?",
+      "prompt_audio_text": "Solve the mission and choose the correct number. Math mission: 2 + 2 = ?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "4",
+      "distractors": [
+        "5",
+        "3",
+        "0"
+      ],
+      "choices": [
+        "5",
+        "4",
+        "3",
+        "0"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to length, weight and capacity comparisons.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of length, weight and capacity comparisons, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0075-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0075-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0075-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 4",
+        "caption_text": "Math mission: 2 + 2 = ?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0075-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0075",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Measurement",
+      "skill_code": "EY-KIN-MAT-MEA-03",
+      "mechanic": "Math Mission",
+      "prompt_text": "Math mission: 3 + 3 = ?",
+      "prompt_audio_text": "Solve the mission and choose the correct number. Math mission: 3 + 3 = ?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "6",
+      "distractors": [
+        "7",
+        "5",
+        "0"
+      ],
+      "choices": [
+        "7",
+        "5",
+        "0",
+        "6"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to length, weight and capacity comparisons.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of length, weight and capacity comparisons, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0075-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0075-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0075-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 6",
+        "caption_text": "Math mission: 3 + 3 = ?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0075-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0075",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Measurement",
+      "skill_code": "EY-KIN-MAT-MEA-03",
+      "mechanic": "Math Mission",
+      "prompt_text": "Math mission: 4 + 4 = ?",
+      "prompt_audio_text": "Solve the mission and choose the correct number. Math mission: 4 + 4 = ?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "8",
+      "distractors": [
+        "0",
+        "7",
+        "9"
+      ],
+      "choices": [
+        "0",
+        "7",
+        "8",
+        "9"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to length, weight and capacity comparisons.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of length, weight and capacity comparisons, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0075-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0075-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0075-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 8",
+        "caption_text": "Math mission: 4 + 4 = ?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

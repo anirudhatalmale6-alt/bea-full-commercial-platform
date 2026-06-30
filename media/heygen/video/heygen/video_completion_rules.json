@@ -1,0 +1,18 @@
+{
+  "cefr_module_completion": {
+    "video_progress_min": 0.85,
+    "quiz_score_min": 0.7,
+    "requires_evidence_upload": true,
+    "requires_reflection": true
+  },
+  "early_years_activity_completion": {
+    "items_attempted_min": 5,
+    "accuracy_mastery_min": 0.85,
+    "sessions_required": 2,
+    "prompt_level_max": 2
+  },
+  "certificate_unlock": {
+    "all_required_modules_complete": true,
+    "teacher_approval_required_for_speaking_writing": true
+  }
+}

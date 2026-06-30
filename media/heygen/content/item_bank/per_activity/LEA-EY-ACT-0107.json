@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0107",
+  "title": "Addition/Subtraction: Within 20 - Listen and Choose 3",
+  "grade_band": "Grade 1",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can within 20 through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: after.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: after.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "after",
+      "distractors": [
+        "bright",
+        "family",
+        "picture"
+      ],
+      "choices": [
+        "bright",
+        "family",
+        "picture",
+        "after"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for after",
+        "caption_text": "Choose the best answer for within 20: after.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: little.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: little.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "little",
+      "distractors": [
+        "street",
+        "before",
+        "kind"
+      ],
+      "choices": [
+        "street",
+        "little",
+        "before",
+        "kind"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for little",
+        "caption_text": "Choose the best answer for within 20: little.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: people.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: people.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "people",
+      "distractors": [
+        "little",
+        "after",
+        "community"
+      ],
+      "choices": [
+        "little",
+        "after",
+        "community",
+        "people"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for people",
+        "caption_text": "Choose the best answer for within 20: people.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: garden.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: garden.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "garden",
+      "distractors": [
+        "letter",
+        "picture",
+        "family"
+      ],
+      "choices": [
+        "letter",
+        "picture",
+        "family",
+        "garden"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for garden",
+        "caption_text": "Choose the best answer for within 20: garden.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: animal.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: animal.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "animal",
+      "distractors": [
+        "friend",
+        "cloud",
+        "family"
+      ],
+      "choices": [
+        "friend",
+        "animal",
+        "cloud",
+        "family"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for animal",
+        "caption_text": "Choose the best answer for within 20: animal.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: market.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: market.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "market",
+      "distractors": [
+        "cloud",
+        "because",
+        "community"
+      ],
+      "choices": [
+        "cloud",
+        "because",
+        "market",
+        "community"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for market",
+        "caption_text": "Choose the best answer for within 20: market.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: story.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: story.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "story",
+      "distractors": [
+        "school",
+        "cloud",
+        "market"
+      ],
+      "choices": [
+        "school",
+        "cloud",
+        "market",
+        "story"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for story",
+        "caption_text": "Choose the best answer for within 20: story.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: letter.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: letter.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "letter",
+      "distractors": [
+        "kind",
+        "street",
+        "cloud"
+      ],
+      "choices": [
+        "kind",
+        "letter",
+        "street",
+        "cloud"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for letter",
+        "caption_text": "Choose the best answer for within 20: letter.",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: picture.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: picture.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "picture",
+      "distractors": [
+        "after",
+        "before",
+        "market"
+      ],
+      "choices": [
+        "picture",
+        "after",
+        "before",
+        "market"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for picture",
+        "caption_text": "Choose the best answer for within 20: picture.",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0107-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0107",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 20: family.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 20: family.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "family",
+      "distractors": [
+        "people",
+        "animal",
+        "bright"
+      ],
+      "choices": [
+        "people",
+        "animal",
+        "bright",
+        "family"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 20.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 20, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0107-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0107-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0107-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for family",
+        "caption_text": "Choose the best answer for within 20: family.",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

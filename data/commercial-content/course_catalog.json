@@ -1,0 +1,752 @@
+[
+  {
+    "course_id": "LEA-A1-COURSE",
+    "slug": "a1-starter-english",
+    "cefr_level": "A1",
+    "band": "Beginner",
+    "title": "A1 Starter English",
+    "description": "Build basic survival English for names, places, family, classroom language, daily objects and simple routines.",
+    "cefr_outcome": "Learners can understand and use familiar everyday expressions and very basic phrases for immediate needs.",
+    "course_objectives": [
+      "Build A1 receptive and productive skills.",
+      "Complete structured lessons, interactive practice and assessments.",
+      "Use English confidently in real-world tasks appropriate to the level.",
+      "Prepare for the next CEFR band through evidence-based progress tracking."
+    ],
+    "modules": [
+      {
+        "module_id": "A1-M01",
+        "module_number": 1,
+        "title": "Personal Information and Classroom English",
+        "outcomes": [
+          "Complete six lessons connected to personal information and classroom english.",
+          "Demonstrate A1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A1-M01-L01",
+          "A1-M01-L02",
+          "A1-M01-L03",
+          "A1-M01-L04",
+          "A1-M01-L05",
+          "A1-M01-L06"
+        ]
+      },
+      {
+        "module_id": "A1-M02",
+        "module_number": 2,
+        "title": "Home, Family and Daily Objects",
+        "outcomes": [
+          "Complete six lessons connected to home, family and daily objects.",
+          "Demonstrate A1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A1-M02-L01",
+          "A1-M02-L02",
+          "A1-M02-L03",
+          "A1-M02-L04",
+          "A1-M02-L05",
+          "A1-M02-L06"
+        ]
+      },
+      {
+        "module_id": "A1-M03",
+        "module_number": 3,
+        "title": "Food, Shopping and Simple Requests",
+        "outcomes": [
+          "Complete six lessons connected to food, shopping and simple requests.",
+          "Demonstrate A1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A1-M03-L01",
+          "A1-M03-L02",
+          "A1-M03-L03",
+          "A1-M03-L04",
+          "A1-M03-L05",
+          "A1-M03-L06"
+        ]
+      },
+      {
+        "module_id": "A1-M04",
+        "module_number": 4,
+        "title": "Places, Directions and Local Life",
+        "outcomes": [
+          "Complete six lessons connected to places, directions and local life.",
+          "Demonstrate A1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A1-M04-L01",
+          "A1-M04-L02",
+          "A1-M04-L03",
+          "A1-M04-L04",
+          "A1-M04-L05",
+          "A1-M04-L06"
+        ]
+      },
+      {
+        "module_id": "A1-M05",
+        "module_number": 5,
+        "title": "Daily Routines and Free Time",
+        "outcomes": [
+          "Complete six lessons connected to daily routines and free time.",
+          "Demonstrate A1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A1-M05-L01",
+          "A1-M05-L02",
+          "A1-M05-L03",
+          "A1-M05-L04",
+          "A1-M05-L05",
+          "A1-M05-L06"
+        ]
+      },
+      {
+        "module_id": "A1-M06",
+        "module_number": 6,
+        "title": "A1 Review, Speaking and Everyday Tasks",
+        "outcomes": [
+          "Complete six lessons connected to a1 review, speaking and everyday tasks.",
+          "Demonstrate A1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A1-M06-L01",
+          "A1-M06-L02",
+          "A1-M06-L03",
+          "A1-M06-L04",
+          "A1-M06-L05",
+          "A1-M06-L06"
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "LEA-A2-COURSE",
+    "slug": "a2-everyday-english",
+    "cefr_level": "A2",
+    "band": "Elementary",
+    "title": "A2 Everyday English",
+    "description": "Develop everyday communication for routines, travel, shopping, health, descriptions and short messages.",
+    "cefr_outcome": "Learners can communicate in simple and routine tasks requiring direct exchange of information.",
+    "course_objectives": [
+      "Build A2 receptive and productive skills.",
+      "Complete structured lessons, interactive practice and assessments.",
+      "Use English confidently in real-world tasks appropriate to the level.",
+      "Prepare for the next CEFR band through evidence-based progress tracking."
+    ],
+    "modules": [
+      {
+        "module_id": "A2-M01",
+        "module_number": 1,
+        "title": "Daily Life and Social Communication",
+        "outcomes": [
+          "Complete six lessons connected to daily life and social communication.",
+          "Demonstrate A2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A2-M01-L01",
+          "A2-M01-L02",
+          "A2-M01-L03",
+          "A2-M01-L04",
+          "A2-M01-L05",
+          "A2-M01-L06"
+        ]
+      },
+      {
+        "module_id": "A2-M02",
+        "module_number": 2,
+        "title": "Past Experiences and Personal Stories",
+        "outcomes": [
+          "Complete six lessons connected to past experiences and personal stories.",
+          "Demonstrate A2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A2-M02-L01",
+          "A2-M02-L02",
+          "A2-M02-L03",
+          "A2-M02-L04",
+          "A2-M02-L05",
+          "A2-M02-L06"
+        ]
+      },
+      {
+        "module_id": "A2-M03",
+        "module_number": 3,
+        "title": "Travel, Services and Problem Solving",
+        "outcomes": [
+          "Complete six lessons connected to travel, services and problem solving.",
+          "Demonstrate A2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A2-M03-L01",
+          "A2-M03-L02",
+          "A2-M03-L03",
+          "A2-M03-L04",
+          "A2-M03-L05",
+          "A2-M03-L06"
+        ]
+      },
+      {
+        "module_id": "A2-M04",
+        "module_number": 4,
+        "title": "Health, Weather and Plans",
+        "outcomes": [
+          "Complete six lessons connected to health, weather and plans.",
+          "Demonstrate A2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A2-M04-L01",
+          "A2-M04-L02",
+          "A2-M04-L03",
+          "A2-M04-L04",
+          "A2-M04-L05",
+          "A2-M04-L06"
+        ]
+      },
+      {
+        "module_id": "A2-M05",
+        "module_number": 5,
+        "title": "Work, Study and Everyday Writing",
+        "outcomes": [
+          "Complete six lessons connected to work, study and everyday writing.",
+          "Demonstrate A2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A2-M05-L01",
+          "A2-M05-L02",
+          "A2-M05-L03",
+          "A2-M05-L04",
+          "A2-M05-L05",
+          "A2-M05-L06"
+        ]
+      },
+      {
+        "module_id": "A2-M06",
+        "module_number": 6,
+        "title": "A2 Review, Fluency and Functional Tasks",
+        "outcomes": [
+          "Complete six lessons connected to a2 review, fluency and functional tasks.",
+          "Demonstrate A2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "A2-M06-L01",
+          "A2-M06-L02",
+          "A2-M06-L03",
+          "A2-M06-L04",
+          "A2-M06-L05",
+          "A2-M06-L06"
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "LEA-B1-COURSE",
+    "slug": "b1-independent-english",
+    "cefr_level": "B1",
+    "band": "Intermediate",
+    "title": "B1 Independent English",
+    "description": "Strengthen independent English for work, study, travel, opinions, stories and problem-solving.",
+    "cefr_outcome": "Learners can deal with most situations while travelling and produce simple connected text on familiar topics.",
+    "course_objectives": [
+      "Build B1 receptive and productive skills.",
+      "Complete structured lessons, interactive practice and assessments.",
+      "Use English confidently in real-world tasks appropriate to the level.",
+      "Prepare for the next CEFR band through evidence-based progress tracking."
+    ],
+    "modules": [
+      {
+        "module_id": "B1-M01",
+        "module_number": 1,
+        "title": "Independent Communication and Opinions",
+        "outcomes": [
+          "Complete six lessons connected to independent communication and opinions.",
+          "Demonstrate B1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B1-M01-L01",
+          "B1-M01-L02",
+          "B1-M01-L03",
+          "B1-M01-L04",
+          "B1-M01-L05",
+          "B1-M01-L06"
+        ]
+      },
+      {
+        "module_id": "B1-M02",
+        "module_number": 2,
+        "title": "Work, Study and Digital Life",
+        "outcomes": [
+          "Complete six lessons connected to work, study and digital life.",
+          "Demonstrate B1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B1-M02-L01",
+          "B1-M02-L02",
+          "B1-M02-L03",
+          "B1-M02-L04",
+          "B1-M02-L05",
+          "B1-M02-L06"
+        ]
+      },
+      {
+        "module_id": "B1-M03",
+        "module_number": 3,
+        "title": "Travel, Culture and Narratives",
+        "outcomes": [
+          "Complete six lessons connected to travel, culture and narratives.",
+          "Demonstrate B1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B1-M03-L01",
+          "B1-M03-L02",
+          "B1-M03-L03",
+          "B1-M03-L04",
+          "B1-M03-L05",
+          "B1-M03-L06"
+        ]
+      },
+      {
+        "module_id": "B1-M04",
+        "module_number": 4,
+        "title": "Problems, Advice and Decisions",
+        "outcomes": [
+          "Complete six lessons connected to problems, advice and decisions.",
+          "Demonstrate B1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B1-M04-L01",
+          "B1-M04-L02",
+          "B1-M04-L03",
+          "B1-M04-L04",
+          "B1-M04-L05",
+          "B1-M04-L06"
+        ]
+      },
+      {
+        "module_id": "B1-M05",
+        "module_number": 5,
+        "title": "Media, Environment and Society",
+        "outcomes": [
+          "Complete six lessons connected to media, environment and society.",
+          "Demonstrate B1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B1-M05-L01",
+          "B1-M05-L02",
+          "B1-M05-L03",
+          "B1-M05-L04",
+          "B1-M05-L05",
+          "B1-M05-L06"
+        ]
+      },
+      {
+        "module_id": "B1-M06",
+        "module_number": 6,
+        "title": "B1 Review, Projects and Integrated Skills",
+        "outcomes": [
+          "Complete six lessons connected to b1 review, projects and integrated skills.",
+          "Demonstrate B1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B1-M06-L01",
+          "B1-M06-L02",
+          "B1-M06-L03",
+          "B1-M06-L04",
+          "B1-M06-L05",
+          "B1-M06-L06"
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "LEA-B2-COURSE",
+    "slug": "b2-confident-english",
+    "cefr_level": "B2",
+    "band": "Upper Intermediate",
+    "title": "B2 Confident English",
+    "description": "Build fluent, detailed communication for academic, workplace and social contexts with complex ideas.",
+    "cefr_outcome": "Learners can understand main ideas of complex texts and interact with fluency and spontaneity.",
+    "course_objectives": [
+      "Build B2 receptive and productive skills.",
+      "Complete structured lessons, interactive practice and assessments.",
+      "Use English confidently in real-world tasks appropriate to the level.",
+      "Prepare for the next CEFR band through evidence-based progress tracking."
+    ],
+    "modules": [
+      {
+        "module_id": "B2-M01",
+        "module_number": 1,
+        "title": "Complex Communication and Debate",
+        "outcomes": [
+          "Complete six lessons connected to complex communication and debate.",
+          "Demonstrate B2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B2-M01-L01",
+          "B2-M01-L02",
+          "B2-M01-L03",
+          "B2-M01-L04",
+          "B2-M01-L05",
+          "B2-M01-L06"
+        ]
+      },
+      {
+        "module_id": "B2-M02",
+        "module_number": 2,
+        "title": "Professional and Academic Skills",
+        "outcomes": [
+          "Complete six lessons connected to professional and academic skills.",
+          "Demonstrate B2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B2-M02-L01",
+          "B2-M02-L02",
+          "B2-M02-L03",
+          "B2-M02-L04",
+          "B2-M02-L05",
+          "B2-M02-L06"
+        ]
+      },
+      {
+        "module_id": "B2-M03",
+        "module_number": 3,
+        "title": "Advanced Reading and Listening",
+        "outcomes": [
+          "Complete six lessons connected to advanced reading and listening.",
+          "Demonstrate B2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B2-M03-L01",
+          "B2-M03-L02",
+          "B2-M03-L03",
+          "B2-M03-L04",
+          "B2-M03-L05",
+          "B2-M03-L06"
+        ]
+      },
+      {
+        "module_id": "B2-M04",
+        "module_number": 4,
+        "title": "Writing Arguments and Reports",
+        "outcomes": [
+          "Complete six lessons connected to writing arguments and reports.",
+          "Demonstrate B2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B2-M04-L01",
+          "B2-M04-L02",
+          "B2-M04-L03",
+          "B2-M04-L04",
+          "B2-M04-L05",
+          "B2-M04-L06"
+        ]
+      },
+      {
+        "module_id": "B2-M05",
+        "module_number": 5,
+        "title": "Global Issues and Critical Thinking",
+        "outcomes": [
+          "Complete six lessons connected to global issues and critical thinking.",
+          "Demonstrate B2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B2-M05-L01",
+          "B2-M05-L02",
+          "B2-M05-L03",
+          "B2-M05-L04",
+          "B2-M05-L05",
+          "B2-M05-L06"
+        ]
+      },
+      {
+        "module_id": "B2-M06",
+        "module_number": 6,
+        "title": "B2 Review, Presentations and Integrated Assessment",
+        "outcomes": [
+          "Complete six lessons connected to b2 review, presentations and integrated assessment.",
+          "Demonstrate B2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "B2-M06-L01",
+          "B2-M06-L02",
+          "B2-M06-L03",
+          "B2-M06-L04",
+          "B2-M06-L05",
+          "B2-M06-L06"
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "LEA-C1-COURSE",
+    "slug": "c1-advanced-english",
+    "cefr_level": "C1",
+    "band": "Advanced",
+    "title": "C1 Advanced English",
+    "description": "Refine flexible, effective English for professional, academic and high-level communicative situations.",
+    "cefr_outcome": "Learners can express ideas fluently and spontaneously and use language flexibly for social, academic and professional purposes.",
+    "course_objectives": [
+      "Build C1 receptive and productive skills.",
+      "Complete structured lessons, interactive practice and assessments.",
+      "Use English confidently in real-world tasks appropriate to the level.",
+      "Prepare for the next CEFR band through evidence-based progress tracking."
+    ],
+    "modules": [
+      {
+        "module_id": "C1-M01",
+        "module_number": 1,
+        "title": "Advanced Academic and Professional Discourse",
+        "outcomes": [
+          "Complete six lessons connected to advanced academic and professional discourse.",
+          "Demonstrate C1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C1-M01-L01",
+          "C1-M01-L02",
+          "C1-M01-L03",
+          "C1-M01-L04",
+          "C1-M01-L05",
+          "C1-M01-L06"
+        ]
+      },
+      {
+        "module_id": "C1-M02",
+        "module_number": 2,
+        "title": "Nuance, Register and Persuasion",
+        "outcomes": [
+          "Complete six lessons connected to nuance, register and persuasion.",
+          "Demonstrate C1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C1-M02-L01",
+          "C1-M02-L02",
+          "C1-M02-L03",
+          "C1-M02-L04",
+          "C1-M02-L05",
+          "C1-M02-L06"
+        ]
+      },
+      {
+        "module_id": "C1-M03",
+        "module_number": 3,
+        "title": "Research, Synthesis and Critical Evaluation",
+        "outcomes": [
+          "Complete six lessons connected to research, synthesis and critical evaluation.",
+          "Demonstrate C1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C1-M03-L01",
+          "C1-M03-L02",
+          "C1-M03-L03",
+          "C1-M03-L04",
+          "C1-M03-L05",
+          "C1-M03-L06"
+        ]
+      },
+      {
+        "module_id": "C1-M04",
+        "module_number": 4,
+        "title": "High-Level Writing and Speaking",
+        "outcomes": [
+          "Complete six lessons connected to high-level writing and speaking.",
+          "Demonstrate C1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C1-M04-L01",
+          "C1-M04-L02",
+          "C1-M04-L03",
+          "C1-M04-L04",
+          "C1-M04-L05",
+          "C1-M04-L06"
+        ]
+      },
+      {
+        "module_id": "C1-M05",
+        "module_number": 5,
+        "title": "Leadership, Policy and Complex Interaction",
+        "outcomes": [
+          "Complete six lessons connected to leadership, policy and complex interaction.",
+          "Demonstrate C1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C1-M05-L01",
+          "C1-M05-L02",
+          "C1-M05-L03",
+          "C1-M05-L04",
+          "C1-M05-L05",
+          "C1-M05-L06"
+        ]
+      },
+      {
+        "module_id": "C1-M06",
+        "module_number": 6,
+        "title": "C1 Review, Portfolio and Performance Assessment",
+        "outcomes": [
+          "Complete six lessons connected to c1 review, portfolio and performance assessment.",
+          "Demonstrate C1 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C1-M06-L01",
+          "C1-M06-L02",
+          "C1-M06-L03",
+          "C1-M06-L04",
+          "C1-M06-L05",
+          "C1-M06-L06"
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "LEA-C2-COURSE",
+    "slug": "c2-mastery-english",
+    "cefr_level": "C2",
+    "band": "Mastery",
+    "title": "C2 Mastery English",
+    "description": "Develop precise, nuanced, near-native command across complex academic, professional and cultural domains.",
+    "cefr_outcome": "Learners can understand virtually everything heard or read and express themselves precisely in complex situations.",
+    "course_objectives": [
+      "Build C2 receptive and productive skills.",
+      "Complete structured lessons, interactive practice and assessments.",
+      "Use English confidently in real-world tasks appropriate to the level.",
+      "Prepare for the next CEFR band through evidence-based progress tracking."
+    ],
+    "modules": [
+      {
+        "module_id": "C2-M01",
+        "module_number": 1,
+        "title": "Mastery of Style, Register and Precision",
+        "outcomes": [
+          "Complete six lessons connected to mastery of style, register and precision.",
+          "Demonstrate C2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C2-M01-L01",
+          "C2-M01-L02",
+          "C2-M01-L03",
+          "C2-M01-L04",
+          "C2-M01-L05",
+          "C2-M01-L06"
+        ]
+      },
+      {
+        "module_id": "C2-M02",
+        "module_number": 2,
+        "title": "Complex Texts, Literature and Culture",
+        "outcomes": [
+          "Complete six lessons connected to complex texts, literature and culture.",
+          "Demonstrate C2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C2-M02-L01",
+          "C2-M02-L02",
+          "C2-M02-L03",
+          "C2-M02-L04",
+          "C2-M02-L05",
+          "C2-M02-L06"
+        ]
+      },
+      {
+        "module_id": "C2-M03",
+        "module_number": 3,
+        "title": "Specialised Academic and Professional English",
+        "outcomes": [
+          "Complete six lessons connected to specialised academic and professional english.",
+          "Demonstrate C2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C2-M03-L01",
+          "C2-M03-L02",
+          "C2-M03-L03",
+          "C2-M03-L04",
+          "C2-M03-L05",
+          "C2-M03-L06"
+        ]
+      },
+      {
+        "module_id": "C2-M04",
+        "module_number": 4,
+        "title": "Rhetoric, Diplomacy and High-Stakes Communication",
+        "outcomes": [
+          "Complete six lessons connected to rhetoric, diplomacy and high-stakes communication.",
+          "Demonstrate C2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C2-M04-L01",
+          "C2-M04-L02",
+          "C2-M04-L03",
+          "C2-M04-L04",
+          "C2-M04-L05",
+          "C2-M04-L06"
+        ]
+      },
+      {
+        "module_id": "C2-M05",
+        "module_number": 5,
+        "title": "Critical Synthesis and Expert Production",
+        "outcomes": [
+          "Complete six lessons connected to critical synthesis and expert production.",
+          "Demonstrate C2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C2-M05-L01",
+          "C2-M05-L02",
+          "C2-M05-L03",
+          "C2-M05-L04",
+          "C2-M05-L05",
+          "C2-M05-L06"
+        ]
+      },
+      {
+        "module_id": "C2-M06",
+        "module_number": 6,
+        "title": "C2 Review, Capstone and Mastery Assessment",
+        "outcomes": [
+          "Complete six lessons connected to c2 review, capstone and mastery assessment.",
+          "Demonstrate C2 language control in integrated skills tasks.",
+          "Complete a module assessment and reflection."
+        ],
+        "lessons": [
+          "C2-M06-L01",
+          "C2-M06-L02",
+          "C2-M06-L03",
+          "C2-M06-L04",
+          "C2-M06-L05",
+          "C2-M06-L06"
+        ]
+      }
+    ]
+  }
+]

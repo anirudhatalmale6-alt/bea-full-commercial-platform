@@ -1,0 +1,198 @@
+// Production database schema starter for BEA/LEA commercial education engine.
+// Use PostgreSQL in production. Keep ID-based access rules; never unlock content by title text.
+
+generator client { provider = "prisma-client-js" }
+datasource db { provider = "postgresql"; url = env("DATABASE_URL") }
+
+enum Role { parent learner teacher admin institution_admin }
+enum OrderStatus { pending paid failed cancelled refunded partially_refunded chargeback }
+enum EntitlementStatus { active revoked expired }
+enum EnrolmentStatus { active suspended completed }
+enum CertificateStatus { not_eligible pending_review issued revoked }
+
+model User {
+  id          String   @id @default(cuid())
+  role        Role
+  name        String
+  email       String   @unique
+  createdAt   DateTime @default(now())
+  enrolments  Enrolment[]
+  orders      Order[]
+  progress    LessonProgress[]
+  certificates Certificate[]
+}
+
+model ParentChildLink {
+  id        String   @id @default(cuid())
+  parentId  String
+  childId   String
+  consentAt DateTime @default(now())
+}
+
+model Institution {
+  id        String   @id @default(cuid())
+  name      String
+  createdAt DateTime @default(now())
+}
+
+model ClassGroup {
+  id            String   @id @default(cuid())
+  institutionId String?
+  teacherId     String
+  title         String
+  createdAt     DateTime @default(now())
+}
+
+model ClassLearner {
+  id        String   @id @default(cuid())
+  classId   String
+  learnerId String
+  createdAt DateTime @default(now())
+}
+
+model Course {
+  id          String   @id
+  level       String
+  title       String
+  slug        String   @unique
+  description String
+  priceGBP    Int
+  lessons     Lesson[]
+  products    Product[]
+}
+
+model Lesson {
+  id        String   @id
+  courseId  String
+  order     Int
+  title     String
+  aim       String
+  course    Course   @relation(fields: [courseId], references: [id])
+  activities Activity[]
+  resources  Resource[]
+}
+
+model Activity {
+  id          String @id
+  courseId    String
+  lessonId    String
+  type        String
+  prompt      String
+  answerIndex Int?
+  skill       String?
+  difficulty  Int
+  lesson      Lesson @relation(fields: [lessonId], references: [id])
+}
+
+model Resource {
+  id        String @id
+  courseId  String
+  lessonId  String
+  title     String
+  type      String
+  fileUrl   String
+  access    String
+  lesson    Lesson @relation(fields: [lessonId], references: [id])
+}
+
+model Product {
+  id        String @id
+  type      String
+  title     String
+  priceGBP  Int
+  courseId  String?
+  course    Course? @relation(fields: [courseId], references: [id])
+}
+
+model Order {
+  id        String      @id @default(cuid())
+  userId    String
+  learnerId String?
+  productId String
+  amountGBP Int
+  status    OrderStatus @default(pending)
+  createdAt DateTime    @default(now())
+  paidAt    DateTime?
+  user      User        @relation(fields: [userId], references: [id])
+}
+
+model Payment {
+  id              String      @id @default(cuid())
+  orderId          String
+  provider         String
+  providerRef      String?
+  status           OrderStatus @default(pending)
+  createdAt        DateTime    @default(now())
+}
+
+model Entitlement {
+  id           String            @id @default(cuid())
+  userId       String
+  productType  String
+  targetId     String
+  sourceOrderId String?
+  status       EntitlementStatus @default(active)
+  createdAt    DateTime          @default(now())
+}
+
+model Enrolment {
+  id             String          @id @default(cuid())
+  userId         String
+  courseId       String
+  sourceOrderId  String?
+  status         EnrolmentStatus @default(active)
+  progressPercent Int            @default(0)
+  currentLessonId String?
+  createdAt      DateTime        @default(now())
+  user           User            @relation(fields: [userId], references: [id])
+}
+
+model LessonProgress {
+  id                  String   @id @default(cuid())
+  userId              String
+  courseId            String
+  lessonId            String
+  status              String   @default("not_started")
+  contentOpened       Boolean  @default(false)
+  resourcesAccessed   Boolean  @default(false)
+  activitiesComplete  Boolean  @default(false)
+  productionSubmitted Boolean  @default(false)
+  scorePercent        Int      @default(0)
+  updatedAt           DateTime @updatedAt
+  user                User     @relation(fields: [userId], references: [id])
+}
+
+model ActivityAttempt {
+  id         String   @id @default(cuid())
+  userId     String
+  activityId String
+  courseId   String
+  lessonId   String
+  correct    Boolean
+  createdAt  DateTime @default(now())
+}
+
+model EvidenceSubmission {
+  id        String   @id @default(cuid())
+  userId    String
+  courseId  String
+  lessonId  String
+  title     String
+  text      String?
+  fileUrl   String?
+  status    String   @default("submitted")
+  createdAt DateTime @default(now())
+}
+
+model Certificate {
+  id               String            @id @default(cuid())
+  userId           String
+  courseId         String
+  learnerName      String
+  certificateTitle String
+  verificationCode String            @unique
+  status           CertificateStatus @default(issued)
+  pdfUrl           String?
+  issuedAt         DateTime          @default(now())
+  user             User              @relation(fields: [userId], references: [id])
+}

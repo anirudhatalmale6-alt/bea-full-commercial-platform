@@ -1,0 +1,189 @@
+{
+  "lesson_id": "B2-M01-L03",
+  "slug": "b2-m01-l03-complex-communication-and-debate-reading-lesson-3",
+  "cefr_level": "B2",
+  "course_title": "B2 Confident English",
+  "module_number": 1,
+  "module_title": "Complex Communication and Debate",
+  "lesson_number": 3,
+  "lesson_title": "Complex Communication and Debate: Reading Lesson 3",
+  "primary_skill": "reading",
+  "grammar_target": "modal perfect",
+  "vocabulary_theme": "culture",
+  "learning_objective": "Learners can argue, evaluate, clarify and organise detailed communication in a reading task about culture.",
+  "cefr_outcome": "Learners can understand main ideas of complex texts and interact with fluency and spontaneity.",
+  "learner_facing_explanation": "In this lesson you will practise reading for complex communication and debate. You will learn useful language connected to culture and practise modal perfect. By the end, you should be able to complete a short real-life task and explain your answer clearly at B2 level.",
+  "complete_teaching_input": "Focus language: modal perfect. Vocabulary theme: culture. The teacher introduces the target language in a meaningful context, models pronunciation and form, checks meaning with concept questions, and moves learners from controlled practice to freer use. At B2, learners should argue, evaluate, clarify and organise detailed communication with increasing independence. The lesson should use board examples, short teacher modelling, pair practice, feedback and a final communicative task.",
+  "examples": [
+    "Example 1: I can use modal perfect to talk about culture.",
+    "Example 2: The learner gives a B2 answer with clear meaning and correct key language.",
+    "Example 3: The learner checks, improves and repeats the answer after feedback.",
+    "Example 4: The learner uses one linking phrase or support phrase suitable for B2."
+  ],
+  "interactive_practice": [
+    {
+      "item_id": "B2-M01-L03-P1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence using modal perfect.",
+      "options": [
+        "Correct use of modal perfect in a B2 sentence.",
+        "Incorrect word order with modal perfect.",
+        "Wrong tense for the meaning.",
+        "Unclear sentence with missing information."
+      ],
+      "correct_answer": 0,
+      "distractors": [
+        1,
+        2,
+        3
+      ],
+      "feedback_correct": "Correct. The sentence uses modal perfect accurately.",
+      "feedback_incorrect": "Check the form and meaning of modal perfect."
+    },
+    {
+      "item_id": "B2-M01-L03-P2",
+      "type": "matching",
+      "prompt": "Match the culture phrase to its meaning.",
+      "pairs": [
+        {
+          "left": "culture phrase A",
+          "right": "meaning A"
+        },
+        {
+          "left": "culture phrase B",
+          "right": "meaning B"
+        },
+        {
+          "left": "culture phrase C",
+          "right": "meaning C"
+        }
+      ],
+      "feedback_correct": "Good matching. You understand the phrase meaning.",
+      "feedback_incorrect": "Look again at the context and key words."
+    },
+    {
+      "item_id": "B2-M01-L03-P3",
+      "type": "sentence_builder",
+      "prompt": "Build a complete answer for the lesson task.",
+      "word_bank": [
+        "I",
+        "can",
+        "explain",
+        "my",
+        "idea",
+        "clearly",
+        "because"
+      ],
+      "model_answer": "I can explain my idea clearly because I understand culture.",
+      "feedback_correct": "Well done. Your sentence is complete and meaningful.",
+      "feedback_incorrect": "Check that your sentence has a subject, verb and clear meaning."
+    }
+  ],
+  "correct_answers": {
+    "P1": 0,
+    "P2": [
+      "A->meaning A",
+      "B->meaning B",
+      "C->meaning C"
+    ],
+    "P3": "I can explain my idea clearly because I understand culture."
+  },
+  "distractors": [
+    "Wrong tense for modal perfect",
+    "Unclear word order",
+    "Answer does not match context",
+    "Too short for the task"
+  ],
+  "instant_feedback": {
+    "correct": "Correct. Continue to the next step.",
+    "partly_correct": "Good start. Check accuracy and add one more detail.",
+    "incorrect": "Try again. Review the model and look at the key language."
+  },
+  "teacher_notes": "Begin with a quick diagnostic question. Model the target form modal perfect. Use choral repetition if pronunciation is important. Monitor pair work and record three common errors. Finish with delayed correction and one confidence-building success point.",
+  "homework_task": "Write or record five sentences about culture using language from this lesson.",
+  "assessment_task": {
+    "task_title": "B2 Reading Check - Complex Communication and Debate",
+    "instructions": "Complete a short reading task using modal perfect and vocabulary from culture.",
+    "success_criteria": [
+      "Uses modal perfect with reasonable accuracy",
+      "Uses vocabulary connected to culture",
+      "Completes the communicative purpose",
+      "Responds at the expected CEFR level"
+    ],
+    "pass_score": 70
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "name": "Task achievement",
+        "max": 5,
+        "descriptor": "Completes the communicative purpose."
+      },
+      {
+        "name": "Language control",
+        "max": 5,
+        "descriptor": "Uses modal perfect and sentence structure accurately."
+      },
+      {
+        "name": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses appropriate words connected to culture."
+      },
+      {
+        "name": "Fluency/coherence",
+        "max": 5,
+        "descriptor": "Organises ideas clearly for the level."
+      }
+    ],
+    "pass_total": 14
+  },
+  "speaking_task": "Speak for 60-120 seconds about culture. Use at least two examples and one reason.",
+  "writing_task": "Write a short B2 response about culture. Include the target language: modal perfect.",
+  "listening_audio": {
+    "audio_file": "audio/b2-m01-l03-listening.mp3",
+    "script": "Audio script for B2-M01-L03. Speaker one: Today we are practising culture. Speaker two: I need to use modal perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m01-l03-listening.ssml"
+  },
+  "visual_activity_cards": [
+    {
+      "card_id": "B2-M01-L03-VC1",
+      "title": "Culture word",
+      "alt_text": "Illustration for culture vocabulary"
+    },
+    {
+      "card_id": "B2-M01-L03-VC2",
+      "title": "Modal Perfect form",
+      "alt_text": "Visual grammar card for modal perfect"
+    },
+    {
+      "card_id": "B2-M01-L03-VC3",
+      "title": "Reading task",
+      "alt_text": "Visual task card for reading"
+    },
+    {
+      "card_id": "B2-M01-L03-VC4",
+      "title": "Success badge",
+      "alt_text": "Star badge showing lesson completion"
+    }
+  ],
+  "downloadables": {
+    "worksheet_pdf": "worksheets/b2-m01-l03-complex-communication-and-debate-reading-lesson-3.pdf",
+    "worksheet_docx": "worksheets/b2-m01-l03-complex-communication-and-debate-reading-lesson-3.docx",
+    "answer_key": "answer_keys/b2-m01-l03-complex-communication-and-debate-reading-lesson-3-answer-key.pdf",
+    "teacher_notes": "teacher_packs/b2-m01-l03-complex-communication-and-debate-reading-lesson-3-teacher-notes.pdf"
+  },
+  "completion_rule": {
+    "required_view_blocks": [
+      "learner_facing_explanation",
+      "examples",
+      "interactive_practice"
+    ],
+    "required_activity_score": 70,
+    "requires_homework_submission": false,
+    "requires_teacher_review": false,
+    "issue_progress_star": true,
+    "unlock_next_lesson": true
+  },
+  "qa_status": "ready_for_editorial_review",
+  "cefr_validation_status": "mapped_pending_external_validation"
+}

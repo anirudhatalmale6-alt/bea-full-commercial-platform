@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0051",
+  "title": "High-Frequency Words: Read Common Function Words - Blend Builder 3",
+  "grade_band": "Kindergarten",
+  "mechanic": "Blend Builder",
+  "learning_goal": "Learner can read common function words through a short guided blend builder activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0051-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0051",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in book: b-o-o-k. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in book: b-o-o-k. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "book",
+      "distractors": [
+        "play",
+        "this",
+        "rain"
+      ],
+      "choices": [
+        "play",
+        "this",
+        "rain",
+        "book"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0051-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0051-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0051-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for book",
+        "caption_text": "Blend the sounds in book: b-o-o-k. What word do you hear?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0051-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0051",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in park: p-a-r-k. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in park: p-a-r-k. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "park",
+      "distractors": [
+        "brown",
+        "goat",
+        "then"
+      ],
+      "choices": [
+        "park",
+        "brown",
+        "goat",
+        "then"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0051-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0051-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0051-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for park",
+        "caption_text": "Blend the sounds in park: p-a-r-k. What word do you hear?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0051-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0051",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in play: p-l-a-y. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in play: p-l-a-y. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "play",
+      "distractors": [
+        "that",
+        "fish",
+        "green"
+      ],
+      "choices": [
+        "play",
+        "that",
+        "fish",
+        "green"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0051-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0051-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0051-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for play",
+        "caption_text": "Blend the sounds in play: p-l-a-y. What word do you hear?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0051-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0051",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in smile: s-m-i-l. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in smile: s-m-i-l. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "smile",
+      "distractors": [
+        "park",
+        "thin",
+        "book"
+      ],
+      "choices": [
+        "smile",
+        "park",
+        "thin",
+        "book"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0051-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0051-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0051-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for smile",
+        "caption_text": "Blend the sounds in smile: s-m-i-l. What word do you hear?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0051-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0051",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in green: g-r-e-e. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in green: g-r-e-e. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "green",
+      "distractors": [
+        "book",
+        "thin",
+        "park"
+      ],
+      "choices": [
+        "book",
+        "green",
+        "thin",
+        "park"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0051-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0051-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0051-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for green",
+        "caption_text": "Blend the sounds in green: g-r-e-e. What word do you hear?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0051-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0051",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in brown: b-r-o-w. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in brown: b-r-o-w. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "brown",
+      "distractors": [
+        "chin",
+        "then",
+        "smile"
+      ],
+      "choices": [
+        "chin",
+        "brown",
+        "then",
+        "smile"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0051-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0051-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0051-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for brown",
+        "caption_text": "Blend the sounds in brown: b-r-o-w. What word do you hear?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0051-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0051",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in chair: c-h-a-i. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in chair: c-h-a-i. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "chair",
+      "distractors": [
+        "thin",
+        "fish",
+        "seed"
+      ],
+      "choices": [
+        "chair",
+        "thin",
+        "fish",
+        "seed"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0051-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0051-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0051-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for chair",
+        "caption_text": "Blend the sounds in chair: c-h-a-i. What word do you hear?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0051-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0051",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in train: t-r-a-i. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in train: t-r-a-i. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "train",
+      "distractors": [
+        "brown",
+        "goat",
+        "shop"
+      ],
+      "choices": [
+        "brown",
+        "goat",
+        "train",
+        "shop"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0051-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0051-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0051-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for train",
+        "caption_text": "Blend the sounds in train: t-r-a-i. What word do you hear?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

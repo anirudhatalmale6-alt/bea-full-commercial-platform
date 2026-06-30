@@ -1,0 +1,19 @@
+{
+  "canonical_cdn_paths": {
+    "cards": "/media/cards/svg/",
+    "animations": "/media/animations/lottie/",
+    "audio": "/media/audio/mp3/",
+    "resources_pdf": "/resources/pdf/",
+    "resources_docx": "/resources/docx/",
+    "resources_html": "/resources/html/",
+    "videos": "/videos/",
+    "captions": "/captions/",
+    "thumbnails": "/thumbnails/",
+    "transcripts": "/transcripts/"
+  },
+  "cache_policy": {
+    "static_assets": "max-age=31536000, immutable",
+    "html_resources": "max-age=3600",
+    "signed_downloads": "private, max-age=300"
+  }
+}

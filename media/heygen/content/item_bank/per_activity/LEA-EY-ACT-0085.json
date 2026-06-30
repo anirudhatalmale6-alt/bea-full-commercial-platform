@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0085",
+  "title": "Spelling: Encode One-Syllable Words - Find the Mistake 1",
+  "grade_band": "Grade 1",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can encode one-syllable words through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The because are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The because are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The because is clear.",
+      "distractors": [
+        "The because are clear.",
+        "Clear the because is.",
+        "The because clear is."
+      ],
+      "choices": [
+        "The because are clear.",
+        "Clear the because is.",
+        "The because clear is.",
+        "The because is clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The because is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The because are clear.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The before are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The before are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The before is clear.",
+      "distractors": [
+        "Clear the before is.",
+        "The before clear is.",
+        "The before are clear."
+      ],
+      "choices": [
+        "The before is clear.",
+        "Clear the before is.",
+        "The before clear is.",
+        "The before are clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The before is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The before are clear.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The after are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The after are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The after is clear.",
+      "distractors": [
+        "The after clear is.",
+        "Clear the after is.",
+        "The after are clear."
+      ],
+      "choices": [
+        "The after clear is.",
+        "Clear the after is.",
+        "The after are clear.",
+        "The after is clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The after is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The after are clear.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The little are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The little are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The little is clear.",
+      "distractors": [
+        "Clear the little is.",
+        "The little are clear.",
+        "The little clear is."
+      ],
+      "choices": [
+        "The little is clear.",
+        "Clear the little is.",
+        "The little are clear.",
+        "The little clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The little is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The little are clear.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The people are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The people are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The people is clear.",
+      "distractors": [
+        "Clear the people is.",
+        "The people are clear.",
+        "The people clear is."
+      ],
+      "choices": [
+        "The people is clear.",
+        "Clear the people is.",
+        "The people are clear.",
+        "The people clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The people is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The people are clear.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The garden are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The garden are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The garden is clear.",
+      "distractors": [
+        "Clear the garden is.",
+        "The garden clear is.",
+        "The garden are clear."
+      ],
+      "choices": [
+        "Clear the garden is.",
+        "The garden clear is.",
+        "The garden is clear.",
+        "The garden are clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The garden is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The garden are clear.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The animal are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The animal are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The animal is clear.",
+      "distractors": [
+        "The animal are clear.",
+        "The animal clear is.",
+        "Clear the animal is."
+      ],
+      "choices": [
+        "The animal are clear.",
+        "The animal clear is.",
+        "Clear the animal is.",
+        "The animal is clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The animal is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The animal are clear.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The market are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The market are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The market is clear.",
+      "distractors": [
+        "The market clear is.",
+        "The market are clear.",
+        "Clear the market is."
+      ],
+      "choices": [
+        "The market is clear.",
+        "The market clear is.",
+        "The market are clear.",
+        "Clear the market is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The market is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The market are clear.'",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The story are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The story are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The story is clear.",
+      "distractors": [
+        "Clear the story is.",
+        "The story are clear.",
+        "The story clear is."
+      ],
+      "choices": [
+        "Clear the story is.",
+        "The story are clear.",
+        "The story clear is.",
+        "The story is clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The story is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The story are clear.'",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0085-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0085",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Spelling",
+      "skill_code": "EY-GRA-LIT-SPE-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The letter are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The letter are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The letter is clear.",
+      "distractors": [
+        "The letter clear is.",
+        "The letter are clear.",
+        "Clear the letter is."
+      ],
+      "choices": [
+        "The letter is clear.",
+        "The letter clear is.",
+        "The letter are clear.",
+        "Clear the letter is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to encode one-syllable words.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of encode one-syllable words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0085-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0085-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0085-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The letter is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The letter are clear.'",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

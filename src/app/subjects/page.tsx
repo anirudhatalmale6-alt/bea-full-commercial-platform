@@ -1,0 +1,5 @@
+import Link from 'next/link';
+const subjects = ['Speaking','Listening','Reading','Writing','Grammar','Vocabulary','Business English','Academic English','Workplace English','Young Learners','Pronunciation','Exam Preparation'];
+export default function SubjectsPage() {
+  return <main className="mx-auto max-w-7xl px-6 py-10"><Link href="/" className="text-sm font-black text-oxford">← Home</Link><section className="card mt-6"><p className="badge">Subjects</p><h1 className="mt-3 text-5xl font-black text-navy">English skill areas</h1><p className="mt-3 text-slate-600">Browse course pathways by learner goal, skill and CEFR level.</p></section><div className="mt-8 grid gap-5 md:grid-cols-3">{subjects.map((s)=> <Link key={s} href={`/courses/${s.toLowerCase().replaceAll(' ','-')}`} className="course-card"><h2 className="text-2xl font-black text-navy">{s}</h2><p className="mt-2 text-sm text-slate-600">View British English Academy courses and activities for {s.toLowerCase()}.</p></Link>)}</div></main>;
+}

@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0089",
+  "title": "Fluency: Read Decodable Passages - Tap the Sound 1",
+  "grade_band": "Grade 1",
+  "mechanic": "Tap the Sound",
+  "learning_goal": "Learner can read decodable passages through a short guided tap the sound activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /p/. Which word begins with /p/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /p/. Which word begins with /p/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "people",
+      "distractors": [
+        "garden",
+        "bright",
+        "animal"
+      ],
+      "choices": [
+        "garden",
+        "people",
+        "bright",
+        "animal"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for people",
+        "caption_text": "Listen: /p/. Which word begins with /p/?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /g/. Which word begins with /g/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /g/. Which word begins with /g/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "garden",
+      "distractors": [
+        "picture",
+        "little",
+        "because"
+      ],
+      "choices": [
+        "picture",
+        "garden",
+        "little",
+        "because"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for garden",
+        "caption_text": "Listen: /g/. Which word begins with /g/?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /a/. Which word begins with /a/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /a/. Which word begins with /a/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "animal",
+      "distractors": [
+        "community",
+        "street",
+        "before"
+      ],
+      "choices": [
+        "community",
+        "street",
+        "before",
+        "animal"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for animal",
+        "caption_text": "Listen: /a/. Which word begins with /a/?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /m/. Which word begins with /m/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /m/. Which word begins with /m/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "market",
+      "distractors": [
+        "people",
+        "school",
+        "because"
+      ],
+      "choices": [
+        "people",
+        "market",
+        "school",
+        "because"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for market",
+        "caption_text": "Listen: /m/. Which word begins with /m/?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "story",
+      "distractors": [
+        "bright",
+        "friend",
+        "cloud"
+      ],
+      "choices": [
+        "bright",
+        "friend",
+        "story",
+        "cloud"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for story",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /l/. Which word begins with /l/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /l/. Which word begins with /l/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "letter",
+      "distractors": [
+        "friend",
+        "animal",
+        "market"
+      ],
+      "choices": [
+        "letter",
+        "friend",
+        "animal",
+        "market"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for letter",
+        "caption_text": "Listen: /l/. Which word begins with /l/?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /p/. Which word begins with /p/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /p/. Which word begins with /p/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "picture",
+      "distractors": [
+        "family",
+        "happy",
+        "story"
+      ],
+      "choices": [
+        "family",
+        "happy",
+        "picture",
+        "story"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for picture",
+        "caption_text": "Listen: /p/. Which word begins with /p/?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /f/. Which word begins with /f/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /f/. Which word begins with /f/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "family",
+      "distractors": [
+        "because",
+        "people",
+        "market"
+      ],
+      "choices": [
+        "because",
+        "people",
+        "family",
+        "market"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for family",
+        "caption_text": "Listen: /f/. Which word begins with /f/?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /c/. Which word begins with /c/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /c/. Which word begins with /c/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "community",
+      "distractors": [
+        "street",
+        "market",
+        "bright"
+      ],
+      "choices": [
+        "community",
+        "street",
+        "market",
+        "bright"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for community",
+        "caption_text": "Listen: /c/. Which word begins with /c/?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0089-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0089",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /k/. Which word begins with /k/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /k/. Which word begins with /k/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "kind",
+      "distractors": [
+        "friend",
+        "letter",
+        "before"
+      ],
+      "choices": [
+        "friend",
+        "kind",
+        "letter",
+        "before"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read decodable passages.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read decodable passages, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0089-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0089-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0089-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for kind",
+        "caption_text": "Listen: /k/. Which word begins with /k/?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

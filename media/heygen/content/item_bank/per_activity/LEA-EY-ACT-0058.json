@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0058",
+  "title": "Comprehension: Answer Who/What/Where Questions - Tap the Sound 2",
+  "grade_band": "Kindergarten",
+  "mechanic": "Tap the Sound",
+  "learning_goal": "Learner can answer who/what/where questions through a short guided tap the sound activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0058-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0058",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Comprehension",
+      "skill_code": "EY-KIN-LIT-COM-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /t/. Which word begins with /t/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /t/. Which word begins with /t/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "train",
+      "distractors": [
+        "shop",
+        "chair",
+        "seed"
+      ],
+      "choices": [
+        "shop",
+        "train",
+        "chair",
+        "seed"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to answer who/what/where questions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of answer who/what/where questions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0058-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0058-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0058-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for train",
+        "caption_text": "Listen: /t/. Which word begins with /t/?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0058-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0058",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Comprehension",
+      "skill_code": "EY-KIN-LIT-COM-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "ship",
+      "distractors": [
+        "park",
+        "this",
+        "train"
+      ],
+      "choices": [
+        "park",
+        "this",
+        "train",
+        "ship"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to answer who/what/where questions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of answer who/what/where questions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0058-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0058-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0058-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for ship",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0058-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0058",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Comprehension",
+      "skill_code": "EY-KIN-LIT-COM-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /f/. Which word begins with /f/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /f/. Which word begins with /f/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "fish",
+      "distractors": [
+        "this",
+        "play",
+        "shop"
+      ],
+      "choices": [
+        "this",
+        "play",
+        "fish",
+        "shop"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to answer who/what/where questions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of answer who/what/where questions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0058-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0058-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0058-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for fish",
+        "caption_text": "Listen: /f/. Which word begins with /f/?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0058-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0058",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Comprehension",
+      "skill_code": "EY-KIN-LIT-COM-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "shop",
+      "distractors": [
+        "then",
+        "play",
+        "chair"
+      ],
+      "choices": [
+        "then",
+        "play",
+        "shop",
+        "chair"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to answer who/what/where questions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of answer who/what/where questions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0058-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0058-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0058-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for shop",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0058-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0058",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Comprehension",
+      "skill_code": "EY-KIN-LIT-COM-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /c/. Which word begins with /c/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /c/. Which word begins with /c/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "chin",
+      "distractors": [
+        "thin",
+        "moon",
+        "seed"
+      ],
+      "choices": [
+        "chin",
+        "thin",
+        "moon",
+        "seed"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to answer who/what/where questions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of answer who/what/where questions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0058-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0058-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0058-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for chin",
+        "caption_text": "Listen: /c/. Which word begins with /c/?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0058-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0058",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Comprehension",
+      "skill_code": "EY-KIN-LIT-COM-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /t/. Which word begins with /t/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /t/. Which word begins with /t/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "thin",
+      "distractors": [
+        "brown",
+        "moon",
+        "book"
+      ],
+      "choices": [
+        "brown",
+        "moon",
+        "thin",
+        "book"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to answer who/what/where questions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of answer who/what/where questions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0058-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0058-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0058-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for thin",
+        "caption_text": "Listen: /t/. Which word begins with /t/?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0058-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0058",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Comprehension",
+      "skill_code": "EY-KIN-LIT-COM-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /t/. Which word begins with /t/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /t/. Which word begins with /t/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "that",
+      "distractors": [
+        "shop",
+        "moon",
+        "smile"
+      ],
+      "choices": [
+        "shop",
+        "that",
+        "moon",
+        "smile"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to answer who/what/where questions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of answer who/what/where questions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0058-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0058-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0058-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for that",
+        "caption_text": "Listen: /t/. Which word begins with /t/?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0058-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0058",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Comprehension",
+      "skill_code": "EY-KIN-LIT-COM-02",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /t/. Which word begins with /t/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /t/. Which word begins with /t/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "this",
+      "distractors": [
+        "smile",
+        "green",
+        "goat"
+      ],
+      "choices": [
+        "smile",
+        "this",
+        "green",
+        "goat"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to answer who/what/where questions.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of answer who/what/where questions, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0058-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0058-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0058-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for this",
+        "caption_text": "Listen: /t/. Which word begins with /t/?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

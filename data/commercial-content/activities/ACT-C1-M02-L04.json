@@ -1,0 +1,85 @@
+{
+  "activity_id": "ACT-C1-M02-L04",
+  "lesson_id": "C1-M02-L04",
+  "activity_type": "matching",
+  "title": "Nuance, Register and Persuasion: Listening Lesson 4 - Interactive Practice",
+  "cefr_level": "C1",
+  "skill": "listening",
+  "instructions": "Complete the matching task. Use the lesson examples for support.",
+  "items": [
+    {
+      "item_id": "C1-M02-L04-P1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence using hedging.",
+      "options": [
+        "Correct use of hedging in a C1 sentence.",
+        "Incorrect word order with hedging.",
+        "Wrong tense for the meaning.",
+        "Unclear sentence with missing information."
+      ],
+      "correct_answer": 0,
+      "distractors": [
+        1,
+        2,
+        3
+      ],
+      "feedback_correct": "Correct. The sentence uses hedging accurately.",
+      "feedback_incorrect": "Check the form and meaning of hedging."
+    },
+    {
+      "item_id": "C1-M02-L04-P2",
+      "type": "matching",
+      "prompt": "Match the analysis phrase to its meaning.",
+      "pairs": [
+        {
+          "left": "analysis phrase A",
+          "right": "meaning A"
+        },
+        {
+          "left": "analysis phrase B",
+          "right": "meaning B"
+        },
+        {
+          "left": "analysis phrase C",
+          "right": "meaning C"
+        }
+      ],
+      "feedback_correct": "Good matching. You understand the phrase meaning.",
+      "feedback_incorrect": "Look again at the context and key words."
+    },
+    {
+      "item_id": "C1-M02-L04-P3",
+      "type": "sentence_builder",
+      "prompt": "Build a complete answer for the lesson task.",
+      "word_bank": [
+        "I",
+        "can",
+        "explain",
+        "my",
+        "idea",
+        "clearly",
+        "because"
+      ],
+      "model_answer": "I can explain my idea clearly because I understand analysis.",
+      "feedback_correct": "Well done. Your sentence is complete and meaningful.",
+      "feedback_incorrect": "Check that your sentence has a subject, verb and clear meaning."
+    }
+  ],
+  "scoring_rules": {
+    "max_score": 100,
+    "pass_score": 70,
+    "retry_limit": 3
+  },
+  "success_animation": "star_burst",
+  "badge": "C1 Listening Star",
+  "sound_effects": {
+    "success": "success-chime.mp3",
+    "retry": "gentle-retry.mp3"
+  },
+  "child_friendly_screen": true,
+  "instant_feedback": {
+    "correct": "Correct. Continue to the next step.",
+    "partly_correct": "Good start. Check accuracy and add one more detail.",
+    "incorrect": "Try again. Review the model and look at the key language."
+  }
+}

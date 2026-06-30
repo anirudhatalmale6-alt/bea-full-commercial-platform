@@ -1,0 +1,18 @@
+{
+  "brand": "British English Academy (BEA)",
+  "legacyName": "British English Academy (LEA)",
+  "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+  "coursePattern": "BEA-{CEFR_LEVEL}",
+  "lessonsPerCourse": 12,
+  "resourcesPerLesson": 5,
+  "activitiesPerLesson": 2,
+  "placementQuestionsPerLevel": 10,
+  "commercialProducts": [
+    "Paid CEFR Level Test",
+    "Single CEFR Course",
+    "Full ESL Library Bundle",
+    "Full Downloadable Toolkit Library"
+  ],
+  "dashboards": ["learner", "parent", "teacher", "admin"],
+  "certificateRule": "certificate issued when course progress reaches 100%"
+}

@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0023",
+  "title": "Number Sense: Count 1-10 - Listen and Choose 3",
+  "grade_band": "Pre-K",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can count 1-10 through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0023-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0023",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Number Sense",
+      "skill_code": "EY-PRE-MAT-NUM-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for count 1-10: dad.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for count 1-10: dad.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "dad",
+      "distractors": [
+        "pen",
+        "dog",
+        "bus"
+      ],
+      "choices": [
+        "pen",
+        "dog",
+        "bus",
+        "dad"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to count 1-10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of count 1-10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0023-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0023-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0023-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for dad",
+        "caption_text": "Choose the best answer for count 1-10: dad.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0023-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0023",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Number Sense",
+      "skill_code": "EY-PRE-MAT-NUM-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for count 1-10: cup.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for count 1-10: cup.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "cup",
+      "distractors": [
+        "big",
+        "cat",
+        "jam"
+      ],
+      "choices": [
+        "cup",
+        "big",
+        "cat",
+        "jam"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to count 1-10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of count 1-10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0023-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0023-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0023-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cup",
+        "caption_text": "Choose the best answer for count 1-10: cup.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0023-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0023",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Number Sense",
+      "skill_code": "EY-PRE-MAT-NUM-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for count 1-10: pen.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for count 1-10: pen.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "pen",
+      "distractors": [
+        "map",
+        "hat",
+        "dog"
+      ],
+      "choices": [
+        "map",
+        "pen",
+        "hat",
+        "dog"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to count 1-10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of count 1-10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0023-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0023-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0023-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pen",
+        "caption_text": "Choose the best answer for count 1-10: pen.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0023-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0023",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Number Sense",
+      "skill_code": "EY-PRE-MAT-NUM-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for count 1-10: bag.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for count 1-10: bag.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "bag",
+      "distractors": [
+        "bus",
+        "hat",
+        "mum"
+      ],
+      "choices": [
+        "bus",
+        "bag",
+        "hat",
+        "mum"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to count 1-10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of count 1-10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0023-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0023-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0023-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bag",
+        "caption_text": "Choose the best answer for count 1-10: bag.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0023-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0023",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Number Sense",
+      "skill_code": "EY-PRE-MAT-NUM-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for count 1-10: hat.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for count 1-10: hat.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "hat",
+      "distractors": [
+        "big",
+        "cat",
+        "cup"
+      ],
+      "choices": [
+        "big",
+        "hat",
+        "cat",
+        "cup"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to count 1-10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of count 1-10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0023-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0023-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0023-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for hat",
+        "caption_text": "Choose the best answer for count 1-10: hat.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0023-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0023",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Number Sense",
+      "skill_code": "EY-PRE-MAT-NUM-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for count 1-10: red.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for count 1-10: red.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "red",
+      "distractors": [
+        "hop",
+        "big",
+        "hat"
+      ],
+      "choices": [
+        "hop",
+        "red",
+        "big",
+        "hat"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to count 1-10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of count 1-10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0023-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0023-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0023-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for red",
+        "caption_text": "Choose the best answer for count 1-10: red.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0023-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0023",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Number Sense",
+      "skill_code": "EY-PRE-MAT-NUM-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for count 1-10: big.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for count 1-10: big.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "big",
+      "distractors": [
+        "cat",
+        "sit",
+        "tap"
+      ],
+      "choices": [
+        "cat",
+        "sit",
+        "big",
+        "tap"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to count 1-10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of count 1-10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0023-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0023-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0023-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for big",
+        "caption_text": "Choose the best answer for count 1-10: big.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0023-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0023",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Number Sense",
+      "skill_code": "EY-PRE-MAT-NUM-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for count 1-10: sit.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for count 1-10: sit.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "sit",
+      "distractors": [
+        "sun",
+        "fox",
+        "hat"
+      ],
+      "choices": [
+        "sun",
+        "fox",
+        "hat",
+        "sit"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to count 1-10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of count 1-10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0023-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0023-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0023-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for sit",
+        "caption_text": "Choose the best answer for count 1-10: sit.",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

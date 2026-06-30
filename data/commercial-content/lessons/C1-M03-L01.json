@@ -1,0 +1,189 @@
+{
+  "lesson_id": "C1-M03-L01",
+  "slug": "c1-m03-l01-research-synthesis-and-critical-evaluation-grammar-lesson-1",
+  "cefr_level": "C1",
+  "course_title": "C1 Advanced English",
+  "module_number": 3,
+  "module_title": "Research, Synthesis and Critical Evaluation",
+  "lesson_number": 1,
+  "lesson_title": "Research, Synthesis and Critical Evaluation: Grammar Lesson 1",
+  "primary_skill": "grammar",
+  "grammar_target": "nominalisation",
+  "vocabulary_theme": "policy",
+  "learning_objective": "Learners can synthesise, justify, negotiate and adapt register in a grammar task about policy.",
+  "cefr_outcome": "Learners can express ideas fluently and spontaneously and use language flexibly for social, academic and professional purposes.",
+  "learner_facing_explanation": "In this lesson you will practise grammar for research, synthesis and critical evaluation. You will learn useful language connected to policy and practise nominalisation. By the end, you should be able to complete a short real-life task and explain your answer clearly at C1 level.",
+  "complete_teaching_input": "Focus language: nominalisation. Vocabulary theme: policy. The teacher introduces the target language in a meaningful context, models pronunciation and form, checks meaning with concept questions, and moves learners from controlled practice to freer use. At C1, learners should synthesise, justify, negotiate and adapt register with increasing independence. The lesson should use board examples, short teacher modelling, pair practice, feedback and a final communicative task.",
+  "examples": [
+    "Example 1: I can use nominalisation to talk about policy.",
+    "Example 2: The learner gives a C1 answer with clear meaning and correct key language.",
+    "Example 3: The learner checks, improves and repeats the answer after feedback.",
+    "Example 4: The learner uses one linking phrase or support phrase suitable for C1."
+  ],
+  "interactive_practice": [
+    {
+      "item_id": "C1-M03-L01-P1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence using nominalisation.",
+      "options": [
+        "Correct use of nominalisation in a C1 sentence.",
+        "Incorrect word order with nominalisation.",
+        "Wrong tense for the meaning.",
+        "Unclear sentence with missing information."
+      ],
+      "correct_answer": 0,
+      "distractors": [
+        1,
+        2,
+        3
+      ],
+      "feedback_correct": "Correct. The sentence uses nominalisation accurately.",
+      "feedback_incorrect": "Check the form and meaning of nominalisation."
+    },
+    {
+      "item_id": "C1-M03-L01-P2",
+      "type": "matching",
+      "prompt": "Match the policy phrase to its meaning.",
+      "pairs": [
+        {
+          "left": "policy phrase A",
+          "right": "meaning A"
+        },
+        {
+          "left": "policy phrase B",
+          "right": "meaning B"
+        },
+        {
+          "left": "policy phrase C",
+          "right": "meaning C"
+        }
+      ],
+      "feedback_correct": "Good matching. You understand the phrase meaning.",
+      "feedback_incorrect": "Look again at the context and key words."
+    },
+    {
+      "item_id": "C1-M03-L01-P3",
+      "type": "sentence_builder",
+      "prompt": "Build a complete answer for the lesson task.",
+      "word_bank": [
+        "I",
+        "can",
+        "explain",
+        "my",
+        "idea",
+        "clearly",
+        "because"
+      ],
+      "model_answer": "I can explain my idea clearly because I understand policy.",
+      "feedback_correct": "Well done. Your sentence is complete and meaningful.",
+      "feedback_incorrect": "Check that your sentence has a subject, verb and clear meaning."
+    }
+  ],
+  "correct_answers": {
+    "P1": 0,
+    "P2": [
+      "A->meaning A",
+      "B->meaning B",
+      "C->meaning C"
+    ],
+    "P3": "I can explain my idea clearly because I understand policy."
+  },
+  "distractors": [
+    "Wrong tense for nominalisation",
+    "Unclear word order",
+    "Answer does not match context",
+    "Too short for the task"
+  ],
+  "instant_feedback": {
+    "correct": "Correct. Continue to the next step.",
+    "partly_correct": "Good start. Check accuracy and add one more detail.",
+    "incorrect": "Try again. Review the model and look at the key language."
+  },
+  "teacher_notes": "Begin with a quick diagnostic question. Model the target form nominalisation. Use choral repetition if pronunciation is important. Monitor pair work and record three common errors. Finish with delayed correction and one confidence-building success point.",
+  "homework_task": "Write or record five sentences about policy using language from this lesson.",
+  "assessment_task": {
+    "task_title": "C1 Grammar Check - Research, Synthesis and Critical Evaluation",
+    "instructions": "Complete a short grammar task using nominalisation and vocabulary from policy.",
+    "success_criteria": [
+      "Uses nominalisation with reasonable accuracy",
+      "Uses vocabulary connected to policy",
+      "Completes the communicative purpose",
+      "Responds at the expected CEFR level"
+    ],
+    "pass_score": 70
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "name": "Task achievement",
+        "max": 5,
+        "descriptor": "Completes the communicative purpose."
+      },
+      {
+        "name": "Language control",
+        "max": 5,
+        "descriptor": "Uses nominalisation and sentence structure accurately."
+      },
+      {
+        "name": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses appropriate words connected to policy."
+      },
+      {
+        "name": "Fluency/coherence",
+        "max": 5,
+        "descriptor": "Organises ideas clearly for the level."
+      }
+    ],
+    "pass_total": 14
+  },
+  "speaking_task": "Speak for 60-120 seconds about policy. Use at least two examples and one reason.",
+  "writing_task": "Write a short C1 response about policy. Include the target language: nominalisation.",
+  "listening_audio": {
+    "audio_file": "audio/c1-m03-l01-listening.mp3",
+    "script": "Audio script for C1-M03-L01. Speaker one: Today we are practising policy. Speaker two: I need to use nominalisation correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m03-l01-listening.ssml"
+  },
+  "visual_activity_cards": [
+    {
+      "card_id": "C1-M03-L01-VC1",
+      "title": "Policy word",
+      "alt_text": "Illustration for policy vocabulary"
+    },
+    {
+      "card_id": "C1-M03-L01-VC2",
+      "title": "Nominalisation form",
+      "alt_text": "Visual grammar card for nominalisation"
+    },
+    {
+      "card_id": "C1-M03-L01-VC3",
+      "title": "Grammar task",
+      "alt_text": "Visual task card for grammar"
+    },
+    {
+      "card_id": "C1-M03-L01-VC4",
+      "title": "Success badge",
+      "alt_text": "Star badge showing lesson completion"
+    }
+  ],
+  "downloadables": {
+    "worksheet_pdf": "worksheets/c1-m03-l01-research-synthesis-and-critical-evaluation-grammar-lesson-1.pdf",
+    "worksheet_docx": "worksheets/c1-m03-l01-research-synthesis-and-critical-evaluation-grammar-lesson-1.docx",
+    "answer_key": "answer_keys/c1-m03-l01-research-synthesis-and-critical-evaluation-grammar-lesson-1-answer-key.pdf",
+    "teacher_notes": "teacher_packs/c1-m03-l01-research-synthesis-and-critical-evaluation-grammar-lesson-1-teacher-notes.pdf"
+  },
+  "completion_rule": {
+    "required_view_blocks": [
+      "learner_facing_explanation",
+      "examples",
+      "interactive_practice"
+    ],
+    "required_activity_score": 70,
+    "requires_homework_submission": false,
+    "requires_teacher_review": false,
+    "issue_progress_star": true,
+    "unlock_next_lesson": true
+  },
+  "qa_status": "ready_for_editorial_review",
+  "cefr_validation_status": "mapped_pending_external_validation"
+}

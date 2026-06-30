@@ -1,0 +1,342 @@
+{
+  "activity_id": "LEA-EY-ACT-0206",
+  "title": "Focus: Choose A Strategy When A Task Is Hard - Try Again Path 2",
+  "grade_band": "Grade 1",
+  "mechanic": "Try Again Path",
+  "learning_goal": "Learner can choose a strategy when a task is hard in a child-safe scenario.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0206-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0206",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Focus",
+      "skill_code": "EY-GR-SOFT-FOC-02",
+      "mechanic": "Try Again Path",
+      "prompt_text": "Situation: You make a mistake in reading. What should you do next?",
+      "prompt_audio_text": "Choose the kind strategy to try again. Situation: You make a mistake in reading. What should you do next?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Try once more with a hint.",
+      "distractors": [
+        "Quit the lesson.",
+        "Close the activity.",
+        "Guess without listening."
+      ],
+      "choices": [
+        "Quit the lesson.",
+        "Close the activity.",
+        "Guess without listening.",
+        "Try once more with a hint."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to choose a strategy when a task is hard.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of choose a strategy when a task is hard, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0206-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0206-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0206-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Try once more with a hint.",
+        "caption_text": "Situation: You make a mistake in reading. What should you do next?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0206-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0206",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Focus",
+      "skill_code": "EY-GR-SOFT-FOC-02",
+      "mechanic": "Try Again Path",
+      "prompt_text": "Situation: A classmate is left out. What should you do next?",
+      "prompt_audio_text": "Choose the kind strategy to try again. Situation: A classmate is left out. What should you do next?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Try once more with a hint.",
+      "distractors": [
+        "Guess without listening.",
+        "Quit the lesson.",
+        "Close the activity."
+      ],
+      "choices": [
+        "Try once more with a hint.",
+        "Guess without listening.",
+        "Quit the lesson.",
+        "Close the activity."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to choose a strategy when a task is hard.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of choose a strategy when a task is hard, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0206-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0206-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0206-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Try once more with a hint.",
+        "caption_text": "Situation: A classmate is left out. What should you do next?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0206-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0206",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Focus",
+      "skill_code": "EY-GR-SOFT-FOC-02",
+      "mechanic": "Try Again Path",
+      "prompt_text": "Situation: The game feels difficult. What should you do next?",
+      "prompt_audio_text": "Choose the kind strategy to try again. Situation: The game feels difficult. What should you do next?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Try once more with a hint.",
+      "distractors": [
+        "Quit the lesson.",
+        "Close the activity.",
+        "Guess without listening."
+      ],
+      "choices": [
+        "Quit the lesson.",
+        "Close the activity.",
+        "Guess without listening.",
+        "Try once more with a hint."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to choose a strategy when a task is hard.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of choose a strategy when a task is hard, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0206-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0206-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0206-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Try once more with a hint.",
+        "caption_text": "Situation: The game feels difficult. What should you do next?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0206-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0206",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Focus",
+      "skill_code": "EY-GR-SOFT-FOC-02",
+      "mechanic": "Try Again Path",
+      "prompt_text": "Situation: A friend drops the crayons. What should you do next?",
+      "prompt_audio_text": "Choose the kind strategy to try again. Situation: A friend drops the crayons. What should you do next?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Try once more with a hint.",
+      "distractors": [
+        "Guess without listening.",
+        "Quit the lesson.",
+        "Close the activity."
+      ],
+      "choices": [
+        "Guess without listening.",
+        "Quit the lesson.",
+        "Try once more with a hint.",
+        "Close the activity."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to choose a strategy when a task is hard.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of choose a strategy when a task is hard, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0206-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0206-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0206-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Try once more with a hint.",
+        "caption_text": "Situation: A friend drops the crayons. What should you do next?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0206-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0206",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Focus",
+      "skill_code": "EY-GR-SOFT-FOC-02",
+      "mechanic": "Try Again Path",
+      "prompt_text": "Situation: You make a mistake in reading. What should you do next?",
+      "prompt_audio_text": "Choose the kind strategy to try again. Situation: You make a mistake in reading. What should you do next?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Try once more with a hint.",
+      "distractors": [
+        "Close the activity.",
+        "Guess without listening.",
+        "Quit the lesson."
+      ],
+      "choices": [
+        "Close the activity.",
+        "Guess without listening.",
+        "Try once more with a hint.",
+        "Quit the lesson."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to choose a strategy when a task is hard.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of choose a strategy when a task is hard, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0206-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0206-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0206-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Try once more with a hint.",
+        "caption_text": "Situation: You make a mistake in reading. What should you do next?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0206-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0206",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Focus",
+      "skill_code": "EY-GR-SOFT-FOC-02",
+      "mechanic": "Try Again Path",
+      "prompt_text": "Situation: A classmate is left out. What should you do next?",
+      "prompt_audio_text": "Choose the kind strategy to try again. Situation: A classmate is left out. What should you do next?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "Try once more with a hint.",
+      "distractors": [
+        "Guess without listening.",
+        "Quit the lesson.",
+        "Close the activity."
+      ],
+      "choices": [
+        "Guess without listening.",
+        "Quit the lesson.",
+        "Close the activity.",
+        "Try once more with a hint."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to choose a strategy when a task is hard.",
+        "interventions_by_error_type": {
+          "social_choice": "Mini-teach: model one example of choose a strategy when a task is hard, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0206-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0206-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0206-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for Try once more with a hint.",
+        "caption_text": "Situation: A classmate is left out. What should you do next?",
+        "keyboard_focus_order": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0042",
+  "title": "Phonemic Awareness: Isolate Initial/Final Sounds - Blend Builder 2",
+  "grade_band": "Kindergarten",
+  "mechanic": "Blend Builder",
+  "learning_goal": "Learner can isolate initial/final sounds through a short guided blend builder activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0042-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0042",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Phonemic Awareness",
+      "skill_code": "EY-KIN-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in chin: c-h-i-n. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in chin: c-h-i-n. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "chin",
+      "distractors": [
+        "fish",
+        "book",
+        "green"
+      ],
+      "choices": [
+        "fish",
+        "book",
+        "green",
+        "chin"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to isolate initial/final sounds.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of isolate initial/final sounds, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0042-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0042-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0042-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for chin",
+        "caption_text": "Blend the sounds in chin: c-h-i-n. What word do you hear?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0042-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0042",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Phonemic Awareness",
+      "skill_code": "EY-KIN-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in thin: t-h-i-n. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in thin: t-h-i-n. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "thin",
+      "distractors": [
+        "shop",
+        "fish",
+        "green"
+      ],
+      "choices": [
+        "shop",
+        "thin",
+        "fish",
+        "green"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to isolate initial/final sounds.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of isolate initial/final sounds, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0042-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0042-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0042-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for thin",
+        "caption_text": "Blend the sounds in thin: t-h-i-n. What word do you hear?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0042-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0042",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Phonemic Awareness",
+      "skill_code": "EY-KIN-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in that: t-h-a-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in that: t-h-a-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "that",
+      "distractors": [
+        "moon",
+        "fish",
+        "chin"
+      ],
+      "choices": [
+        "moon",
+        "fish",
+        "that",
+        "chin"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to isolate initial/final sounds.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of isolate initial/final sounds, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0042-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0042-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0042-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for that",
+        "caption_text": "Blend the sounds in that: t-h-a-t. What word do you hear?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0042-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0042",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Phonemic Awareness",
+      "skill_code": "EY-KIN-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in this: t-h-i-s. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in this: t-h-i-s. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "this",
+      "distractors": [
+        "book",
+        "goat",
+        "seed"
+      ],
+      "choices": [
+        "book",
+        "this",
+        "goat",
+        "seed"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to isolate initial/final sounds.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of isolate initial/final sounds, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0042-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0042-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0042-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for this",
+        "caption_text": "Blend the sounds in this: t-h-i-s. What word do you hear?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0042-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0042",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Phonemic Awareness",
+      "skill_code": "EY-KIN-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in then: t-h-e-n. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in then: t-h-e-n. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "then",
+      "distractors": [
+        "goat",
+        "chin",
+        "ship"
+      ],
+      "choices": [
+        "goat",
+        "chin",
+        "ship",
+        "then"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to isolate initial/final sounds.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of isolate initial/final sounds, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0042-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0042-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0042-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for then",
+        "caption_text": "Blend the sounds in then: t-h-e-n. What word do you hear?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0042-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0042",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Phonemic Awareness",
+      "skill_code": "EY-KIN-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in rain: r-a-i-n. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in rain: r-a-i-n. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "rain",
+      "distractors": [
+        "thin",
+        "fish",
+        "seed"
+      ],
+      "choices": [
+        "thin",
+        "rain",
+        "fish",
+        "seed"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to isolate initial/final sounds.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of isolate initial/final sounds, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0042-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0042-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0042-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for rain",
+        "caption_text": "Blend the sounds in rain: r-a-i-n. What word do you hear?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0042-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0042",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Phonemic Awareness",
+      "skill_code": "EY-KIN-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in goat: g-o-a-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in goat: g-o-a-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "goat",
+      "distractors": [
+        "smile",
+        "brown",
+        "ship"
+      ],
+      "choices": [
+        "smile",
+        "brown",
+        "ship",
+        "goat"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to isolate initial/final sounds.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of isolate initial/final sounds, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0042-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0042-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0042-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for goat",
+        "caption_text": "Blend the sounds in goat: g-o-a-t. What word do you hear?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0042-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0042",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Phonemic Awareness",
+      "skill_code": "EY-KIN-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in seed: s-e-e-d. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in seed: s-e-e-d. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "seed",
+      "distractors": [
+        "moon",
+        "this",
+        "play"
+      ],
+      "choices": [
+        "moon",
+        "this",
+        "seed",
+        "play"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to isolate initial/final sounds.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of isolate initial/final sounds, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0042-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0042-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0042-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for seed",
+        "caption_text": "Blend the sounds in seed: s-e-e-d. What word do you hear?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

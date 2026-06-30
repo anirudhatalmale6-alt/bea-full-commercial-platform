@@ -1,0 +1,7 @@
+# HeyGen Avatar Script - B2-M02
+
+Avatar: Warm British English teacher. Keep avatar face visible; captions below lower third.
+
+Welcome to British English Academy B2-M02: Family, community and relationships. Learners practise evaluate sources through people, roles, feelings, social routines. The teacher models advanced conditionals, introduces vocabulary such as family, personality, emotions, community places, then learners complete quiz, evidence upload and reflection.
+
+Pause: complete LMS check.

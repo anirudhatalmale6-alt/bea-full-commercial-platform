@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0100",
+  "title": "Comprehension: Retell Beginning/Middle/End - Blend Builder 4",
+  "grade_band": "Grade 1",
+  "mechanic": "Blend Builder",
+  "learning_goal": "Learner can retell beginning/middle/end through a short guided blend builder activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in street: s-t-r-e. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in street: s-t-r-e. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "street",
+      "distractors": [
+        "kind",
+        "cloud",
+        "before"
+      ],
+      "choices": [
+        "kind",
+        "street",
+        "cloud",
+        "before"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for street",
+        "caption_text": "Blend the sounds in street: s-t-r-e. What word do you hear?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in cloud: c-l-o-u. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in cloud: c-l-o-u. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "cloud",
+      "distractors": [
+        "little",
+        "family",
+        "street"
+      ],
+      "choices": [
+        "little",
+        "family",
+        "street",
+        "cloud"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cloud",
+        "caption_text": "Blend the sounds in cloud: c-l-o-u. What word do you hear?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in friend: f-r-i-e. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in friend: f-r-i-e. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "friend",
+      "distractors": [
+        "story",
+        "school",
+        "letter"
+      ],
+      "choices": [
+        "story",
+        "school",
+        "friend",
+        "letter"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for friend",
+        "caption_text": "Blend the sounds in friend: f-r-i-e. What word do you hear?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in school: s-c-h-o. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in school: s-c-h-o. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "school",
+      "distractors": [
+        "market",
+        "after",
+        "because"
+      ],
+      "choices": [
+        "market",
+        "after",
+        "because",
+        "school"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for school",
+        "caption_text": "Blend the sounds in school: s-c-h-o. What word do you hear?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in happy: h-a-p-p. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in happy: h-a-p-p. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "happy",
+      "distractors": [
+        "family",
+        "little",
+        "friend"
+      ],
+      "choices": [
+        "family",
+        "happy",
+        "little",
+        "friend"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for happy",
+        "caption_text": "Blend the sounds in happy: h-a-p-p. What word do you hear?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in because: b-e-c-a. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in because: b-e-c-a. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "because",
+      "distractors": [
+        "animal",
+        "cloud",
+        "school"
+      ],
+      "choices": [
+        "animal",
+        "cloud",
+        "school",
+        "because"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for because",
+        "caption_text": "Blend the sounds in because: b-e-c-a. What word do you hear?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in before: b-e-f-o. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in before: b-e-f-o. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "before",
+      "distractors": [
+        "garden",
+        "picture",
+        "little"
+      ],
+      "choices": [
+        "before",
+        "garden",
+        "picture",
+        "little"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for before",
+        "caption_text": "Blend the sounds in before: b-e-f-o. What word do you hear?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in after: a-f-t-e. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in after: a-f-t-e. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "after",
+      "distractors": [
+        "family",
+        "street",
+        "happy"
+      ],
+      "choices": [
+        "after",
+        "family",
+        "street",
+        "happy"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for after",
+        "caption_text": "Blend the sounds in after: a-f-t-e. What word do you hear?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in little: l-i-t-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in little: l-i-t-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "little",
+      "distractors": [
+        "bright",
+        "before",
+        "community"
+      ],
+      "choices": [
+        "bright",
+        "before",
+        "community",
+        "little"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for little",
+        "caption_text": "Blend the sounds in little: l-i-t-t. What word do you hear?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0100-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0100",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-04",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in people: p-e-o-p. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in people: p-e-o-p. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "people",
+      "distractors": [
+        "community",
+        "kind",
+        "cloud"
+      ],
+      "choices": [
+        "community",
+        "kind",
+        "cloud",
+        "people"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to retell beginning/middle/end.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of retell beginning/middle/end, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0100-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0100-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0100-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for people",
+        "caption_text": "Blend the sounds in people: p-e-o-p. What word do you hear?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

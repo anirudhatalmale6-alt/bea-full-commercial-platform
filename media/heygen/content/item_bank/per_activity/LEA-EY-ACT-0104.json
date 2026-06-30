@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0104",
+  "title": "Place Value: Tens And Ones - Sort It 4",
+  "grade_band": "Grade 1",
+  "mechanic": "Sort It",
+  "learning_goal": "Learner can tens and ones through a short guided sort it activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "pencil",
+      "distractors": [
+        "bird",
+        "cat",
+        "rabbit"
+      ],
+      "choices": [
+        "bird",
+        "cat",
+        "pencil",
+        "rabbit"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pencil",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "bird",
+      "distractors": [
+        "pencil",
+        "chair",
+        "crayon"
+      ],
+      "choices": [
+        "pencil",
+        "chair",
+        "bird",
+        "crayon"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bird",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "chair",
+      "distractors": [
+        "dog",
+        "rabbit",
+        "fish"
+      ],
+      "choices": [
+        "dog",
+        "chair",
+        "rabbit",
+        "fish"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for chair",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "frog",
+      "distractors": [
+        "door",
+        "book",
+        "table"
+      ],
+      "choices": [
+        "door",
+        "book",
+        "table",
+        "frog"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for frog",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "door",
+      "distractors": [
+        "dog",
+        "frog",
+        "horse"
+      ],
+      "choices": [
+        "dog",
+        "door",
+        "frog",
+        "horse"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for door",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "rabbit",
+      "distractors": [
+        "window",
+        "table",
+        "door"
+      ],
+      "choices": [
+        "rabbit",
+        "window",
+        "table",
+        "door"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for rabbit",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "crayon",
+      "distractors": [
+        "horse",
+        "fish",
+        "bird"
+      ],
+      "choices": [
+        "crayon",
+        "horse",
+        "fish",
+        "bird"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for crayon",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "cat",
+      "distractors": [
+        "bag",
+        "table",
+        "chair"
+      ],
+      "choices": [
+        "cat",
+        "bag",
+        "table",
+        "chair"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cat",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "pencil",
+      "distractors": [
+        "fish",
+        "rabbit",
+        "dog"
+      ],
+      "choices": [
+        "pencil",
+        "fish",
+        "rabbit",
+        "dog"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pencil",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0104-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0104",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Place Value",
+      "skill_code": "EY-GRA-MAT-PLA-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "bird",
+      "distractors": [
+        "window",
+        "door",
+        "bag"
+      ],
+      "choices": [
+        "bird",
+        "window",
+        "door",
+        "bag"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to tens and ones.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of tens and ones, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0104-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0104-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0104-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bird",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "static": {
+    "returncode": 0,
+    "stdout": "{\n  \"ok\": true,\n  \"checkedAt\": \"2026-06-17T11:04:50.489Z\",\n  \"filesChecked\": 40,\n  \"courses\": 6,\n  \"curriculumLevels\": 6,\n  \"lessons\": 216,\n  \"activities\": 216,\n  \"itemBank\": 240,\n  \"downloadables\": 19,\n  \"checksum\": \"357d3383356ca5fa047826f45554f8424477dc068eac184b2a41ccc2eba5f350\"\n}\n",
+    "stderr": ""
+  },
+  "bea-live": {
+    "returncode": 0,
+    "stdout": "{\n  \"ok\": true,\n  \"checkedAt\": \"2026-06-17T11:04:50.583Z\",\n  \"requiredFiles\": 36,\n  \"failures\": [],\n  \"checksum\": \"11764326d5bf37495e79cda16fda1401520ff34422314944218efc38017907cc\"\n}\n",
+    "stderr": ""
+  }
+}

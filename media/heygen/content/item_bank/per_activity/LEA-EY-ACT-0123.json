@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0123",
+  "title": "Phonics: Vowel Teams And R-Controlled Vowels - Find the Mistake 3",
+  "grade_band": "Grade 2",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can vowel teams and r-controlled vowels through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The support are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The support are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The support is clear.",
+      "distractors": [
+        "The support clear is.",
+        "Clear the support is.",
+        "The support are clear."
+      ],
+      "choices": [
+        "The support clear is.",
+        "Clear the support is.",
+        "The support are clear.",
+        "The support is clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The support is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The support are clear.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The evidence are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The evidence are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The evidence is clear.",
+      "distractors": [
+        "Clear the evidence is.",
+        "The evidence clear is.",
+        "The evidence are clear."
+      ],
+      "choices": [
+        "Clear the evidence is.",
+        "The evidence clear is.",
+        "The evidence are clear.",
+        "The evidence is clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The evidence is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The evidence are clear.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The measure are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The measure are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The measure is clear.",
+      "distractors": [
+        "The measure are clear.",
+        "The measure clear is.",
+        "Clear the measure is."
+      ],
+      "choices": [
+        "The measure are clear.",
+        "The measure clear is.",
+        "The measure is clear.",
+        "Clear the measure is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The measure is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The measure are clear.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The pattern are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The pattern are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The pattern is clear.",
+      "distractors": [
+        "The pattern are clear.",
+        "The pattern clear is.",
+        "Clear the pattern is."
+      ],
+      "choices": [
+        "The pattern are clear.",
+        "The pattern clear is.",
+        "The pattern is clear.",
+        "Clear the pattern is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The pattern is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The pattern are clear.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The problem are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The problem are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The problem is clear.",
+      "distractors": [
+        "The problem clear is.",
+        "Clear the problem is.",
+        "The problem are clear."
+      ],
+      "choices": [
+        "The problem is clear.",
+        "The problem clear is.",
+        "Clear the problem is.",
+        "The problem are clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The problem is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The problem are clear.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The solution are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The solution are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The solution is clear.",
+      "distractors": [
+        "The solution clear is.",
+        "The solution are clear.",
+        "Clear the solution is."
+      ],
+      "choices": [
+        "The solution clear is.",
+        "The solution are clear.",
+        "Clear the solution is.",
+        "The solution is clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The solution is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The solution are clear.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The question are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The question are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The question is clear.",
+      "distractors": [
+        "The question are clear.",
+        "Clear the question is.",
+        "The question clear is."
+      ],
+      "choices": [
+        "The question are clear.",
+        "Clear the question is.",
+        "The question clear is.",
+        "The question is clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The question is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The question are clear.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The answer are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The answer are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The answer is clear.",
+      "distractors": [
+        "The answer are clear.",
+        "The answer clear is.",
+        "Clear the answer is."
+      ],
+      "choices": [
+        "The answer is clear.",
+        "The answer are clear.",
+        "The answer clear is.",
+        "Clear the answer is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The answer is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The answer are clear.'",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The listen are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The listen are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The listen is clear.",
+      "distractors": [
+        "Clear the listen is.",
+        "The listen clear is.",
+        "The listen are clear."
+      ],
+      "choices": [
+        "Clear the listen is.",
+        "The listen is clear.",
+        "The listen clear is.",
+        "The listen are clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The listen is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The listen are clear.'",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0123-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0123",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The record are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The record are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The record is clear.",
+      "distractors": [
+        "Clear the record is.",
+        "The record clear is.",
+        "The record are clear."
+      ],
+      "choices": [
+        "Clear the record is.",
+        "The record clear is.",
+        "The record are clear.",
+        "The record is clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to vowel teams and r-controlled vowels.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of vowel teams and r-controlled vowels, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0123-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0123-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0123-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The record is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The record are clear.'",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

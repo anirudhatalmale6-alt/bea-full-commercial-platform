@@ -1,0 +1,25 @@
+# A2-M06 Home practice pack: Travel, cultures and the wider world
+**Resource ID:** LEA-RES-0160-a2-m06-home-practice-pack
+**Brand:** British English Academy - British English - Global Learning
+
+## Resource identity
+Course: Everyday English
+Level: A2
+Module: A2-M06 - Travel, cultures and the wider world
+Resource type: Home practice pack
+Adaptive use: core/remediation/extension depending on score
+Learner expectation: connected simple sentences, familiar topics, guided questions and controlled practice.
+
+## Parent/carer note
+Practise English for 10-15 minutes. Ask the learner to explain travel, cultures and the wider world using simple examples. Praise effort and confidence.
+
+## Home tasks
+- Read the word bank aloud.
+- Ask and answer three questions.
+- Write five sentences or record a short answer.
+- Review one mistake and correct it kindly.
+
+## Return evidence
+Learner brings the completed practice, voice note, or parent signature to the next lesson.
+
+Prepared for British English Academy by Teacher Jibril Moruthoane. Version 1.3, 2026-06-08.

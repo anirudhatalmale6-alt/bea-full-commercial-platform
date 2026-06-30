@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0072",
+  "title": "Geometry: 2D And 3D Shapes - Trace and Say 4",
+  "grade_band": "Kindergarten",
+  "mechanic": "Trace and Say",
+  "learning_goal": "Learner can 2D and 3D shapes through a short guided trace and say activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0072-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0072",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-04",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'park', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'park', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "park",
+      "distractors": [
+        "chair",
+        "fish",
+        "smile"
+      ],
+      "choices": [
+        "chair",
+        "park",
+        "fish",
+        "smile"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0072-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0072-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0072-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for park",
+        "caption_text": "Trace the word 'park', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0072-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0072",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-04",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'play', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'play', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "play",
+      "distractors": [
+        "that",
+        "then",
+        "moon"
+      ],
+      "choices": [
+        "that",
+        "then",
+        "moon",
+        "play"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0072-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0072-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0072-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for play",
+        "caption_text": "Trace the word 'play', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0072-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0072",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-04",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'smile', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'smile', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "smile",
+      "distractors": [
+        "chin",
+        "fish",
+        "brown"
+      ],
+      "choices": [
+        "chin",
+        "fish",
+        "brown",
+        "smile"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0072-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0072-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0072-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for smile",
+        "caption_text": "Trace the word 'smile', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0072-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0072",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-04",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'green', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'green', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "green",
+      "distractors": [
+        "smile",
+        "chair",
+        "then"
+      ],
+      "choices": [
+        "green",
+        "smile",
+        "chair",
+        "then"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0072-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0072-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0072-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for green",
+        "caption_text": "Trace the word 'green', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0072-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0072",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-04",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'brown', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'brown', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "brown",
+      "distractors": [
+        "thin",
+        "moon",
+        "chair"
+      ],
+      "choices": [
+        "thin",
+        "moon",
+        "chair",
+        "brown"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0072-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0072-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0072-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for brown",
+        "caption_text": "Trace the word 'brown', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0072-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0072",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-04",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'chair', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'chair', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "chair",
+      "distractors": [
+        "shop",
+        "thin",
+        "play"
+      ],
+      "choices": [
+        "chair",
+        "shop",
+        "thin",
+        "play"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0072-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0072-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0072-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for chair",
+        "caption_text": "Trace the word 'chair', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0072-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0072",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-04",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'train', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'train', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "train",
+      "distractors": [
+        "green",
+        "moon",
+        "chin"
+      ],
+      "choices": [
+        "train",
+        "green",
+        "moon",
+        "chin"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0072-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0072-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0072-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for train",
+        "caption_text": "Trace the word 'train', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0072-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0072",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-04",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'ship', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'ship', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "ship",
+      "distractors": [
+        "play",
+        "chair",
+        "train"
+      ],
+      "choices": [
+        "play",
+        "ship",
+        "chair",
+        "train"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0072-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0072-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0072-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for ship",
+        "caption_text": "Trace the word 'ship', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

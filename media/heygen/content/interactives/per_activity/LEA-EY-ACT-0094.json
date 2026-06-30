@@ -1,0 +1,44 @@
+{
+  "activity_id": "LEA-EY-ACT-0094",
+  "route": "/early-years/play/LEA-EY-ACT-0094",
+  "mechanic": "Find the Mistake",
+  "screen_flow": [
+    "intro_audio",
+    "guided_example",
+    "independent_items",
+    "feedback",
+    "mastery_or_reteach",
+    "reward"
+  ],
+  "ui_components": [
+    "SentenceCard",
+    "ErrorHighlighter",
+    "CorrectChoiceGrid"
+  ],
+  "telemetry_map": {
+    "learner_id": "learner_id",
+    "session_id": "session_id",
+    "activity_id": "activity_id",
+    "activity_version": "activity_version",
+    "item_id": "item_id",
+    "accuracy": "accuracy",
+    "diagnostic_score": "diagnostic_score",
+    "prompt_level": "prompt_level",
+    "response_time_seconds": "response_time_seconds",
+    "baseline_average_response_time_seconds": "baseline_average_response_time_seconds",
+    "attempt_count": "attempt_count",
+    "consecutive_same_error_count": "consecutive_same_error_count",
+    "error_type": "error_type",
+    "hint_count": "hint_count",
+    "audio_replay_count": "audio_replay_count",
+    "session_spacing_days": "session_spacing_days",
+    "learner_exit_count": "learner_exit_count",
+    "teacher_override": "teacher_override"
+  },
+  "completion_rule": {
+    "mastered_accuracy_min": 0.85,
+    "sessions_required": 2,
+    "prompt_level_max": 2
+  },
+  "items_source": "/content/item_bank/per_activity/LEA-EY-ACT-0094.json"
+}

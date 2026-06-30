@@ -1,0 +1,561 @@
+{
+  "activity_id": "LEA-EY-ACT-0110",
+  "title": "Measurement: Non-Standard Measurement - Count and Group 2",
+  "grade_band": "Grade 1",
+  "mechanic": "Count and Group",
+  "learning_goal": "Learner can non-standard measurement through a short guided count and group activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 2 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 2 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4"
+      ],
+      "choices": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 2",
+        "caption_text": "Count the group. There are 2 stars. Which number matches?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 3 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 3 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "5"
+      ],
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 3",
+        "caption_text": "Count the group. There are 3 stars. Which number matches?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 4 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 4 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "4",
+      "distractors": [
+        "3",
+        "6",
+        "5"
+      ],
+      "choices": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 4",
+        "caption_text": "Count the group. There are 4 stars. Which number matches?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 5 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 5 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "5",
+      "distractors": [
+        "6",
+        "7",
+        "4"
+      ],
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 5",
+        "caption_text": "Count the group. There are 5 stars. Which number matches?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 6 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 6 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "6",
+      "distractors": [
+        "8",
+        "5",
+        "7"
+      ],
+      "choices": [
+        "8",
+        "5",
+        "6",
+        "7"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 6",
+        "caption_text": "Count the group. There are 6 stars. Which number matches?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 7 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 7 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "7",
+      "distractors": [
+        "9",
+        "8",
+        "6"
+      ],
+      "choices": [
+        "9",
+        "8",
+        "6",
+        "7"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 7",
+        "caption_text": "Count the group. There are 7 stars. Which number matches?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 8 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 8 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "8",
+      "distractors": [
+        "7",
+        "10",
+        "9"
+      ],
+      "choices": [
+        "7",
+        "10",
+        "9",
+        "8"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 8",
+        "caption_text": "Count the group. There are 8 stars. Which number matches?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 9 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 9 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "9",
+      "distractors": [
+        "11",
+        "10",
+        "8"
+      ],
+      "choices": [
+        "11",
+        "9",
+        "10",
+        "8"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 9",
+        "caption_text": "Count the group. There are 9 stars. Which number matches?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 10 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 10 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "10",
+      "distractors": [
+        "12",
+        "11",
+        "9"
+      ],
+      "choices": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 10",
+        "caption_text": "Count the group. There are 10 stars. Which number matches?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0110-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0110",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-02",
+      "mechanic": "Count and Group",
+      "prompt_text": "Count the group. There are 1 stars. Which number matches?",
+      "prompt_audio_text": "Count the objects and group them correctly. Count the group. There are 1 stars. Which number matches?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "3"
+      ],
+      "choices": [
+        "2",
+        "1",
+        "1",
+        "3"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to non-standard measurement.",
+        "interventions_by_error_type": {
+          "number_fact": "Mini-teach: model one example of non-standard measurement, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0110-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0110-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0110-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for 1",
+        "caption_text": "Count the group. There are 1 stars. Which number matches?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

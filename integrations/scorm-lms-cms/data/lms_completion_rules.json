@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "defaults": {
+    "video_threshold_percent": 90,
+    "assessment_pass_score": 80,
+    "scorm_mastery_score": 80,
+    "module_completion_lesson_percent": 80,
+    "course_completion_required_modules_percent": 100
+  },
+  "rules": [
+    {
+      "scope": "lesson:video",
+      "complete_when": "percent_watched >= video_threshold_percent"
+    },
+    {
+      "scope": "lesson:scorm",
+      "complete_when": "lesson_status in [completed, passed] and score_raw >= scorm_mastery_score"
+    },
+    {
+      "scope": "lesson:assessment",
+      "complete_when": "score >= assessment_pass_score or teacher_status == approved"
+    },
+    {
+      "scope": "lesson:resource",
+      "complete_when": "required == false or downloaded == true"
+    },
+    {
+      "scope": "module",
+      "complete_when": "required_lessons_completed_percent >= module_completion_lesson_percent and required_assessment_passed == true"
+    },
+    {
+      "scope": "course",
+      "complete_when": "required_modules_completed_percent == course_completion_required_modules_percent"
+    },
+    {
+      "scope": "certificate",
+      "complete_when": "course_status == completed and learner_account_status == active"
+    }
+  ]
+}

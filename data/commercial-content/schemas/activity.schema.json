@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BEA Interactive Activity",
+  "type": "object",
+  "required": ["activity_id", "lesson_id", "activity_type", "title", "cefr_level", "skill", "instructions", "items", "scoring_rules", "instant_feedback"],
+  "properties": {
+    "activity_type": {
+      "enum": ["drag_and_drop", "matching", "listen_and_choose", "sentence_builder", "word_ordering", "phonics_game", "spelling_game", "multiple_choice", "gap_fill", "speaking_prompt", "writing_submission"]
+    }
+  }
+}

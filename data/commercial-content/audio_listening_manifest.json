@@ -1,0 +1,1514 @@
+[
+  {
+    "lesson_id": "A1-M01-L01",
+    "target_audio_file": "audio/a1-m01-l01-listening.mp3",
+    "script": "Audio script for A1-M01-L01. Speaker one: Today we are practising personal information. Speaker two: I need to use be: am/is/are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m01-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M01-L02",
+    "target_audio_file": "audio/a1-m01-l02-listening.mp3",
+    "script": "Audio script for A1-M01-L02. Speaker one: Today we are practising family. Speaker two: I need to use there is/there are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m01-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M01-L03",
+    "target_audio_file": "audio/a1-m01-l03-listening.mp3",
+    "script": "Audio script for A1-M01-L03. Speaker one: Today we are practising numbers. Speaker two: I need to use present simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m01-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M01-L04",
+    "target_audio_file": "audio/a1-m01-l04-listening.mp3",
+    "script": "Audio script for A1-M01-L04. Speaker one: Today we are practising classroom. Speaker two: I need to use can/can't correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m01-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M01-L05",
+    "target_audio_file": "audio/a1-m01-l05-listening.mp3",
+    "script": "Audio script for A1-M01-L05. Speaker one: Today we are practising food. Speaker two: I need to use basic imperatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m01-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M01-L06",
+    "target_audio_file": "audio/a1-m01-l06-listening.mp3",
+    "script": "Audio script for A1-M01-L06. Speaker one: Today we are practising places. Speaker two: I need to use singular/plural nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m01-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M02-L01",
+    "target_audio_file": "audio/a1-m02-l01-listening.mp3",
+    "script": "Audio script for A1-M02-L01. Speaker one: Today we are practising family. Speaker two: I need to use there is/there are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m02-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M02-L02",
+    "target_audio_file": "audio/a1-m02-l02-listening.mp3",
+    "script": "Audio script for A1-M02-L02. Speaker one: Today we are practising numbers. Speaker two: I need to use present simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m02-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M02-L03",
+    "target_audio_file": "audio/a1-m02-l03-listening.mp3",
+    "script": "Audio script for A1-M02-L03. Speaker one: Today we are practising classroom. Speaker two: I need to use can/can't correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m02-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M02-L04",
+    "target_audio_file": "audio/a1-m02-l04-listening.mp3",
+    "script": "Audio script for A1-M02-L04. Speaker one: Today we are practising food. Speaker two: I need to use basic imperatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m02-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M02-L05",
+    "target_audio_file": "audio/a1-m02-l05-listening.mp3",
+    "script": "Audio script for A1-M02-L05. Speaker one: Today we are practising places. Speaker two: I need to use singular/plural nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m02-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M02-L06",
+    "target_audio_file": "audio/a1-m02-l06-listening.mp3",
+    "script": "Audio script for A1-M02-L06. Speaker one: Today we are practising personal information. Speaker two: I need to use be: am/is/are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m02-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M03-L01",
+    "target_audio_file": "audio/a1-m03-l01-listening.mp3",
+    "script": "Audio script for A1-M03-L01. Speaker one: Today we are practising numbers. Speaker two: I need to use present simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m03-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M03-L02",
+    "target_audio_file": "audio/a1-m03-l02-listening.mp3",
+    "script": "Audio script for A1-M03-L02. Speaker one: Today we are practising classroom. Speaker two: I need to use can/can't correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m03-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M03-L03",
+    "target_audio_file": "audio/a1-m03-l03-listening.mp3",
+    "script": "Audio script for A1-M03-L03. Speaker one: Today we are practising food. Speaker two: I need to use basic imperatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m03-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M03-L04",
+    "target_audio_file": "audio/a1-m03-l04-listening.mp3",
+    "script": "Audio script for A1-M03-L04. Speaker one: Today we are practising places. Speaker two: I need to use singular/plural nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m03-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M03-L05",
+    "target_audio_file": "audio/a1-m03-l05-listening.mp3",
+    "script": "Audio script for A1-M03-L05. Speaker one: Today we are practising personal information. Speaker two: I need to use be: am/is/are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m03-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M03-L06",
+    "target_audio_file": "audio/a1-m03-l06-listening.mp3",
+    "script": "Audio script for A1-M03-L06. Speaker one: Today we are practising family. Speaker two: I need to use there is/there are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m03-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M04-L01",
+    "target_audio_file": "audio/a1-m04-l01-listening.mp3",
+    "script": "Audio script for A1-M04-L01. Speaker one: Today we are practising classroom. Speaker two: I need to use can/can't correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m04-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M04-L02",
+    "target_audio_file": "audio/a1-m04-l02-listening.mp3",
+    "script": "Audio script for A1-M04-L02. Speaker one: Today we are practising food. Speaker two: I need to use basic imperatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m04-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M04-L03",
+    "target_audio_file": "audio/a1-m04-l03-listening.mp3",
+    "script": "Audio script for A1-M04-L03. Speaker one: Today we are practising places. Speaker two: I need to use singular/plural nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m04-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M04-L04",
+    "target_audio_file": "audio/a1-m04-l04-listening.mp3",
+    "script": "Audio script for A1-M04-L04. Speaker one: Today we are practising personal information. Speaker two: I need to use be: am/is/are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m04-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M04-L05",
+    "target_audio_file": "audio/a1-m04-l05-listening.mp3",
+    "script": "Audio script for A1-M04-L05. Speaker one: Today we are practising family. Speaker two: I need to use there is/there are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m04-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M04-L06",
+    "target_audio_file": "audio/a1-m04-l06-listening.mp3",
+    "script": "Audio script for A1-M04-L06. Speaker one: Today we are practising numbers. Speaker two: I need to use present simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m04-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M05-L01",
+    "target_audio_file": "audio/a1-m05-l01-listening.mp3",
+    "script": "Audio script for A1-M05-L01. Speaker one: Today we are practising food. Speaker two: I need to use basic imperatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m05-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M05-L02",
+    "target_audio_file": "audio/a1-m05-l02-listening.mp3",
+    "script": "Audio script for A1-M05-L02. Speaker one: Today we are practising places. Speaker two: I need to use singular/plural nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m05-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M05-L03",
+    "target_audio_file": "audio/a1-m05-l03-listening.mp3",
+    "script": "Audio script for A1-M05-L03. Speaker one: Today we are practising personal information. Speaker two: I need to use be: am/is/are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m05-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M05-L04",
+    "target_audio_file": "audio/a1-m05-l04-listening.mp3",
+    "script": "Audio script for A1-M05-L04. Speaker one: Today we are practising family. Speaker two: I need to use there is/there are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m05-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M05-L05",
+    "target_audio_file": "audio/a1-m05-l05-listening.mp3",
+    "script": "Audio script for A1-M05-L05. Speaker one: Today we are practising numbers. Speaker two: I need to use present simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m05-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M05-L06",
+    "target_audio_file": "audio/a1-m05-l06-listening.mp3",
+    "script": "Audio script for A1-M05-L06. Speaker one: Today we are practising classroom. Speaker two: I need to use can/can't correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m05-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M06-L01",
+    "target_audio_file": "audio/a1-m06-l01-listening.mp3",
+    "script": "Audio script for A1-M06-L01. Speaker one: Today we are practising places. Speaker two: I need to use singular/plural nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m06-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M06-L02",
+    "target_audio_file": "audio/a1-m06-l02-listening.mp3",
+    "script": "Audio script for A1-M06-L02. Speaker one: Today we are practising personal information. Speaker two: I need to use be: am/is/are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m06-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M06-L03",
+    "target_audio_file": "audio/a1-m06-l03-listening.mp3",
+    "script": "Audio script for A1-M06-L03. Speaker one: Today we are practising family. Speaker two: I need to use there is/there are correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m06-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M06-L04",
+    "target_audio_file": "audio/a1-m06-l04-listening.mp3",
+    "script": "Audio script for A1-M06-L04. Speaker one: Today we are practising numbers. Speaker two: I need to use present simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m06-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M06-L05",
+    "target_audio_file": "audio/a1-m06-l05-listening.mp3",
+    "script": "Audio script for A1-M06-L05. Speaker one: Today we are practising classroom. Speaker two: I need to use can/can't correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m06-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A1-M06-L06",
+    "target_audio_file": "audio/a1-m06-l06-listening.mp3",
+    "script": "Audio script for A1-M06-L06. Speaker one: Today we are practising food. Speaker two: I need to use basic imperatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a1-m06-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M01-L01",
+    "target_audio_file": "audio/a2-m01-l01-listening.mp3",
+    "script": "Audio script for A2-M01-L01. Speaker one: Today we are practising travel. Speaker two: I need to use past simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m01-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M01-L02",
+    "target_audio_file": "audio/a2-m01-l02-listening.mp3",
+    "script": "Audio script for A2-M01-L02. Speaker one: Today we are practising shopping. Speaker two: I need to use present continuous correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m01-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M01-L03",
+    "target_audio_file": "audio/a2-m01-l03-listening.mp3",
+    "script": "Audio script for A2-M01-L03. Speaker one: Today we are practising health. Speaker two: I need to use comparatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m01-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M01-L04",
+    "target_audio_file": "audio/a2-m01-l04-listening.mp3",
+    "script": "Audio script for A2-M01-L04. Speaker one: Today we are practising work. Speaker two: I need to use countable/uncountable nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m01-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M01-L05",
+    "target_audio_file": "audio/a2-m01-l05-listening.mp3",
+    "script": "Audio script for A2-M01-L05. Speaker one: Today we are practising free time. Speaker two: I need to use going to correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m01-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M01-L06",
+    "target_audio_file": "audio/a2-m01-l06-listening.mp3",
+    "script": "Audio script for A2-M01-L06. Speaker one: Today we are practising weather. Speaker two: I need to use basic modals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m01-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M02-L01",
+    "target_audio_file": "audio/a2-m02-l01-listening.mp3",
+    "script": "Audio script for A2-M02-L01. Speaker one: Today we are practising shopping. Speaker two: I need to use present continuous correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m02-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M02-L02",
+    "target_audio_file": "audio/a2-m02-l02-listening.mp3",
+    "script": "Audio script for A2-M02-L02. Speaker one: Today we are practising health. Speaker two: I need to use comparatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m02-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M02-L03",
+    "target_audio_file": "audio/a2-m02-l03-listening.mp3",
+    "script": "Audio script for A2-M02-L03. Speaker one: Today we are practising work. Speaker two: I need to use countable/uncountable nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m02-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M02-L04",
+    "target_audio_file": "audio/a2-m02-l04-listening.mp3",
+    "script": "Audio script for A2-M02-L04. Speaker one: Today we are practising free time. Speaker two: I need to use going to correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m02-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M02-L05",
+    "target_audio_file": "audio/a2-m02-l05-listening.mp3",
+    "script": "Audio script for A2-M02-L05. Speaker one: Today we are practising weather. Speaker two: I need to use basic modals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m02-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M02-L06",
+    "target_audio_file": "audio/a2-m02-l06-listening.mp3",
+    "script": "Audio script for A2-M02-L06. Speaker one: Today we are practising travel. Speaker two: I need to use past simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m02-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M03-L01",
+    "target_audio_file": "audio/a2-m03-l01-listening.mp3",
+    "script": "Audio script for A2-M03-L01. Speaker one: Today we are practising health. Speaker two: I need to use comparatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m03-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M03-L02",
+    "target_audio_file": "audio/a2-m03-l02-listening.mp3",
+    "script": "Audio script for A2-M03-L02. Speaker one: Today we are practising work. Speaker two: I need to use countable/uncountable nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m03-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M03-L03",
+    "target_audio_file": "audio/a2-m03-l03-listening.mp3",
+    "script": "Audio script for A2-M03-L03. Speaker one: Today we are practising free time. Speaker two: I need to use going to correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m03-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M03-L04",
+    "target_audio_file": "audio/a2-m03-l04-listening.mp3",
+    "script": "Audio script for A2-M03-L04. Speaker one: Today we are practising weather. Speaker two: I need to use basic modals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m03-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M03-L05",
+    "target_audio_file": "audio/a2-m03-l05-listening.mp3",
+    "script": "Audio script for A2-M03-L05. Speaker one: Today we are practising travel. Speaker two: I need to use past simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m03-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M03-L06",
+    "target_audio_file": "audio/a2-m03-l06-listening.mp3",
+    "script": "Audio script for A2-M03-L06. Speaker one: Today we are practising shopping. Speaker two: I need to use present continuous correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m03-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M04-L01",
+    "target_audio_file": "audio/a2-m04-l01-listening.mp3",
+    "script": "Audio script for A2-M04-L01. Speaker one: Today we are practising work. Speaker two: I need to use countable/uncountable nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m04-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M04-L02",
+    "target_audio_file": "audio/a2-m04-l02-listening.mp3",
+    "script": "Audio script for A2-M04-L02. Speaker one: Today we are practising free time. Speaker two: I need to use going to correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m04-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M04-L03",
+    "target_audio_file": "audio/a2-m04-l03-listening.mp3",
+    "script": "Audio script for A2-M04-L03. Speaker one: Today we are practising weather. Speaker two: I need to use basic modals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m04-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M04-L04",
+    "target_audio_file": "audio/a2-m04-l04-listening.mp3",
+    "script": "Audio script for A2-M04-L04. Speaker one: Today we are practising travel. Speaker two: I need to use past simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m04-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M04-L05",
+    "target_audio_file": "audio/a2-m04-l05-listening.mp3",
+    "script": "Audio script for A2-M04-L05. Speaker one: Today we are practising shopping. Speaker two: I need to use present continuous correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m04-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M04-L06",
+    "target_audio_file": "audio/a2-m04-l06-listening.mp3",
+    "script": "Audio script for A2-M04-L06. Speaker one: Today we are practising health. Speaker two: I need to use comparatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m04-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M05-L01",
+    "target_audio_file": "audio/a2-m05-l01-listening.mp3",
+    "script": "Audio script for A2-M05-L01. Speaker one: Today we are practising free time. Speaker two: I need to use going to correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m05-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M05-L02",
+    "target_audio_file": "audio/a2-m05-l02-listening.mp3",
+    "script": "Audio script for A2-M05-L02. Speaker one: Today we are practising weather. Speaker two: I need to use basic modals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m05-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M05-L03",
+    "target_audio_file": "audio/a2-m05-l03-listening.mp3",
+    "script": "Audio script for A2-M05-L03. Speaker one: Today we are practising travel. Speaker two: I need to use past simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m05-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M05-L04",
+    "target_audio_file": "audio/a2-m05-l04-listening.mp3",
+    "script": "Audio script for A2-M05-L04. Speaker one: Today we are practising shopping. Speaker two: I need to use present continuous correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m05-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M05-L05",
+    "target_audio_file": "audio/a2-m05-l05-listening.mp3",
+    "script": "Audio script for A2-M05-L05. Speaker one: Today we are practising health. Speaker two: I need to use comparatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m05-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M05-L06",
+    "target_audio_file": "audio/a2-m05-l06-listening.mp3",
+    "script": "Audio script for A2-M05-L06. Speaker one: Today we are practising work. Speaker two: I need to use countable/uncountable nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m05-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M06-L01",
+    "target_audio_file": "audio/a2-m06-l01-listening.mp3",
+    "script": "Audio script for A2-M06-L01. Speaker one: Today we are practising weather. Speaker two: I need to use basic modals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m06-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M06-L02",
+    "target_audio_file": "audio/a2-m06-l02-listening.mp3",
+    "script": "Audio script for A2-M06-L02. Speaker one: Today we are practising travel. Speaker two: I need to use past simple correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m06-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M06-L03",
+    "target_audio_file": "audio/a2-m06-l03-listening.mp3",
+    "script": "Audio script for A2-M06-L03. Speaker one: Today we are practising shopping. Speaker two: I need to use present continuous correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m06-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M06-L04",
+    "target_audio_file": "audio/a2-m06-l04-listening.mp3",
+    "script": "Audio script for A2-M06-L04. Speaker one: Today we are practising health. Speaker two: I need to use comparatives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m06-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M06-L05",
+    "target_audio_file": "audio/a2-m06-l05-listening.mp3",
+    "script": "Audio script for A2-M06-L05. Speaker one: Today we are practising work. Speaker two: I need to use countable/uncountable nouns correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m06-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "A2-M06-L06",
+    "target_audio_file": "audio/a2-m06-l06-listening.mp3",
+    "script": "Audio script for A2-M06-L06. Speaker one: Today we are practising free time. Speaker two: I need to use going to correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/a2-m06-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M01-L01",
+    "target_audio_file": "audio/b1-m01-l01-listening.mp3",
+    "script": "Audio script for B1-M01-L01. Speaker one: Today we are practising workplace. Speaker two: I need to use present perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m01-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M01-L02",
+    "target_audio_file": "audio/b1-m01-l02-listening.mp3",
+    "script": "Audio script for B1-M01-L02. Speaker one: Today we are practising education. Speaker two: I need to use conditionals 0/1/2 correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m01-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M01-L03",
+    "target_audio_file": "audio/b1-m01-l03-listening.mp3",
+    "script": "Audio script for B1-M01-L03. Speaker one: Today we are practising media. Speaker two: I need to use passive voice basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m01-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M01-L04",
+    "target_audio_file": "audio/b1-m01-l04-listening.mp3",
+    "script": "Audio script for B1-M01-L04. Speaker one: Today we are practising technology. Speaker two: I need to use reported speech basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m01-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M01-L05",
+    "target_audio_file": "audio/b1-m01-l05-listening.mp3",
+    "script": "Audio script for B1-M01-L05. Speaker one: Today we are practising relationships. Speaker two: I need to use relative clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m01-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M01-L06",
+    "target_audio_file": "audio/b1-m01-l06-listening.mp3",
+    "script": "Audio script for B1-M01-L06. Speaker one: Today we are practising environment. Speaker two: I need to use modals of advice correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m01-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M02-L01",
+    "target_audio_file": "audio/b1-m02-l01-listening.mp3",
+    "script": "Audio script for B1-M02-L01. Speaker one: Today we are practising education. Speaker two: I need to use conditionals 0/1/2 correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m02-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M02-L02",
+    "target_audio_file": "audio/b1-m02-l02-listening.mp3",
+    "script": "Audio script for B1-M02-L02. Speaker one: Today we are practising media. Speaker two: I need to use passive voice basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m02-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M02-L03",
+    "target_audio_file": "audio/b1-m02-l03-listening.mp3",
+    "script": "Audio script for B1-M02-L03. Speaker one: Today we are practising technology. Speaker two: I need to use reported speech basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m02-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M02-L04",
+    "target_audio_file": "audio/b1-m02-l04-listening.mp3",
+    "script": "Audio script for B1-M02-L04. Speaker one: Today we are practising relationships. Speaker two: I need to use relative clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m02-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M02-L05",
+    "target_audio_file": "audio/b1-m02-l05-listening.mp3",
+    "script": "Audio script for B1-M02-L05. Speaker one: Today we are practising environment. Speaker two: I need to use modals of advice correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m02-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M02-L06",
+    "target_audio_file": "audio/b1-m02-l06-listening.mp3",
+    "script": "Audio script for B1-M02-L06. Speaker one: Today we are practising workplace. Speaker two: I need to use present perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m02-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M03-L01",
+    "target_audio_file": "audio/b1-m03-l01-listening.mp3",
+    "script": "Audio script for B1-M03-L01. Speaker one: Today we are practising media. Speaker two: I need to use passive voice basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m03-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M03-L02",
+    "target_audio_file": "audio/b1-m03-l02-listening.mp3",
+    "script": "Audio script for B1-M03-L02. Speaker one: Today we are practising technology. Speaker two: I need to use reported speech basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m03-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M03-L03",
+    "target_audio_file": "audio/b1-m03-l03-listening.mp3",
+    "script": "Audio script for B1-M03-L03. Speaker one: Today we are practising relationships. Speaker two: I need to use relative clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m03-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M03-L04",
+    "target_audio_file": "audio/b1-m03-l04-listening.mp3",
+    "script": "Audio script for B1-M03-L04. Speaker one: Today we are practising environment. Speaker two: I need to use modals of advice correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m03-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M03-L05",
+    "target_audio_file": "audio/b1-m03-l05-listening.mp3",
+    "script": "Audio script for B1-M03-L05. Speaker one: Today we are practising workplace. Speaker two: I need to use present perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m03-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M03-L06",
+    "target_audio_file": "audio/b1-m03-l06-listening.mp3",
+    "script": "Audio script for B1-M03-L06. Speaker one: Today we are practising education. Speaker two: I need to use conditionals 0/1/2 correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m03-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M04-L01",
+    "target_audio_file": "audio/b1-m04-l01-listening.mp3",
+    "script": "Audio script for B1-M04-L01. Speaker one: Today we are practising technology. Speaker two: I need to use reported speech basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m04-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M04-L02",
+    "target_audio_file": "audio/b1-m04-l02-listening.mp3",
+    "script": "Audio script for B1-M04-L02. Speaker one: Today we are practising relationships. Speaker two: I need to use relative clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m04-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M04-L03",
+    "target_audio_file": "audio/b1-m04-l03-listening.mp3",
+    "script": "Audio script for B1-M04-L03. Speaker one: Today we are practising environment. Speaker two: I need to use modals of advice correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m04-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M04-L04",
+    "target_audio_file": "audio/b1-m04-l04-listening.mp3",
+    "script": "Audio script for B1-M04-L04. Speaker one: Today we are practising workplace. Speaker two: I need to use present perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m04-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M04-L05",
+    "target_audio_file": "audio/b1-m04-l05-listening.mp3",
+    "script": "Audio script for B1-M04-L05. Speaker one: Today we are practising education. Speaker two: I need to use conditionals 0/1/2 correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m04-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M04-L06",
+    "target_audio_file": "audio/b1-m04-l06-listening.mp3",
+    "script": "Audio script for B1-M04-L06. Speaker one: Today we are practising media. Speaker two: I need to use passive voice basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m04-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M05-L01",
+    "target_audio_file": "audio/b1-m05-l01-listening.mp3",
+    "script": "Audio script for B1-M05-L01. Speaker one: Today we are practising relationships. Speaker two: I need to use relative clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m05-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M05-L02",
+    "target_audio_file": "audio/b1-m05-l02-listening.mp3",
+    "script": "Audio script for B1-M05-L02. Speaker one: Today we are practising environment. Speaker two: I need to use modals of advice correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m05-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M05-L03",
+    "target_audio_file": "audio/b1-m05-l03-listening.mp3",
+    "script": "Audio script for B1-M05-L03. Speaker one: Today we are practising workplace. Speaker two: I need to use present perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m05-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M05-L04",
+    "target_audio_file": "audio/b1-m05-l04-listening.mp3",
+    "script": "Audio script for B1-M05-L04. Speaker one: Today we are practising education. Speaker two: I need to use conditionals 0/1/2 correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m05-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M05-L05",
+    "target_audio_file": "audio/b1-m05-l05-listening.mp3",
+    "script": "Audio script for B1-M05-L05. Speaker one: Today we are practising media. Speaker two: I need to use passive voice basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m05-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M05-L06",
+    "target_audio_file": "audio/b1-m05-l06-listening.mp3",
+    "script": "Audio script for B1-M05-L06. Speaker one: Today we are practising technology. Speaker two: I need to use reported speech basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m05-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M06-L01",
+    "target_audio_file": "audio/b1-m06-l01-listening.mp3",
+    "script": "Audio script for B1-M06-L01. Speaker one: Today we are practising environment. Speaker two: I need to use modals of advice correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m06-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M06-L02",
+    "target_audio_file": "audio/b1-m06-l02-listening.mp3",
+    "script": "Audio script for B1-M06-L02. Speaker one: Today we are practising workplace. Speaker two: I need to use present perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m06-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M06-L03",
+    "target_audio_file": "audio/b1-m06-l03-listening.mp3",
+    "script": "Audio script for B1-M06-L03. Speaker one: Today we are practising education. Speaker two: I need to use conditionals 0/1/2 correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m06-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M06-L04",
+    "target_audio_file": "audio/b1-m06-l04-listening.mp3",
+    "script": "Audio script for B1-M06-L04. Speaker one: Today we are practising media. Speaker two: I need to use passive voice basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m06-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M06-L05",
+    "target_audio_file": "audio/b1-m06-l05-listening.mp3",
+    "script": "Audio script for B1-M06-L05. Speaker one: Today we are practising technology. Speaker two: I need to use reported speech basics correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m06-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B1-M06-L06",
+    "target_audio_file": "audio/b1-m06-l06-listening.mp3",
+    "script": "Audio script for B1-M06-L06. Speaker one: Today we are practising relationships. Speaker two: I need to use relative clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b1-m06-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M01-L01",
+    "target_audio_file": "audio/b2-m01-l01-listening.mp3",
+    "script": "Audio script for B2-M01-L01. Speaker one: Today we are practising academic topics. Speaker two: I need to use advanced passives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m01-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M01-L02",
+    "target_audio_file": "audio/b2-m01-l02-listening.mp3",
+    "script": "Audio script for B2-M01-L02. Speaker one: Today we are practising business. Speaker two: I need to use mixed conditionals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m01-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M01-L03",
+    "target_audio_file": "audio/b2-m01-l03-listening.mp3",
+    "script": "Audio script for B2-M01-L03. Speaker one: Today we are practising culture. Speaker two: I need to use modal perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m01-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M01-L04",
+    "target_audio_file": "audio/b2-m01-l04-listening.mp3",
+    "script": "Audio script for B2-M01-L04. Speaker one: Today we are practising global issues. Speaker two: I need to use participle clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m01-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M01-L05",
+    "target_audio_file": "audio/b2-m01-l05-listening.mp3",
+    "script": "Audio script for B2-M01-L05. Speaker one: Today we are practising research. Speaker two: I need to use cleft sentences correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m01-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M01-L06",
+    "target_audio_file": "audio/b2-m01-l06-listening.mp3",
+    "script": "Audio script for B2-M01-L06. Speaker one: Today we are practising argument. Speaker two: I need to use advanced linking correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m01-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M02-L01",
+    "target_audio_file": "audio/b2-m02-l01-listening.mp3",
+    "script": "Audio script for B2-M02-L01. Speaker one: Today we are practising business. Speaker two: I need to use mixed conditionals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m02-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M02-L02",
+    "target_audio_file": "audio/b2-m02-l02-listening.mp3",
+    "script": "Audio script for B2-M02-L02. Speaker one: Today we are practising culture. Speaker two: I need to use modal perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m02-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M02-L03",
+    "target_audio_file": "audio/b2-m02-l03-listening.mp3",
+    "script": "Audio script for B2-M02-L03. Speaker one: Today we are practising global issues. Speaker two: I need to use participle clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m02-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M02-L04",
+    "target_audio_file": "audio/b2-m02-l04-listening.mp3",
+    "script": "Audio script for B2-M02-L04. Speaker one: Today we are practising research. Speaker two: I need to use cleft sentences correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m02-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M02-L05",
+    "target_audio_file": "audio/b2-m02-l05-listening.mp3",
+    "script": "Audio script for B2-M02-L05. Speaker one: Today we are practising argument. Speaker two: I need to use advanced linking correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m02-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M02-L06",
+    "target_audio_file": "audio/b2-m02-l06-listening.mp3",
+    "script": "Audio script for B2-M02-L06. Speaker one: Today we are practising academic topics. Speaker two: I need to use advanced passives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m02-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M03-L01",
+    "target_audio_file": "audio/b2-m03-l01-listening.mp3",
+    "script": "Audio script for B2-M03-L01. Speaker one: Today we are practising culture. Speaker two: I need to use modal perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m03-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M03-L02",
+    "target_audio_file": "audio/b2-m03-l02-listening.mp3",
+    "script": "Audio script for B2-M03-L02. Speaker one: Today we are practising global issues. Speaker two: I need to use participle clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m03-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M03-L03",
+    "target_audio_file": "audio/b2-m03-l03-listening.mp3",
+    "script": "Audio script for B2-M03-L03. Speaker one: Today we are practising research. Speaker two: I need to use cleft sentences correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m03-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M03-L04",
+    "target_audio_file": "audio/b2-m03-l04-listening.mp3",
+    "script": "Audio script for B2-M03-L04. Speaker one: Today we are practising argument. Speaker two: I need to use advanced linking correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m03-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M03-L05",
+    "target_audio_file": "audio/b2-m03-l05-listening.mp3",
+    "script": "Audio script for B2-M03-L05. Speaker one: Today we are practising academic topics. Speaker two: I need to use advanced passives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m03-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M03-L06",
+    "target_audio_file": "audio/b2-m03-l06-listening.mp3",
+    "script": "Audio script for B2-M03-L06. Speaker one: Today we are practising business. Speaker two: I need to use mixed conditionals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m03-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M04-L01",
+    "target_audio_file": "audio/b2-m04-l01-listening.mp3",
+    "script": "Audio script for B2-M04-L01. Speaker one: Today we are practising global issues. Speaker two: I need to use participle clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m04-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M04-L02",
+    "target_audio_file": "audio/b2-m04-l02-listening.mp3",
+    "script": "Audio script for B2-M04-L02. Speaker one: Today we are practising research. Speaker two: I need to use cleft sentences correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m04-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M04-L03",
+    "target_audio_file": "audio/b2-m04-l03-listening.mp3",
+    "script": "Audio script for B2-M04-L03. Speaker one: Today we are practising argument. Speaker two: I need to use advanced linking correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m04-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M04-L04",
+    "target_audio_file": "audio/b2-m04-l04-listening.mp3",
+    "script": "Audio script for B2-M04-L04. Speaker one: Today we are practising academic topics. Speaker two: I need to use advanced passives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m04-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M04-L05",
+    "target_audio_file": "audio/b2-m04-l05-listening.mp3",
+    "script": "Audio script for B2-M04-L05. Speaker one: Today we are practising business. Speaker two: I need to use mixed conditionals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m04-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M04-L06",
+    "target_audio_file": "audio/b2-m04-l06-listening.mp3",
+    "script": "Audio script for B2-M04-L06. Speaker one: Today we are practising culture. Speaker two: I need to use modal perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m04-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M05-L01",
+    "target_audio_file": "audio/b2-m05-l01-listening.mp3",
+    "script": "Audio script for B2-M05-L01. Speaker one: Today we are practising research. Speaker two: I need to use cleft sentences correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m05-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M05-L02",
+    "target_audio_file": "audio/b2-m05-l02-listening.mp3",
+    "script": "Audio script for B2-M05-L02. Speaker one: Today we are practising argument. Speaker two: I need to use advanced linking correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m05-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M05-L03",
+    "target_audio_file": "audio/b2-m05-l03-listening.mp3",
+    "script": "Audio script for B2-M05-L03. Speaker one: Today we are practising academic topics. Speaker two: I need to use advanced passives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m05-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M05-L04",
+    "target_audio_file": "audio/b2-m05-l04-listening.mp3",
+    "script": "Audio script for B2-M05-L04. Speaker one: Today we are practising business. Speaker two: I need to use mixed conditionals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m05-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M05-L05",
+    "target_audio_file": "audio/b2-m05-l05-listening.mp3",
+    "script": "Audio script for B2-M05-L05. Speaker one: Today we are practising culture. Speaker two: I need to use modal perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m05-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M05-L06",
+    "target_audio_file": "audio/b2-m05-l06-listening.mp3",
+    "script": "Audio script for B2-M05-L06. Speaker one: Today we are practising global issues. Speaker two: I need to use participle clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m05-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M06-L01",
+    "target_audio_file": "audio/b2-m06-l01-listening.mp3",
+    "script": "Audio script for B2-M06-L01. Speaker one: Today we are practising argument. Speaker two: I need to use advanced linking correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m06-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M06-L02",
+    "target_audio_file": "audio/b2-m06-l02-listening.mp3",
+    "script": "Audio script for B2-M06-L02. Speaker one: Today we are practising academic topics. Speaker two: I need to use advanced passives correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m06-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M06-L03",
+    "target_audio_file": "audio/b2-m06-l03-listening.mp3",
+    "script": "Audio script for B2-M06-L03. Speaker one: Today we are practising business. Speaker two: I need to use mixed conditionals correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m06-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M06-L04",
+    "target_audio_file": "audio/b2-m06-l04-listening.mp3",
+    "script": "Audio script for B2-M06-L04. Speaker one: Today we are practising culture. Speaker two: I need to use modal perfect correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m06-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M06-L05",
+    "target_audio_file": "audio/b2-m06-l05-listening.mp3",
+    "script": "Audio script for B2-M06-L05. Speaker one: Today we are practising global issues. Speaker two: I need to use participle clauses correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m06-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "B2-M06-L06",
+    "target_audio_file": "audio/b2-m06-l06-listening.mp3",
+    "script": "Audio script for B2-M06-L06. Speaker one: Today we are practising research. Speaker two: I need to use cleft sentences correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/b2-m06-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M01-L01",
+    "target_audio_file": "audio/c1-m01-l01-listening.mp3",
+    "script": "Audio script for C1-M01-L01. Speaker one: Today we are practising professional communication. Speaker two: I need to use inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m01-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M01-L02",
+    "target_audio_file": "audio/c1-m01-l02-listening.mp3",
+    "script": "Audio script for C1-M01-L02. Speaker one: Today we are practising research. Speaker two: I need to use subjunctive forms correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m01-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M01-L03",
+    "target_audio_file": "audio/c1-m01-l03-listening.mp3",
+    "script": "Audio script for C1-M01-L03. Speaker one: Today we are practising policy. Speaker two: I need to use nominalisation correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m01-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M01-L04",
+    "target_audio_file": "audio/c1-m01-l04-listening.mp3",
+    "script": "Audio script for C1-M01-L04. Speaker one: Today we are practising critical thinking. Speaker two: I need to use advanced modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m01-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M01-L05",
+    "target_audio_file": "audio/c1-m01-l05-listening.mp3",
+    "script": "Audio script for C1-M01-L05. Speaker one: Today we are practising analysis. Speaker two: I need to use hedging correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m01-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M01-L06",
+    "target_audio_file": "audio/c1-m01-l06-listening.mp3",
+    "script": "Audio script for C1-M01-L06. Speaker one: Today we are practising nuance. Speaker two: I need to use complex discourse markers correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m01-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M02-L01",
+    "target_audio_file": "audio/c1-m02-l01-listening.mp3",
+    "script": "Audio script for C1-M02-L01. Speaker one: Today we are practising research. Speaker two: I need to use subjunctive forms correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m02-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M02-L02",
+    "target_audio_file": "audio/c1-m02-l02-listening.mp3",
+    "script": "Audio script for C1-M02-L02. Speaker one: Today we are practising policy. Speaker two: I need to use nominalisation correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m02-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M02-L03",
+    "target_audio_file": "audio/c1-m02-l03-listening.mp3",
+    "script": "Audio script for C1-M02-L03. Speaker one: Today we are practising critical thinking. Speaker two: I need to use advanced modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m02-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M02-L04",
+    "target_audio_file": "audio/c1-m02-l04-listening.mp3",
+    "script": "Audio script for C1-M02-L04. Speaker one: Today we are practising analysis. Speaker two: I need to use hedging correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m02-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M02-L05",
+    "target_audio_file": "audio/c1-m02-l05-listening.mp3",
+    "script": "Audio script for C1-M02-L05. Speaker one: Today we are practising nuance. Speaker two: I need to use complex discourse markers correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m02-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M02-L06",
+    "target_audio_file": "audio/c1-m02-l06-listening.mp3",
+    "script": "Audio script for C1-M02-L06. Speaker one: Today we are practising professional communication. Speaker two: I need to use inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m02-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M03-L01",
+    "target_audio_file": "audio/c1-m03-l01-listening.mp3",
+    "script": "Audio script for C1-M03-L01. Speaker one: Today we are practising policy. Speaker two: I need to use nominalisation correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m03-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M03-L02",
+    "target_audio_file": "audio/c1-m03-l02-listening.mp3",
+    "script": "Audio script for C1-M03-L02. Speaker one: Today we are practising critical thinking. Speaker two: I need to use advanced modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m03-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M03-L03",
+    "target_audio_file": "audio/c1-m03-l03-listening.mp3",
+    "script": "Audio script for C1-M03-L03. Speaker one: Today we are practising analysis. Speaker two: I need to use hedging correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m03-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M03-L04",
+    "target_audio_file": "audio/c1-m03-l04-listening.mp3",
+    "script": "Audio script for C1-M03-L04. Speaker one: Today we are practising nuance. Speaker two: I need to use complex discourse markers correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m03-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M03-L05",
+    "target_audio_file": "audio/c1-m03-l05-listening.mp3",
+    "script": "Audio script for C1-M03-L05. Speaker one: Today we are practising professional communication. Speaker two: I need to use inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m03-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M03-L06",
+    "target_audio_file": "audio/c1-m03-l06-listening.mp3",
+    "script": "Audio script for C1-M03-L06. Speaker one: Today we are practising research. Speaker two: I need to use subjunctive forms correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m03-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M04-L01",
+    "target_audio_file": "audio/c1-m04-l01-listening.mp3",
+    "script": "Audio script for C1-M04-L01. Speaker one: Today we are practising critical thinking. Speaker two: I need to use advanced modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m04-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M04-L02",
+    "target_audio_file": "audio/c1-m04-l02-listening.mp3",
+    "script": "Audio script for C1-M04-L02. Speaker one: Today we are practising analysis. Speaker two: I need to use hedging correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m04-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M04-L03",
+    "target_audio_file": "audio/c1-m04-l03-listening.mp3",
+    "script": "Audio script for C1-M04-L03. Speaker one: Today we are practising nuance. Speaker two: I need to use complex discourse markers correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m04-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M04-L04",
+    "target_audio_file": "audio/c1-m04-l04-listening.mp3",
+    "script": "Audio script for C1-M04-L04. Speaker one: Today we are practising professional communication. Speaker two: I need to use inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m04-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M04-L05",
+    "target_audio_file": "audio/c1-m04-l05-listening.mp3",
+    "script": "Audio script for C1-M04-L05. Speaker one: Today we are practising research. Speaker two: I need to use subjunctive forms correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m04-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M04-L06",
+    "target_audio_file": "audio/c1-m04-l06-listening.mp3",
+    "script": "Audio script for C1-M04-L06. Speaker one: Today we are practising policy. Speaker two: I need to use nominalisation correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m04-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M05-L01",
+    "target_audio_file": "audio/c1-m05-l01-listening.mp3",
+    "script": "Audio script for C1-M05-L01. Speaker one: Today we are practising analysis. Speaker two: I need to use hedging correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m05-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M05-L02",
+    "target_audio_file": "audio/c1-m05-l02-listening.mp3",
+    "script": "Audio script for C1-M05-L02. Speaker one: Today we are practising nuance. Speaker two: I need to use complex discourse markers correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m05-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M05-L03",
+    "target_audio_file": "audio/c1-m05-l03-listening.mp3",
+    "script": "Audio script for C1-M05-L03. Speaker one: Today we are practising professional communication. Speaker two: I need to use inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m05-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M05-L04",
+    "target_audio_file": "audio/c1-m05-l04-listening.mp3",
+    "script": "Audio script for C1-M05-L04. Speaker one: Today we are practising research. Speaker two: I need to use subjunctive forms correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m05-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M05-L05",
+    "target_audio_file": "audio/c1-m05-l05-listening.mp3",
+    "script": "Audio script for C1-M05-L05. Speaker one: Today we are practising policy. Speaker two: I need to use nominalisation correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m05-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M05-L06",
+    "target_audio_file": "audio/c1-m05-l06-listening.mp3",
+    "script": "Audio script for C1-M05-L06. Speaker one: Today we are practising critical thinking. Speaker two: I need to use advanced modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m05-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M06-L01",
+    "target_audio_file": "audio/c1-m06-l01-listening.mp3",
+    "script": "Audio script for C1-M06-L01. Speaker one: Today we are practising nuance. Speaker two: I need to use complex discourse markers correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m06-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M06-L02",
+    "target_audio_file": "audio/c1-m06-l02-listening.mp3",
+    "script": "Audio script for C1-M06-L02. Speaker one: Today we are practising professional communication. Speaker two: I need to use inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m06-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M06-L03",
+    "target_audio_file": "audio/c1-m06-l03-listening.mp3",
+    "script": "Audio script for C1-M06-L03. Speaker one: Today we are practising research. Speaker two: I need to use subjunctive forms correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m06-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M06-L04",
+    "target_audio_file": "audio/c1-m06-l04-listening.mp3",
+    "script": "Audio script for C1-M06-L04. Speaker one: Today we are practising policy. Speaker two: I need to use nominalisation correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m06-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M06-L05",
+    "target_audio_file": "audio/c1-m06-l05-listening.mp3",
+    "script": "Audio script for C1-M06-L05. Speaker one: Today we are practising critical thinking. Speaker two: I need to use advanced modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m06-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C1-M06-L06",
+    "target_audio_file": "audio/c1-m06-l06-listening.mp3",
+    "script": "Audio script for C1-M06-L06. Speaker one: Today we are practising analysis. Speaker two: I need to use hedging correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c1-m06-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M01-L01",
+    "target_audio_file": "audio/c2-m01-l01-listening.mp3",
+    "script": "Audio script for C2-M01-L01. Speaker one: Today we are practising specialised discourse. Speaker two: I need to use stylistic inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m01-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M01-L02",
+    "target_audio_file": "audio/c2-m01-l02-listening.mp3",
+    "script": "Audio script for C2-M01-L02. Speaker one: Today we are practising literary nuance. Speaker two: I need to use ellipsis correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m01-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M01-L03",
+    "target_audio_file": "audio/c2-m01-l03-listening.mp3",
+    "script": "Audio script for C2-M01-L03. Speaker one: Today we are practising persuasion. Speaker two: I need to use subtle modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m01-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M01-L04",
+    "target_audio_file": "audio/c2-m01-l04-listening.mp3",
+    "script": "Audio script for C2-M01-L04. Speaker one: Today we are practising diplomacy. Speaker two: I need to use rhetorical structure correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m01-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M01-L05",
+    "target_audio_file": "audio/c2-m01-l05-listening.mp3",
+    "script": "Audio script for C2-M01-L05. Speaker one: Today we are practising abstract argument. Speaker two: I need to use register control correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m01-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M01-L06",
+    "target_audio_file": "audio/c2-m01-l06-listening.mp3",
+    "script": "Audio script for C2-M01-L06. Speaker one: Today we are practising critical synthesis. Speaker two: I need to use idiomatic compression correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m01-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M02-L01",
+    "target_audio_file": "audio/c2-m02-l01-listening.mp3",
+    "script": "Audio script for C2-M02-L01. Speaker one: Today we are practising literary nuance. Speaker two: I need to use ellipsis correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m02-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M02-L02",
+    "target_audio_file": "audio/c2-m02-l02-listening.mp3",
+    "script": "Audio script for C2-M02-L02. Speaker one: Today we are practising persuasion. Speaker two: I need to use subtle modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m02-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M02-L03",
+    "target_audio_file": "audio/c2-m02-l03-listening.mp3",
+    "script": "Audio script for C2-M02-L03. Speaker one: Today we are practising diplomacy. Speaker two: I need to use rhetorical structure correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m02-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M02-L04",
+    "target_audio_file": "audio/c2-m02-l04-listening.mp3",
+    "script": "Audio script for C2-M02-L04. Speaker one: Today we are practising abstract argument. Speaker two: I need to use register control correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m02-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M02-L05",
+    "target_audio_file": "audio/c2-m02-l05-listening.mp3",
+    "script": "Audio script for C2-M02-L05. Speaker one: Today we are practising critical synthesis. Speaker two: I need to use idiomatic compression correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m02-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M02-L06",
+    "target_audio_file": "audio/c2-m02-l06-listening.mp3",
+    "script": "Audio script for C2-M02-L06. Speaker one: Today we are practising specialised discourse. Speaker two: I need to use stylistic inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m02-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M03-L01",
+    "target_audio_file": "audio/c2-m03-l01-listening.mp3",
+    "script": "Audio script for C2-M03-L01. Speaker one: Today we are practising persuasion. Speaker two: I need to use subtle modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m03-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M03-L02",
+    "target_audio_file": "audio/c2-m03-l02-listening.mp3",
+    "script": "Audio script for C2-M03-L02. Speaker one: Today we are practising diplomacy. Speaker two: I need to use rhetorical structure correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m03-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M03-L03",
+    "target_audio_file": "audio/c2-m03-l03-listening.mp3",
+    "script": "Audio script for C2-M03-L03. Speaker one: Today we are practising abstract argument. Speaker two: I need to use register control correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m03-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M03-L04",
+    "target_audio_file": "audio/c2-m03-l04-listening.mp3",
+    "script": "Audio script for C2-M03-L04. Speaker one: Today we are practising critical synthesis. Speaker two: I need to use idiomatic compression correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m03-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M03-L05",
+    "target_audio_file": "audio/c2-m03-l05-listening.mp3",
+    "script": "Audio script for C2-M03-L05. Speaker one: Today we are practising specialised discourse. Speaker two: I need to use stylistic inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m03-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M03-L06",
+    "target_audio_file": "audio/c2-m03-l06-listening.mp3",
+    "script": "Audio script for C2-M03-L06. Speaker one: Today we are practising literary nuance. Speaker two: I need to use ellipsis correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m03-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M04-L01",
+    "target_audio_file": "audio/c2-m04-l01-listening.mp3",
+    "script": "Audio script for C2-M04-L01. Speaker one: Today we are practising diplomacy. Speaker two: I need to use rhetorical structure correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m04-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M04-L02",
+    "target_audio_file": "audio/c2-m04-l02-listening.mp3",
+    "script": "Audio script for C2-M04-L02. Speaker one: Today we are practising abstract argument. Speaker two: I need to use register control correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m04-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M04-L03",
+    "target_audio_file": "audio/c2-m04-l03-listening.mp3",
+    "script": "Audio script for C2-M04-L03. Speaker one: Today we are practising critical synthesis. Speaker two: I need to use idiomatic compression correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m04-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M04-L04",
+    "target_audio_file": "audio/c2-m04-l04-listening.mp3",
+    "script": "Audio script for C2-M04-L04. Speaker one: Today we are practising specialised discourse. Speaker two: I need to use stylistic inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m04-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M04-L05",
+    "target_audio_file": "audio/c2-m04-l05-listening.mp3",
+    "script": "Audio script for C2-M04-L05. Speaker one: Today we are practising literary nuance. Speaker two: I need to use ellipsis correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m04-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M04-L06",
+    "target_audio_file": "audio/c2-m04-l06-listening.mp3",
+    "script": "Audio script for C2-M04-L06. Speaker one: Today we are practising persuasion. Speaker two: I need to use subtle modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m04-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M05-L01",
+    "target_audio_file": "audio/c2-m05-l01-listening.mp3",
+    "script": "Audio script for C2-M05-L01. Speaker one: Today we are practising abstract argument. Speaker two: I need to use register control correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m05-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M05-L02",
+    "target_audio_file": "audio/c2-m05-l02-listening.mp3",
+    "script": "Audio script for C2-M05-L02. Speaker one: Today we are practising critical synthesis. Speaker two: I need to use idiomatic compression correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m05-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M05-L03",
+    "target_audio_file": "audio/c2-m05-l03-listening.mp3",
+    "script": "Audio script for C2-M05-L03. Speaker one: Today we are practising specialised discourse. Speaker two: I need to use stylistic inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m05-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M05-L04",
+    "target_audio_file": "audio/c2-m05-l04-listening.mp3",
+    "script": "Audio script for C2-M05-L04. Speaker one: Today we are practising literary nuance. Speaker two: I need to use ellipsis correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m05-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M05-L05",
+    "target_audio_file": "audio/c2-m05-l05-listening.mp3",
+    "script": "Audio script for C2-M05-L05. Speaker one: Today we are practising persuasion. Speaker two: I need to use subtle modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m05-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M05-L06",
+    "target_audio_file": "audio/c2-m05-l06-listening.mp3",
+    "script": "Audio script for C2-M05-L06. Speaker one: Today we are practising diplomacy. Speaker two: I need to use rhetorical structure correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m05-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M06-L01",
+    "target_audio_file": "audio/c2-m06-l01-listening.mp3",
+    "script": "Audio script for C2-M06-L01. Speaker one: Today we are practising critical synthesis. Speaker two: I need to use idiomatic compression correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m06-l01-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M06-L02",
+    "target_audio_file": "audio/c2-m06-l02-listening.mp3",
+    "script": "Audio script for C2-M06-L02. Speaker one: Today we are practising specialised discourse. Speaker two: I need to use stylistic inversion correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m06-l02-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M06-L03",
+    "target_audio_file": "audio/c2-m06-l03-listening.mp3",
+    "script": "Audio script for C2-M06-L03. Speaker one: Today we are practising literary nuance. Speaker two: I need to use ellipsis correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m06-l03-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M06-L04",
+    "target_audio_file": "audio/c2-m06-l04-listening.mp3",
+    "script": "Audio script for C2-M06-L04. Speaker one: Today we are practising persuasion. Speaker two: I need to use subtle modality correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m06-l04-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M06-L05",
+    "target_audio_file": "audio/c2-m06-l05-listening.mp3",
+    "script": "Audio script for C2-M06-L05. Speaker one: Today we are practising diplomacy. Speaker two: I need to use rhetorical structure correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m06-l05-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  },
+  {
+    "lesson_id": "C2-M06-L06",
+    "target_audio_file": "audio/c2-m06-l06-listening.mp3",
+    "script": "Audio script for C2-M06-L06. Speaker one: Today we are practising abstract argument. Speaker two: I need to use register control correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m06-l06-listening.ssml",
+    "production_note": "Generate MP3 using approved TTS or record human audio. Add captions/transcript before launch."
+  }
+]

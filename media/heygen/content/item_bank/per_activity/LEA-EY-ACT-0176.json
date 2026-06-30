@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0176",
+  "title": "Writing: Paragraph Organisation - Tap the Sound 4",
+  "grade_band": "Grade 3",
+  "mechanic": "Tap the Sound",
+  "learning_goal": "Learner can paragraph organisation through a short guided tap the sound activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /a/. Which word begins with /a/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /a/. Which word begins with /a/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "analyse",
+      "distractors": [
+        "purpose",
+        "improve",
+        "conclusion"
+      ],
+      "choices": [
+        "purpose",
+        "improve",
+        "analyse",
+        "conclusion"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for analyse",
+        "caption_text": "Listen: /a/. Which word begins with /a/?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /r/. Which word begins with /r/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /r/. Which word begins with /r/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "reflect",
+      "distractors": [
+        "purpose",
+        "divide",
+        "audience"
+      ],
+      "choices": [
+        "reflect",
+        "purpose",
+        "divide",
+        "audience"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for reflect",
+        "caption_text": "Listen: /r/. Which word begins with /r/?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /i/. Which word begins with /i/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /i/. Which word begins with /i/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "improve",
+      "distractors": [
+        "argument",
+        "contrast",
+        "estimate"
+      ],
+      "choices": [
+        "improve",
+        "argument",
+        "contrast",
+        "estimate"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for improve",
+        "caption_text": "Listen: /i/. Which word begins with /i/?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /a/. Which word begins with /a/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /a/. Which word begins with /a/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "argument",
+      "distractors": [
+        "purpose",
+        "divide",
+        "improve"
+      ],
+      "choices": [
+        "argument",
+        "purpose",
+        "divide",
+        "improve"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for argument",
+        "caption_text": "Listen: /a/. Which word begins with /a/?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /o/. Which word begins with /o/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /o/. Which word begins with /o/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "opinion",
+      "distractors": [
+        "reflect",
+        "evidence",
+        "contrast"
+      ],
+      "choices": [
+        "reflect",
+        "evidence",
+        "contrast",
+        "opinion"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for opinion",
+        "caption_text": "Listen: /o/. Which word begins with /o/?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /e/. Which word begins with /e/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /e/. Which word begins with /e/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "evidence",
+      "distractors": [
+        "multiply",
+        "argument",
+        "opinion"
+      ],
+      "choices": [
+        "evidence",
+        "multiply",
+        "argument",
+        "opinion"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for evidence",
+        "caption_text": "Listen: /e/. Which word begins with /e/?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /c/. Which word begins with /c/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /c/. Which word begins with /c/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "conclusion",
+      "distractors": [
+        "divide",
+        "inference",
+        "multiply"
+      ],
+      "choices": [
+        "divide",
+        "inference",
+        "multiply",
+        "conclusion"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for conclusion",
+        "caption_text": "Listen: /c/. Which word begins with /c/?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /c/. Which word begins with /c/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /c/. Which word begins with /c/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "contrast",
+      "distractors": [
+        "analyse",
+        "purpose",
+        "reflect"
+      ],
+      "choices": [
+        "analyse",
+        "contrast",
+        "purpose",
+        "reflect"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for contrast",
+        "caption_text": "Listen: /c/. Which word begins with /c/?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "summarise",
+      "distractors": [
+        "reflect",
+        "fraction",
+        "expression"
+      ],
+      "choices": [
+        "reflect",
+        "summarise",
+        "fraction",
+        "expression"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for summarise",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0176-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0176",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /i/. Which word begins with /i/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /i/. Which word begins with /i/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "inference",
+      "distractors": [
+        "opinion",
+        "estimate",
+        "contrast"
+      ],
+      "choices": [
+        "inference",
+        "opinion",
+        "estimate",
+        "contrast"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to paragraph organisation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of paragraph organisation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0176-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0176-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0176-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for inference",
+        "caption_text": "Listen: /i/. Which word begins with /i/?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

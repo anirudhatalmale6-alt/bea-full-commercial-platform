@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0066",
+  "title": "Operations: Compose And Decompose Within 10 - Listen and Choose 2",
+  "grade_band": "Kindergarten",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can compose and decompose within 10 through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0066-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0066",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Operations",
+      "skill_code": "EY-KIN-MAT-OPE-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for compose and decompose within 10: then.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for compose and decompose within 10: then.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "then",
+      "distractors": [
+        "book",
+        "brown",
+        "goat"
+      ],
+      "choices": [
+        "book",
+        "then",
+        "brown",
+        "goat"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compose and decompose within 10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of compose and decompose within 10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0066-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0066-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0066-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for then",
+        "caption_text": "Choose the best answer for compose and decompose within 10: then.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0066-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0066",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Operations",
+      "skill_code": "EY-KIN-MAT-OPE-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for compose and decompose within 10: rain.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for compose and decompose within 10: rain.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "rain",
+      "distractors": [
+        "smile",
+        "then",
+        "park"
+      ],
+      "choices": [
+        "smile",
+        "rain",
+        "then",
+        "park"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compose and decompose within 10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of compose and decompose within 10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0066-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0066-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0066-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for rain",
+        "caption_text": "Choose the best answer for compose and decompose within 10: rain.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0066-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0066",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Operations",
+      "skill_code": "EY-KIN-MAT-OPE-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for compose and decompose within 10: goat.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for compose and decompose within 10: goat.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "goat",
+      "distractors": [
+        "shop",
+        "fish",
+        "park"
+      ],
+      "choices": [
+        "goat",
+        "shop",
+        "fish",
+        "park"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compose and decompose within 10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of compose and decompose within 10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0066-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0066-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0066-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for goat",
+        "caption_text": "Choose the best answer for compose and decompose within 10: goat.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0066-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0066",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Operations",
+      "skill_code": "EY-KIN-MAT-OPE-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for compose and decompose within 10: seed.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for compose and decompose within 10: seed.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "seed",
+      "distractors": [
+        "that",
+        "ship",
+        "shop"
+      ],
+      "choices": [
+        "seed",
+        "that",
+        "ship",
+        "shop"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compose and decompose within 10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of compose and decompose within 10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0066-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0066-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0066-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for seed",
+        "caption_text": "Choose the best answer for compose and decompose within 10: seed.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0066-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0066",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Operations",
+      "skill_code": "EY-KIN-MAT-OPE-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for compose and decompose within 10: moon.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for compose and decompose within 10: moon.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "moon",
+      "distractors": [
+        "brown",
+        "fish",
+        "chin"
+      ],
+      "choices": [
+        "brown",
+        "fish",
+        "moon",
+        "chin"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compose and decompose within 10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of compose and decompose within 10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0066-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0066-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0066-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for moon",
+        "caption_text": "Choose the best answer for compose and decompose within 10: moon.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0066-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0066",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Operations",
+      "skill_code": "EY-KIN-MAT-OPE-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for compose and decompose within 10: book.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for compose and decompose within 10: book.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "book",
+      "distractors": [
+        "shop",
+        "fish",
+        "rain"
+      ],
+      "choices": [
+        "shop",
+        "fish",
+        "rain",
+        "book"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compose and decompose within 10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of compose and decompose within 10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0066-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0066-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0066-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for book",
+        "caption_text": "Choose the best answer for compose and decompose within 10: book.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0066-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0066",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Operations",
+      "skill_code": "EY-KIN-MAT-OPE-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for compose and decompose within 10: park.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for compose and decompose within 10: park.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "park",
+      "distractors": [
+        "thin",
+        "book",
+        "this"
+      ],
+      "choices": [
+        "thin",
+        "book",
+        "this",
+        "park"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compose and decompose within 10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of compose and decompose within 10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0066-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0066-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0066-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for park",
+        "caption_text": "Choose the best answer for compose and decompose within 10: park.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0066-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0066",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Operations",
+      "skill_code": "EY-KIN-MAT-OPE-02",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for compose and decompose within 10: play.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for compose and decompose within 10: play.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "play",
+      "distractors": [
+        "then",
+        "book",
+        "seed"
+      ],
+      "choices": [
+        "then",
+        "play",
+        "book",
+        "seed"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compose and decompose within 10.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of compose and decompose within 10, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0066-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0066-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0066-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for play",
+        "caption_text": "Choose the best answer for compose and decompose within 10: play.",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

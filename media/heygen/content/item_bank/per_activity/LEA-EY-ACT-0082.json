@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0082",
+  "title": "Phonics: Digraphs, Blends And Silent-E - Blend Builder 2",
+  "grade_band": "Grade 1",
+  "mechanic": "Blend Builder",
+  "learning_goal": "Learner can digraphs, blends and silent-e through a short guided blend builder activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in friend: f-r-i-e. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in friend: f-r-i-e. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "friend",
+      "distractors": [
+        "happy",
+        "kind",
+        "bright"
+      ],
+      "choices": [
+        "friend",
+        "happy",
+        "kind",
+        "bright"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for friend",
+        "caption_text": "Blend the sounds in friend: f-r-i-e. What word do you hear?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in school: s-c-h-o. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in school: s-c-h-o. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "school",
+      "distractors": [
+        "friend",
+        "kind",
+        "people"
+      ],
+      "choices": [
+        "friend",
+        "kind",
+        "school",
+        "people"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for school",
+        "caption_text": "Blend the sounds in school: s-c-h-o. What word do you hear?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in happy: h-a-p-p. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in happy: h-a-p-p. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "happy",
+      "distractors": [
+        "bright",
+        "friend",
+        "garden"
+      ],
+      "choices": [
+        "bright",
+        "happy",
+        "friend",
+        "garden"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for happy",
+        "caption_text": "Blend the sounds in happy: h-a-p-p. What word do you hear?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in because: b-e-c-a. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in because: b-e-c-a. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "because",
+      "distractors": [
+        "people",
+        "friend",
+        "community"
+      ],
+      "choices": [
+        "people",
+        "friend",
+        "because",
+        "community"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for because",
+        "caption_text": "Blend the sounds in because: b-e-c-a. What word do you hear?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in before: b-e-f-o. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in before: b-e-f-o. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "before",
+      "distractors": [
+        "after",
+        "friend",
+        "story"
+      ],
+      "choices": [
+        "after",
+        "friend",
+        "before",
+        "story"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for before",
+        "caption_text": "Blend the sounds in before: b-e-f-o. What word do you hear?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in after: a-f-t-e. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in after: a-f-t-e. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "after",
+      "distractors": [
+        "community",
+        "bright",
+        "street"
+      ],
+      "choices": [
+        "community",
+        "bright",
+        "street",
+        "after"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for after",
+        "caption_text": "Blend the sounds in after: a-f-t-e. What word do you hear?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in little: l-i-t-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in little: l-i-t-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "little",
+      "distractors": [
+        "market",
+        "school",
+        "animal"
+      ],
+      "choices": [
+        "market",
+        "school",
+        "little",
+        "animal"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for little",
+        "caption_text": "Blend the sounds in little: l-i-t-t. What word do you hear?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in people: p-e-o-p. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in people: p-e-o-p. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "people",
+      "distractors": [
+        "story",
+        "garden",
+        "before"
+      ],
+      "choices": [
+        "story",
+        "people",
+        "garden",
+        "before"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for people",
+        "caption_text": "Blend the sounds in people: p-e-o-p. What word do you hear?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in garden: g-a-r-d. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in garden: g-a-r-d. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "garden",
+      "distractors": [
+        "animal",
+        "friend",
+        "family"
+      ],
+      "choices": [
+        "animal",
+        "friend",
+        "family",
+        "garden"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for garden",
+        "caption_text": "Blend the sounds in garden: g-a-r-d. What word do you hear?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0082-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0082",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-02",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in animal: a-n-i-m. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in animal: a-n-i-m. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "animal",
+      "distractors": [
+        "story",
+        "street",
+        "cloud"
+      ],
+      "choices": [
+        "animal",
+        "story",
+        "street",
+        "cloud"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0082-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0082-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0082-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for animal",
+        "caption_text": "Blend the sounds in animal: a-n-i-m. What word do you hear?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

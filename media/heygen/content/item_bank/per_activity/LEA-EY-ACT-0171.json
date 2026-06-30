@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0171",
+  "title": "Fluency: Connected Text Fluency - Blend Builder 3",
+  "grade_band": "Grade 3",
+  "mechanic": "Blend Builder",
+  "learning_goal": "Learner can connected text fluency through a short guided blend builder activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in expression: e-x-p-r. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in expression: e-x-p-r. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "expression",
+      "distractors": [
+        "audience",
+        "multiply",
+        "purpose"
+      ],
+      "choices": [
+        "audience",
+        "multiply",
+        "expression",
+        "purpose"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for expression",
+        "caption_text": "Blend the sounds in expression: e-x-p-r. What word do you hear?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in multiply: m-u-l-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in multiply: m-u-l-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "multiply",
+      "distractors": [
+        "strategy",
+        "reflect",
+        "divide"
+      ],
+      "choices": [
+        "strategy",
+        "reflect",
+        "multiply",
+        "divide"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for multiply",
+        "caption_text": "Blend the sounds in multiply: m-u-l-t. What word do you hear?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in divide: d-i-v-i. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in divide: d-i-v-i. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "divide",
+      "distractors": [
+        "audience",
+        "summarise",
+        "strategy"
+      ],
+      "choices": [
+        "audience",
+        "divide",
+        "summarise",
+        "strategy"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for divide",
+        "caption_text": "Blend the sounds in divide: d-i-v-i. What word do you hear?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in fraction: f-r-a-c. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in fraction: f-r-a-c. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "fraction",
+      "distractors": [
+        "contrast",
+        "conclusion",
+        "purpose"
+      ],
+      "choices": [
+        "contrast",
+        "conclusion",
+        "fraction",
+        "purpose"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for fraction",
+        "caption_text": "Blend the sounds in fraction: f-r-a-c. What word do you hear?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in estimate: e-s-t-i. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in estimate: e-s-t-i. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "estimate",
+      "distractors": [
+        "reflect",
+        "analyse",
+        "strategy"
+      ],
+      "choices": [
+        "reflect",
+        "estimate",
+        "analyse",
+        "strategy"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for estimate",
+        "caption_text": "Blend the sounds in estimate: e-s-t-i. What word do you hear?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in analyse: a-n-a-l. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in analyse: a-n-a-l. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "analyse",
+      "distractors": [
+        "conclusion",
+        "summarise",
+        "inference"
+      ],
+      "choices": [
+        "conclusion",
+        "summarise",
+        "inference",
+        "analyse"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for analyse",
+        "caption_text": "Blend the sounds in analyse: a-n-a-l. What word do you hear?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in reflect: r-e-f-l. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in reflect: r-e-f-l. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "reflect",
+      "distractors": [
+        "analyse",
+        "summarise",
+        "opinion"
+      ],
+      "choices": [
+        "analyse",
+        "summarise",
+        "reflect",
+        "opinion"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for reflect",
+        "caption_text": "Blend the sounds in reflect: r-e-f-l. What word do you hear?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in improve: i-m-p-r. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in improve: i-m-p-r. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "improve",
+      "distractors": [
+        "accurate",
+        "fluency",
+        "evidence"
+      ],
+      "choices": [
+        "accurate",
+        "improve",
+        "fluency",
+        "evidence"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for improve",
+        "caption_text": "Blend the sounds in improve: i-m-p-r. What word do you hear?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in argument: a-r-g-u. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in argument: a-r-g-u. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "argument",
+      "distractors": [
+        "evidence",
+        "summarise",
+        "contrast"
+      ],
+      "choices": [
+        "evidence",
+        "summarise",
+        "contrast",
+        "argument"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for argument",
+        "caption_text": "Blend the sounds in argument: a-r-g-u. What word do you hear?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0171-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0171",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in opinion: o-p-i-n. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in opinion: o-p-i-n. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "opinion",
+      "distractors": [
+        "contrast",
+        "conclusion",
+        "audience"
+      ],
+      "choices": [
+        "opinion",
+        "contrast",
+        "conclusion",
+        "audience"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to connected text fluency.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of connected text fluency, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0171-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0171-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0171-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for opinion",
+        "caption_text": "Blend the sounds in opinion: o-p-i-n. What word do you hear?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

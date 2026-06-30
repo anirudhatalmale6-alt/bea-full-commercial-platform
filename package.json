@@ -1,0 +1,38 @@
+{
+  "name": "british-english-academy-platform",
+  "version": "3.0.0-bea-live-ready-consolidated",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p ${PORT:-3000}",
+    "lint": "next lint",
+    "seed": "node scripts/seed-postgres.mjs",
+    "smoke": "node scripts/smoke-test.mjs",
+    "audit:static": "node scripts/static-audit.mjs",
+    "predeploy": "npm run audit:static && npm run audit:bea-live && npm run build",
+    "typecheck": "next typegen && tsc --noEmit",
+    "audit:bea-live": "node scripts/audit-bea-live-ready.mjs"
+  },
+  "dependencies": {
+    "@stripe/stripe-js": "4.10.0",
+    "clsx": "2.1.1",
+    "next": "15.0.0",
+    "pg": "8.13.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "stripe": "17.5.0",
+    "zod": "3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/pg": "8.11.10",
+    "@types/react": "19.0.1",
+    "@types/react-dom": "19.0.2",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.49",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.7.2"
+  },
+  "description": "British English Academy commercial ESL platform: landing, paid Level Test, mapped pathway, trial lesson, LMS, parent/teacher/institution dashboards, SCORM/CMS, audio/media and early-years adaptive engine."
+}

@@ -1,0 +1,3 @@
+import { NextRequest, NextResponse } from 'next/server';
+import { constructStripeEvent, handleStripeCheckoutCompleted } from '@/lib/bea-flow/checkoutService';
+export async function POST(req:NextRequest){ const rawBody=await req.text(); const sig=req.headers.get('stripe-signature'); try{ const event=await constructStripeEvent(rawBody,sig); if(event.type==='checkout.session.completed'){ const result=await handleStripeCheckoutCompleted(event.data.object as any); return NextResponse.json({received:true,result}); } return NextResponse.json({received:true,ignored:event.type}); }catch(error){ return NextResponse.json({ok:false,error:error instanceof Error?error.message:'Webhook error'},{status:400}); } }

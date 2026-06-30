@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0049",
+  "title": "High-Frequency Words: Read Common Function Words - Tap the Sound 1",
+  "grade_band": "Kindergarten",
+  "mechanic": "Tap the Sound",
+  "learning_goal": "Learner can read common function words through a short guided tap the sound activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0049-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0049",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "seed",
+      "distractors": [
+        "that",
+        "chin",
+        "train"
+      ],
+      "choices": [
+        "that",
+        "chin",
+        "seed",
+        "train"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0049-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0049-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0049-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for seed",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0049-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0049",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /m/. Which word begins with /m/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /m/. Which word begins with /m/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "moon",
+      "distractors": [
+        "smile",
+        "seed",
+        "shop"
+      ],
+      "choices": [
+        "smile",
+        "moon",
+        "seed",
+        "shop"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0049-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0049-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0049-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for moon",
+        "caption_text": "Listen: /m/. Which word begins with /m/?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0049-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0049",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /b/. Which word begins with /b/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /b/. Which word begins with /b/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "book",
+      "distractors": [
+        "chair",
+        "goat",
+        "train"
+      ],
+      "choices": [
+        "chair",
+        "book",
+        "goat",
+        "train"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0049-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0049-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0049-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for book",
+        "caption_text": "Listen: /b/. Which word begins with /b/?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0049-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0049",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /p/. Which word begins with /p/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /p/. Which word begins with /p/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "park",
+      "distractors": [
+        "chin",
+        "then",
+        "chair"
+      ],
+      "choices": [
+        "chin",
+        "then",
+        "park",
+        "chair"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0049-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0049-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0049-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for park",
+        "caption_text": "Listen: /p/. Which word begins with /p/?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0049-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0049",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /p/. Which word begins with /p/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /p/. Which word begins with /p/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "play",
+      "distractors": [
+        "ship",
+        "moon",
+        "chair"
+      ],
+      "choices": [
+        "ship",
+        "play",
+        "moon",
+        "chair"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0049-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0049-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0049-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for play",
+        "caption_text": "Listen: /p/. Which word begins with /p/?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0049-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0049",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "smile",
+      "distractors": [
+        "thin",
+        "chin",
+        "this"
+      ],
+      "choices": [
+        "smile",
+        "thin",
+        "chin",
+        "this"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0049-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0049-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0049-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for smile",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0049-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0049",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /g/. Which word begins with /g/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /g/. Which word begins with /g/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "green",
+      "distractors": [
+        "train",
+        "shop",
+        "play"
+      ],
+      "choices": [
+        "train",
+        "green",
+        "shop",
+        "play"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0049-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0049-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0049-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for green",
+        "caption_text": "Listen: /g/. Which word begins with /g/?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0049-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0049",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "High-Frequency Words",
+      "skill_code": "EY-KIN-LIT-HIG-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /b/. Which word begins with /b/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /b/. Which word begins with /b/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "brown",
+      "distractors": [
+        "moon",
+        "chair",
+        "smile"
+      ],
+      "choices": [
+        "moon",
+        "brown",
+        "chair",
+        "smile"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to read common function words.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of read common function words, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0049-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0049-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0049-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for brown",
+        "caption_text": "Listen: /b/. Which word begins with /b/?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

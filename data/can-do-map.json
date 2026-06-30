@@ -1,0 +1,182 @@
+[
+  {
+    "cefr": "A1",
+    "skill": "reading",
+    "descriptor": "At A1, the learner can complete reading tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your reading performance indicates A1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A1",
+    "skill": "listening",
+    "descriptor": "At A1, the learner can complete listening tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your listening performance indicates A1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A1",
+    "skill": "speaking",
+    "descriptor": "At A1, the learner can complete speaking tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your speaking performance indicates A1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A1",
+    "skill": "writing",
+    "descriptor": "At A1, the learner can complete writing tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your writing performance indicates A1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A1",
+    "skill": "use_of_english",
+    "descriptor": "At A1, the learner can complete use of english tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your use of english performance indicates A1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A2",
+    "skill": "reading",
+    "descriptor": "At A2, the learner can complete reading tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your reading performance indicates A2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A2",
+    "skill": "listening",
+    "descriptor": "At A2, the learner can complete listening tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your listening performance indicates A2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A2",
+    "skill": "speaking",
+    "descriptor": "At A2, the learner can complete speaking tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your speaking performance indicates A2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A2",
+    "skill": "writing",
+    "descriptor": "At A2, the learner can complete writing tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your writing performance indicates A2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "A2",
+    "skill": "use_of_english",
+    "descriptor": "At A2, the learner can complete use of english tasks in familiar, educational and everyday contexts with basic support.",
+    "report_language": "Your use of english performance indicates A2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B1",
+    "skill": "reading",
+    "descriptor": "At B1, the learner can complete reading tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your reading performance indicates B1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B1",
+    "skill": "listening",
+    "descriptor": "At B1, the learner can complete listening tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your listening performance indicates B1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B1",
+    "skill": "speaking",
+    "descriptor": "At B1, the learner can complete speaking tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your speaking performance indicates B1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B1",
+    "skill": "writing",
+    "descriptor": "At B1, the learner can complete writing tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your writing performance indicates B1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B1",
+    "skill": "use_of_english",
+    "descriptor": "At B1, the learner can complete use of english tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your use of english performance indicates B1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B2",
+    "skill": "reading",
+    "descriptor": "At B2, the learner can complete reading tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your reading performance indicates B2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B2",
+    "skill": "listening",
+    "descriptor": "At B2, the learner can complete listening tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your listening performance indicates B2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B2",
+    "skill": "speaking",
+    "descriptor": "At B2, the learner can complete speaking tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your speaking performance indicates B2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B2",
+    "skill": "writing",
+    "descriptor": "At B2, the learner can complete writing tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your writing performance indicates B2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "B2",
+    "skill": "use_of_english",
+    "descriptor": "At B2, the learner can complete use of english tasks in familiar, educational and everyday contexts with increasing independence.",
+    "report_language": "Your use of english performance indicates B2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C1",
+    "skill": "reading",
+    "descriptor": "At C1, the learner can complete reading tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your reading performance indicates C1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C1",
+    "skill": "listening",
+    "descriptor": "At C1, the learner can complete listening tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your listening performance indicates C1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C1",
+    "skill": "speaking",
+    "descriptor": "At C1, the learner can complete speaking tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your speaking performance indicates C1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C1",
+    "skill": "writing",
+    "descriptor": "At C1, the learner can complete writing tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your writing performance indicates C1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C1",
+    "skill": "use_of_english",
+    "descriptor": "At C1, the learner can complete use of english tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your use of english performance indicates C1 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C2",
+    "skill": "reading",
+    "descriptor": "At C2, the learner can complete reading tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your reading performance indicates C2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C2",
+    "skill": "listening",
+    "descriptor": "At C2, the learner can complete listening tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your listening performance indicates C2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C2",
+    "skill": "speaking",
+    "descriptor": "At C2, the learner can complete speaking tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your speaking performance indicates C2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C2",
+    "skill": "writing",
+    "descriptor": "At C2, the learner can complete writing tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your writing performance indicates C2 readiness when task accuracy, range and control are consistent."
+  },
+  {
+    "cefr": "C2",
+    "skill": "use_of_english",
+    "descriptor": "At C2, the learner can complete use of english tasks in familiar, educational and everyday contexts with precision and flexibility.",
+    "report_language": "Your use of english performance indicates C2 readiness when task accuracy, range and control are consistent."
+  }
+]

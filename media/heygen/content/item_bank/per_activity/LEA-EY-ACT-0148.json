@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0148",
+  "title": "Addition/Subtraction: Within 100 - Listen and Choose 4",
+  "grade_band": "Grade 2",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can within 100 through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: solution.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: solution.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "solution",
+      "distractors": [
+        "explain",
+        "predict",
+        "listen"
+      ],
+      "choices": [
+        "solution",
+        "explain",
+        "predict",
+        "listen"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for solution",
+        "caption_text": "Choose the best answer for within 100: solution.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: question.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: question.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "question",
+      "distractors": [
+        "problem",
+        "predict",
+        "example"
+      ],
+      "choices": [
+        "question",
+        "problem",
+        "predict",
+        "example"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for question",
+        "caption_text": "Choose the best answer for within 100: question.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: answer.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: answer.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "answer",
+      "distractors": [
+        "pattern",
+        "detail",
+        "measure"
+      ],
+      "choices": [
+        "pattern",
+        "answer",
+        "detail",
+        "measure"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for answer",
+        "caption_text": "Choose the best answer for within 100: answer.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: listen.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: listen.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "listen",
+      "distractors": [
+        "compare",
+        "reason",
+        "example"
+      ],
+      "choices": [
+        "compare",
+        "reason",
+        "example",
+        "listen"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for listen",
+        "caption_text": "Choose the best answer for within 100: listen.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: record.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: record.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "record",
+      "distractors": [
+        "paragraph",
+        "detail",
+        "predict"
+      ],
+      "choices": [
+        "paragraph",
+        "detail",
+        "record",
+        "predict"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for record",
+        "caption_text": "Choose the best answer for within 100: record.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: sentence.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: sentence.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "sentence",
+      "distractors": [
+        "measure",
+        "explain",
+        "compare"
+      ],
+      "choices": [
+        "measure",
+        "explain",
+        "compare",
+        "sentence"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for sentence",
+        "caption_text": "Choose the best answer for within 100: sentence.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: paragraph.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: paragraph.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "paragraph",
+      "distractors": [
+        "example",
+        "describe",
+        "predict"
+      ],
+      "choices": [
+        "example",
+        "paragraph",
+        "describe",
+        "predict"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for paragraph",
+        "caption_text": "Choose the best answer for within 100: paragraph.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: topic.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: topic.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "topic",
+      "distractors": [
+        "evidence",
+        "problem",
+        "solution"
+      ],
+      "choices": [
+        "evidence",
+        "topic",
+        "problem",
+        "solution"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for topic",
+        "caption_text": "Choose the best answer for within 100: topic.",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: detail.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: detail.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "detail",
+      "distractors": [
+        "record",
+        "sentence",
+        "problem"
+      ],
+      "choices": [
+        "record",
+        "detail",
+        "sentence",
+        "problem"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for detail",
+        "caption_text": "Choose the best answer for within 100: detail.",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0148-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0148",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-04",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for within 100: reason.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for within 100: reason.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "reason",
+      "distractors": [
+        "explain",
+        "problem",
+        "listen"
+      ],
+      "choices": [
+        "explain",
+        "reason",
+        "problem",
+        "listen"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0148-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0148-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0148-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for reason",
+        "caption_text": "Choose the best answer for within 100: reason.",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

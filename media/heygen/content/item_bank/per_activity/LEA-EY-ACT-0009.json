@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0009",
+  "title": "Phonological Awareness: Rhyme And Syllable Awareness - Tap the Sound 1",
+  "grade_band": "Pre-K",
+  "mechanic": "Tap the Sound",
+  "learning_goal": "Learner can rhyme and syllable awareness through a short guided tap the sound activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0009-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0009",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /b/. Which word begins with /b/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /b/. Which word begins with /b/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "big",
+      "distractors": [
+        "jam",
+        "sun",
+        "tap"
+      ],
+      "choices": [
+        "jam",
+        "big",
+        "sun",
+        "tap"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0009-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0009-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0009-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for big",
+        "caption_text": "Listen: /b/. Which word begins with /b/?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0009-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0009",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "sit",
+      "distractors": [
+        "red",
+        "jam",
+        "big"
+      ],
+      "choices": [
+        "sit",
+        "red",
+        "jam",
+        "big"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0009-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0009-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0009-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for sit",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0009-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0009",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /r/. Which word begins with /r/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /r/. Which word begins with /r/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "run",
+      "distractors": [
+        "pen",
+        "fox",
+        "big"
+      ],
+      "choices": [
+        "pen",
+        "fox",
+        "big",
+        "run"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0009-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0009-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0009-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for run",
+        "caption_text": "Listen: /r/. Which word begins with /r/?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0009-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0009",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /h/. Which word begins with /h/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /h/. Which word begins with /h/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "hop",
+      "distractors": [
+        "sit",
+        "cat",
+        "bus"
+      ],
+      "choices": [
+        "sit",
+        "hop",
+        "cat",
+        "bus"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0009-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0009-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0009-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for hop",
+        "caption_text": "Listen: /h/. Which word begins with /h/?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0009-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0009",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /t/. Which word begins with /t/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /t/. Which word begins with /t/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "tap",
+      "distractors": [
+        "bed",
+        "cup",
+        "dog"
+      ],
+      "choices": [
+        "bed",
+        "cup",
+        "dog",
+        "tap"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0009-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0009-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0009-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for tap",
+        "caption_text": "Listen: /t/. Which word begins with /t/?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0009-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0009",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /m/. Which word begins with /m/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /m/. Which word begins with /m/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "map",
+      "distractors": [
+        "dad",
+        "hop",
+        "hat"
+      ],
+      "choices": [
+        "dad",
+        "map",
+        "hop",
+        "hat"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0009-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0009-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0009-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for map",
+        "caption_text": "Listen: /m/. Which word begins with /m/?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0009-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0009",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /j/. Which word begins with /j/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /j/. Which word begins with /j/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "jam",
+      "distractors": [
+        "bed",
+        "dog",
+        "hop"
+      ],
+      "choices": [
+        "bed",
+        "jam",
+        "dog",
+        "hop"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0009-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0009-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0009-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for jam",
+        "caption_text": "Listen: /j/. Which word begins with /j/?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0009-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0009",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-01",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /b/. Which word begins with /b/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /b/. Which word begins with /b/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "bed",
+      "distractors": [
+        "mum",
+        "run",
+        "dad"
+      ],
+      "choices": [
+        "mum",
+        "run",
+        "bed",
+        "dad"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0009-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0009-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0009-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bed",
+        "caption_text": "Listen: /b/. Which word begins with /b/?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

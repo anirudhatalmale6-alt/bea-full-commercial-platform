@@ -1,0 +1,15 @@
+# BEA Audio QA Checklist
+- [ ] MP3 generated successfully.
+- [ ] File name matches manifest.
+- [ ] S3 key matches manifest.
+- [ ] Audio plays in browser.
+- [ ] Volume is consistent.
+- [ ] No clipping or distortion.
+- [ ] Pauses sound natural.
+- [ ] Speed fits CEFR level.
+- [ ] BEA pronounced correctly.
+- [ ] CEFR and A1-C2 pronounced correctly.
+- [ ] Target vocabulary pronounced correctly.
+- [ ] Transcript matches audio.
+- [ ] Caption file reviewed and timed.
+- [ ] LMS lesson mapping is correct.

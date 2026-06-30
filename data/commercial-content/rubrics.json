@@ -1,0 +1,338 @@
+{
+  "A1": {
+    "speaking": [
+      {
+        "criterion": "Task fulfilment",
+        "max": 5,
+        "descriptor": "Completes the speaking task at A1 level."
+      },
+      {
+        "criterion": "Fluency and interaction",
+        "max": 5,
+        "descriptor": "Maintains communication with appropriate support."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable words and phrases for the topic."
+      },
+      {
+        "criterion": "Pronunciation",
+        "max": 5,
+        "descriptor": "Pronunciation is understandable and increasingly controlled."
+      }
+    ],
+    "writing": [
+      {
+        "criterion": "Content and task achievement",
+        "max": 5,
+        "descriptor": "Answers the writing task at A1 level."
+      },
+      {
+        "criterion": "Organisation",
+        "max": 5,
+        "descriptor": "Ideas are arranged clearly with appropriate linking."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable topic vocabulary."
+      },
+      {
+        "criterion": "Accuracy and mechanics",
+        "max": 5,
+        "descriptor": "Spelling, punctuation and layout support meaning."
+      }
+    ]
+  },
+  "A2": {
+    "speaking": [
+      {
+        "criterion": "Task fulfilment",
+        "max": 5,
+        "descriptor": "Completes the speaking task at A2 level."
+      },
+      {
+        "criterion": "Fluency and interaction",
+        "max": 5,
+        "descriptor": "Maintains communication with appropriate support."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable words and phrases for the topic."
+      },
+      {
+        "criterion": "Pronunciation",
+        "max": 5,
+        "descriptor": "Pronunciation is understandable and increasingly controlled."
+      }
+    ],
+    "writing": [
+      {
+        "criterion": "Content and task achievement",
+        "max": 5,
+        "descriptor": "Answers the writing task at A2 level."
+      },
+      {
+        "criterion": "Organisation",
+        "max": 5,
+        "descriptor": "Ideas are arranged clearly with appropriate linking."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable topic vocabulary."
+      },
+      {
+        "criterion": "Accuracy and mechanics",
+        "max": 5,
+        "descriptor": "Spelling, punctuation and layout support meaning."
+      }
+    ]
+  },
+  "B1": {
+    "speaking": [
+      {
+        "criterion": "Task fulfilment",
+        "max": 5,
+        "descriptor": "Completes the speaking task at B1 level."
+      },
+      {
+        "criterion": "Fluency and interaction",
+        "max": 5,
+        "descriptor": "Maintains communication with appropriate support."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable words and phrases for the topic."
+      },
+      {
+        "criterion": "Pronunciation",
+        "max": 5,
+        "descriptor": "Pronunciation is understandable and increasingly controlled."
+      }
+    ],
+    "writing": [
+      {
+        "criterion": "Content and task achievement",
+        "max": 5,
+        "descriptor": "Answers the writing task at B1 level."
+      },
+      {
+        "criterion": "Organisation",
+        "max": 5,
+        "descriptor": "Ideas are arranged clearly with appropriate linking."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable topic vocabulary."
+      },
+      {
+        "criterion": "Accuracy and mechanics",
+        "max": 5,
+        "descriptor": "Spelling, punctuation and layout support meaning."
+      }
+    ]
+  },
+  "B2": {
+    "speaking": [
+      {
+        "criterion": "Task fulfilment",
+        "max": 5,
+        "descriptor": "Completes the speaking task at B2 level."
+      },
+      {
+        "criterion": "Fluency and interaction",
+        "max": 5,
+        "descriptor": "Maintains communication with appropriate support."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable words and phrases for the topic."
+      },
+      {
+        "criterion": "Pronunciation",
+        "max": 5,
+        "descriptor": "Pronunciation is understandable and increasingly controlled."
+      }
+    ],
+    "writing": [
+      {
+        "criterion": "Content and task achievement",
+        "max": 5,
+        "descriptor": "Answers the writing task at B2 level."
+      },
+      {
+        "criterion": "Organisation",
+        "max": 5,
+        "descriptor": "Ideas are arranged clearly with appropriate linking."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable topic vocabulary."
+      },
+      {
+        "criterion": "Accuracy and mechanics",
+        "max": 5,
+        "descriptor": "Spelling, punctuation and layout support meaning."
+      }
+    ]
+  },
+  "C1": {
+    "speaking": [
+      {
+        "criterion": "Task fulfilment",
+        "max": 5,
+        "descriptor": "Completes the speaking task at C1 level."
+      },
+      {
+        "criterion": "Fluency and interaction",
+        "max": 5,
+        "descriptor": "Maintains communication with appropriate support."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable words and phrases for the topic."
+      },
+      {
+        "criterion": "Pronunciation",
+        "max": 5,
+        "descriptor": "Pronunciation is understandable and increasingly controlled."
+      }
+    ],
+    "writing": [
+      {
+        "criterion": "Content and task achievement",
+        "max": 5,
+        "descriptor": "Answers the writing task at C1 level."
+      },
+      {
+        "criterion": "Organisation",
+        "max": 5,
+        "descriptor": "Ideas are arranged clearly with appropriate linking."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable topic vocabulary."
+      },
+      {
+        "criterion": "Accuracy and mechanics",
+        "max": 5,
+        "descriptor": "Spelling, punctuation and layout support meaning."
+      }
+    ]
+  },
+  "C2": {
+    "speaking": [
+      {
+        "criterion": "Task fulfilment",
+        "max": 5,
+        "descriptor": "Completes the speaking task at C2 level."
+      },
+      {
+        "criterion": "Fluency and interaction",
+        "max": 5,
+        "descriptor": "Maintains communication with appropriate support."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable words and phrases for the topic."
+      },
+      {
+        "criterion": "Pronunciation",
+        "max": 5,
+        "descriptor": "Pronunciation is understandable and increasingly controlled."
+      }
+    ],
+    "writing": [
+      {
+        "criterion": "Content and task achievement",
+        "max": 5,
+        "descriptor": "Answers the writing task at C2 level."
+      },
+      {
+        "criterion": "Organisation",
+        "max": 5,
+        "descriptor": "Ideas are arranged clearly with appropriate linking."
+      },
+      {
+        "criterion": "Grammar control",
+        "max": 5,
+        "descriptor": "Uses level-appropriate grammar accurately."
+      },
+      {
+        "criterion": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses suitable topic vocabulary."
+      },
+      {
+        "criterion": "Accuracy and mechanics",
+        "max": 5,
+        "descriptor": "Spelling, punctuation and layout support meaning."
+      }
+    ]
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0157",
+  "title": "Data: Graphs And Word Problems - Find the Mistake 1",
+  "grade_band": "Grade 2",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can graphs and word problems through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The reason are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The reason are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The reason is clear.",
+      "distractors": [
+        "The reason clear is.",
+        "The reason are clear.",
+        "Clear the reason is."
+      ],
+      "choices": [
+        "The reason clear is.",
+        "The reason is clear.",
+        "The reason are clear.",
+        "Clear the reason is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The reason is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The reason are clear.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The example are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The example are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The example is clear.",
+      "distractors": [
+        "Clear the example is.",
+        "The example are clear.",
+        "The example clear is."
+      ],
+      "choices": [
+        "The example is clear.",
+        "Clear the example is.",
+        "The example are clear.",
+        "The example clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The example is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The example are clear.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The compare are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The compare are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The compare is clear.",
+      "distractors": [
+        "The compare clear is.",
+        "The compare are clear.",
+        "Clear the compare is."
+      ],
+      "choices": [
+        "The compare clear is.",
+        "The compare are clear.",
+        "Clear the compare is.",
+        "The compare is clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The compare is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The compare are clear.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The explain are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The explain are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The explain is clear.",
+      "distractors": [
+        "The explain clear is.",
+        "Clear the explain is.",
+        "The explain are clear."
+      ],
+      "choices": [
+        "The explain clear is.",
+        "Clear the explain is.",
+        "The explain are clear.",
+        "The explain is clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The explain is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The explain are clear.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The describe are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The describe are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The describe is clear.",
+      "distractors": [
+        "The describe are clear.",
+        "The describe clear is.",
+        "Clear the describe is."
+      ],
+      "choices": [
+        "The describe are clear.",
+        "The describe clear is.",
+        "Clear the describe is.",
+        "The describe is clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The describe is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The describe are clear.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The predict are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The predict are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The predict is clear.",
+      "distractors": [
+        "The predict are clear.",
+        "Clear the predict is.",
+        "The predict clear is."
+      ],
+      "choices": [
+        "The predict are clear.",
+        "Clear the predict is.",
+        "The predict clear is.",
+        "The predict is clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The predict is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The predict are clear.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The support are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The support are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The support is clear.",
+      "distractors": [
+        "Clear the support is.",
+        "The support clear is.",
+        "The support are clear."
+      ],
+      "choices": [
+        "Clear the support is.",
+        "The support clear is.",
+        "The support is clear.",
+        "The support are clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The support is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The support are clear.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The evidence are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The evidence are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The evidence is clear.",
+      "distractors": [
+        "The evidence are clear.",
+        "The evidence clear is.",
+        "Clear the evidence is."
+      ],
+      "choices": [
+        "The evidence are clear.",
+        "The evidence is clear.",
+        "The evidence clear is.",
+        "Clear the evidence is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The evidence is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The evidence are clear.'",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The measure are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The measure are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The measure is clear.",
+      "distractors": [
+        "Clear the measure is.",
+        "The measure are clear.",
+        "The measure clear is."
+      ],
+      "choices": [
+        "The measure is clear.",
+        "Clear the measure is.",
+        "The measure are clear.",
+        "The measure clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The measure is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The measure are clear.'",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0157-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0157",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The pattern are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The pattern are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The pattern is clear.",
+      "distractors": [
+        "The pattern clear is.",
+        "Clear the pattern is.",
+        "The pattern are clear."
+      ],
+      "choices": [
+        "The pattern clear is.",
+        "Clear the pattern is.",
+        "The pattern are clear.",
+        "The pattern is clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0157-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0157-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0157-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The pattern is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The pattern are clear.'",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

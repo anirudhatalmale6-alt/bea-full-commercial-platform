@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "basePath": "/bea-agent/audio/generated/",
+  "clips": {
+    "landing.en": {
+      "audio": "landing.en.mp3",
+      "text": "Welcome to BEA! To find the perfect lessons for you, let's start by clicking 'Check your English Level' to take our short Level Test.",
+      "captions": [
+        { "start": 0, "end": 3.2, "text": "Welcome to BEA!" },
+        { "start": 3.2, "end": 8.8, "text": "Click Check your English Level to take our short Level Test." }
+      ]
+    },
+    "landing.es": {
+      "audio": "landing.es.mp3",
+      "text": "Bienvenido a BEA. Para encontrar las mejores clases para ti, haz clic en 'Check your English Level' y empieza la prueba corta.",
+      "captions": [
+        { "start": 0, "end": 3.4, "text": "Bienvenido a BEA." },
+        { "start": 3.4, "end": 8.8, "text": "Haz clic en Check your English Level para empezar." }
+      ]
+    },
+    "landing.ar": {
+      "audio": "landing.ar.mp3",
+      "text": "مرحبا بك في BEA. للعثور على الدروس المناسبة لك، اضغط على Check your English Level وابدأ اختبار المستوى القصير.",
+      "captions": [
+        { "start": 0, "end": 3.6, "text": "مرحبا بك في BEA." },
+        { "start": 3.6, "end": 9.2, "text": "اضغط على Check your English Level لبدء اختبار المستوى." }
+      ]
+    },
+    "landing.zh": {
+      "audio": "landing.zh.mp3",
+      "text": "欢迎来到 BEA。为了找到最适合你的课程，请点击 Check your English Level，开始简短的水平测试。",
+      "captions": [
+        { "start": 0, "end": 3.4, "text": "欢迎来到 BEA。" },
+        { "start": 3.4, "end": 8.6, "text": "点击 Check your English Level 开始水平测试。" }
+      ]
+    },
+    "placement.en": {
+      "audio": "placement.en.mp3",
+      "text": "You are on the BEA Level Test. Enter your name and email, then start the free placement test.",
+      "captions": [
+        { "start": 0, "end": 3.4, "text": "You are on the BEA Level Test." },
+        { "start": 3.4, "end": 7.8, "text": "Enter your name and email, then start the free test." }
+      ]
+    },
+    "postTest.en": {
+      "audio": "post-test.en.mp3",
+      "text": "Great job! Your pathway is ready. Click below to try your free mini trial lesson before unlocking your full course.",
+      "captions": [
+        { "start": 0, "end": 3.0, "text": "Great job! Your pathway is ready." },
+        { "start": 3.0, "end": 8.2, "text": "Try your free mini trial lesson before unlocking the full course." }
+      ]
+    },
+    "trial.en": {
+      "audio": "trial.en.mp3",
+      "text": "Let's begin in simple English. Listen, read the short captions, and try the mini lesson step by step.",
+      "captions": [
+        { "start": 0, "end": 3.2, "text": "Let's begin in simple English." },
+        { "start": 3.2, "end": 7.4, "text": "Listen, read, and try the mini lesson step by step." }
+      ]
+    }
+  }
+}

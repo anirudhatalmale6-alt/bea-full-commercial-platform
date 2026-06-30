@@ -1,0 +1,2 @@
+import { DashboardCards } from '@/components/bea-flow/DashboardCards';
+export default function Page(){ return <main style={{padding:32,background:'#f8fcff',minHeight:'100vh',fontFamily:'Inter,Arial,sans-serif'}}><h1 style={{color:'#102a43',fontSize:48,letterSpacing:'-.06em'}}>Institution Dashboard</h1><p>Institution admin manages licence, teachers, learners, classes and reports.</p><DashboardCards title='Platform Flow' items={[{"label": "Licence", "value": "Active"}, {"label": "Learner seats", "value": "Seats"}, {"label": "Reports", "value": "Export"}]} /></main>; }

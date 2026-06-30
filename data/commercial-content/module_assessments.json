@@ -1,0 +1,1082 @@
+[
+  {
+    "assessment_id": "ASM-A1-M01",
+    "level": "A1",
+    "module_id": "A1-M01",
+    "title": "Personal Information and Classroom English Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A1-M02",
+    "level": "A1",
+    "module_id": "A1-M02",
+    "title": "Home, Family and Daily Objects Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A1-M03",
+    "level": "A1",
+    "module_id": "A1-M03",
+    "title": "Food, Shopping and Simple Requests Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A1-M04",
+    "level": "A1",
+    "module_id": "A1-M04",
+    "title": "Places, Directions and Local Life Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A1-M05",
+    "level": "A1",
+    "module_id": "A1-M05",
+    "title": "Daily Routines and Free Time Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A1-M06",
+    "level": "A1",
+    "module_id": "A1-M06",
+    "title": "A1 Review, Speaking and Everyday Tasks Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A2-M01",
+    "level": "A2",
+    "module_id": "A2-M01",
+    "title": "Daily Life and Social Communication Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A2-M02",
+    "level": "A2",
+    "module_id": "A2-M02",
+    "title": "Past Experiences and Personal Stories Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A2-M03",
+    "level": "A2",
+    "module_id": "A2-M03",
+    "title": "Travel, Services and Problem Solving Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A2-M04",
+    "level": "A2",
+    "module_id": "A2-M04",
+    "title": "Health, Weather and Plans Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A2-M05",
+    "level": "A2",
+    "module_id": "A2-M05",
+    "title": "Work, Study and Everyday Writing Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-A2-M06",
+    "level": "A2",
+    "module_id": "A2-M06",
+    "title": "A2 Review, Fluency and Functional Tasks Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B1-M01",
+    "level": "B1",
+    "module_id": "B1-M01",
+    "title": "Independent Communication and Opinions Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B1-M02",
+    "level": "B1",
+    "module_id": "B1-M02",
+    "title": "Work, Study and Digital Life Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B1-M03",
+    "level": "B1",
+    "module_id": "B1-M03",
+    "title": "Travel, Culture and Narratives Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B1-M04",
+    "level": "B1",
+    "module_id": "B1-M04",
+    "title": "Problems, Advice and Decisions Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B1-M05",
+    "level": "B1",
+    "module_id": "B1-M05",
+    "title": "Media, Environment and Society Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B1-M06",
+    "level": "B1",
+    "module_id": "B1-M06",
+    "title": "B1 Review, Projects and Integrated Skills Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B2-M01",
+    "level": "B2",
+    "module_id": "B2-M01",
+    "title": "Complex Communication and Debate Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B2-M02",
+    "level": "B2",
+    "module_id": "B2-M02",
+    "title": "Professional and Academic Skills Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B2-M03",
+    "level": "B2",
+    "module_id": "B2-M03",
+    "title": "Advanced Reading and Listening Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B2-M04",
+    "level": "B2",
+    "module_id": "B2-M04",
+    "title": "Writing Arguments and Reports Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B2-M05",
+    "level": "B2",
+    "module_id": "B2-M05",
+    "title": "Global Issues and Critical Thinking Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-B2-M06",
+    "level": "B2",
+    "module_id": "B2-M06",
+    "title": "B2 Review, Presentations and Integrated Assessment Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C1-M01",
+    "level": "C1",
+    "module_id": "C1-M01",
+    "title": "Advanced Academic and Professional Discourse Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C1-M02",
+    "level": "C1",
+    "module_id": "C1-M02",
+    "title": "Nuance, Register and Persuasion Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C1-M03",
+    "level": "C1",
+    "module_id": "C1-M03",
+    "title": "Research, Synthesis and Critical Evaluation Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C1-M04",
+    "level": "C1",
+    "module_id": "C1-M04",
+    "title": "High-Level Writing and Speaking Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C1-M05",
+    "level": "C1",
+    "module_id": "C1-M05",
+    "title": "Leadership, Policy and Complex Interaction Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C1-M06",
+    "level": "C1",
+    "module_id": "C1-M06",
+    "title": "C1 Review, Portfolio and Performance Assessment Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C2-M01",
+    "level": "C2",
+    "module_id": "C2-M01",
+    "title": "Mastery of Style, Register and Precision Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C2-M02",
+    "level": "C2",
+    "module_id": "C2-M02",
+    "title": "Complex Texts, Literature and Culture Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C2-M03",
+    "level": "C2",
+    "module_id": "C2-M03",
+    "title": "Specialised Academic and Professional English Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C2-M04",
+    "level": "C2",
+    "module_id": "C2-M04",
+    "title": "Rhetoric, Diplomacy and High-Stakes Communication Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C2-M05",
+    "level": "C2",
+    "module_id": "C2-M05",
+    "title": "Critical Synthesis and Expert Production Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  },
+  {
+    "assessment_id": "ASM-C2-M06",
+    "level": "C2",
+    "module_id": "C2-M06",
+    "title": "C2 Review, Capstone and Mastery Assessment Module Assessment",
+    "sections": [
+      {
+        "name": "Vocabulary and Grammar",
+        "items": 10,
+        "score": 30
+      },
+      {
+        "name": "Reading or Listening",
+        "items": 6,
+        "score": 20
+      },
+      {
+        "name": "Speaking Task",
+        "items": 1,
+        "score": 25
+      },
+      {
+        "name": "Writing Task",
+        "items": 1,
+        "score": 25
+      }
+    ],
+    "pass_score": 70,
+    "rubric": "Use level rubric in data/rubrics.json"
+  }
+]

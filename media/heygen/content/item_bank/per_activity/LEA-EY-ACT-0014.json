@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0014",
+  "title": "Alphabet Knowledge: Recognise Uppercase And Lowercase Letters - Find the Mistake 2",
+  "grade_band": "Pre-K",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can recognise uppercase and lowercase letters through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0014-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0014",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Alphabet Knowledge",
+      "skill_code": "EY-PRE-LIT-ALP-02",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an map.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an map.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a map.",
+      "distractors": [
+        "I see an map.",
+        "The map clear is.",
+        "Clear the map is."
+      ],
+      "choices": [
+        "I see an map.",
+        "I see a map.",
+        "The map clear is.",
+        "Clear the map is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to recognise uppercase and lowercase letters.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of recognise uppercase and lowercase letters, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0014-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0014-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0014-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a map.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an map.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0014-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0014",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Alphabet Knowledge",
+      "skill_code": "EY-PRE-LIT-ALP-02",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a jam.",
+      "distractors": [
+        "Clear the jam is.",
+        "The jam clear is.",
+        "I see an jam."
+      ],
+      "choices": [
+        "Clear the jam is.",
+        "The jam clear is.",
+        "I see an jam.",
+        "I see a jam."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to recognise uppercase and lowercase letters.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of recognise uppercase and lowercase letters, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0014-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0014-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0014-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a jam.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0014-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0014",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Alphabet Knowledge",
+      "skill_code": "EY-PRE-LIT-ALP-02",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an bed.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an bed.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a bed.",
+      "distractors": [
+        "Clear the bed is.",
+        "The bed clear is.",
+        "I see an bed."
+      ],
+      "choices": [
+        "I see a bed.",
+        "Clear the bed is.",
+        "The bed clear is.",
+        "I see an bed."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to recognise uppercase and lowercase letters.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of recognise uppercase and lowercase letters, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0014-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0014-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0014-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a bed.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an bed.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0014-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0014",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Alphabet Knowledge",
+      "skill_code": "EY-PRE-LIT-ALP-02",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an bus.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an bus.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a bus.",
+      "distractors": [
+        "Clear the bus is.",
+        "The bus clear is.",
+        "I see an bus."
+      ],
+      "choices": [
+        "Clear the bus is.",
+        "The bus clear is.",
+        "I see a bus.",
+        "I see an bus."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to recognise uppercase and lowercase letters.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of recognise uppercase and lowercase letters, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0014-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0014-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0014-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a bus.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an bus.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0014-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0014",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Alphabet Knowledge",
+      "skill_code": "EY-PRE-LIT-ALP-02",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an fox.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an fox.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a fox.",
+      "distractors": [
+        "The fox clear is.",
+        "Clear the fox is.",
+        "I see an fox."
+      ],
+      "choices": [
+        "The fox clear is.",
+        "I see a fox.",
+        "Clear the fox is.",
+        "I see an fox."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to recognise uppercase and lowercase letters.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of recognise uppercase and lowercase letters, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0014-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0014-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0014-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a fox.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an fox.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0014-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0014",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Alphabet Knowledge",
+      "skill_code": "EY-PRE-LIT-ALP-02",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an sun.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an sun.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a sun.",
+      "distractors": [
+        "I see an sun.",
+        "The sun clear is.",
+        "Clear the sun is."
+      ],
+      "choices": [
+        "I see an sun.",
+        "I see a sun.",
+        "The sun clear is.",
+        "Clear the sun is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to recognise uppercase and lowercase letters.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of recognise uppercase and lowercase letters, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0014-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0014-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0014-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a sun.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an sun.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0014-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0014",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Alphabet Knowledge",
+      "skill_code": "EY-PRE-LIT-ALP-02",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an cat.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an cat.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a cat.",
+      "distractors": [
+        "The cat clear is.",
+        "I see an cat.",
+        "Clear the cat is."
+      ],
+      "choices": [
+        "I see a cat.",
+        "The cat clear is.",
+        "I see an cat.",
+        "Clear the cat is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to recognise uppercase and lowercase letters.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of recognise uppercase and lowercase letters, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0014-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0014-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0014-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a cat.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an cat.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0014-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0014",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Alphabet Knowledge",
+      "skill_code": "EY-PRE-LIT-ALP-02",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an dog.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an dog.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a dog.",
+      "distractors": [
+        "Clear the dog is.",
+        "The dog clear is.",
+        "I see an dog."
+      ],
+      "choices": [
+        "Clear the dog is.",
+        "I see a dog.",
+        "The dog clear is.",
+        "I see an dog."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to recognise uppercase and lowercase letters.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of recognise uppercase and lowercase letters, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0014-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0014-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0014-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a dog.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an dog.'",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

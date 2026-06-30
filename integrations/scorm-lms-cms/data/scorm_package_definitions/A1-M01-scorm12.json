@@ -1,0 +1,10 @@
+{
+  "package_key": "SCORM-A1-M01-12",
+  "identifier": "LEA-A1-M01-SCORM12",
+  "scorm_version": "1.2",
+  "title": "A1-M01 Identity, goals and learner profile",
+  "module_code": "A1-M01",
+  "mastery_score": 80,
+  "launch_path": "index.html",
+  "course_id": "course-a1-starter-english"
+}

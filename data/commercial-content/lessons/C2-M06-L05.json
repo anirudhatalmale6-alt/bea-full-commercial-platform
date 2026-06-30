@@ -1,0 +1,189 @@
+{
+  "lesson_id": "C2-M06-L05",
+  "slug": "c2-m06-l05-c2-review-capstone-and-mastery-assessment-speaking-lesson-5",
+  "cefr_level": "C2",
+  "course_title": "C2 Mastery English",
+  "module_number": 6,
+  "module_title": "C2 Review, Capstone and Mastery Assessment",
+  "lesson_number": 5,
+  "lesson_title": "C2 Review, Capstone and Mastery Assessment: Speaking Lesson 5",
+  "primary_skill": "speaking",
+  "grammar_target": "rhetorical structure",
+  "vocabulary_theme": "diplomacy",
+  "learning_objective": "Learners can critique, refine, interpret nuance and produce expert-level responses in a speaking task about diplomacy.",
+  "cefr_outcome": "Learners can understand virtually everything heard or read and express themselves precisely in complex situations.",
+  "learner_facing_explanation": "In this lesson you will practise speaking for c2 review, capstone and mastery assessment. You will learn useful language connected to diplomacy and practise rhetorical structure. By the end, you should be able to complete a short real-life task and explain your answer clearly at C2 level.",
+  "complete_teaching_input": "Focus language: rhetorical structure. Vocabulary theme: diplomacy. The teacher introduces the target language in a meaningful context, models pronunciation and form, checks meaning with concept questions, and moves learners from controlled practice to freer use. At C2, learners should critique, refine, interpret nuance and produce expert-level responses with increasing independence. The lesson should use board examples, short teacher modelling, pair practice, feedback and a final communicative task.",
+  "examples": [
+    "Example 1: I can use rhetorical structure to talk about diplomacy.",
+    "Example 2: The learner gives a C2 answer with clear meaning and correct key language.",
+    "Example 3: The learner checks, improves and repeats the answer after feedback.",
+    "Example 4: The learner uses one linking phrase or support phrase suitable for C2."
+  ],
+  "interactive_practice": [
+    {
+      "item_id": "C2-M06-L05-P1",
+      "type": "multiple_choice",
+      "prompt": "Choose the best sentence using rhetorical structure.",
+      "options": [
+        "Correct use of rhetorical structure in a C2 sentence.",
+        "Incorrect word order with rhetorical structure.",
+        "Wrong tense for the meaning.",
+        "Unclear sentence with missing information."
+      ],
+      "correct_answer": 0,
+      "distractors": [
+        1,
+        2,
+        3
+      ],
+      "feedback_correct": "Correct. The sentence uses rhetorical structure accurately.",
+      "feedback_incorrect": "Check the form and meaning of rhetorical structure."
+    },
+    {
+      "item_id": "C2-M06-L05-P2",
+      "type": "matching",
+      "prompt": "Match the diplomacy phrase to its meaning.",
+      "pairs": [
+        {
+          "left": "diplomacy phrase A",
+          "right": "meaning A"
+        },
+        {
+          "left": "diplomacy phrase B",
+          "right": "meaning B"
+        },
+        {
+          "left": "diplomacy phrase C",
+          "right": "meaning C"
+        }
+      ],
+      "feedback_correct": "Good matching. You understand the phrase meaning.",
+      "feedback_incorrect": "Look again at the context and key words."
+    },
+    {
+      "item_id": "C2-M06-L05-P3",
+      "type": "sentence_builder",
+      "prompt": "Build a complete answer for the lesson task.",
+      "word_bank": [
+        "I",
+        "can",
+        "explain",
+        "my",
+        "idea",
+        "clearly",
+        "because"
+      ],
+      "model_answer": "I can explain my idea clearly because I understand diplomacy.",
+      "feedback_correct": "Well done. Your sentence is complete and meaningful.",
+      "feedback_incorrect": "Check that your sentence has a subject, verb and clear meaning."
+    }
+  ],
+  "correct_answers": {
+    "P1": 0,
+    "P2": [
+      "A->meaning A",
+      "B->meaning B",
+      "C->meaning C"
+    ],
+    "P3": "I can explain my idea clearly because I understand diplomacy."
+  },
+  "distractors": [
+    "Wrong tense for rhetorical structure",
+    "Unclear word order",
+    "Answer does not match context",
+    "Too short for the task"
+  ],
+  "instant_feedback": {
+    "correct": "Correct. Continue to the next step.",
+    "partly_correct": "Good start. Check accuracy and add one more detail.",
+    "incorrect": "Try again. Review the model and look at the key language."
+  },
+  "teacher_notes": "Begin with a quick diagnostic question. Model the target form rhetorical structure. Use choral repetition if pronunciation is important. Monitor pair work and record three common errors. Finish with delayed correction and one confidence-building success point.",
+  "homework_task": "Write or record five sentences about diplomacy using language from this lesson.",
+  "assessment_task": {
+    "task_title": "C2 Speaking Check - C2 Review, Capstone and Mastery Assessment",
+    "instructions": "Complete a short speaking task using rhetorical structure and vocabulary from diplomacy.",
+    "success_criteria": [
+      "Uses rhetorical structure with reasonable accuracy",
+      "Uses vocabulary connected to diplomacy",
+      "Completes the communicative purpose",
+      "Responds at the expected CEFR level"
+    ],
+    "pass_score": 70
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "name": "Task achievement",
+        "max": 5,
+        "descriptor": "Completes the communicative purpose."
+      },
+      {
+        "name": "Language control",
+        "max": 5,
+        "descriptor": "Uses rhetorical structure and sentence structure accurately."
+      },
+      {
+        "name": "Vocabulary range",
+        "max": 5,
+        "descriptor": "Uses appropriate words connected to diplomacy."
+      },
+      {
+        "name": "Fluency/coherence",
+        "max": 5,
+        "descriptor": "Organises ideas clearly for the level."
+      }
+    ],
+    "pass_total": 14
+  },
+  "speaking_task": "Speak for 60-120 seconds about diplomacy. Use at least two examples and one reason.",
+  "writing_task": "Write a short C2 response about diplomacy. Include the target language: rhetorical structure.",
+  "listening_audio": {
+    "audio_file": "audio/c2-m06-l05-listening.mp3",
+    "script": "Audio script for C2-M06-L05. Speaker one: Today we are practising diplomacy. Speaker two: I need to use rhetorical structure correctly. Speaker one: Listen carefully and choose the answer that best matches the meaning.",
+    "ssml_file": "data/audio_ssml/c2-m06-l05-listening.ssml"
+  },
+  "visual_activity_cards": [
+    {
+      "card_id": "C2-M06-L05-VC1",
+      "title": "Diplomacy word",
+      "alt_text": "Illustration for diplomacy vocabulary"
+    },
+    {
+      "card_id": "C2-M06-L05-VC2",
+      "title": "Rhetorical Structure form",
+      "alt_text": "Visual grammar card for rhetorical structure"
+    },
+    {
+      "card_id": "C2-M06-L05-VC3",
+      "title": "Speaking task",
+      "alt_text": "Visual task card for speaking"
+    },
+    {
+      "card_id": "C2-M06-L05-VC4",
+      "title": "Success badge",
+      "alt_text": "Star badge showing lesson completion"
+    }
+  ],
+  "downloadables": {
+    "worksheet_pdf": "worksheets/c2-m06-l05-c2-review-capstone-and-mastery-assessment-speaking-lesson-5.pdf",
+    "worksheet_docx": "worksheets/c2-m06-l05-c2-review-capstone-and-mastery-assessment-speaking-lesson-5.docx",
+    "answer_key": "answer_keys/c2-m06-l05-c2-review-capstone-and-mastery-assessment-speaking-lesson-5-answer-key.pdf",
+    "teacher_notes": "teacher_packs/c2-m06-l05-c2-review-capstone-and-mastery-assessment-speaking-lesson-5-teacher-notes.pdf"
+  },
+  "completion_rule": {
+    "required_view_blocks": [
+      "learner_facing_explanation",
+      "examples",
+      "interactive_practice"
+    ],
+    "required_activity_score": 70,
+    "requires_homework_submission": true,
+    "requires_teacher_review": true,
+    "issue_progress_star": true,
+    "unlock_next_lesson": true
+  },
+  "qa_status": "ready_for_editorial_review",
+  "cefr_validation_status": "mapped_pending_external_validation"
+}

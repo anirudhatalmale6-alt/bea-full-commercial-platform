@@ -1,0 +1,4 @@
+import { NextRequest, NextResponse } from 'next/server';
+import { getCurrentUser } from '@/lib/bea-flow/auth';
+import { saveLessonProgress } from '@/lib/bea-flow/flowService';
+export async function POST(req:NextRequest){ const user=await getCurrentUser(req); if(!user) return NextResponse.json({ok:false,error:'AUTH_REQUIRED'},{status:401}); const body=await req.json(); try{ const progress=await saveLessonProgress({learnerUserId:body.learnerUserId ?? user.id, courseId:body.courseId, moduleId:body.moduleId, lessonId:body.lessonId, status:body.status ?? 'in_progress', score:body.score, timeSpentSeconds:body.timeSpentSeconds}); return NextResponse.json({ok:true,progress}); }catch(error){ return NextResponse.json({ok:false,error:error instanceof Error?error.message:'Progress update failed'},{status:400}); } }

@@ -1,0 +1,10 @@
+category,check,owner,status
+Item bank,Every activity has authored items,Developer/Content QA,Ready for implementation QA
+Item bank,Every item has correct answer/distractors where relevant,Developer/Content QA,Ready for implementation QA
+Item bank,Telemetry mapping exists,Developer/Content QA,Ready for implementation QA
+Resources,Every index row has docx/pdf/html/md file paths,Developer/Content QA,Ready for implementation QA
+Resources,Downloads are protected by signed URL when paid,Developer/Content QA,Ready for implementation QA
+Video,Every module has mapping row,Developer/Content QA,Ready for implementation QA
+Video,Captions and transcript templates exist,Developer/Content QA,Ready for implementation QA
+Video,Completion rules include video + quiz + evidence + reflection,Developer/Content QA,Ready for implementation QA
+CDN,CORS/cache/signed URL plan documented,Developer/Content QA,Ready for implementation QA

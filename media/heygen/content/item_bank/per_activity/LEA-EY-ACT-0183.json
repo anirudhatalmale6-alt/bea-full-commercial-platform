@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0183",
+  "title": "Multiplication/Division: Equal Groups And Arrays - Find the Mistake 3",
+  "grade_band": "Grade 3",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can equal groups and arrays through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The contrast are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The contrast are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The contrast is clear.",
+      "distractors": [
+        "Clear the contrast is.",
+        "The contrast clear is.",
+        "The contrast are clear."
+      ],
+      "choices": [
+        "Clear the contrast is.",
+        "The contrast clear is.",
+        "The contrast are clear.",
+        "The contrast is clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The contrast is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The contrast are clear.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The summarise are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The summarise are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The summarise is clear.",
+      "distractors": [
+        "Clear the summarise is.",
+        "The summarise clear is.",
+        "The summarise are clear."
+      ],
+      "choices": [
+        "Clear the summarise is.",
+        "The summarise clear is.",
+        "The summarise are clear.",
+        "The summarise is clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The summarise is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The summarise are clear.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The inference are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The inference are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The inference is clear.",
+      "distractors": [
+        "Clear the inference is.",
+        "The inference clear is.",
+        "The inference are clear."
+      ],
+      "choices": [
+        "Clear the inference is.",
+        "The inference clear is.",
+        "The inference are clear.",
+        "The inference is clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The inference is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The inference are clear.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The purpose are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The purpose are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The purpose is clear.",
+      "distractors": [
+        "The purpose are clear.",
+        "The purpose clear is.",
+        "Clear the purpose is."
+      ],
+      "choices": [
+        "The purpose are clear.",
+        "The purpose clear is.",
+        "The purpose is clear.",
+        "Clear the purpose is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The purpose is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The purpose are clear.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The audience are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The audience are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The audience is clear.",
+      "distractors": [
+        "The audience clear is.",
+        "Clear the audience is.",
+        "The audience are clear."
+      ],
+      "choices": [
+        "The audience is clear.",
+        "The audience clear is.",
+        "Clear the audience is.",
+        "The audience are clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The audience is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The audience are clear.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The strategy are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The strategy are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The strategy is clear.",
+      "distractors": [
+        "Clear the strategy is.",
+        "The strategy clear is.",
+        "The strategy are clear."
+      ],
+      "choices": [
+        "Clear the strategy is.",
+        "The strategy is clear.",
+        "The strategy clear is.",
+        "The strategy are clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The strategy is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The strategy are clear.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The accurate are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The accurate are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The accurate is clear.",
+      "distractors": [
+        "The accurate are clear.",
+        "Clear the accurate is.",
+        "The accurate clear is."
+      ],
+      "choices": [
+        "The accurate is clear.",
+        "The accurate are clear.",
+        "Clear the accurate is.",
+        "The accurate clear is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The accurate is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The accurate are clear.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The fluency are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The fluency are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The fluency is clear.",
+      "distractors": [
+        "The fluency are clear.",
+        "Clear the fluency is.",
+        "The fluency clear is."
+      ],
+      "choices": [
+        "The fluency is clear.",
+        "The fluency are clear.",
+        "Clear the fluency is.",
+        "The fluency clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The fluency is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The fluency are clear.'",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The expression are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The expression are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The expression is clear.",
+      "distractors": [
+        "Clear the expression is.",
+        "The expression are clear.",
+        "The expression clear is."
+      ],
+      "choices": [
+        "Clear the expression is.",
+        "The expression is clear.",
+        "The expression are clear.",
+        "The expression clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The expression is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The expression are clear.'",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0183-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0183",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Multiplication/Division",
+      "skill_code": "EY-GRA-MAT-MUL-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The multiply are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The multiply are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The multiply is clear.",
+      "distractors": [
+        "The multiply clear is.",
+        "Clear the multiply is.",
+        "The multiply are clear."
+      ],
+      "choices": [
+        "The multiply clear is.",
+        "The multiply is clear.",
+        "Clear the multiply is.",
+        "The multiply are clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to equal groups and arrays.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of equal groups and arrays, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0183-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0183-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0183-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The multiply is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The multiply are clear.'",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

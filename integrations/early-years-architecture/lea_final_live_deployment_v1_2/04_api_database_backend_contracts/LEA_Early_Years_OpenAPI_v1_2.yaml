@@ -1,0 +1,237 @@
+openapi: 3.1.0
+info:
+  title: British English Academy Early Years API
+  version: 1.2.0
+  description: Developer-ready REST API contract for BEA Early Years adaptive learning engine.
+servers:
+  - url: https://api.londonenglishacademy.com
+paths:
+  /api/ey/learners/{learnerId}/pathway:
+    get:
+      summary: Get adaptive learner pathway
+      parameters:
+        - $ref: '#/components/parameters/LearnerId'
+      responses:
+        '200':
+          description: Adaptive pathway returned
+  /api/ey/learners/{learnerId}/diagnostics:
+    post:
+      summary: Submit diagnostic event and return placement route
+      parameters:
+        - $ref: '#/components/parameters/LearnerId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/DiagnosticEvent'
+      responses:
+        '201':
+          description: Diagnostic accepted
+  /api/ey/learners/{learnerId}/sessions:
+    post:
+      summary: Start learner game session
+      parameters:
+        - $ref: '#/components/parameters/LearnerId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SessionStartRequest'
+      responses:
+        '201':
+          description: Session created
+  /api/ey/learners/{learnerId}/sessions/{sessionId}/attempts:
+    post:
+      summary: Submit item attempt telemetry
+      parameters:
+        - $ref: '#/components/parameters/LearnerId'
+        - $ref: '#/components/parameters/SessionId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/AttemptEvent'
+      responses:
+        '201':
+          description: Attempt accepted
+  /api/ey/learners/{learnerId}/sessions/{sessionId}/complete:
+    post:
+      summary: Complete learner session and calculate next route
+      parameters:
+        - $ref: '#/components/parameters/LearnerId'
+        - $ref: '#/components/parameters/SessionId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SessionCompleteEvent'
+      responses:
+        '200':
+          description: Session completed
+  /api/ey/classes/{classId}/skills:
+    get:
+      summary: Get class skill heatmap
+      parameters:
+        - $ref: '#/components/parameters/ClassId'
+      responses:
+        '200':
+          description: Class skill heatmap returned
+  /api/ey/classes/{classId}/learners:
+    get:
+      summary: Get learners in class
+      parameters:
+        - $ref: '#/components/parameters/ClassId'
+      responses:
+        '200':
+          description: Class learners returned
+  /api/ey/classes/{classId}/assignments:
+    post:
+      summary: Create class assignment
+      parameters:
+        - $ref: '#/components/parameters/ClassId'
+      responses:
+        '201':
+          description: Assignment created
+  /api/ey/groups/{groupId}/assignments:
+    post:
+      summary: Create group assignment
+      parameters:
+        - $ref: '#/components/parameters/GroupId'
+      responses:
+        '201':
+          description: Assignment created
+  /api/ey/teachers/{teacherId}/groups:
+    post:
+      summary: Create or update teacher group
+      parameters:
+        - $ref: '#/components/parameters/TeacherId'
+      responses:
+        '201':
+          description: Group created or updated
+  /api/ey/teachers/{teacherId}/assignments:
+    get:
+      summary: Get teacher assignment queue
+      parameters:
+        - $ref: '#/components/parameters/TeacherId'
+      responses:
+        '200':
+          description: Assignments returned
+  /api/ey/parents/{parentId}/learners/{learnerId}/summary:
+    get:
+      summary: Get parent-friendly learner summary
+      parameters:
+        - $ref: '#/components/parameters/ParentId'
+        - $ref: '#/components/parameters/LearnerId'
+      responses:
+        '200':
+          description: Parent learner summary returned
+  /api/ey/admin/tenants/{tenantId}/telemetry/schema:
+    get:
+      summary: Get tenant telemetry schema
+      parameters:
+        - $ref: '#/components/parameters/TenantId'
+      responses:
+        '200':
+          description: Telemetry schema returned
+  /api/ey/admin/tenants/{tenantId}/content/coverage:
+    get:
+      summary: Get content coverage report
+      parameters:
+        - $ref: '#/components/parameters/TenantId'
+      responses:
+        '200':
+          description: Content coverage returned
+components:
+  parameters:
+    LearnerId:
+      name: learnerId
+      in: path
+      required: true
+      schema: { type: string }
+    SessionId:
+      name: sessionId
+      in: path
+      required: true
+      schema: { type: string }
+    ClassId:
+      name: classId
+      in: path
+      required: true
+      schema: { type: string }
+    GroupId:
+      name: groupId
+      in: path
+      required: true
+      schema: { type: string }
+    TeacherId:
+      name: teacherId
+      in: path
+      required: true
+      schema: { type: string }
+    ParentId:
+      name: parentId
+      in: path
+      required: true
+      schema: { type: string }
+    TenantId:
+      name: tenantId
+      in: path
+      required: true
+      schema: { type: string }
+  schemas:
+    ErrorType:
+      type: [string, 'null']
+      enum: [phonological_awareness, letter_sound_correspondence, phonemic_blending, cvc_decoding, digraph_decoding, vowel_pattern_confusion, print_concept, sight_word_recognition, fluency_hesitation, listening_comprehension, vocabulary_meaning, sentence_order, number_sequence, one_to_one_counting, quantity_comparison, shape_recognition, operation_strategy, fine_motor_tracing, attention_task_completion, null]
+    DiagnosticEvent:
+      type: object
+      additionalProperties: false
+      required: [activity_id, accuracy, diagnostic_score, prompt_level]
+      properties:
+        activity_id: { type: string }
+        accuracy: { type: number, minimum: 0, maximum: 1 }
+        diagnostic_score: { type: integer, minimum: 0, maximum: 100 }
+        prompt_level: { type: integer, minimum: 0, maximum: 4 }
+        error_type: { $ref: '#/components/schemas/ErrorType' }
+    SessionStartRequest:
+      type: object
+      additionalProperties: false
+      required: [activity_id, activity_version, device, locale]
+      properties:
+        activity_id: { type: string }
+        activity_version: { type: string }
+        device: { type: string, enum: [web, tablet, mobile] }
+        locale: { type: string, default: en-GB }
+        item_seed: { type: string }
+    AttemptEvent:
+      type: object
+      additionalProperties: false
+      required: [activity_id, activity_version, item_id, accuracy, prompt_level, response_time_seconds, baseline_average_response_time_seconds, attempt_count, consecutive_same_error_count, hint_count, audio_replay_count]
+      properties:
+        activity_id: { type: string }
+        activity_version: { type: string }
+        item_id: { type: string }
+        accuracy: { type: number, minimum: 0, maximum: 1 }
+        prompt_level: { type: integer, minimum: 0, maximum: 4 }
+        response_time_seconds: { type: number, minimum: 0 }
+        baseline_average_response_time_seconds: { type: number, minimum: 0 }
+        attempt_count: { type: integer, minimum: 1 }
+        consecutive_same_error_count: { type: integer, minimum: 0 }
+        hint_count: { type: integer, minimum: 0 }
+        audio_replay_count: { type: integer, minimum: 0 }
+        error_type: { $ref: '#/components/schemas/ErrorType' }
+    SessionCompleteEvent:
+      type: object
+      additionalProperties: false
+      required: [activity_id, accuracy, prompt_level, session_spacing_days]
+      properties:
+        activity_id: { type: string }
+        accuracy: { type: number, minimum: 0, maximum: 1 }
+        prompt_level: { type: integer, minimum: 0, maximum: 4 }
+        session_spacing_days: { type: number, minimum: 0 }
+        consecutive_same_error_count: { type: integer, minimum: 0 }
+        error_type: { $ref: '#/components/schemas/ErrorType' }
+        learner_exit_count: { type: integer, minimum: 0 }

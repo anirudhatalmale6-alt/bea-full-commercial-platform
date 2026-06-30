@@ -1,0 +1,146 @@
+[
+  {
+    "cefr": "A1",
+    "skill": "Speaking",
+    "title": "A1 speaking performance prompt",
+    "prompt": "Speak for an appropriate length about a familiar or academic topic at A1 level. Include clear ideas, examples and interaction where possible.",
+    "rubric": {
+      "taskAchievement": 25,
+      "fluency": 25,
+      "grammarAndVocabulary": 25,
+      "pronunciationInteraction": 25
+    }
+  },
+  {
+    "cefr": "A1",
+    "skill": "Writing",
+    "title": "A1 writing performance prompt",
+    "prompt": "Write a text appropriate to A1 level. Organise ideas clearly, use suitable vocabulary and check accuracy.",
+    "rubric": {
+      "taskAchievement": 25,
+      "organisation": 25,
+      "grammarAndVocabulary": 25,
+      "accuracyAndRegister": 25
+    }
+  },
+  {
+    "cefr": "A2",
+    "skill": "Speaking",
+    "title": "A2 speaking performance prompt",
+    "prompt": "Speak for an appropriate length about a familiar or academic topic at A2 level. Include clear ideas, examples and interaction where possible.",
+    "rubric": {
+      "taskAchievement": 25,
+      "fluency": 25,
+      "grammarAndVocabulary": 25,
+      "pronunciationInteraction": 25
+    }
+  },
+  {
+    "cefr": "A2",
+    "skill": "Writing",
+    "title": "A2 writing performance prompt",
+    "prompt": "Write a text appropriate to A2 level. Organise ideas clearly, use suitable vocabulary and check accuracy.",
+    "rubric": {
+      "taskAchievement": 25,
+      "organisation": 25,
+      "grammarAndVocabulary": 25,
+      "accuracyAndRegister": 25
+    }
+  },
+  {
+    "cefr": "B1",
+    "skill": "Speaking",
+    "title": "B1 speaking performance prompt",
+    "prompt": "Speak for an appropriate length about a familiar or academic topic at B1 level. Include clear ideas, examples and interaction where possible.",
+    "rubric": {
+      "taskAchievement": 25,
+      "fluency": 25,
+      "grammarAndVocabulary": 25,
+      "pronunciationInteraction": 25
+    }
+  },
+  {
+    "cefr": "B1",
+    "skill": "Writing",
+    "title": "B1 writing performance prompt",
+    "prompt": "Write a text appropriate to B1 level. Organise ideas clearly, use suitable vocabulary and check accuracy.",
+    "rubric": {
+      "taskAchievement": 25,
+      "organisation": 25,
+      "grammarAndVocabulary": 25,
+      "accuracyAndRegister": 25
+    }
+  },
+  {
+    "cefr": "B2",
+    "skill": "Speaking",
+    "title": "B2 speaking performance prompt",
+    "prompt": "Speak for an appropriate length about a familiar or academic topic at B2 level. Include clear ideas, examples and interaction where possible.",
+    "rubric": {
+      "taskAchievement": 25,
+      "fluency": 25,
+      "grammarAndVocabulary": 25,
+      "pronunciationInteraction": 25
+    }
+  },
+  {
+    "cefr": "B2",
+    "skill": "Writing",
+    "title": "B2 writing performance prompt",
+    "prompt": "Write a text appropriate to B2 level. Organise ideas clearly, use suitable vocabulary and check accuracy.",
+    "rubric": {
+      "taskAchievement": 25,
+      "organisation": 25,
+      "grammarAndVocabulary": 25,
+      "accuracyAndRegister": 25
+    }
+  },
+  {
+    "cefr": "C1",
+    "skill": "Speaking",
+    "title": "C1 speaking performance prompt",
+    "prompt": "Speak for an appropriate length about a familiar or academic topic at C1 level. Include clear ideas, examples and interaction where possible.",
+    "rubric": {
+      "taskAchievement": 25,
+      "fluency": 25,
+      "grammarAndVocabulary": 25,
+      "pronunciationInteraction": 25
+    }
+  },
+  {
+    "cefr": "C1",
+    "skill": "Writing",
+    "title": "C1 writing performance prompt",
+    "prompt": "Write a text appropriate to C1 level. Organise ideas clearly, use suitable vocabulary and check accuracy.",
+    "rubric": {
+      "taskAchievement": 25,
+      "organisation": 25,
+      "grammarAndVocabulary": 25,
+      "accuracyAndRegister": 25
+    }
+  },
+  {
+    "cefr": "C2",
+    "skill": "Speaking",
+    "title": "C2 speaking performance prompt",
+    "prompt": "Speak for an appropriate length about a familiar or academic topic at C2 level. Include clear ideas, examples and interaction where possible.",
+    "rubric": {
+      "taskAchievement": 25,
+      "fluency": 25,
+      "grammarAndVocabulary": 25,
+      "pronunciationInteraction": 25
+    }
+  },
+  {
+    "cefr": "C2",
+    "skill": "Writing",
+    "title": "C2 writing performance prompt",
+    "prompt": "Write a text appropriate to C2 level. Organise ideas clearly, use suitable vocabulary and check accuracy.",
+    "rubric": {
+      "taskAchievement": 25,
+      "organisation": 25,
+      "grammarAndVocabulary": 25,
+      "accuracyAndRegister": 25
+    }
+  }
+]

@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0131",
+  "title": "Fluency: Accuracy, Rate And Phrasing - Blend Builder 3",
+  "grade_band": "Grade 2",
+  "mechanic": "Blend Builder",
+  "learning_goal": "Learner can accuracy, rate and phrasing through a short guided blend builder activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in listen: l-i-s-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in listen: l-i-s-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "listen",
+      "distractors": [
+        "detail",
+        "measure",
+        "example"
+      ],
+      "choices": [
+        "detail",
+        "measure",
+        "listen",
+        "example"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for listen",
+        "caption_text": "Blend the sounds in listen: l-i-s-t. What word do you hear?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in record: r-e-c-o. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in record: r-e-c-o. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "record",
+      "distractors": [
+        "describe",
+        "sentence",
+        "question"
+      ],
+      "choices": [
+        "describe",
+        "sentence",
+        "question",
+        "record"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for record",
+        "caption_text": "Blend the sounds in record: r-e-c-o. What word do you hear?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in sentence: s-e-n-t. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in sentence: s-e-n-t. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "sentence",
+      "distractors": [
+        "predict",
+        "record",
+        "example"
+      ],
+      "choices": [
+        "predict",
+        "sentence",
+        "record",
+        "example"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for sentence",
+        "caption_text": "Blend the sounds in sentence: s-e-n-t. What word do you hear?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in paragraph: p-a-r-a. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in paragraph: p-a-r-a. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "paragraph",
+      "distractors": [
+        "measure",
+        "example",
+        "listen"
+      ],
+      "choices": [
+        "measure",
+        "paragraph",
+        "example",
+        "listen"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for paragraph",
+        "caption_text": "Blend the sounds in paragraph: p-a-r-a. What word do you hear?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in topic: t-o-p-i. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in topic: t-o-p-i. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "topic",
+      "distractors": [
+        "explain",
+        "measure",
+        "pattern"
+      ],
+      "choices": [
+        "explain",
+        "measure",
+        "topic",
+        "pattern"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for topic",
+        "caption_text": "Blend the sounds in topic: t-o-p-i. What word do you hear?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in detail: d-e-t-a. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in detail: d-e-t-a. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "detail",
+      "distractors": [
+        "evidence",
+        "explain",
+        "problem"
+      ],
+      "choices": [
+        "evidence",
+        "explain",
+        "detail",
+        "problem"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for detail",
+        "caption_text": "Blend the sounds in detail: d-e-t-a. What word do you hear?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in reason: r-e-a-s. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in reason: r-e-a-s. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "reason",
+      "distractors": [
+        "solution",
+        "predict",
+        "paragraph"
+      ],
+      "choices": [
+        "solution",
+        "predict",
+        "reason",
+        "paragraph"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for reason",
+        "caption_text": "Blend the sounds in reason: r-e-a-s. What word do you hear?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in example: e-x-a-m. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in example: e-x-a-m. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "example",
+      "distractors": [
+        "problem",
+        "question",
+        "reason"
+      ],
+      "choices": [
+        "example",
+        "problem",
+        "question",
+        "reason"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for example",
+        "caption_text": "Blend the sounds in example: e-x-a-m. What word do you hear?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in compare: c-o-m-p. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in compare: c-o-m-p. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "compare",
+      "distractors": [
+        "explain",
+        "record",
+        "evidence"
+      ],
+      "choices": [
+        "explain",
+        "record",
+        "evidence",
+        "compare"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for compare",
+        "caption_text": "Blend the sounds in compare: c-o-m-p. What word do you hear?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0131-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0131",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Fluency",
+      "skill_code": "EY-GRA-LIT-FLU-03",
+      "mechanic": "Blend Builder",
+      "prompt_text": "Blend the sounds in explain: e-x-p-l. What word do you hear?",
+      "prompt_audio_text": "Listen to the sounds and blend them into a word. Blend the sounds in explain: e-x-p-l. What word do you hear?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "explain",
+      "distractors": [
+        "sentence",
+        "answer",
+        "problem"
+      ],
+      "choices": [
+        "sentence",
+        "answer",
+        "explain",
+        "problem"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to accuracy, rate and phrasing.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of accuracy, rate and phrasing, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0131-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0131-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0131-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for explain",
+        "caption_text": "Blend the sounds in explain: e-x-p-l. What word do you hear?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

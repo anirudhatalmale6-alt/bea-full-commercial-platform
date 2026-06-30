@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0028",
+  "title": "Shapes: Circle, Square, Triangle, Rectangle - Find the Mistake 4",
+  "grade_band": "Pre-K",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can circle, square, triangle, rectangle through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0028-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0028",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Shapes",
+      "skill_code": "EY-PRE-MAT-SHA-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an red.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an red.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a red.",
+      "distractors": [
+        "I see an red.",
+        "Clear the red is.",
+        "The red clear is."
+      ],
+      "choices": [
+        "I see an red.",
+        "Clear the red is.",
+        "I see a red.",
+        "The red clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to circle, square, triangle, rectangle.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of circle, square, triangle, rectangle, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0028-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0028-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0028-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a red.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an red.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0028-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0028",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Shapes",
+      "skill_code": "EY-PRE-MAT-SHA-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an big.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an big.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a big.",
+      "distractors": [
+        "Clear the big is.",
+        "The big clear is.",
+        "I see an big."
+      ],
+      "choices": [
+        "Clear the big is.",
+        "The big clear is.",
+        "I see an big.",
+        "I see a big."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to circle, square, triangle, rectangle.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of circle, square, triangle, rectangle, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0028-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0028-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0028-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a big.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an big.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0028-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0028",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Shapes",
+      "skill_code": "EY-PRE-MAT-SHA-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a sit.",
+      "distractors": [
+        "I see an sit.",
+        "The sit clear is.",
+        "Clear the sit is."
+      ],
+      "choices": [
+        "I see an sit.",
+        "The sit clear is.",
+        "I see a sit.",
+        "Clear the sit is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to circle, square, triangle, rectangle.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of circle, square, triangle, rectangle, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0028-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0028-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0028-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a sit.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an sit.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0028-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0028",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Shapes",
+      "skill_code": "EY-PRE-MAT-SHA-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an run.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an run.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a run.",
+      "distractors": [
+        "I see an run.",
+        "The run clear is.",
+        "Clear the run is."
+      ],
+      "choices": [
+        "I see an run.",
+        "I see a run.",
+        "The run clear is.",
+        "Clear the run is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to circle, square, triangle, rectangle.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of circle, square, triangle, rectangle, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0028-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0028-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0028-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a run.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an run.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0028-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0028",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Shapes",
+      "skill_code": "EY-PRE-MAT-SHA-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a hop.",
+      "distractors": [
+        "The hop clear is.",
+        "Clear the hop is.",
+        "I see an hop."
+      ],
+      "choices": [
+        "The hop clear is.",
+        "Clear the hop is.",
+        "I see a hop.",
+        "I see an hop."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to circle, square, triangle, rectangle.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of circle, square, triangle, rectangle, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0028-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0028-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0028-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a hop.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0028-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0028",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Shapes",
+      "skill_code": "EY-PRE-MAT-SHA-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an tap.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an tap.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a tap.",
+      "distractors": [
+        "The tap clear is.",
+        "Clear the tap is.",
+        "I see an tap."
+      ],
+      "choices": [
+        "The tap clear is.",
+        "I see a tap.",
+        "Clear the tap is.",
+        "I see an tap."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to circle, square, triangle, rectangle.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of circle, square, triangle, rectangle, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0028-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0028-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0028-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a tap.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an tap.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0028-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0028",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Shapes",
+      "skill_code": "EY-PRE-MAT-SHA-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an map.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an map.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a map.",
+      "distractors": [
+        "I see an map.",
+        "The map clear is.",
+        "Clear the map is."
+      ],
+      "choices": [
+        "I see a map.",
+        "I see an map.",
+        "The map clear is.",
+        "Clear the map is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to circle, square, triangle, rectangle.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of circle, square, triangle, rectangle, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0028-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0028-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0028-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a map.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an map.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0028-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0028",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Shapes",
+      "skill_code": "EY-PRE-MAT-SHA-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a jam.",
+      "distractors": [
+        "I see an jam.",
+        "Clear the jam is.",
+        "The jam clear is."
+      ],
+      "choices": [
+        "I see an jam.",
+        "I see a jam.",
+        "Clear the jam is.",
+        "The jam clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to circle, square, triangle, rectangle.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of circle, square, triangle, rectangle, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0028-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0028-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0028-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a jam.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,854 @@
+{
+  "platform": "British English Academy",
+  "purpose": "Adaptive curriculum routing rules for CEFR courses and early structured literacy pathway",
+  "global_thresholds": {
+    "intensive_support": 49,
+    "guided_practice": 69,
+    "targeted_review": 79,
+    "mastery": 80,
+    "extension": 90
+  },
+  "productive_skill_note": "Speaking and writing require rubric evidence in addition to quiz scores.",
+  "rules": [
+    {
+      "rule_id": "RULE-A1-M01",
+      "level": "A1",
+      "skill_tags": [
+        "be / have got",
+        "give personal information",
+        "Identity, goals and learner profile"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M02",
+      "level": "A1",
+      "skill_tags": [
+        "present simple",
+        "ask and answer simple questions",
+        "Family, community and relationships"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M03",
+      "level": "A1",
+      "skill_tags": [
+        "there is / there are",
+        "describe people and things",
+        "School, study and work"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M04",
+      "level": "A1",
+      "skill_tags": [
+        "can for ability",
+        "follow simple classroom instructions",
+        "Home, city and daily life"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M05",
+      "level": "A1",
+      "skill_tags": [
+        "imperatives",
+        "make simple choices",
+        "Food, health and wellbeing"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M06",
+      "level": "A1",
+      "skill_tags": [
+        "basic prepositions",
+        "read short notices",
+        "Travel, cultures and the wider world"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M07",
+      "level": "A1",
+      "skill_tags": [
+        "countable/uncountable nouns",
+        "write short messages",
+        "Media, technology and digital citizenship"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M08",
+      "level": "A1",
+      "skill_tags": [
+        "like + noun/verb-ing",
+        "listen for key words",
+        "Stories, literature and creative expression"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M09",
+      "level": "A1",
+      "skill_tags": [
+        "past simple of be",
+        "speak in rehearsed exchanges",
+        "Problems, solutions and critical thinking"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A1-M10",
+      "level": "A1",
+      "skill_tags": [
+        "review",
+        "show progress",
+        "Portfolio project and progress review"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M01",
+      "level": "A2",
+      "skill_tags": [
+        "present continuous vs present simple",
+        "describe routines and past events",
+        "Identity, goals and learner profile"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M02",
+      "level": "A2",
+      "skill_tags": [
+        "past simple regular/irregular",
+        "make plans",
+        "Family, community and relationships"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M03",
+      "level": "A2",
+      "skill_tags": [
+        "future with going to",
+        "ask for help",
+        "School, study and work"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M04",
+      "level": "A2",
+      "skill_tags": [
+        "comparatives/superlatives",
+        "give advice",
+        "Home, city and daily life"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M05",
+      "level": "A2",
+      "skill_tags": [
+        "modals should/must/have to",
+        "compare options",
+        "Food, health and wellbeing"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M06",
+      "level": "A2",
+      "skill_tags": [
+        "quantifiers",
+        "explain simple reasons",
+        "Travel, cultures and the wider world"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M07",
+      "level": "A2",
+      "skill_tags": [
+        "object pronouns",
+        "write emails and forms",
+        "Media, technology and digital citizenship"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M08",
+      "level": "A2",
+      "skill_tags": [
+        "adverbs of frequency/manner",
+        "understand short talks",
+        "Stories, literature and creative expression"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M09",
+      "level": "A2",
+      "skill_tags": [
+        "because/so/but/although",
+        "take part in role plays",
+        "Problems, solutions and critical thinking"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-A2-M10",
+      "level": "A2",
+      "skill_tags": [
+        "review",
+        "complete a practical project",
+        "Portfolio project and progress review"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M01",
+      "level": "B1",
+      "skill_tags": [
+        "present perfect for experience",
+        "express opinions",
+        "Identity, goals and learner profile"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M02",
+      "level": "B1",
+      "skill_tags": [
+        "past continuous and narrative tenses",
+        "tell stories",
+        "Family, community and relationships"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M03",
+      "level": "B1",
+      "skill_tags": [
+        "will/going to/present continuous for future",
+        "summarise information",
+        "School, study and work"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M04",
+      "level": "B1",
+      "skill_tags": [
+        "first and second conditional",
+        "give reasons and examples",
+        "Home, city and daily life"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M05",
+      "level": "B1",
+      "skill_tags": [
+        "relative clauses",
+        "handle travel and service situations",
+        "Food, health and wellbeing"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M06",
+      "level": "B1",
+      "skill_tags": [
+        "passive voice present/past",
+        "write connected paragraphs",
+        "Travel, cultures and the wider world"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M07",
+      "level": "B1",
+      "skill_tags": [
+        "reported speech basics",
+        "take part in discussions",
+        "Media, technology and digital citizenship"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M08",
+      "level": "B1",
+      "skill_tags": [
+        "modals of deduction/advice",
+        "respond to problems",
+        "Stories, literature and creative expression"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M09",
+      "level": "B1",
+      "skill_tags": [
+        "linking devices",
+        "present a topic",
+        "Problems, solutions and critical thinking"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B1-M10",
+      "level": "B1",
+      "skill_tags": [
+        "review",
+        "build a portfolio",
+        "Portfolio project and progress review"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M01",
+      "level": "B2",
+      "skill_tags": [
+        "perfect and continuous aspect review",
+        "argue a point",
+        "Identity, goals and learner profile"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M02",
+      "level": "B2",
+      "skill_tags": [
+        "advanced conditionals",
+        "evaluate sources",
+        "Family, community and relationships"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M03",
+      "level": "B2",
+      "skill_tags": [
+        "passive reporting structures",
+        "synthesise information",
+        "School, study and work"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M04",
+      "level": "B2",
+      "skill_tags": [
+        "participle clauses",
+        "negotiate and collaborate",
+        "Home, city and daily life"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M05",
+      "level": "B2",
+      "skill_tags": [
+        "cleft sentences and emphasis",
+        "write reports and essays",
+        "Food, health and wellbeing"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M06",
+      "level": "B2",
+      "skill_tags": [
+        "advanced relative clauses",
+        "give presentations",
+        "Travel, cultures and the wider world"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M07",
+      "level": "B2",
+      "skill_tags": [
+        "substitution and ellipsis",
+        "interpret tone",
+        "Media, technology and digital citizenship"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M08",
+      "level": "B2",
+      "skill_tags": [
+        "modality and hedging",
+        "use evidence",
+        "Stories, literature and creative expression"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M09",
+      "level": "B2",
+      "skill_tags": [
+        "discourse markers",
+        "debate solutions",
+        "Problems, solutions and critical thinking"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-B2-M10",
+      "level": "B2",
+      "skill_tags": [
+        "review",
+        "complete an extended project",
+        "Portfolio project and progress review"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M01",
+      "level": "C1",
+      "skill_tags": [
+        "nominalisation",
+        "adapt register",
+        "Identity, goals and learner profile"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M02",
+      "level": "C1",
+      "skill_tags": [
+        "advanced modality and stance",
+        "sustain academic discussion",
+        "Family, community and relationships"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M03",
+      "level": "C1",
+      "skill_tags": [
+        "inversion",
+        "write persuasive analysis",
+        "School, study and work"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M04",
+      "level": "C1",
+      "skill_tags": [
+        "complex noun phrases",
+        "moderate debate",
+        "Home, city and daily life"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M05",
+      "level": "C1",
+      "skill_tags": [
+        "register shifts",
+        "summarise complex texts",
+        "Food, health and wellbeing"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M06",
+      "level": "C1",
+      "skill_tags": [
+        "concession and counterargument",
+        "critique arguments",
+        "Travel, cultures and the wider world"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M07",
+      "level": "C1",
+      "skill_tags": [
+        "advanced reporting verbs",
+        "deliver professional presentations",
+        "Media, technology and digital citizenship"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M08",
+      "level": "C1",
+      "skill_tags": [
+        "cohesion and paragraph flow",
+        "edit for precision",
+        "Stories, literature and creative expression"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M09",
+      "level": "C1",
+      "skill_tags": [
+        "syntax for emphasis",
+        "mentor peers",
+        "Problems, solutions and critical thinking"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C1-M10",
+      "level": "C1",
+      "skill_tags": [
+        "review",
+        "publish a polished product",
+        "Portfolio project and progress review"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M01",
+      "level": "C2",
+      "skill_tags": [
+        "precision, ambiguity and nuance",
+        "shape nuanced arguments",
+        "Identity, goals and learner profile"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M02",
+      "level": "C2",
+      "skill_tags": [
+        "rhetorical patterning",
+        "write in multiple genres",
+        "Family, community and relationships"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M03",
+      "level": "C2",
+      "skill_tags": [
+        "idiomaticity and collocation",
+        "control irony and implication",
+        "School, study and work"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M04",
+      "level": "C2",
+      "skill_tags": [
+        "tone management",
+        "mediate complex meaning",
+        "Home, city and daily life"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M05",
+      "level": "C2",
+      "skill_tags": [
+        "stylistic parallelism",
+        "interpret dense texts",
+        "Food, health and wellbeing"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M06",
+      "level": "C2",
+      "skill_tags": [
+        "advanced editing",
+        "deliver authoritative presentations",
+        "Travel, cultures and the wider world"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M07",
+      "level": "C2",
+      "skill_tags": [
+        "genre manipulation",
+        "advise on language choices",
+        "Media, technology and digital citizenship"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M08",
+      "level": "C2",
+      "skill_tags": [
+        "high-level argument syntax",
+        "produce publishable work",
+        "Stories, literature and creative expression"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M09",
+      "level": "C2",
+      "skill_tags": [
+        "voice and persona",
+        "lead seminars",
+        "Problems, solutions and critical thinking"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    },
+    {
+      "rule_id": "RULE-C2-M10",
+      "level": "C2",
+      "skill_tags": [
+        "review",
+        "defend a capstone project",
+        "Portfolio project and progress review"
+      ],
+      "trigger": "module diagnostic or activity score below threshold",
+      "mastery_threshold": 80,
+      "action": "assign remediation mini-lesson and repeat skill check",
+      "extension_threshold": 90,
+      "extension_action": "unlock challenge task and portfolio evidence"
+    }
+  ]
+}

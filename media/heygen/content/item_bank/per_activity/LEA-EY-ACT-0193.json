@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0193",
+  "title": "Data: Scaled Graphs - Listen and Choose 1",
+  "grade_band": "Grade 3",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can scaled graphs through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: divide.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: divide.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "divide",
+      "distractors": [
+        "audience",
+        "analyse",
+        "purpose"
+      ],
+      "choices": [
+        "audience",
+        "analyse",
+        "divide",
+        "purpose"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for divide",
+        "caption_text": "Choose the best answer for scaled graphs: divide.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: fraction.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: fraction.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "fraction",
+      "distractors": [
+        "audience",
+        "divide",
+        "reflect"
+      ],
+      "choices": [
+        "audience",
+        "divide",
+        "reflect",
+        "fraction"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for fraction",
+        "caption_text": "Choose the best answer for scaled graphs: fraction.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: estimate.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: estimate.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "estimate",
+      "distractors": [
+        "audience",
+        "multiply",
+        "improve"
+      ],
+      "choices": [
+        "audience",
+        "multiply",
+        "improve",
+        "estimate"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for estimate",
+        "caption_text": "Choose the best answer for scaled graphs: estimate.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: analyse.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: analyse.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "analyse",
+      "distractors": [
+        "estimate",
+        "opinion",
+        "fluency"
+      ],
+      "choices": [
+        "estimate",
+        "opinion",
+        "analyse",
+        "fluency"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for analyse",
+        "caption_text": "Choose the best answer for scaled graphs: analyse.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: reflect.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: reflect.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "reflect",
+      "distractors": [
+        "divide",
+        "accurate",
+        "analyse"
+      ],
+      "choices": [
+        "divide",
+        "accurate",
+        "analyse",
+        "reflect"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for reflect",
+        "caption_text": "Choose the best answer for scaled graphs: reflect.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: improve.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: improve.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "improve",
+      "distractors": [
+        "evidence",
+        "argument",
+        "purpose"
+      ],
+      "choices": [
+        "evidence",
+        "argument",
+        "improve",
+        "purpose"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for improve",
+        "caption_text": "Choose the best answer for scaled graphs: improve.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: argument.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: argument.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "argument",
+      "distractors": [
+        "inference",
+        "accurate",
+        "fluency"
+      ],
+      "choices": [
+        "inference",
+        "accurate",
+        "fluency",
+        "argument"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for argument",
+        "caption_text": "Choose the best answer for scaled graphs: argument.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: opinion.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: opinion.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "opinion",
+      "distractors": [
+        "argument",
+        "estimate",
+        "divide"
+      ],
+      "choices": [
+        "argument",
+        "opinion",
+        "estimate",
+        "divide"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for opinion",
+        "caption_text": "Choose the best answer for scaled graphs: opinion.",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: evidence.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: evidence.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "evidence",
+      "distractors": [
+        "audience",
+        "fluency",
+        "estimate"
+      ],
+      "choices": [
+        "audience",
+        "fluency",
+        "estimate",
+        "evidence"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for evidence",
+        "caption_text": "Choose the best answer for scaled graphs: evidence.",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0193-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0193",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-01",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for scaled graphs: conclusion.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for scaled graphs: conclusion.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "conclusion",
+      "distractors": [
+        "fraction",
+        "contrast",
+        "improve"
+      ],
+      "choices": [
+        "fraction",
+        "contrast",
+        "improve",
+        "conclusion"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to scaled graphs.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of scaled graphs, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0193-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0193-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0193-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for conclusion",
+        "caption_text": "Choose the best answer for scaled graphs: conclusion.",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

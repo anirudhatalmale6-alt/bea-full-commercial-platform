@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0199",
+  "title": "Geometry: Attributes And Quadrilaterals - Trace and Say 3",
+  "grade_band": "Grade 3",
+  "mechanic": "Trace and Say",
+  "learning_goal": "Learner can attributes and quadrilaterals through a short guided trace and say activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'argument', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'argument', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "argument",
+      "distractors": [
+        "divide",
+        "improve",
+        "strategy"
+      ],
+      "choices": [
+        "argument",
+        "divide",
+        "improve",
+        "strategy"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for argument",
+        "caption_text": "Trace the word 'argument', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'opinion', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'opinion', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "opinion",
+      "distractors": [
+        "evidence",
+        "purpose",
+        "improve"
+      ],
+      "choices": [
+        "evidence",
+        "purpose",
+        "opinion",
+        "improve"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for opinion",
+        "caption_text": "Trace the word 'opinion', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'evidence', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'evidence', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "evidence",
+      "distractors": [
+        "purpose",
+        "divide",
+        "summarise"
+      ],
+      "choices": [
+        "purpose",
+        "evidence",
+        "divide",
+        "summarise"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for evidence",
+        "caption_text": "Trace the word 'evidence', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'conclusion', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'conclusion', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "conclusion",
+      "distractors": [
+        "inference",
+        "evidence",
+        "accurate"
+      ],
+      "choices": [
+        "inference",
+        "evidence",
+        "accurate",
+        "conclusion"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for conclusion",
+        "caption_text": "Trace the word 'conclusion', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'contrast', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'contrast', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "contrast",
+      "distractors": [
+        "multiply",
+        "strategy",
+        "opinion"
+      ],
+      "choices": [
+        "contrast",
+        "multiply",
+        "strategy",
+        "opinion"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for contrast",
+        "caption_text": "Trace the word 'contrast', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'summarise', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'summarise', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "summarise",
+      "distractors": [
+        "improve",
+        "estimate",
+        "fraction"
+      ],
+      "choices": [
+        "summarise",
+        "improve",
+        "estimate",
+        "fraction"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for summarise",
+        "caption_text": "Trace the word 'summarise', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'inference', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'inference', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "inference",
+      "distractors": [
+        "multiply",
+        "argument",
+        "strategy"
+      ],
+      "choices": [
+        "multiply",
+        "inference",
+        "argument",
+        "strategy"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for inference",
+        "caption_text": "Trace the word 'inference', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'purpose', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'purpose', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "purpose",
+      "distractors": [
+        "evidence",
+        "improve",
+        "expression"
+      ],
+      "choices": [
+        "evidence",
+        "purpose",
+        "improve",
+        "expression"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for purpose",
+        "caption_text": "Trace the word 'purpose', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'audience', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'audience', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "audience",
+      "distractors": [
+        "evidence",
+        "reflect",
+        "strategy"
+      ],
+      "choices": [
+        "evidence",
+        "reflect",
+        "strategy",
+        "audience"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for audience",
+        "caption_text": "Trace the word 'audience', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0199-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0199",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Geometry",
+      "skill_code": "EY-GRA-MAT-GEO-03",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'strategy', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'strategy', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "strategy",
+      "distractors": [
+        "improve",
+        "purpose",
+        "expression"
+      ],
+      "choices": [
+        "strategy",
+        "improve",
+        "purpose",
+        "expression"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to attributes and quadrilaterals.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of attributes and quadrilaterals, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0199-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0199-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0199-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for strategy",
+        "caption_text": "Trace the word 'strategy', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

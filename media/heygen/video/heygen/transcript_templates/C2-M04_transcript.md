@@ -1,0 +1,3 @@
+# Transcript
+
+Welcome to British English Academy C2-M04: Home, city and daily life. Learners practise mediate complex meaning through places, transport, directions, services, everyday problems. The teacher models tone management, introduces vocabulary such as rooms, furniture, transport, maps, services, then learners complete quiz, evidence upload and reflection.

@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0012",
+  "title": "Phonological Awareness: Rhyme And Syllable Awareness - Find the Mistake 4",
+  "grade_band": "Pre-K",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can rhyme and syllable awareness through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0012-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0012",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a hop.",
+      "distractors": [
+        "Clear the hop is.",
+        "I see an hop.",
+        "The hop clear is."
+      ],
+      "choices": [
+        "Clear the hop is.",
+        "I see a hop.",
+        "I see an hop.",
+        "The hop clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0012-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0012-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0012-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a hop.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an hop.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0012-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0012",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an tap.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an tap.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a tap.",
+      "distractors": [
+        "Clear the tap is.",
+        "The tap clear is.",
+        "I see an tap."
+      ],
+      "choices": [
+        "Clear the tap is.",
+        "I see a tap.",
+        "The tap clear is.",
+        "I see an tap."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0012-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0012-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0012-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a tap.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an tap.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0012-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0012",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an map.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an map.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a map.",
+      "distractors": [
+        "The map clear is.",
+        "Clear the map is.",
+        "I see an map."
+      ],
+      "choices": [
+        "The map clear is.",
+        "Clear the map is.",
+        "I see an map.",
+        "I see a map."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0012-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0012-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0012-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a map.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an map.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0012-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0012",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a jam.",
+      "distractors": [
+        "The jam clear is.",
+        "I see an jam.",
+        "Clear the jam is."
+      ],
+      "choices": [
+        "I see a jam.",
+        "The jam clear is.",
+        "I see an jam.",
+        "Clear the jam is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0012-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0012-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0012-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a jam.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an jam.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0012-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0012",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an bed.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an bed.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a bed.",
+      "distractors": [
+        "Clear the bed is.",
+        "The bed clear is.",
+        "I see an bed."
+      ],
+      "choices": [
+        "Clear the bed is.",
+        "The bed clear is.",
+        "I see a bed.",
+        "I see an bed."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0012-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0012-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0012-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a bed.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an bed.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0012-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0012",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an bus.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an bus.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a bus.",
+      "distractors": [
+        "Clear the bus is.",
+        "I see an bus.",
+        "The bus clear is."
+      ],
+      "choices": [
+        "Clear the bus is.",
+        "I see a bus.",
+        "I see an bus.",
+        "The bus clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0012-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0012-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0012-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a bus.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an bus.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0012-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0012",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an fox.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an fox.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a fox.",
+      "distractors": [
+        "I see an fox.",
+        "Clear the fox is.",
+        "The fox clear is."
+      ],
+      "choices": [
+        "I see a fox.",
+        "I see an fox.",
+        "Clear the fox is.",
+        "The fox clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0012-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0012-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0012-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a fox.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an fox.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0012-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0012",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Phonological Awareness",
+      "skill_code": "EY-PRE-LIT-PHO-04",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an sun.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an sun.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a sun.",
+      "distractors": [
+        "I see an sun.",
+        "Clear the sun is.",
+        "The sun clear is."
+      ],
+      "choices": [
+        "I see an sun.",
+        "Clear the sun is.",
+        "I see a sun.",
+        "The sun clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to rhyme and syllable awareness.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of rhyme and syllable awareness, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0012-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0012-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0012-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a sun.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an sun.'",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

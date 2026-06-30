@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0079",
+  "title": "Data: Classify And Count Categories - Listen and Choose 3",
+  "grade_band": "Kindergarten",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can classify and count categories through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0079-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0079",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Data",
+      "skill_code": "EY-KIN-MAT-DAT-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for classify and count categories: ship.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for classify and count categories: ship.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "ship",
+      "distractors": [
+        "thin",
+        "fish",
+        "then"
+      ],
+      "choices": [
+        "thin",
+        "fish",
+        "ship",
+        "then"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to classify and count categories.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of classify and count categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0079-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0079-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0079-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for ship",
+        "caption_text": "Choose the best answer for classify and count categories: ship.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0079-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0079",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Data",
+      "skill_code": "EY-KIN-MAT-DAT-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for classify and count categories: fish.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for classify and count categories: fish.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "fish",
+      "distractors": [
+        "brown",
+        "rain",
+        "smile"
+      ],
+      "choices": [
+        "brown",
+        "rain",
+        "smile",
+        "fish"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to classify and count categories.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of classify and count categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0079-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0079-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0079-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for fish",
+        "caption_text": "Choose the best answer for classify and count categories: fish.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0079-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0079",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Data",
+      "skill_code": "EY-KIN-MAT-DAT-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for classify and count categories: shop.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for classify and count categories: shop.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "shop",
+      "distractors": [
+        "that",
+        "play",
+        "green"
+      ],
+      "choices": [
+        "that",
+        "play",
+        "green",
+        "shop"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to classify and count categories.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of classify and count categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0079-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0079-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0079-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for shop",
+        "caption_text": "Choose the best answer for classify and count categories: shop.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0079-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0079",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Data",
+      "skill_code": "EY-KIN-MAT-DAT-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for classify and count categories: chin.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for classify and count categories: chin.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "chin",
+      "distractors": [
+        "moon",
+        "thin",
+        "train"
+      ],
+      "choices": [
+        "moon",
+        "chin",
+        "thin",
+        "train"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to classify and count categories.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of classify and count categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0079-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0079-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0079-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for chin",
+        "caption_text": "Choose the best answer for classify and count categories: chin.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0079-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0079",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Data",
+      "skill_code": "EY-KIN-MAT-DAT-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for classify and count categories: thin.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for classify and count categories: thin.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "thin",
+      "distractors": [
+        "that",
+        "shop",
+        "train"
+      ],
+      "choices": [
+        "that",
+        "shop",
+        "train",
+        "thin"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to classify and count categories.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of classify and count categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0079-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0079-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0079-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for thin",
+        "caption_text": "Choose the best answer for classify and count categories: thin.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0079-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0079",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Data",
+      "skill_code": "EY-KIN-MAT-DAT-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for classify and count categories: that.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for classify and count categories: that.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "that",
+      "distractors": [
+        "book",
+        "then",
+        "thin"
+      ],
+      "choices": [
+        "that",
+        "book",
+        "then",
+        "thin"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to classify and count categories.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of classify and count categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0079-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0079-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0079-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for that",
+        "caption_text": "Choose the best answer for classify and count categories: that.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0079-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0079",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Data",
+      "skill_code": "EY-KIN-MAT-DAT-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for classify and count categories: this.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for classify and count categories: this.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "this",
+      "distractors": [
+        "thin",
+        "shop",
+        "chin"
+      ],
+      "choices": [
+        "thin",
+        "shop",
+        "chin",
+        "this"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to classify and count categories.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of classify and count categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0079-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0079-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0079-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for this",
+        "caption_text": "Choose the best answer for classify and count categories: this.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0079-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0079",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Data",
+      "skill_code": "EY-KIN-MAT-DAT-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for classify and count categories: then.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for classify and count categories: then.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "then",
+      "distractors": [
+        "moon",
+        "thin",
+        "play"
+      ],
+      "choices": [
+        "moon",
+        "then",
+        "thin",
+        "play"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to classify and count categories.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of classify and count categories, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0079-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0079-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0079-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for then",
+        "caption_text": "Choose the best answer for classify and count categories: then.",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

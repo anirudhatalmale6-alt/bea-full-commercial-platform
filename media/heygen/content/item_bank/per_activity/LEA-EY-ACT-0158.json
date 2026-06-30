@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0158",
+  "title": "Data: Graphs And Word Problems - Trace and Say 2",
+  "grade_band": "Grade 2",
+  "mechanic": "Trace and Say",
+  "learning_goal": "Learner can graphs and word problems through a short guided trace and say activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'example', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'example', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "example",
+      "distractors": [
+        "paragraph",
+        "compare",
+        "solution"
+      ],
+      "choices": [
+        "example",
+        "paragraph",
+        "compare",
+        "solution"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for example",
+        "caption_text": "Trace the word 'example', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'compare', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'compare', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "compare",
+      "distractors": [
+        "topic",
+        "answer",
+        "detail"
+      ],
+      "choices": [
+        "compare",
+        "topic",
+        "answer",
+        "detail"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for compare",
+        "caption_text": "Trace the word 'compare', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'explain', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'explain', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "explain",
+      "distractors": [
+        "predict",
+        "measure",
+        "answer"
+      ],
+      "choices": [
+        "predict",
+        "measure",
+        "explain",
+        "answer"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for explain",
+        "caption_text": "Trace the word 'explain', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'describe', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'describe', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "describe",
+      "distractors": [
+        "evidence",
+        "question",
+        "explain"
+      ],
+      "choices": [
+        "describe",
+        "evidence",
+        "question",
+        "explain"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for describe",
+        "caption_text": "Trace the word 'describe', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'predict', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'predict', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "predict",
+      "distractors": [
+        "measure",
+        "answer",
+        "sentence"
+      ],
+      "choices": [
+        "measure",
+        "answer",
+        "predict",
+        "sentence"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for predict",
+        "caption_text": "Trace the word 'predict', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'support', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'support', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "support",
+      "distractors": [
+        "measure",
+        "evidence",
+        "predict"
+      ],
+      "choices": [
+        "measure",
+        "evidence",
+        "predict",
+        "support"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for support",
+        "caption_text": "Trace the word 'support', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'evidence', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'evidence', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "evidence",
+      "distractors": [
+        "measure",
+        "reason",
+        "topic"
+      ],
+      "choices": [
+        "measure",
+        "reason",
+        "evidence",
+        "topic"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for evidence",
+        "caption_text": "Trace the word 'evidence', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'measure', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'measure', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "measure",
+      "distractors": [
+        "answer",
+        "listen",
+        "explain"
+      ],
+      "choices": [
+        "measure",
+        "answer",
+        "listen",
+        "explain"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for measure",
+        "caption_text": "Trace the word 'measure', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'pattern', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'pattern', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "pattern",
+      "distractors": [
+        "answer",
+        "measure",
+        "evidence"
+      ],
+      "choices": [
+        "answer",
+        "measure",
+        "evidence",
+        "pattern"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pattern",
+        "caption_text": "Trace the word 'pattern', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0158-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0158",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-02",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'problem', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'problem', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "problem",
+      "distractors": [
+        "question",
+        "measure",
+        "evidence"
+      ],
+      "choices": [
+        "question",
+        "measure",
+        "problem",
+        "evidence"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0158-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0158-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0158-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for problem",
+        "caption_text": "Trace the word 'problem', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --navy: #361163;
+  --oxford: #52237f;
+  --skysoft: #efe7f7;
+  --gold: #ffb81c;
+  --lime: #00a7a3;
+  --ink: #17121f;
+  --mint: #dff8f6;
+  --coral: #ff6955;
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-slate-50 text-slate-900 antialiased; }
+.card { @apply rounded-3xl border border-slate-200 bg-white p-6 shadow-sm; }
+.btn-primary { @apply inline-flex items-center justify-center rounded-full bg-navy px-6 py-3 font-bold text-white shadow-sm transition hover:-translate-y-0.5 hover:bg-oxford; }
+.btn-secondary { @apply inline-flex items-center justify-center rounded-full border border-slate-300 bg-white px-6 py-3 font-bold text-navy transition hover:-translate-y-0.5 hover:bg-slate-100; }
+.badge { @apply rounded-full bg-skysoft px-3 py-1 text-sm font-bold text-oxford; }
+.chip { @apply rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-bold text-slate-700 shadow-sm; }
+.course-card { @apply rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-xl; }
+.soft-panel { @apply rounded-[2rem] border border-white/20 bg-white/10 p-6 text-white backdrop-blur; }
+.input { @apply w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 font-semibold outline-none ring-0 transition focus:border-oxford focus:ring-purple-100; }
+.gradient-hero { background: radial-gradient(circle at top left, rgba(0,167,163,.22), transparent 28%), linear-gradient(135deg,#361163,#52237f 52%,#00a7a3); }
+.star-card { @apply rounded-[2rem] border border-slate-200 bg-white p-5 shadow-sm transition hover:-translate-y-1 hover:shadow-xl; }
+
+
+/* BEA consolidated commercial UI helpers */
+.page-shell{min-height:100vh;background:#f8fcff;color:#102a43;padding:32px 18px;font-family:Inter,Arial,sans-serif}.hero-card{width:min(1180px,100%);margin:0 auto 24px;background:#fff;border:4px solid #102a43;border-radius:34px;padding:32px;box-shadow:10px 10px 0 rgba(16,42,67,.1)}.hero-card h1{font-size:clamp(38px,6vw,72px);line-height:.95;letter-spacing:-.07em;margin:8px 0 16px;color:#102a43}.eyebrow{font-weight:950;color:#2667ff}.cta-row{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}.primary,.secondary{display:inline-flex;min-height:50px;align-items:center;justify-content:center;border-radius:16px;padding:0 18px;font-weight:950;text-decoration:none}.primary{background:#ff8c42;color:#fff;box-shadow:0 7px 0 rgba(255,140,66,.25)}.secondary{background:#fff;color:#102a43;border:3px solid #102a43}.grid{display:grid;gap:16px}.cards{width:min(1180px,100%);margin:0 auto;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}.cards article,.card-link{display:block;background:#fff;border:3px solid #102a43;border-radius:24px;padding:20px;color:#102a43;text-decoration:none;box-shadow:7px 7px 0 rgba(16,42,67,.09)}.card-link strong{display:block;font-size:22px;margin-bottom:8px}.card-link span{color:#5a6b7b;line-height:1.55}

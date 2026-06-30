@@ -1,0 +1,154 @@
+[
+  {
+    "id": "a1-learner-checklist",
+    "cefr": "A1",
+    "type": "Checklist",
+    "title": "A1 Learner Can-Do Checklist",
+    "href": "/downloads/a1-learner-checklist.html",
+    "description": "Printable A1 self-assessment and progress tracker."
+  },
+  {
+    "id": "a1-teacher-tracker",
+    "cefr": "A1",
+    "type": "Teacher Tracker",
+    "title": "A1 Teacher Progress Tracker",
+    "href": "/downloads/a1-teacher-tracker.csv",
+    "description": "CSV tracker for lesson completion, skill evidence and feedback."
+  },
+  {
+    "id": "a1-writing-frame",
+    "cefr": "A1",
+    "type": "Worksheet",
+    "title": "A1 Writing Frame Pack",
+    "href": "/downloads/a1-writing-frame.html",
+    "description": "Printable writing frame and sentence starters for A1 learners."
+  },
+  {
+    "id": "a2-learner-checklist",
+    "cefr": "A2",
+    "type": "Checklist",
+    "title": "A2 Learner Can-Do Checklist",
+    "href": "/downloads/a2-learner-checklist.html",
+    "description": "Printable A2 self-assessment and progress tracker."
+  },
+  {
+    "id": "a2-teacher-tracker",
+    "cefr": "A2",
+    "type": "Teacher Tracker",
+    "title": "A2 Teacher Progress Tracker",
+    "href": "/downloads/a2-teacher-tracker.csv",
+    "description": "CSV tracker for lesson completion, skill evidence and feedback."
+  },
+  {
+    "id": "a2-writing-frame",
+    "cefr": "A2",
+    "type": "Worksheet",
+    "title": "A2 Writing Frame Pack",
+    "href": "/downloads/a2-writing-frame.html",
+    "description": "Printable writing frame and sentence starters for A2 learners."
+  },
+  {
+    "id": "b1-learner-checklist",
+    "cefr": "B1",
+    "type": "Checklist",
+    "title": "B1 Learner Can-Do Checklist",
+    "href": "/downloads/b1-learner-checklist.html",
+    "description": "Printable B1 self-assessment and progress tracker."
+  },
+  {
+    "id": "b1-teacher-tracker",
+    "cefr": "B1",
+    "type": "Teacher Tracker",
+    "title": "B1 Teacher Progress Tracker",
+    "href": "/downloads/b1-teacher-tracker.csv",
+    "description": "CSV tracker for lesson completion, skill evidence and feedback."
+  },
+  {
+    "id": "b1-writing-frame",
+    "cefr": "B1",
+    "type": "Worksheet",
+    "title": "B1 Writing Frame Pack",
+    "href": "/downloads/b1-writing-frame.html",
+    "description": "Printable writing frame and sentence starters for B1 learners."
+  },
+  {
+    "id": "b2-learner-checklist",
+    "cefr": "B2",
+    "type": "Checklist",
+    "title": "B2 Learner Can-Do Checklist",
+    "href": "/downloads/b2-learner-checklist.html",
+    "description": "Printable B2 self-assessment and progress tracker."
+  },
+  {
+    "id": "b2-teacher-tracker",
+    "cefr": "B2",
+    "type": "Teacher Tracker",
+    "title": "B2 Teacher Progress Tracker",
+    "href": "/downloads/b2-teacher-tracker.csv",
+    "description": "CSV tracker for lesson completion, skill evidence and feedback."
+  },
+  {
+    "id": "b2-writing-frame",
+    "cefr": "B2",
+    "type": "Worksheet",
+    "title": "B2 Writing Frame Pack",
+    "href": "/downloads/b2-writing-frame.html",
+    "description": "Printable writing frame and sentence starters for B2 learners."
+  },
+  {
+    "id": "c1-learner-checklist",
+    "cefr": "C1",
+    "type": "Checklist",
+    "title": "C1 Learner Can-Do Checklist",
+    "href": "/downloads/c1-learner-checklist.html",
+    "description": "Printable C1 self-assessment and progress tracker."
+  },
+  {
+    "id": "c1-teacher-tracker",
+    "cefr": "C1",
+    "type": "Teacher Tracker",
+    "title": "C1 Teacher Progress Tracker",
+    "href": "/downloads/c1-teacher-tracker.csv",
+    "description": "CSV tracker for lesson completion, skill evidence and feedback."
+  },
+  {
+    "id": "c1-writing-frame",
+    "cefr": "C1",
+    "type": "Worksheet",
+    "title": "C1 Writing Frame Pack",
+    "href": "/downloads/c1-writing-frame.html",
+    "description": "Printable writing frame and sentence starters for C1 learners."
+  },
+  {
+    "id": "c2-learner-checklist",
+    "cefr": "C2",
+    "type": "Checklist",
+    "title": "C2 Learner Can-Do Checklist",
+    "href": "/downloads/c2-learner-checklist.html",
+    "description": "Printable C2 self-assessment and progress tracker."
+  },
+  {
+    "id": "c2-teacher-tracker",
+    "cefr": "C2",
+    "type": "Teacher Tracker",
+    "title": "C2 Teacher Progress Tracker",
+    "href": "/downloads/c2-teacher-tracker.csv",
+    "description": "CSV tracker for lesson completion, skill evidence and feedback."
+  },
+  {
+    "id": "c2-writing-frame",
+    "cefr": "C2",
+    "type": "Worksheet",
+    "title": "C2 Writing Frame Pack",
+    "href": "/downloads/c2-writing-frame.html",
+    "description": "Printable writing frame and sentence starters for C2 learners."
+  },
+  {
+    "id": "sample-score-report",
+    "cefr": "A1-C2",
+    "type": "Sample Report",
+    "title": "Sample CEFR Score Report",
+    "href": "/sample-report",
+    "description": "Public sample of the paid score report structure."
+  }
+]

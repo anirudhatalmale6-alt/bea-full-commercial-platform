@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0136",
+  "title": "Writing: Sentence Expansion And Punctuation - Tap the Sound 4",
+  "grade_band": "Grade 2",
+  "mechanic": "Tap the Sound",
+  "learning_goal": "Learner can sentence expansion and punctuation through a short guided tap the sound activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /d/. Which word begins with /d/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /d/. Which word begins with /d/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "detail",
+      "distractors": [
+        "pattern",
+        "explain",
+        "question"
+      ],
+      "choices": [
+        "detail",
+        "pattern",
+        "explain",
+        "question"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for detail",
+        "caption_text": "Listen: /d/. Which word begins with /d/?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /r/. Which word begins with /r/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /r/. Which word begins with /r/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "reason",
+      "distractors": [
+        "paragraph",
+        "sentence",
+        "evidence"
+      ],
+      "choices": [
+        "paragraph",
+        "reason",
+        "sentence",
+        "evidence"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for reason",
+        "caption_text": "Listen: /r/. Which word begins with /r/?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /e/. Which word begins with /e/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /e/. Which word begins with /e/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "example",
+      "distractors": [
+        "reason",
+        "measure",
+        "solution"
+      ],
+      "choices": [
+        "reason",
+        "measure",
+        "example",
+        "solution"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for example",
+        "caption_text": "Listen: /e/. Which word begins with /e/?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /c/. Which word begins with /c/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /c/. Which word begins with /c/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "compare",
+      "distractors": [
+        "reason",
+        "example",
+        "evidence"
+      ],
+      "choices": [
+        "compare",
+        "reason",
+        "example",
+        "evidence"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for compare",
+        "caption_text": "Listen: /c/. Which word begins with /c/?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /e/. Which word begins with /e/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /e/. Which word begins with /e/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "explain",
+      "distractors": [
+        "pattern",
+        "solution",
+        "compare"
+      ],
+      "choices": [
+        "pattern",
+        "explain",
+        "solution",
+        "compare"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for explain",
+        "caption_text": "Listen: /e/. Which word begins with /e/?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /d/. Which word begins with /d/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /d/. Which word begins with /d/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "describe",
+      "distractors": [
+        "measure",
+        "answer",
+        "support"
+      ],
+      "choices": [
+        "measure",
+        "answer",
+        "support",
+        "describe"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for describe",
+        "caption_text": "Listen: /d/. Which word begins with /d/?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /p/. Which word begins with /p/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /p/. Which word begins with /p/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "predict",
+      "distractors": [
+        "sentence",
+        "explain",
+        "answer"
+      ],
+      "choices": [
+        "sentence",
+        "predict",
+        "explain",
+        "answer"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for predict",
+        "caption_text": "Listen: /p/. Which word begins with /p/?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /s/. Which word begins with /s/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /s/. Which word begins with /s/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "support",
+      "distractors": [
+        "explain",
+        "example",
+        "paragraph"
+      ],
+      "choices": [
+        "explain",
+        "support",
+        "example",
+        "paragraph"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for support",
+        "caption_text": "Listen: /s/. Which word begins with /s/?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /e/. Which word begins with /e/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /e/. Which word begins with /e/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "evidence",
+      "distractors": [
+        "sentence",
+        "pattern",
+        "measure"
+      ],
+      "choices": [
+        "sentence",
+        "pattern",
+        "measure",
+        "evidence"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for evidence",
+        "caption_text": "Listen: /e/. Which word begins with /e/?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0136-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0136",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Writing",
+      "skill_code": "EY-GRA-LIT-WRI-04",
+      "mechanic": "Tap the Sound",
+      "prompt_text": "Listen: /m/. Which word begins with /m/?",
+      "prompt_audio_text": "Tap the card that starts with the target sound. Listen: /m/. Which word begins with /m/?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "measure",
+      "distractors": [
+        "paragraph",
+        "question",
+        "evidence"
+      ],
+      "choices": [
+        "paragraph",
+        "question",
+        "evidence",
+        "measure"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to sentence expansion and punctuation.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of sentence expansion and punctuation, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0136-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0136-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0136-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for measure",
+        "caption_text": "Listen: /m/. Which word begins with /m/?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

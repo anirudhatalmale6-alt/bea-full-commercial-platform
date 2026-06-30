@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0071",
+  "title": "Geometry: 2D And 3D Shapes - Find the Mistake 3",
+  "grade_band": "Kindergarten",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can 2D and 3D shapes through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0071-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0071",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an book.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an book.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a book.",
+      "distractors": [
+        "I see an book.",
+        "Clear the book is.",
+        "The book clear is."
+      ],
+      "choices": [
+        "I see an book.",
+        "Clear the book is.",
+        "The book clear is.",
+        "I see a book."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0071-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0071-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0071-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a book.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an book.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0071-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0071",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an park.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an park.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a park.",
+      "distractors": [
+        "Clear the park is.",
+        "The park clear is.",
+        "I see an park."
+      ],
+      "choices": [
+        "Clear the park is.",
+        "I see a park.",
+        "The park clear is.",
+        "I see an park."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0071-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0071-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0071-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a park.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an park.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0071-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0071",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an play.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an play.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a play.",
+      "distractors": [
+        "I see an play.",
+        "The play clear is.",
+        "Clear the play is."
+      ],
+      "choices": [
+        "I see an play.",
+        "I see a play.",
+        "The play clear is.",
+        "Clear the play is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0071-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0071-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0071-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a play.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an play.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0071-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0071",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an smile.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an smile.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a smile.",
+      "distractors": [
+        "I see an smile.",
+        "Clear the smile is.",
+        "The smile clear is."
+      ],
+      "choices": [
+        "I see an smile.",
+        "I see a smile.",
+        "Clear the smile is.",
+        "The smile clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0071-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0071-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0071-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a smile.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an smile.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0071-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0071",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an green.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an green.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a green.",
+      "distractors": [
+        "The green clear is.",
+        "I see an green.",
+        "Clear the green is."
+      ],
+      "choices": [
+        "The green clear is.",
+        "I see an green.",
+        "I see a green.",
+        "Clear the green is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0071-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0071-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0071-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a green.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an green.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0071-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0071",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an brown.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an brown.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a brown.",
+      "distractors": [
+        "I see an brown.",
+        "Clear the brown is.",
+        "The brown clear is."
+      ],
+      "choices": [
+        "I see an brown.",
+        "I see a brown.",
+        "Clear the brown is.",
+        "The brown clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0071-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0071-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0071-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a brown.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an brown.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0071-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0071",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an chair.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an chair.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a chair.",
+      "distractors": [
+        "The chair clear is.",
+        "I see an chair.",
+        "Clear the chair is."
+      ],
+      "choices": [
+        "The chair clear is.",
+        "I see a chair.",
+        "I see an chair.",
+        "Clear the chair is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0071-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0071-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0071-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a chair.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an chair.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0071-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0071",
+      "activity_version": "1.2",
+      "grade_band": "Kindergarten",
+      "strand": "Geometry",
+      "skill_code": "EY-KIN-MAT-GEO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'I see an train.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'I see an train.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "I see a train.",
+      "distractors": [
+        "I see an train.",
+        "The train clear is.",
+        "Clear the train is."
+      ],
+      "choices": [
+        "I see a train.",
+        "I see an train.",
+        "The train clear is.",
+        "Clear the train is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to 2d and 3d shapes.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of 2d and 3d shapes, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0071-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0071-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0071-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for I see a train.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'I see an train.'",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

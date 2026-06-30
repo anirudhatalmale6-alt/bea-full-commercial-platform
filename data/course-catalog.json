@@ -1,0 +1,608 @@
+[
+  {
+    "slug": "a1-complete-pathway",
+    "cefr": "A1",
+    "title": "Breakthrough English (A1)",
+    "levelLabel": "Beginner",
+    "summary": "A complete A1 ESL pathway focused on basic personal information, classroom English, simple messages.",
+    "duration": "12 weeks",
+    "lessons": 48,
+    "activities": 96,
+    "assessment": "Unit quizzes, skill checks, progress test and end-of-level CEFR checkpoint",
+    "skills": [
+      "Grammar",
+      "Vocabulary",
+      "Reading",
+      "Listening",
+      "Speaking",
+      "Writing"
+    ],
+    "modules": [
+      {
+        "module": 1,
+        "title": "Introductions",
+        "outcome": "Learners can use A1 language to communicate about introductions with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Family and Friends",
+        "outcome": "Learners can use A1 language to communicate about family and friends with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Classroom Language",
+        "outcome": "Learners can use A1 language to communicate about classroom language with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Food and Shopping",
+        "outcome": "Learners can use A1 language to communicate about food and shopping with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Daily Routines",
+        "outcome": "Learners can use A1 language to communicate about daily routines with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Places in Town",
+        "outcome": "Learners can use A1 language to communicate about places in town with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      }
+    ],
+    "entryRoute": "/placement-test",
+    "certificatePathway": "A1 diagnostic report -> recommended modules -> end-of-level achievement certificate"
+  },
+  {
+    "slug": "a2-complete-pathway",
+    "cefr": "A2",
+    "title": "Everyday English (A2)",
+    "levelLabel": "Elementary",
+    "summary": "A complete A2 ESL pathway focused on routine tasks, short conversations, simple narratives.",
+    "duration": "12 weeks",
+    "lessons": 48,
+    "activities": 96,
+    "assessment": "Unit quizzes, skill checks, progress test and end-of-level CEFR checkpoint",
+    "skills": [
+      "Grammar",
+      "Vocabulary",
+      "Reading",
+      "Listening",
+      "Speaking",
+      "Writing"
+    ],
+    "modules": [
+      {
+        "module": 1,
+        "title": "Travel Basics",
+        "outcome": "Learners can use A2 language to communicate about travel basics with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Health and Appointments",
+        "outcome": "Learners can use A2 language to communicate about health and appointments with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Past Experiences",
+        "outcome": "Learners can use A2 language to communicate about past experiences with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Home and Community",
+        "outcome": "Learners can use A2 language to communicate about home and community with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Technology Habits",
+        "outcome": "Learners can use A2 language to communicate about technology habits with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Simple Work Tasks",
+        "outcome": "Learners can use A2 language to communicate about simple work tasks with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      }
+    ],
+    "entryRoute": "/placement-test",
+    "certificatePathway": "A2 diagnostic report -> recommended modules -> end-of-level achievement certificate"
+  },
+  {
+    "slug": "b1-complete-pathway",
+    "cefr": "B1",
+    "title": "Independent English (B1)",
+    "levelLabel": "Intermediate",
+    "summary": "A complete B1 ESL pathway focused on travel, study, opinions, everyday problem solving.",
+    "duration": "12 weeks",
+    "lessons": 48,
+    "activities": 96,
+    "assessment": "Unit quizzes, skill checks, progress test and end-of-level CEFR checkpoint",
+    "skills": [
+      "Grammar",
+      "Vocabulary",
+      "Reading",
+      "Listening",
+      "Speaking",
+      "Writing"
+    ],
+    "modules": [
+      {
+        "module": 1,
+        "title": "Plans and Decisions",
+        "outcome": "Learners can use B1 language to communicate about plans and decisions with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "News and Media",
+        "outcome": "Learners can use B1 language to communicate about news and media with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Education Choices",
+        "outcome": "Learners can use B1 language to communicate about education choices with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Workplace Communication",
+        "outcome": "Learners can use B1 language to communicate about workplace communication with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Travel Problems",
+        "outcome": "Learners can use B1 language to communicate about travel problems with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Opinions and Reasons",
+        "outcome": "Learners can use B1 language to communicate about opinions and reasons with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      }
+    ],
+    "entryRoute": "/placement-test",
+    "certificatePathway": "B1 diagnostic report -> recommended modules -> end-of-level achievement certificate"
+  },
+  {
+    "slug": "b2-complete-pathway",
+    "cefr": "B2",
+    "title": "Fluent Study English (B2)",
+    "levelLabel": "Upper-intermediate",
+    "summary": "A complete B2 ESL pathway focused on argument, explanation, academic and workplace communication.",
+    "duration": "12 weeks",
+    "lessons": 48,
+    "activities": 96,
+    "assessment": "Unit quizzes, skill checks, progress test and end-of-level CEFR checkpoint",
+    "skills": [
+      "Grammar",
+      "Vocabulary",
+      "Reading",
+      "Listening",
+      "Speaking",
+      "Writing"
+    ],
+    "modules": [
+      {
+        "module": 1,
+        "title": "Debates and Evidence",
+        "outcome": "Learners can use B2 language to communicate about debates and evidence with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Study Skills",
+        "outcome": "Learners can use B2 language to communicate about study skills with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Professional Email",
+        "outcome": "Learners can use B2 language to communicate about professional email with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Culture and Identity",
+        "outcome": "Learners can use B2 language to communicate about culture and identity with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Science and Technology",
+        "outcome": "Learners can use B2 language to communicate about science and technology with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Problem-Solution Writing",
+        "outcome": "Learners can use B2 language to communicate about problem-solution writing with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      }
+    ],
+    "entryRoute": "/placement-test",
+    "certificatePathway": "B2 diagnostic report -> recommended modules -> end-of-level achievement certificate"
+  },
+  {
+    "slug": "c1-complete-pathway",
+    "cefr": "C1",
+    "title": "Advanced Academic English (C1)",
+    "levelLabel": "Advanced",
+    "summary": "A complete C1 ESL pathway focused on extended discourse, nuance, persuasion, high-level study skills.",
+    "duration": "12 weeks",
+    "lessons": 48,
+    "activities": 96,
+    "assessment": "Unit quizzes, skill checks, progress test and end-of-level CEFR checkpoint",
+    "skills": [
+      "Grammar",
+      "Vocabulary",
+      "Reading",
+      "Listening",
+      "Speaking",
+      "Writing"
+    ],
+    "modules": [
+      {
+        "module": 1,
+        "title": "Academic Argument",
+        "outcome": "Learners can use C1 language to communicate about academic argument with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Leadership Communication",
+        "outcome": "Learners can use C1 language to communicate about leadership communication with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Policy and Society",
+        "outcome": "Learners can use C1 language to communicate about policy and society with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Research Summaries",
+        "outcome": "Learners can use C1 language to communicate about research summaries with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Nuanced Speaking",
+        "outcome": "Learners can use C1 language to communicate about nuanced speaking with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Critical Review",
+        "outcome": "Learners can use C1 language to communicate about critical review with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      }
+    ],
+    "entryRoute": "/placement-test",
+    "certificatePathway": "C1 diagnostic report -> recommended modules -> end-of-level achievement certificate"
+  },
+  {
+    "slug": "c2-complete-pathway",
+    "cefr": "C2",
+    "title": "Mastery Communication English (C2)",
+    "levelLabel": "Mastery",
+    "summary": "A complete C2 ESL pathway focused on precision, style, synthesis, expert communication.",
+    "duration": "12 weeks",
+    "lessons": 48,
+    "activities": 96,
+    "assessment": "Unit quizzes, skill checks, progress test and end-of-level CEFR checkpoint",
+    "skills": [
+      "Grammar",
+      "Vocabulary",
+      "Reading",
+      "Listening",
+      "Speaking",
+      "Writing"
+    ],
+    "modules": [
+      {
+        "module": 1,
+        "title": "Expert Discourse",
+        "outcome": "Learners can use C2 language to communicate about expert discourse with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Advanced Rhetoric",
+        "outcome": "Learners can use C2 language to communicate about advanced rhetoric with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Literary and Cultural Analysis",
+        "outcome": "Learners can use C2 language to communicate about literary and cultural analysis with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Synthesis from Sources",
+        "outcome": "Learners can use C2 language to communicate about synthesis from sources with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Precision Editing",
+        "outcome": "Learners can use C2 language to communicate about precision editing with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Professional Presentation",
+        "outcome": "Learners can use C2 language to communicate about professional presentation with appropriate accuracy and support.",
+        "lessonTypes": [
+          "Teacher-led lesson",
+          "Interactive practice",
+          "Game activity",
+          "Worksheet",
+          "Speaking task",
+          "Progress check"
+        ]
+      }
+    ],
+    "entryRoute": "/placement-test",
+    "certificatePathway": "C2 diagnostic report -> recommended modules -> end-of-level achievement certificate"
+  }
+]

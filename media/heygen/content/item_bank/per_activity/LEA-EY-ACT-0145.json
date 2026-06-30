@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0145",
+  "title": "Addition/Subtraction: Within 100 - Trace and Say 1",
+  "grade_band": "Grade 2",
+  "mechanic": "Trace and Say",
+  "learning_goal": "Learner can within 100 through a short guided trace and say activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'measure', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'measure', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "measure",
+      "distractors": [
+        "record",
+        "example",
+        "answer"
+      ],
+      "choices": [
+        "measure",
+        "record",
+        "example",
+        "answer"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for measure",
+        "caption_text": "Trace the word 'measure', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'pattern', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'pattern', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "pattern",
+      "distractors": [
+        "solution",
+        "record",
+        "describe"
+      ],
+      "choices": [
+        "solution",
+        "record",
+        "pattern",
+        "describe"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pattern",
+        "caption_text": "Trace the word 'pattern', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'problem', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'problem', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "problem",
+      "distractors": [
+        "detail",
+        "topic",
+        "measure"
+      ],
+      "choices": [
+        "detail",
+        "topic",
+        "problem",
+        "measure"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for problem",
+        "caption_text": "Trace the word 'problem', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'solution', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'solution', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "solution",
+      "distractors": [
+        "evidence",
+        "compare",
+        "example"
+      ],
+      "choices": [
+        "evidence",
+        "compare",
+        "example",
+        "solution"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for solution",
+        "caption_text": "Trace the word 'solution', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'question', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'question', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "question",
+      "distractors": [
+        "sentence",
+        "topic",
+        "support"
+      ],
+      "choices": [
+        "sentence",
+        "topic",
+        "support",
+        "question"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for question",
+        "caption_text": "Trace the word 'question', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'answer', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'answer', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "answer",
+      "distractors": [
+        "sentence",
+        "evidence",
+        "paragraph"
+      ],
+      "choices": [
+        "answer",
+        "sentence",
+        "evidence",
+        "paragraph"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for answer",
+        "caption_text": "Trace the word 'answer', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'listen', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'listen', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "listen",
+      "distractors": [
+        "answer",
+        "pattern",
+        "evidence"
+      ],
+      "choices": [
+        "answer",
+        "listen",
+        "pattern",
+        "evidence"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for listen",
+        "caption_text": "Trace the word 'listen', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'record', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'record', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "record",
+      "distractors": [
+        "topic",
+        "pattern",
+        "problem"
+      ],
+      "choices": [
+        "record",
+        "topic",
+        "pattern",
+        "problem"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for record",
+        "caption_text": "Trace the word 'record', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'sentence', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'sentence', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "sentence",
+      "distractors": [
+        "record",
+        "explain",
+        "reason"
+      ],
+      "choices": [
+        "record",
+        "explain",
+        "sentence",
+        "reason"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for sentence",
+        "caption_text": "Trace the word 'sentence', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0145-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0145",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Addition/Subtraction",
+      "skill_code": "EY-GRA-MAT-ADD-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'paragraph', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'paragraph', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "paragraph",
+      "distractors": [
+        "sentence",
+        "describe",
+        "example"
+      ],
+      "choices": [
+        "sentence",
+        "paragraph",
+        "describe",
+        "example"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to within 100.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of within 100, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0145-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0145-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0145-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for paragraph",
+        "caption_text": "Trace the word 'paragraph', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

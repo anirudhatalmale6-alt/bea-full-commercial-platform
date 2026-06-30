@@ -1,0 +1,452 @@
+{
+  "activity_id": "LEA-EY-ACT-0033",
+  "title": "Measurement: Compare Big/Small And Long/Short - Trace and Say 1",
+  "grade_band": "Pre-K",
+  "mechanic": "Trace and Say",
+  "learning_goal": "Learner can compare big/small and long/short through a short guided trace and say activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0033-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0033",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Measurement",
+      "skill_code": "EY-PRE-MAT-MEA-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'tap', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'tap', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "tap",
+      "distractors": [
+        "pen",
+        "fox",
+        "bus"
+      ],
+      "choices": [
+        "pen",
+        "tap",
+        "fox",
+        "bus"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compare big/small and long/short.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of compare big/small and long/short, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0033-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0033-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0033-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for tap",
+        "caption_text": "Trace the word 'tap', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0033-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0033",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Measurement",
+      "skill_code": "EY-PRE-MAT-MEA-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'map', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'map', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "map",
+      "distractors": [
+        "cup",
+        "red",
+        "sun"
+      ],
+      "choices": [
+        "map",
+        "cup",
+        "red",
+        "sun"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compare big/small and long/short.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of compare big/small and long/short, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0033-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0033-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0033-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for map",
+        "caption_text": "Trace the word 'map', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0033-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0033",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Measurement",
+      "skill_code": "EY-PRE-MAT-MEA-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'jam', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'jam', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "jam",
+      "distractors": [
+        "sun",
+        "dad",
+        "mum"
+      ],
+      "choices": [
+        "sun",
+        "dad",
+        "mum",
+        "jam"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compare big/small and long/short.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of compare big/small and long/short, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0033-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0033-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0033-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for jam",
+        "caption_text": "Trace the word 'jam', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0033-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0033",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Measurement",
+      "skill_code": "EY-PRE-MAT-MEA-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'bed', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'bed', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "bed",
+      "distractors": [
+        "run",
+        "dog",
+        "sun"
+      ],
+      "choices": [
+        "run",
+        "dog",
+        "bed",
+        "sun"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compare big/small and long/short.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of compare big/small and long/short, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0033-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0033-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0033-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bed",
+        "caption_text": "Trace the word 'bed', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0033-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0033",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Measurement",
+      "skill_code": "EY-PRE-MAT-MEA-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'bus', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'bus', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "bus",
+      "distractors": [
+        "cat",
+        "red",
+        "map"
+      ],
+      "choices": [
+        "cat",
+        "red",
+        "map",
+        "bus"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compare big/small and long/short.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of compare big/small and long/short, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0033-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0033-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0033-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bus",
+        "caption_text": "Trace the word 'bus', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0033-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0033",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Measurement",
+      "skill_code": "EY-PRE-MAT-MEA-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'fox', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'fox', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "fox",
+      "distractors": [
+        "tap",
+        "mum",
+        "jam"
+      ],
+      "choices": [
+        "tap",
+        "fox",
+        "mum",
+        "jam"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compare big/small and long/short.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of compare big/small and long/short, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0033-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0033-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0033-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for fox",
+        "caption_text": "Trace the word 'fox', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0033-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0033",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Measurement",
+      "skill_code": "EY-PRE-MAT-MEA-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'sun', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'sun', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "sun",
+      "distractors": [
+        "big",
+        "bus",
+        "jam"
+      ],
+      "choices": [
+        "big",
+        "bus",
+        "jam",
+        "sun"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compare big/small and long/short.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of compare big/small and long/short, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0033-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0033-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0033-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for sun",
+        "caption_text": "Trace the word 'sun', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0033-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0033",
+      "activity_version": "1.2",
+      "grade_band": "Pre-K",
+      "strand": "Measurement",
+      "skill_code": "EY-PRE-MAT-MEA-01",
+      "mechanic": "Trace and Say",
+      "prompt_text": "Trace the word 'cat', then say it clearly. Which word did you trace?",
+      "prompt_audio_text": "Trace the letter or word, then say it aloud. Trace the word 'cat', then say it clearly. Which word did you trace?",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "cat",
+      "distractors": [
+        "map",
+        "dad",
+        "bed"
+      ],
+      "choices": [
+        "map",
+        "dad",
+        "cat",
+        "bed"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to compare big/small and long/short.",
+        "interventions_by_error_type": {
+          "phoneme_confusion": "Mini-teach: model one example of compare big/small and long/short, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0033-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0033-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0033-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cat",
+        "caption_text": "Trace the word 'cat', then say it clearly. Which word did you trace?",
+        "keyboard_focus_order": 8
+      }
+    }
+  ]
+}

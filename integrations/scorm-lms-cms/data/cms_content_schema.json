@@ -1,0 +1,131 @@
+{
+  "version": "2.0.0",
+  "content_types": {
+    "page": {
+      "required": [
+        "content_key",
+        "title",
+        "sections"
+      ],
+      "editable_fields": [
+        "seo",
+        "hero",
+        "sections",
+        "cta",
+        "faqs"
+      ]
+    },
+    "course": {
+      "required": [
+        "course_key",
+        "title",
+        "cefr_level",
+        "modules"
+      ],
+      "editable_fields": [
+        "title",
+        "description",
+        "outcomes",
+        "pricing",
+        "modules",
+        "hero_image"
+      ]
+    },
+    "module": {
+      "required": [
+        "module_code",
+        "title",
+        "lessons"
+      ],
+      "editable_fields": [
+        "title",
+        "summary",
+        "grammar",
+        "vocabulary",
+        "lessons",
+        "resources",
+        "video_assets",
+        "scorm_packages"
+      ]
+    },
+    "lesson": {
+      "required": [
+        "lesson_key",
+        "title",
+        "lesson_type"
+      ],
+      "editable_fields": [
+        "body",
+        "activities",
+        "media",
+        "assessment",
+        "completion_rules"
+      ]
+    },
+    "resource": {
+      "required": [
+        "resource_key",
+        "title",
+        "format",
+        "audience"
+      ],
+      "editable_fields": [
+        "title",
+        "description",
+        "file",
+        "audience",
+        "course",
+        "module",
+        "tags"
+      ]
+    },
+    "banner": {
+      "required": [
+        "banner_key",
+        "headline"
+      ],
+      "editable_fields": [
+        "headline",
+        "subheading",
+        "image",
+        "cta",
+        "placement"
+      ]
+    },
+    "navigation": {
+      "required": [
+        "nav_key",
+        "items"
+      ],
+      "editable_fields": [
+        "items",
+        "visibility",
+        "order"
+      ]
+    },
+    "legal": {
+      "required": [
+        "policy_key",
+        "title",
+        "body"
+      ],
+      "editable_fields": [
+        "body",
+        "version",
+        "effective_date"
+      ]
+    }
+  },
+  "workflow": [
+    "draft",
+    "in_review",
+    "published",
+    "archived"
+  ],
+  "publication_rules": {
+    "draft_visible_publicly": false,
+    "review_required_before_publish": true,
+    "version_history_required": true,
+    "rollback_enabled": true
+  }
+}

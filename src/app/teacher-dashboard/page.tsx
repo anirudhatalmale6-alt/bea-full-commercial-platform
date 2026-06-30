@@ -1,0 +1,2 @@
+import { DashboardCards } from '@/components/bea-flow/DashboardCards';
+export default function Page(){ return <main style={{padding:32,background:'#f8fcff',minHeight:'100vh',fontFamily:'Inter,Arial,sans-serif'}}><h1 style={{color:'#102a43',fontSize:48,letterSpacing:'-.06em'}}>Teacher Dashboard</h1><p>Teacher manages assigned classes, progress, submissions and feedback.</p><DashboardCards title='Platform Flow' items={[{"label": "My classes", "value": "Classes"}, {"label": "Review queue", "value": "Tasks"}, {"label": "Export reports", "value": "CSV/PDF"}]} /></main>; }

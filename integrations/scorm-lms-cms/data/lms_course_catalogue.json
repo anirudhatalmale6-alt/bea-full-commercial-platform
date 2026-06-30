@@ -1,0 +1,2645 @@
+{
+  "generated_at": "2026-06-13T04:12:36Z",
+  "courses": [
+    {
+      "id": "course-a1-starter-english",
+      "course_key": "course-a1-starter-english",
+      "title": "Starter English",
+      "cefr_level": "A1",
+      "description": "Complete A1 English pathway for British English Academy learners with structured lessons, activities, assessments, resources and SCORM-ready modules.",
+      "status": "published",
+      "modules": [
+        {
+          "module_code": "A1-M01",
+          "title": "Identity, goals and learner profile",
+          "summary": "introductions, routines, aspirations, personal information",
+          "grammar": "be / have got",
+          "vocabulary": "personal details, goals, classroom objects, numbers, dates",
+          "function": "give personal information",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M01-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M01-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M01-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M01"
+            },
+            {
+              "lesson_id": "A1-M01-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M01-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M01-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M02",
+          "title": "Family, community and relationships",
+          "summary": "people, roles, feelings, social routines",
+          "grammar": "present simple",
+          "vocabulary": "family, personality, emotions, community places",
+          "function": "ask and answer simple questions",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M02-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M02-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M02-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M02"
+            },
+            {
+              "lesson_id": "A1-M02-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M02-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M02-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M03",
+          "title": "School, study and work",
+          "summary": "classroom language, learning habits, jobs, workplace communication",
+          "grammar": "there is / there are",
+          "vocabulary": "subjects, study skills, jobs, duties, workplace phrases",
+          "function": "describe people and things",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M03-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M03-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M03-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M03"
+            },
+            {
+              "lesson_id": "A1-M03-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M03-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M03-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M04",
+          "title": "Home, city and daily life",
+          "summary": "places, transport, directions, services, everyday problems",
+          "grammar": "can for ability",
+          "vocabulary": "rooms, furniture, transport, maps, services",
+          "function": "follow simple classroom instructions",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M04-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M04-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M04-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M04"
+            },
+            {
+              "lesson_id": "A1-M04-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M04-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M04-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M05",
+          "title": "Food, health and wellbeing",
+          "summary": "meals, choices, advice, body, wellness, appointments",
+          "grammar": "imperatives",
+          "vocabulary": "food groups, symptoms, healthy habits, advice",
+          "function": "make simple choices",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M05-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M05-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M05-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M05"
+            },
+            {
+              "lesson_id": "A1-M05-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M05-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M05-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M06",
+          "title": "Travel, cultures and the wider world",
+          "summary": "journeys, places, customs, comparisons, global issues",
+          "grammar": "basic prepositions",
+          "vocabulary": "countries, landscapes, travel problems, cultural routines",
+          "function": "read short notices",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M06-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M06-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M06-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M06"
+            },
+            {
+              "lesson_id": "A1-M06-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M06-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M06-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M07",
+          "title": "Media, technology and digital citizenship",
+          "summary": "online messages, news, safety, opinions, presentation",
+          "grammar": "countable/uncountable nouns",
+          "vocabulary": "devices, apps, online behaviour, news, opinions",
+          "function": "write short messages",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M07-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M07-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M07-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M07"
+            },
+            {
+              "lesson_id": "A1-M07-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M07-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M07-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M08",
+          "title": "Stories, literature and creative expression",
+          "summary": "narratives, characters, plot, poetry, performance",
+          "grammar": "like + noun/verb-ing",
+          "vocabulary": "genres, characters, settings, plot, figurative language",
+          "function": "listen for key words",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M08-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M08-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M08-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M08"
+            },
+            {
+              "lesson_id": "A1-M08-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M08-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M08-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M09",
+          "title": "Problems, solutions and critical thinking",
+          "summary": "cause/effect, evidence, debate, solutions",
+          "grammar": "past simple of be",
+          "vocabulary": "environment, social issues, cause/effect, solution language",
+          "function": "speak in rehearsed exchanges",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M09-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M09-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M09-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M09"
+            },
+            {
+              "lesson_id": "A1-M09-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M09-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M09-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A1-M10",
+          "title": "Portfolio project and progress review",
+          "summary": "integrated skills, reflection, revision, certification task",
+          "grammar": "review",
+          "vocabulary": "review, reflection, portfolio language, self-assessment terms",
+          "function": "show progress",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A1-M10-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M10-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M10-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A1-M10"
+            },
+            {
+              "lesson_id": "A1-M10-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A1-M10-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A1-M10-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "course-a2-everyday-english",
+      "course_key": "course-a2-everyday-english",
+      "title": "Everyday English",
+      "cefr_level": "A2",
+      "description": "Complete A2 English pathway for British English Academy learners with structured lessons, activities, assessments, resources and SCORM-ready modules.",
+      "status": "published",
+      "modules": [
+        {
+          "module_code": "A2-M01",
+          "title": "Identity, goals and learner profile",
+          "summary": "introductions, routines, aspirations, personal information",
+          "grammar": "present continuous vs present simple",
+          "vocabulary": "personal details, goals, classroom objects, numbers, dates",
+          "function": "describe routines and past events",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M01-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M01-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M01-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M01"
+            },
+            {
+              "lesson_id": "A2-M01-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M01-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M01-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M02",
+          "title": "Family, community and relationships",
+          "summary": "people, roles, feelings, social routines",
+          "grammar": "past simple regular/irregular",
+          "vocabulary": "family, personality, emotions, community places",
+          "function": "make plans",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M02-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M02-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M02-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M02"
+            },
+            {
+              "lesson_id": "A2-M02-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M02-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M02-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M03",
+          "title": "School, study and work",
+          "summary": "classroom language, learning habits, jobs, workplace communication",
+          "grammar": "future with going to",
+          "vocabulary": "subjects, study skills, jobs, duties, workplace phrases",
+          "function": "ask for help",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M03-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M03-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M03-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M03"
+            },
+            {
+              "lesson_id": "A2-M03-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M03-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M03-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M04",
+          "title": "Home, city and daily life",
+          "summary": "places, transport, directions, services, everyday problems",
+          "grammar": "comparatives/superlatives",
+          "vocabulary": "rooms, furniture, transport, maps, services",
+          "function": "give advice",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M04-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M04-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M04-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M04"
+            },
+            {
+              "lesson_id": "A2-M04-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M04-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M04-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M05",
+          "title": "Food, health and wellbeing",
+          "summary": "meals, choices, advice, body, wellness, appointments",
+          "grammar": "modals should/must/have to",
+          "vocabulary": "food groups, symptoms, healthy habits, advice",
+          "function": "compare options",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M05-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M05-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M05-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M05"
+            },
+            {
+              "lesson_id": "A2-M05-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M05-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M05-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M06",
+          "title": "Travel, cultures and the wider world",
+          "summary": "journeys, places, customs, comparisons, global issues",
+          "grammar": "quantifiers",
+          "vocabulary": "countries, landscapes, travel problems, cultural routines",
+          "function": "explain simple reasons",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M06-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M06-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M06-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M06"
+            },
+            {
+              "lesson_id": "A2-M06-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M06-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M06-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M07",
+          "title": "Media, technology and digital citizenship",
+          "summary": "online messages, news, safety, opinions, presentation",
+          "grammar": "object pronouns",
+          "vocabulary": "devices, apps, online behaviour, news, opinions",
+          "function": "write emails and forms",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M07-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M07-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M07-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M07"
+            },
+            {
+              "lesson_id": "A2-M07-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M07-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M07-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M08",
+          "title": "Stories, literature and creative expression",
+          "summary": "narratives, characters, plot, poetry, performance",
+          "grammar": "adverbs of frequency/manner",
+          "vocabulary": "genres, characters, settings, plot, figurative language",
+          "function": "understand short talks",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M08-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M08-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M08-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M08"
+            },
+            {
+              "lesson_id": "A2-M08-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M08-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M08-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M09",
+          "title": "Problems, solutions and critical thinking",
+          "summary": "cause/effect, evidence, debate, solutions",
+          "grammar": "because/so/but/although",
+          "vocabulary": "environment, social issues, cause/effect, solution language",
+          "function": "take part in role plays",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M09-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M09-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M09-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M09"
+            },
+            {
+              "lesson_id": "A2-M09-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M09-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M09-12"
+            }
+          ]
+        },
+        {
+          "module_code": "A2-M10",
+          "title": "Portfolio project and progress review",
+          "summary": "integrated skills, reflection, revision, certification task",
+          "grammar": "review",
+          "vocabulary": "review, reflection, portfolio language, self-assessment terms",
+          "function": "complete a practical project",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "A2-M10-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M10-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M10-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-A2-M10"
+            },
+            {
+              "lesson_id": "A2-M10-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "A2-M10-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-A2-M10-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "course-b1-independent-english",
+      "course_key": "course-b1-independent-english",
+      "title": "Independent English",
+      "cefr_level": "B1",
+      "description": "Complete B1 English pathway for British English Academy learners with structured lessons, activities, assessments, resources and SCORM-ready modules.",
+      "status": "published",
+      "modules": [
+        {
+          "module_code": "B1-M01",
+          "title": "Identity, goals and learner profile",
+          "summary": "introductions, routines, aspirations, personal information",
+          "grammar": "present perfect for experience",
+          "vocabulary": "personal details, goals, classroom objects, numbers, dates",
+          "function": "express opinions",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M01-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M01-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M01-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M01"
+            },
+            {
+              "lesson_id": "B1-M01-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M01-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M01-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M02",
+          "title": "Family, community and relationships",
+          "summary": "people, roles, feelings, social routines",
+          "grammar": "past continuous and narrative tenses",
+          "vocabulary": "family, personality, emotions, community places",
+          "function": "tell stories",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M02-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M02-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M02-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M02"
+            },
+            {
+              "lesson_id": "B1-M02-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M02-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M02-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M03",
+          "title": "School, study and work",
+          "summary": "classroom language, learning habits, jobs, workplace communication",
+          "grammar": "will/going to/present continuous for future",
+          "vocabulary": "subjects, study skills, jobs, duties, workplace phrases",
+          "function": "summarise information",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M03-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M03-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M03-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M03"
+            },
+            {
+              "lesson_id": "B1-M03-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M03-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M03-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M04",
+          "title": "Home, city and daily life",
+          "summary": "places, transport, directions, services, everyday problems",
+          "grammar": "first and second conditional",
+          "vocabulary": "rooms, furniture, transport, maps, services",
+          "function": "give reasons and examples",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M04-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M04-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M04-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M04"
+            },
+            {
+              "lesson_id": "B1-M04-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M04-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M04-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M05",
+          "title": "Food, health and wellbeing",
+          "summary": "meals, choices, advice, body, wellness, appointments",
+          "grammar": "relative clauses",
+          "vocabulary": "food groups, symptoms, healthy habits, advice",
+          "function": "handle travel and service situations",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M05-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M05-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M05-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M05"
+            },
+            {
+              "lesson_id": "B1-M05-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M05-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M05-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M06",
+          "title": "Travel, cultures and the wider world",
+          "summary": "journeys, places, customs, comparisons, global issues",
+          "grammar": "passive voice present/past",
+          "vocabulary": "countries, landscapes, travel problems, cultural routines",
+          "function": "write connected paragraphs",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M06-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M06-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M06-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M06"
+            },
+            {
+              "lesson_id": "B1-M06-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M06-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M06-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M07",
+          "title": "Media, technology and digital citizenship",
+          "summary": "online messages, news, safety, opinions, presentation",
+          "grammar": "reported speech basics",
+          "vocabulary": "devices, apps, online behaviour, news, opinions",
+          "function": "take part in discussions",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M07-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M07-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M07-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M07"
+            },
+            {
+              "lesson_id": "B1-M07-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M07-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M07-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M08",
+          "title": "Stories, literature and creative expression",
+          "summary": "narratives, characters, plot, poetry, performance",
+          "grammar": "modals of deduction/advice",
+          "vocabulary": "genres, characters, settings, plot, figurative language",
+          "function": "respond to problems",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M08-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M08-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M08-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M08"
+            },
+            {
+              "lesson_id": "B1-M08-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M08-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M08-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M09",
+          "title": "Problems, solutions and critical thinking",
+          "summary": "cause/effect, evidence, debate, solutions",
+          "grammar": "linking devices",
+          "vocabulary": "environment, social issues, cause/effect, solution language",
+          "function": "present a topic",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M09-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M09-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M09-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M09"
+            },
+            {
+              "lesson_id": "B1-M09-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M09-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M09-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B1-M10",
+          "title": "Portfolio project and progress review",
+          "summary": "integrated skills, reflection, revision, certification task",
+          "grammar": "review",
+          "vocabulary": "review, reflection, portfolio language, self-assessment terms",
+          "function": "build a portfolio",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B1-M10-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M10-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M10-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B1-M10"
+            },
+            {
+              "lesson_id": "B1-M10-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B1-M10-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B1-M10-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "course-b2-upper-independent-english",
+      "course_key": "course-b2-upper-independent-english",
+      "title": "Upper Independent English",
+      "cefr_level": "B2",
+      "description": "Complete B2 English pathway for British English Academy learners with structured lessons, activities, assessments, resources and SCORM-ready modules.",
+      "status": "published",
+      "modules": [
+        {
+          "module_code": "B2-M01",
+          "title": "Identity, goals and learner profile",
+          "summary": "introductions, routines, aspirations, personal information",
+          "grammar": "perfect and continuous aspect review",
+          "vocabulary": "personal details, goals, classroom objects, numbers, dates",
+          "function": "argue a point",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M01-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M01-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M01-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M01"
+            },
+            {
+              "lesson_id": "B2-M01-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M01-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M01-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M02",
+          "title": "Family, community and relationships",
+          "summary": "people, roles, feelings, social routines",
+          "grammar": "advanced conditionals",
+          "vocabulary": "family, personality, emotions, community places",
+          "function": "evaluate sources",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M02-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M02-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M02-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M02"
+            },
+            {
+              "lesson_id": "B2-M02-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M02-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M02-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M03",
+          "title": "School, study and work",
+          "summary": "classroom language, learning habits, jobs, workplace communication",
+          "grammar": "passive reporting structures",
+          "vocabulary": "subjects, study skills, jobs, duties, workplace phrases",
+          "function": "synthesise information",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M03-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M03-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M03-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M03"
+            },
+            {
+              "lesson_id": "B2-M03-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M03-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M03-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M04",
+          "title": "Home, city and daily life",
+          "summary": "places, transport, directions, services, everyday problems",
+          "grammar": "participle clauses",
+          "vocabulary": "rooms, furniture, transport, maps, services",
+          "function": "negotiate and collaborate",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M04-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M04-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M04-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M04"
+            },
+            {
+              "lesson_id": "B2-M04-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M04-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M04-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M05",
+          "title": "Food, health and wellbeing",
+          "summary": "meals, choices, advice, body, wellness, appointments",
+          "grammar": "cleft sentences and emphasis",
+          "vocabulary": "food groups, symptoms, healthy habits, advice",
+          "function": "write reports and essays",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M05-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M05-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M05-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M05"
+            },
+            {
+              "lesson_id": "B2-M05-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M05-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M05-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M06",
+          "title": "Travel, cultures and the wider world",
+          "summary": "journeys, places, customs, comparisons, global issues",
+          "grammar": "advanced relative clauses",
+          "vocabulary": "countries, landscapes, travel problems, cultural routines",
+          "function": "give presentations",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M06-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M06-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M06-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M06"
+            },
+            {
+              "lesson_id": "B2-M06-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M06-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M06-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M07",
+          "title": "Media, technology and digital citizenship",
+          "summary": "online messages, news, safety, opinions, presentation",
+          "grammar": "substitution and ellipsis",
+          "vocabulary": "devices, apps, online behaviour, news, opinions",
+          "function": "interpret tone",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M07-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M07-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M07-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M07"
+            },
+            {
+              "lesson_id": "B2-M07-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M07-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M07-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M08",
+          "title": "Stories, literature and creative expression",
+          "summary": "narratives, characters, plot, poetry, performance",
+          "grammar": "modality and hedging",
+          "vocabulary": "genres, characters, settings, plot, figurative language",
+          "function": "use evidence",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M08-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M08-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M08-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M08"
+            },
+            {
+              "lesson_id": "B2-M08-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M08-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M08-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M09",
+          "title": "Problems, solutions and critical thinking",
+          "summary": "cause/effect, evidence, debate, solutions",
+          "grammar": "discourse markers",
+          "vocabulary": "environment, social issues, cause/effect, solution language",
+          "function": "debate solutions",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M09-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M09-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M09-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M09"
+            },
+            {
+              "lesson_id": "B2-M09-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M09-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M09-12"
+            }
+          ]
+        },
+        {
+          "module_code": "B2-M10",
+          "title": "Portfolio project and progress review",
+          "summary": "integrated skills, reflection, revision, certification task",
+          "grammar": "review",
+          "vocabulary": "review, reflection, portfolio language, self-assessment terms",
+          "function": "complete an extended project",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "B2-M10-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M10-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M10-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-B2-M10"
+            },
+            {
+              "lesson_id": "B2-M10-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "B2-M10-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-B2-M10-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "course-c1-advanced-academic-and-professional-english",
+      "course_key": "course-c1-advanced-academic-and-professional-english",
+      "title": "Advanced Academic and Professional English",
+      "cefr_level": "C1",
+      "description": "Complete C1 English pathway for British English Academy learners with structured lessons, activities, assessments, resources and SCORM-ready modules.",
+      "status": "published",
+      "modules": [
+        {
+          "module_code": "C1-M01",
+          "title": "Identity, goals and learner profile",
+          "summary": "introductions, routines, aspirations, personal information",
+          "grammar": "nominalisation",
+          "vocabulary": "personal details, goals, classroom objects, numbers, dates",
+          "function": "adapt register",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M01-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M01-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M01-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M01"
+            },
+            {
+              "lesson_id": "C1-M01-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M01-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M01-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M02",
+          "title": "Family, community and relationships",
+          "summary": "people, roles, feelings, social routines",
+          "grammar": "advanced modality and stance",
+          "vocabulary": "family, personality, emotions, community places",
+          "function": "sustain academic discussion",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M02-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M02-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M02-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M02"
+            },
+            {
+              "lesson_id": "C1-M02-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M02-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M02-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M03",
+          "title": "School, study and work",
+          "summary": "classroom language, learning habits, jobs, workplace communication",
+          "grammar": "inversion",
+          "vocabulary": "subjects, study skills, jobs, duties, workplace phrases",
+          "function": "write persuasive analysis",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M03-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M03-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M03-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M03"
+            },
+            {
+              "lesson_id": "C1-M03-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M03-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M03-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M04",
+          "title": "Home, city and daily life",
+          "summary": "places, transport, directions, services, everyday problems",
+          "grammar": "complex noun phrases",
+          "vocabulary": "rooms, furniture, transport, maps, services",
+          "function": "moderate debate",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M04-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M04-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M04-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M04"
+            },
+            {
+              "lesson_id": "C1-M04-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M04-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M04-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M05",
+          "title": "Food, health and wellbeing",
+          "summary": "meals, choices, advice, body, wellness, appointments",
+          "grammar": "register shifts",
+          "vocabulary": "food groups, symptoms, healthy habits, advice",
+          "function": "summarise complex texts",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M05-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M05-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M05-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M05"
+            },
+            {
+              "lesson_id": "C1-M05-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M05-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M05-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M06",
+          "title": "Travel, cultures and the wider world",
+          "summary": "journeys, places, customs, comparisons, global issues",
+          "grammar": "concession and counterargument",
+          "vocabulary": "countries, landscapes, travel problems, cultural routines",
+          "function": "critique arguments",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M06-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M06-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M06-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M06"
+            },
+            {
+              "lesson_id": "C1-M06-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M06-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M06-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M07",
+          "title": "Media, technology and digital citizenship",
+          "summary": "online messages, news, safety, opinions, presentation",
+          "grammar": "advanced reporting verbs",
+          "vocabulary": "devices, apps, online behaviour, news, opinions",
+          "function": "deliver professional presentations",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M07-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M07-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M07-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M07"
+            },
+            {
+              "lesson_id": "C1-M07-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M07-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M07-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M08",
+          "title": "Stories, literature and creative expression",
+          "summary": "narratives, characters, plot, poetry, performance",
+          "grammar": "cohesion and paragraph flow",
+          "vocabulary": "genres, characters, settings, plot, figurative language",
+          "function": "edit for precision",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M08-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M08-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M08-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M08"
+            },
+            {
+              "lesson_id": "C1-M08-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M08-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M08-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M09",
+          "title": "Problems, solutions and critical thinking",
+          "summary": "cause/effect, evidence, debate, solutions",
+          "grammar": "syntax for emphasis",
+          "vocabulary": "environment, social issues, cause/effect, solution language",
+          "function": "mentor peers",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M09-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M09-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M09-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M09"
+            },
+            {
+              "lesson_id": "C1-M09-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M09-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M09-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C1-M10",
+          "title": "Portfolio project and progress review",
+          "summary": "integrated skills, reflection, revision, certification task",
+          "grammar": "review",
+          "vocabulary": "review, reflection, portfolio language, self-assessment terms",
+          "function": "publish a polished product",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C1-M10-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M10-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M10-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C1-M10"
+            },
+            {
+              "lesson_id": "C1-M10-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C1-M10-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C1-M10-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "course-c2-mastery-english",
+      "course_key": "course-c2-mastery-english",
+      "title": "Mastery English",
+      "cefr_level": "C2",
+      "description": "Complete C2 English pathway for British English Academy learners with structured lessons, activities, assessments, resources and SCORM-ready modules.",
+      "status": "published",
+      "modules": [
+        {
+          "module_code": "C2-M01",
+          "title": "Identity, goals and learner profile",
+          "summary": "introductions, routines, aspirations, personal information",
+          "grammar": "precision, ambiguity and nuance",
+          "vocabulary": "personal details, goals, classroom objects, numbers, dates",
+          "function": "shape nuanced arguments",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M01-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M01-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M01-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M01"
+            },
+            {
+              "lesson_id": "C2-M01-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M01-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M01-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M02",
+          "title": "Family, community and relationships",
+          "summary": "people, roles, feelings, social routines",
+          "grammar": "rhetorical patterning",
+          "vocabulary": "family, personality, emotions, community places",
+          "function": "write in multiple genres",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M02-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M02-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M02-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M02"
+            },
+            {
+              "lesson_id": "C2-M02-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M02-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M02-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M03",
+          "title": "School, study and work",
+          "summary": "classroom language, learning habits, jobs, workplace communication",
+          "grammar": "idiomaticity and collocation",
+          "vocabulary": "subjects, study skills, jobs, duties, workplace phrases",
+          "function": "control irony and implication",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M03-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M03-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M03-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M03"
+            },
+            {
+              "lesson_id": "C2-M03-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M03-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M03-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M04",
+          "title": "Home, city and daily life",
+          "summary": "places, transport, directions, services, everyday problems",
+          "grammar": "tone management",
+          "vocabulary": "rooms, furniture, transport, maps, services",
+          "function": "mediate complex meaning",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M04-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M04-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M04-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M04"
+            },
+            {
+              "lesson_id": "C2-M04-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M04-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M04-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M05",
+          "title": "Food, health and wellbeing",
+          "summary": "meals, choices, advice, body, wellness, appointments",
+          "grammar": "stylistic parallelism",
+          "vocabulary": "food groups, symptoms, healthy habits, advice",
+          "function": "interpret dense texts",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M05-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M05-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M05-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M05"
+            },
+            {
+              "lesson_id": "C2-M05-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M05-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M05-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M06",
+          "title": "Travel, cultures and the wider world",
+          "summary": "journeys, places, customs, comparisons, global issues",
+          "grammar": "advanced editing",
+          "vocabulary": "countries, landscapes, travel problems, cultural routines",
+          "function": "deliver authoritative presentations",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M06-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M06-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M06-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M06"
+            },
+            {
+              "lesson_id": "C2-M06-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M06-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M06-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M07",
+          "title": "Media, technology and digital citizenship",
+          "summary": "online messages, news, safety, opinions, presentation",
+          "grammar": "genre manipulation",
+          "vocabulary": "devices, apps, online behaviour, news, opinions",
+          "function": "advise on language choices",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M07-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M07-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M07-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M07"
+            },
+            {
+              "lesson_id": "C2-M07-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M07-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M07-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M08",
+          "title": "Stories, literature and creative expression",
+          "summary": "narratives, characters, plot, poetry, performance",
+          "grammar": "high-level argument syntax",
+          "vocabulary": "genres, characters, settings, plot, figurative language",
+          "function": "produce publishable work",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M08-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M08-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M08-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M08"
+            },
+            {
+              "lesson_id": "C2-M08-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M08-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M08-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M09",
+          "title": "Problems, solutions and critical thinking",
+          "summary": "cause/effect, evidence, debate, solutions",
+          "grammar": "voice and persona",
+          "vocabulary": "environment, social issues, cause/effect, solution language",
+          "function": "lead seminars",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M09-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M09-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M09-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M09"
+            },
+            {
+              "lesson_id": "C2-M09-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M09-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M09-12"
+            }
+          ]
+        },
+        {
+          "module_code": "C2-M10",
+          "title": "Portfolio project and progress review",
+          "summary": "integrated skills, reflection, revision, certification task",
+          "grammar": "review",
+          "vocabulary": "review, reflection, portfolio language, self-assessment terms",
+          "function": "defend a capstone project",
+          "assessment": "auto-marked quiz + teacher-scored speaking/writing task",
+          "lessons": [
+            {
+              "lesson_id": "C2-M10-L01",
+              "title": "Input and discovery lesson",
+              "lesson_type": "html",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M10-L02",
+              "title": "Controlled practice lesson",
+              "lesson_type": "activity",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M10-L03",
+              "title": "Listening, reading and video lesson",
+              "lesson_type": "video",
+              "required": true,
+              "video_id": "VID-C2-M10"
+            },
+            {
+              "lesson_id": "C2-M10-L04",
+              "title": "Speaking and writing production",
+              "lesson_type": "assessment",
+              "required": true
+            },
+            {
+              "lesson_id": "C2-M10-L05",
+              "title": "Review, project and SCORM checkpoint",
+              "lesson_type": "scorm",
+              "required": true,
+              "scorm_package_key": "SCORM-C2-M10-12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

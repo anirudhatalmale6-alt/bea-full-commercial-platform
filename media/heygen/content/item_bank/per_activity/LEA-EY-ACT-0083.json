@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0083",
+  "title": "Phonics: Digraphs, Blends And Silent-E - Find the Mistake 3",
+  "grade_band": "Grade 1",
+  "mechanic": "Find the Mistake",
+  "learning_goal": "Learner can digraphs, blends and silent-e through a short guided find the mistake activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The school are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The school are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The school is clear.",
+      "distractors": [
+        "Clear the school is.",
+        "The school are clear.",
+        "The school clear is."
+      ],
+      "choices": [
+        "Clear the school is.",
+        "The school are clear.",
+        "The school clear is.",
+        "The school is clear."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The school is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The school are clear.'",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The happy are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The happy are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The happy is clear.",
+      "distractors": [
+        "Clear the happy is.",
+        "The happy are clear.",
+        "The happy clear is."
+      ],
+      "choices": [
+        "Clear the happy is.",
+        "The happy are clear.",
+        "The happy is clear.",
+        "The happy clear is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The happy is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The happy are clear.'",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The because are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The because are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The because is clear.",
+      "distractors": [
+        "The because are clear.",
+        "Clear the because is.",
+        "The because clear is."
+      ],
+      "choices": [
+        "The because are clear.",
+        "The because is clear.",
+        "Clear the because is.",
+        "The because clear is."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The because is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The because are clear.'",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The before are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The before are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The before is clear.",
+      "distractors": [
+        "The before are clear.",
+        "Clear the before is.",
+        "The before clear is."
+      ],
+      "choices": [
+        "The before is clear.",
+        "The before are clear.",
+        "Clear the before is.",
+        "The before clear is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The before is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The before are clear.'",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The after are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The after are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The after is clear.",
+      "distractors": [
+        "Clear the after is.",
+        "The after clear is.",
+        "The after are clear."
+      ],
+      "choices": [
+        "Clear the after is.",
+        "The after clear is.",
+        "The after is clear.",
+        "The after are clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The after is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The after are clear.'",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The little are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The little are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The little is clear.",
+      "distractors": [
+        "The little clear is.",
+        "The little are clear.",
+        "Clear the little is."
+      ],
+      "choices": [
+        "The little clear is.",
+        "The little are clear.",
+        "Clear the little is.",
+        "The little is clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The little is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The little are clear.'",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The people are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The people are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The people is clear.",
+      "distractors": [
+        "The people clear is.",
+        "Clear the people is.",
+        "The people are clear."
+      ],
+      "choices": [
+        "The people clear is.",
+        "Clear the people is.",
+        "The people are clear.",
+        "The people is clear."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The people is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The people are clear.'",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The garden are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The garden are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The garden is clear.",
+      "distractors": [
+        "The garden are clear.",
+        "The garden clear is.",
+        "Clear the garden is."
+      ],
+      "choices": [
+        "The garden is clear.",
+        "The garden are clear.",
+        "The garden clear is.",
+        "Clear the garden is."
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The garden is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The garden are clear.'",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The animal are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The animal are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The animal is clear.",
+      "distractors": [
+        "Clear the animal is.",
+        "The animal clear is.",
+        "The animal are clear."
+      ],
+      "choices": [
+        "Clear the animal is.",
+        "The animal is clear.",
+        "The animal clear is.",
+        "The animal are clear."
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The animal is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The animal are clear.'",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0083-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0083",
+      "activity_version": "1.2",
+      "grade_band": "Grade 1",
+      "strand": "Phonics",
+      "skill_code": "EY-GRA-LIT-PHO-03",
+      "mechanic": "Find the Mistake",
+      "prompt_text": "Find the correct sentence. The mistake sentence is: 'The market are clear.'",
+      "prompt_audio_text": "Find the mistake and choose the correction. Find the correct sentence. The mistake sentence is: 'The market are clear.'",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "The market is clear.",
+      "distractors": [
+        "The market are clear.",
+        "The market clear is.",
+        "Clear the market is."
+      ],
+      "choices": [
+        "The market are clear.",
+        "The market clear is.",
+        "The market is clear.",
+        "Clear the market is."
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to digraphs, blends and silent-e.",
+        "interventions_by_error_type": {
+          "grammar_agreement": "Mini-teach: model one example of digraphs, blends and silent-e, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0083-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0083-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0083-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The market is clear.",
+        "caption_text": "Find the correct sentence. The mistake sentence is: 'The market are clear.'",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Transcript
+
+Welcome to British English Academy B1-M05: Food, health and wellbeing. Learners practise handle travel and service situations through meals, choices, advice, body, wellness, appointments. The teacher models relative clauses, introduces vocabulary such as food groups, symptoms, healthy habits, advice, then learners complete quiz, evidence upload and reflection.

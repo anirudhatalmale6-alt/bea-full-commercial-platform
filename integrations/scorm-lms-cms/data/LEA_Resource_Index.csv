@@ -1,0 +1,671 @@
+section,course,level,module,resource_type,title,format,editable_text,adaptive_use
+CEFR Core Course,Starter English,A1,A1-M01,Teacher lesson plan,"A1-M01 Teacher lesson plan: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Learner worksheet,"A1-M01 Learner worksheet: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Vocabulary bank,"A1-M01 Vocabulary bank: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Speaking card set,"A1-M01 Speaking card set: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Writing frame,"A1-M01 Writing frame: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Listening script,"A1-M01 Listening script: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Reading text,"A1-M01 Reading text: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Quiz,"A1-M01 Quiz: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Answer key,"A1-M01 Answer key: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M01,Home practice pack,"A1-M01 Home practice pack: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Teacher lesson plan,"A1-M02 Teacher lesson plan: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Learner worksheet,"A1-M02 Learner worksheet: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Vocabulary bank,"A1-M02 Vocabulary bank: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Speaking card set,"A1-M02 Speaking card set: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Writing frame,"A1-M02 Writing frame: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Listening script,"A1-M02 Listening script: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Reading text,"A1-M02 Reading text: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Quiz,"A1-M02 Quiz: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Answer key,"A1-M02 Answer key: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M02,Home practice pack,"A1-M02 Home practice pack: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Teacher lesson plan,"A1-M03 Teacher lesson plan: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Learner worksheet,"A1-M03 Learner worksheet: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Vocabulary bank,"A1-M03 Vocabulary bank: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Speaking card set,"A1-M03 Speaking card set: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Writing frame,"A1-M03 Writing frame: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Listening script,"A1-M03 Listening script: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Reading text,"A1-M03 Reading text: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Quiz,"A1-M03 Quiz: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Answer key,"A1-M03 Answer key: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M03,Home practice pack,"A1-M03 Home practice pack: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Teacher lesson plan,"A1-M04 Teacher lesson plan: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Learner worksheet,"A1-M04 Learner worksheet: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Vocabulary bank,"A1-M04 Vocabulary bank: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Speaking card set,"A1-M04 Speaking card set: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Writing frame,"A1-M04 Writing frame: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Listening script,"A1-M04 Listening script: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Reading text,"A1-M04 Reading text: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Quiz,"A1-M04 Quiz: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Answer key,"A1-M04 Answer key: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M04,Home practice pack,"A1-M04 Home practice pack: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Teacher lesson plan,"A1-M05 Teacher lesson plan: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Learner worksheet,"A1-M05 Learner worksheet: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Vocabulary bank,"A1-M05 Vocabulary bank: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Speaking card set,"A1-M05 Speaking card set: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Writing frame,"A1-M05 Writing frame: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Listening script,"A1-M05 Listening script: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Reading text,"A1-M05 Reading text: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Quiz,"A1-M05 Quiz: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Answer key,"A1-M05 Answer key: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M05,Home practice pack,"A1-M05 Home practice pack: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Teacher lesson plan,"A1-M06 Teacher lesson plan: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Learner worksheet,"A1-M06 Learner worksheet: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Vocabulary bank,"A1-M06 Vocabulary bank: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Speaking card set,"A1-M06 Speaking card set: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Writing frame,"A1-M06 Writing frame: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Listening script,"A1-M06 Listening script: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Reading text,"A1-M06 Reading text: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Quiz,"A1-M06 Quiz: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Answer key,"A1-M06 Answer key: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M06,Home practice pack,"A1-M06 Home practice pack: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Teacher lesson plan,"A1-M07 Teacher lesson plan: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Learner worksheet,"A1-M07 Learner worksheet: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Vocabulary bank,"A1-M07 Vocabulary bank: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Speaking card set,"A1-M07 Speaking card set: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Writing frame,"A1-M07 Writing frame: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Listening script,"A1-M07 Listening script: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Reading text,"A1-M07 Reading text: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Quiz,"A1-M07 Quiz: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Answer key,"A1-M07 Answer key: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M07,Home practice pack,"A1-M07 Home practice pack: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Teacher lesson plan,"A1-M08 Teacher lesson plan: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Learner worksheet,"A1-M08 Learner worksheet: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Vocabulary bank,"A1-M08 Vocabulary bank: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Speaking card set,"A1-M08 Speaking card set: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Writing frame,"A1-M08 Writing frame: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Listening script,"A1-M08 Listening script: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Reading text,"A1-M08 Reading text: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Quiz,"A1-M08 Quiz: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Answer key,"A1-M08 Answer key: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M08,Home practice pack,"A1-M08 Home practice pack: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Teacher lesson plan,"A1-M09 Teacher lesson plan: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Learner worksheet,"A1-M09 Learner worksheet: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Vocabulary bank,"A1-M09 Vocabulary bank: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Speaking card set,"A1-M09 Speaking card set: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Writing frame,"A1-M09 Writing frame: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Listening script,"A1-M09 Listening script: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Reading text,"A1-M09 Reading text: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Quiz,"A1-M09 Quiz: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Answer key,"A1-M09 Answer key: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M09,Home practice pack,"A1-M09 Home practice pack: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Teacher lesson plan,A1-M10 Teacher lesson plan: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Learner worksheet,A1-M10 Learner worksheet: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Vocabulary bank,A1-M10 Vocabulary bank: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Speaking card set,A1-M10 Speaking card set: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Writing frame,A1-M10 Writing frame: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Listening script,A1-M10 Listening script: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Reading text,A1-M10 Reading text: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Quiz,A1-M10 Quiz: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Answer key,A1-M10 Answer key: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Starter English,A1,A1-M10,Home practice pack,A1-M10 Home practice pack: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Teacher lesson plan,"A2-M01 Teacher lesson plan: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Learner worksheet,"A2-M01 Learner worksheet: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Vocabulary bank,"A2-M01 Vocabulary bank: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Speaking card set,"A2-M01 Speaking card set: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Writing frame,"A2-M01 Writing frame: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Listening script,"A2-M01 Listening script: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Reading text,"A2-M01 Reading text: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Quiz,"A2-M01 Quiz: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Answer key,"A2-M01 Answer key: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M01,Home practice pack,"A2-M01 Home practice pack: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Teacher lesson plan,"A2-M02 Teacher lesson plan: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Learner worksheet,"A2-M02 Learner worksheet: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Vocabulary bank,"A2-M02 Vocabulary bank: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Speaking card set,"A2-M02 Speaking card set: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Writing frame,"A2-M02 Writing frame: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Listening script,"A2-M02 Listening script: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Reading text,"A2-M02 Reading text: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Quiz,"A2-M02 Quiz: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Answer key,"A2-M02 Answer key: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M02,Home practice pack,"A2-M02 Home practice pack: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Teacher lesson plan,"A2-M03 Teacher lesson plan: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Learner worksheet,"A2-M03 Learner worksheet: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Vocabulary bank,"A2-M03 Vocabulary bank: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Speaking card set,"A2-M03 Speaking card set: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Writing frame,"A2-M03 Writing frame: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Listening script,"A2-M03 Listening script: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Reading text,"A2-M03 Reading text: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Quiz,"A2-M03 Quiz: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Answer key,"A2-M03 Answer key: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M03,Home practice pack,"A2-M03 Home practice pack: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Teacher lesson plan,"A2-M04 Teacher lesson plan: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Learner worksheet,"A2-M04 Learner worksheet: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Vocabulary bank,"A2-M04 Vocabulary bank: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Speaking card set,"A2-M04 Speaking card set: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Writing frame,"A2-M04 Writing frame: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Listening script,"A2-M04 Listening script: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Reading text,"A2-M04 Reading text: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Quiz,"A2-M04 Quiz: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Answer key,"A2-M04 Answer key: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M04,Home practice pack,"A2-M04 Home practice pack: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Teacher lesson plan,"A2-M05 Teacher lesson plan: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Learner worksheet,"A2-M05 Learner worksheet: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Vocabulary bank,"A2-M05 Vocabulary bank: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Speaking card set,"A2-M05 Speaking card set: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Writing frame,"A2-M05 Writing frame: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Listening script,"A2-M05 Listening script: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Reading text,"A2-M05 Reading text: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Quiz,"A2-M05 Quiz: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Answer key,"A2-M05 Answer key: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M05,Home practice pack,"A2-M05 Home practice pack: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Teacher lesson plan,"A2-M06 Teacher lesson plan: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Learner worksheet,"A2-M06 Learner worksheet: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Vocabulary bank,"A2-M06 Vocabulary bank: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Speaking card set,"A2-M06 Speaking card set: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Writing frame,"A2-M06 Writing frame: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Listening script,"A2-M06 Listening script: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Reading text,"A2-M06 Reading text: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Quiz,"A2-M06 Quiz: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Answer key,"A2-M06 Answer key: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M06,Home practice pack,"A2-M06 Home practice pack: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Teacher lesson plan,"A2-M07 Teacher lesson plan: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Learner worksheet,"A2-M07 Learner worksheet: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Vocabulary bank,"A2-M07 Vocabulary bank: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Speaking card set,"A2-M07 Speaking card set: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Writing frame,"A2-M07 Writing frame: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Listening script,"A2-M07 Listening script: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Reading text,"A2-M07 Reading text: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Quiz,"A2-M07 Quiz: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Answer key,"A2-M07 Answer key: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M07,Home practice pack,"A2-M07 Home practice pack: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Teacher lesson plan,"A2-M08 Teacher lesson plan: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Learner worksheet,"A2-M08 Learner worksheet: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Vocabulary bank,"A2-M08 Vocabulary bank: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Speaking card set,"A2-M08 Speaking card set: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Writing frame,"A2-M08 Writing frame: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Listening script,"A2-M08 Listening script: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Reading text,"A2-M08 Reading text: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Quiz,"A2-M08 Quiz: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Answer key,"A2-M08 Answer key: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M08,Home practice pack,"A2-M08 Home practice pack: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Teacher lesson plan,"A2-M09 Teacher lesson plan: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Learner worksheet,"A2-M09 Learner worksheet: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Vocabulary bank,"A2-M09 Vocabulary bank: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Speaking card set,"A2-M09 Speaking card set: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Writing frame,"A2-M09 Writing frame: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Listening script,"A2-M09 Listening script: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Reading text,"A2-M09 Reading text: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Quiz,"A2-M09 Quiz: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Answer key,"A2-M09 Answer key: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M09,Home practice pack,"A2-M09 Home practice pack: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Teacher lesson plan,A2-M10 Teacher lesson plan: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Learner worksheet,A2-M10 Learner worksheet: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Vocabulary bank,A2-M10 Vocabulary bank: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Speaking card set,A2-M10 Speaking card set: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Writing frame,A2-M10 Writing frame: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Listening script,A2-M10 Listening script: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Reading text,A2-M10 Reading text: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Quiz,A2-M10 Quiz: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Answer key,A2-M10 Answer key: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Everyday English,A2,A2-M10,Home practice pack,A2-M10 Home practice pack: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Teacher lesson plan,"B1-M01 Teacher lesson plan: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Learner worksheet,"B1-M01 Learner worksheet: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Vocabulary bank,"B1-M01 Vocabulary bank: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Speaking card set,"B1-M01 Speaking card set: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Writing frame,"B1-M01 Writing frame: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Listening script,"B1-M01 Listening script: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Reading text,"B1-M01 Reading text: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Quiz,"B1-M01 Quiz: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Answer key,"B1-M01 Answer key: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M01,Home practice pack,"B1-M01 Home practice pack: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Teacher lesson plan,"B1-M02 Teacher lesson plan: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Learner worksheet,"B1-M02 Learner worksheet: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Vocabulary bank,"B1-M02 Vocabulary bank: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Speaking card set,"B1-M02 Speaking card set: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Writing frame,"B1-M02 Writing frame: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Listening script,"B1-M02 Listening script: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Reading text,"B1-M02 Reading text: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Quiz,"B1-M02 Quiz: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Answer key,"B1-M02 Answer key: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M02,Home practice pack,"B1-M02 Home practice pack: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Teacher lesson plan,"B1-M03 Teacher lesson plan: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Learner worksheet,"B1-M03 Learner worksheet: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Vocabulary bank,"B1-M03 Vocabulary bank: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Speaking card set,"B1-M03 Speaking card set: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Writing frame,"B1-M03 Writing frame: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Listening script,"B1-M03 Listening script: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Reading text,"B1-M03 Reading text: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Quiz,"B1-M03 Quiz: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Answer key,"B1-M03 Answer key: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M03,Home practice pack,"B1-M03 Home practice pack: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Teacher lesson plan,"B1-M04 Teacher lesson plan: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Learner worksheet,"B1-M04 Learner worksheet: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Vocabulary bank,"B1-M04 Vocabulary bank: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Speaking card set,"B1-M04 Speaking card set: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Writing frame,"B1-M04 Writing frame: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Listening script,"B1-M04 Listening script: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Reading text,"B1-M04 Reading text: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Quiz,"B1-M04 Quiz: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Answer key,"B1-M04 Answer key: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M04,Home practice pack,"B1-M04 Home practice pack: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Teacher lesson plan,"B1-M05 Teacher lesson plan: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Learner worksheet,"B1-M05 Learner worksheet: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Vocabulary bank,"B1-M05 Vocabulary bank: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Speaking card set,"B1-M05 Speaking card set: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Writing frame,"B1-M05 Writing frame: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Listening script,"B1-M05 Listening script: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Reading text,"B1-M05 Reading text: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Quiz,"B1-M05 Quiz: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Answer key,"B1-M05 Answer key: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M05,Home practice pack,"B1-M05 Home practice pack: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Teacher lesson plan,"B1-M06 Teacher lesson plan: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Learner worksheet,"B1-M06 Learner worksheet: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Vocabulary bank,"B1-M06 Vocabulary bank: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Speaking card set,"B1-M06 Speaking card set: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Writing frame,"B1-M06 Writing frame: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Listening script,"B1-M06 Listening script: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Reading text,"B1-M06 Reading text: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Quiz,"B1-M06 Quiz: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Answer key,"B1-M06 Answer key: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M06,Home practice pack,"B1-M06 Home practice pack: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Teacher lesson plan,"B1-M07 Teacher lesson plan: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Learner worksheet,"B1-M07 Learner worksheet: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Vocabulary bank,"B1-M07 Vocabulary bank: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Speaking card set,"B1-M07 Speaking card set: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Writing frame,"B1-M07 Writing frame: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Listening script,"B1-M07 Listening script: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Reading text,"B1-M07 Reading text: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Quiz,"B1-M07 Quiz: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Answer key,"B1-M07 Answer key: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M07,Home practice pack,"B1-M07 Home practice pack: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Teacher lesson plan,"B1-M08 Teacher lesson plan: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Learner worksheet,"B1-M08 Learner worksheet: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Vocabulary bank,"B1-M08 Vocabulary bank: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Speaking card set,"B1-M08 Speaking card set: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Writing frame,"B1-M08 Writing frame: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Listening script,"B1-M08 Listening script: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Reading text,"B1-M08 Reading text: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Quiz,"B1-M08 Quiz: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Answer key,"B1-M08 Answer key: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M08,Home practice pack,"B1-M08 Home practice pack: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Teacher lesson plan,"B1-M09 Teacher lesson plan: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Learner worksheet,"B1-M09 Learner worksheet: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Vocabulary bank,"B1-M09 Vocabulary bank: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Speaking card set,"B1-M09 Speaking card set: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Writing frame,"B1-M09 Writing frame: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Listening script,"B1-M09 Listening script: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Reading text,"B1-M09 Reading text: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Quiz,"B1-M09 Quiz: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Answer key,"B1-M09 Answer key: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M09,Home practice pack,"B1-M09 Home practice pack: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Teacher lesson plan,B1-M10 Teacher lesson plan: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Learner worksheet,B1-M10 Learner worksheet: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Vocabulary bank,B1-M10 Vocabulary bank: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Speaking card set,B1-M10 Speaking card set: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Writing frame,B1-M10 Writing frame: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Listening script,B1-M10 Listening script: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Reading text,B1-M10 Reading text: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Quiz,B1-M10 Quiz: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Answer key,B1-M10 Answer key: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Independent English,B1,B1-M10,Home practice pack,B1-M10 Home practice pack: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Teacher lesson plan,"B2-M01 Teacher lesson plan: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Learner worksheet,"B2-M01 Learner worksheet: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Vocabulary bank,"B2-M01 Vocabulary bank: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Speaking card set,"B2-M01 Speaking card set: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Writing frame,"B2-M01 Writing frame: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Listening script,"B2-M01 Listening script: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Reading text,"B2-M01 Reading text: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Quiz,"B2-M01 Quiz: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Answer key,"B2-M01 Answer key: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M01,Home practice pack,"B2-M01 Home practice pack: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Teacher lesson plan,"B2-M02 Teacher lesson plan: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Learner worksheet,"B2-M02 Learner worksheet: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Vocabulary bank,"B2-M02 Vocabulary bank: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Speaking card set,"B2-M02 Speaking card set: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Writing frame,"B2-M02 Writing frame: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Listening script,"B2-M02 Listening script: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Reading text,"B2-M02 Reading text: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Quiz,"B2-M02 Quiz: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Answer key,"B2-M02 Answer key: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M02,Home practice pack,"B2-M02 Home practice pack: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Teacher lesson plan,"B2-M03 Teacher lesson plan: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Learner worksheet,"B2-M03 Learner worksheet: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Vocabulary bank,"B2-M03 Vocabulary bank: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Speaking card set,"B2-M03 Speaking card set: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Writing frame,"B2-M03 Writing frame: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Listening script,"B2-M03 Listening script: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Reading text,"B2-M03 Reading text: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Quiz,"B2-M03 Quiz: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Answer key,"B2-M03 Answer key: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M03,Home practice pack,"B2-M03 Home practice pack: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Teacher lesson plan,"B2-M04 Teacher lesson plan: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Learner worksheet,"B2-M04 Learner worksheet: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Vocabulary bank,"B2-M04 Vocabulary bank: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Speaking card set,"B2-M04 Speaking card set: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Writing frame,"B2-M04 Writing frame: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Listening script,"B2-M04 Listening script: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Reading text,"B2-M04 Reading text: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Quiz,"B2-M04 Quiz: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Answer key,"B2-M04 Answer key: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M04,Home practice pack,"B2-M04 Home practice pack: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Teacher lesson plan,"B2-M05 Teacher lesson plan: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Learner worksheet,"B2-M05 Learner worksheet: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Vocabulary bank,"B2-M05 Vocabulary bank: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Speaking card set,"B2-M05 Speaking card set: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Writing frame,"B2-M05 Writing frame: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Listening script,"B2-M05 Listening script: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Reading text,"B2-M05 Reading text: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Quiz,"B2-M05 Quiz: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Answer key,"B2-M05 Answer key: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M05,Home practice pack,"B2-M05 Home practice pack: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Teacher lesson plan,"B2-M06 Teacher lesson plan: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Learner worksheet,"B2-M06 Learner worksheet: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Vocabulary bank,"B2-M06 Vocabulary bank: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Speaking card set,"B2-M06 Speaking card set: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Writing frame,"B2-M06 Writing frame: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Listening script,"B2-M06 Listening script: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Reading text,"B2-M06 Reading text: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Quiz,"B2-M06 Quiz: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Answer key,"B2-M06 Answer key: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M06,Home practice pack,"B2-M06 Home practice pack: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Teacher lesson plan,"B2-M07 Teacher lesson plan: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Learner worksheet,"B2-M07 Learner worksheet: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Vocabulary bank,"B2-M07 Vocabulary bank: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Speaking card set,"B2-M07 Speaking card set: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Writing frame,"B2-M07 Writing frame: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Listening script,"B2-M07 Listening script: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Reading text,"B2-M07 Reading text: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Quiz,"B2-M07 Quiz: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Answer key,"B2-M07 Answer key: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M07,Home practice pack,"B2-M07 Home practice pack: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Teacher lesson plan,"B2-M08 Teacher lesson plan: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Learner worksheet,"B2-M08 Learner worksheet: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Vocabulary bank,"B2-M08 Vocabulary bank: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Speaking card set,"B2-M08 Speaking card set: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Writing frame,"B2-M08 Writing frame: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Listening script,"B2-M08 Listening script: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Reading text,"B2-M08 Reading text: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Quiz,"B2-M08 Quiz: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Answer key,"B2-M08 Answer key: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M08,Home practice pack,"B2-M08 Home practice pack: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Teacher lesson plan,"B2-M09 Teacher lesson plan: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Learner worksheet,"B2-M09 Learner worksheet: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Vocabulary bank,"B2-M09 Vocabulary bank: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Speaking card set,"B2-M09 Speaking card set: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Writing frame,"B2-M09 Writing frame: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Listening script,"B2-M09 Listening script: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Reading text,"B2-M09 Reading text: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Quiz,"B2-M09 Quiz: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Answer key,"B2-M09 Answer key: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M09,Home practice pack,"B2-M09 Home practice pack: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Teacher lesson plan,B2-M10 Teacher lesson plan: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Learner worksheet,B2-M10 Learner worksheet: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Vocabulary bank,B2-M10 Vocabulary bank: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Speaking card set,B2-M10 Speaking card set: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Writing frame,B2-M10 Writing frame: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Listening script,B2-M10 Listening script: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Reading text,B2-M10 Reading text: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Quiz,B2-M10 Quiz: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Answer key,B2-M10 Answer key: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Upper Independent English,B2,B2-M10,Home practice pack,B2-M10 Home practice pack: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Teacher lesson plan,"C1-M01 Teacher lesson plan: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Learner worksheet,"C1-M01 Learner worksheet: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Vocabulary bank,"C1-M01 Vocabulary bank: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Speaking card set,"C1-M01 Speaking card set: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Writing frame,"C1-M01 Writing frame: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Listening script,"C1-M01 Listening script: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Reading text,"C1-M01 Reading text: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Quiz,"C1-M01 Quiz: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Answer key,"C1-M01 Answer key: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M01,Home practice pack,"C1-M01 Home practice pack: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Teacher lesson plan,"C1-M02 Teacher lesson plan: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Learner worksheet,"C1-M02 Learner worksheet: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Vocabulary bank,"C1-M02 Vocabulary bank: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Speaking card set,"C1-M02 Speaking card set: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Writing frame,"C1-M02 Writing frame: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Listening script,"C1-M02 Listening script: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Reading text,"C1-M02 Reading text: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Quiz,"C1-M02 Quiz: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Answer key,"C1-M02 Answer key: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M02,Home practice pack,"C1-M02 Home practice pack: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Teacher lesson plan,"C1-M03 Teacher lesson plan: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Learner worksheet,"C1-M03 Learner worksheet: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Vocabulary bank,"C1-M03 Vocabulary bank: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Speaking card set,"C1-M03 Speaking card set: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Writing frame,"C1-M03 Writing frame: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Listening script,"C1-M03 Listening script: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Reading text,"C1-M03 Reading text: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Quiz,"C1-M03 Quiz: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Answer key,"C1-M03 Answer key: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M03,Home practice pack,"C1-M03 Home practice pack: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Teacher lesson plan,"C1-M04 Teacher lesson plan: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Learner worksheet,"C1-M04 Learner worksheet: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Vocabulary bank,"C1-M04 Vocabulary bank: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Speaking card set,"C1-M04 Speaking card set: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Writing frame,"C1-M04 Writing frame: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Listening script,"C1-M04 Listening script: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Reading text,"C1-M04 Reading text: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Quiz,"C1-M04 Quiz: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Answer key,"C1-M04 Answer key: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M04,Home practice pack,"C1-M04 Home practice pack: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Teacher lesson plan,"C1-M05 Teacher lesson plan: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Learner worksheet,"C1-M05 Learner worksheet: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Vocabulary bank,"C1-M05 Vocabulary bank: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Speaking card set,"C1-M05 Speaking card set: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Writing frame,"C1-M05 Writing frame: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Listening script,"C1-M05 Listening script: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Reading text,"C1-M05 Reading text: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Quiz,"C1-M05 Quiz: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Answer key,"C1-M05 Answer key: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M05,Home practice pack,"C1-M05 Home practice pack: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Teacher lesson plan,"C1-M06 Teacher lesson plan: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Learner worksheet,"C1-M06 Learner worksheet: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Vocabulary bank,"C1-M06 Vocabulary bank: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Speaking card set,"C1-M06 Speaking card set: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Writing frame,"C1-M06 Writing frame: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Listening script,"C1-M06 Listening script: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Reading text,"C1-M06 Reading text: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Quiz,"C1-M06 Quiz: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Answer key,"C1-M06 Answer key: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M06,Home practice pack,"C1-M06 Home practice pack: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Teacher lesson plan,"C1-M07 Teacher lesson plan: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Learner worksheet,"C1-M07 Learner worksheet: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Vocabulary bank,"C1-M07 Vocabulary bank: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Speaking card set,"C1-M07 Speaking card set: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Writing frame,"C1-M07 Writing frame: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Listening script,"C1-M07 Listening script: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Reading text,"C1-M07 Reading text: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Quiz,"C1-M07 Quiz: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Answer key,"C1-M07 Answer key: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M07,Home practice pack,"C1-M07 Home practice pack: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Teacher lesson plan,"C1-M08 Teacher lesson plan: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Learner worksheet,"C1-M08 Learner worksheet: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Vocabulary bank,"C1-M08 Vocabulary bank: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Speaking card set,"C1-M08 Speaking card set: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Writing frame,"C1-M08 Writing frame: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Listening script,"C1-M08 Listening script: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Reading text,"C1-M08 Reading text: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Quiz,"C1-M08 Quiz: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Answer key,"C1-M08 Answer key: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M08,Home practice pack,"C1-M08 Home practice pack: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Teacher lesson plan,"C1-M09 Teacher lesson plan: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Learner worksheet,"C1-M09 Learner worksheet: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Vocabulary bank,"C1-M09 Vocabulary bank: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Speaking card set,"C1-M09 Speaking card set: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Writing frame,"C1-M09 Writing frame: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Listening script,"C1-M09 Listening script: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Reading text,"C1-M09 Reading text: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Quiz,"C1-M09 Quiz: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Answer key,"C1-M09 Answer key: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M09,Home practice pack,"C1-M09 Home practice pack: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Teacher lesson plan,C1-M10 Teacher lesson plan: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Learner worksheet,C1-M10 Learner worksheet: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Vocabulary bank,C1-M10 Vocabulary bank: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Speaking card set,C1-M10 Speaking card set: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Writing frame,C1-M10 Writing frame: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Listening script,C1-M10 Listening script: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Reading text,C1-M10 Reading text: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Quiz,C1-M10 Quiz: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Answer key,C1-M10 Answer key: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Advanced Academic and Professional English,C1,C1-M10,Home practice pack,C1-M10 Home practice pack: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Teacher lesson plan,"C2-M01 Teacher lesson plan: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Learner worksheet,"C2-M01 Learner worksheet: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Vocabulary bank,"C2-M01 Vocabulary bank: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Speaking card set,"C2-M01 Speaking card set: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Writing frame,"C2-M01 Writing frame: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Listening script,"C2-M01 Listening script: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Reading text,"C2-M01 Reading text: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Quiz,"C2-M01 Quiz: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Answer key,"C2-M01 Answer key: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M01,Home practice pack,"C2-M01 Home practice pack: Identity, goals and learner profile",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Teacher lesson plan,"C2-M02 Teacher lesson plan: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Learner worksheet,"C2-M02 Learner worksheet: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Vocabulary bank,"C2-M02 Vocabulary bank: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Speaking card set,"C2-M02 Speaking card set: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Writing frame,"C2-M02 Writing frame: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Listening script,"C2-M02 Listening script: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Reading text,"C2-M02 Reading text: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Quiz,"C2-M02 Quiz: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Answer key,"C2-M02 Answer key: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M02,Home practice pack,"C2-M02 Home practice pack: Family, community and relationships",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Teacher lesson plan,"C2-M03 Teacher lesson plan: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Learner worksheet,"C2-M03 Learner worksheet: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Vocabulary bank,"C2-M03 Vocabulary bank: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Speaking card set,"C2-M03 Speaking card set: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Writing frame,"C2-M03 Writing frame: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Listening script,"C2-M03 Listening script: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Reading text,"C2-M03 Reading text: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Quiz,"C2-M03 Quiz: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Answer key,"C2-M03 Answer key: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M03,Home practice pack,"C2-M03 Home practice pack: School, study and work",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Teacher lesson plan,"C2-M04 Teacher lesson plan: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Learner worksheet,"C2-M04 Learner worksheet: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Vocabulary bank,"C2-M04 Vocabulary bank: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Speaking card set,"C2-M04 Speaking card set: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Writing frame,"C2-M04 Writing frame: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Listening script,"C2-M04 Listening script: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Reading text,"C2-M04 Reading text: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Quiz,"C2-M04 Quiz: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Answer key,"C2-M04 Answer key: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M04,Home practice pack,"C2-M04 Home practice pack: Home, city and daily life",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Teacher lesson plan,"C2-M05 Teacher lesson plan: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Learner worksheet,"C2-M05 Learner worksheet: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Vocabulary bank,"C2-M05 Vocabulary bank: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Speaking card set,"C2-M05 Speaking card set: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Writing frame,"C2-M05 Writing frame: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Listening script,"C2-M05 Listening script: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Reading text,"C2-M05 Reading text: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Quiz,"C2-M05 Quiz: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Answer key,"C2-M05 Answer key: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M05,Home practice pack,"C2-M05 Home practice pack: Food, health and wellbeing",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Teacher lesson plan,"C2-M06 Teacher lesson plan: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Learner worksheet,"C2-M06 Learner worksheet: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Vocabulary bank,"C2-M06 Vocabulary bank: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Speaking card set,"C2-M06 Speaking card set: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Writing frame,"C2-M06 Writing frame: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Listening script,"C2-M06 Listening script: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Reading text,"C2-M06 Reading text: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Quiz,"C2-M06 Quiz: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Answer key,"C2-M06 Answer key: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M06,Home practice pack,"C2-M06 Home practice pack: Travel, cultures and the wider world",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Teacher lesson plan,"C2-M07 Teacher lesson plan: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Learner worksheet,"C2-M07 Learner worksheet: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Vocabulary bank,"C2-M07 Vocabulary bank: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Speaking card set,"C2-M07 Speaking card set: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Writing frame,"C2-M07 Writing frame: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Listening script,"C2-M07 Listening script: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Reading text,"C2-M07 Reading text: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Quiz,"C2-M07 Quiz: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Answer key,"C2-M07 Answer key: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M07,Home practice pack,"C2-M07 Home practice pack: Media, technology and digital citizenship",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Teacher lesson plan,"C2-M08 Teacher lesson plan: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Learner worksheet,"C2-M08 Learner worksheet: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Vocabulary bank,"C2-M08 Vocabulary bank: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Speaking card set,"C2-M08 Speaking card set: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Writing frame,"C2-M08 Writing frame: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Listening script,"C2-M08 Listening script: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Reading text,"C2-M08 Reading text: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Quiz,"C2-M08 Quiz: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Answer key,"C2-M08 Answer key: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M08,Home practice pack,"C2-M08 Home practice pack: Stories, literature and creative expression",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Teacher lesson plan,"C2-M09 Teacher lesson plan: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Learner worksheet,"C2-M09 Learner worksheet: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Vocabulary bank,"C2-M09 Vocabulary bank: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Speaking card set,"C2-M09 Speaking card set: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Writing frame,"C2-M09 Writing frame: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Listening script,"C2-M09 Listening script: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Reading text,"C2-M09 Reading text: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Quiz,"C2-M09 Quiz: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Answer key,"C2-M09 Answer key: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M09,Home practice pack,"C2-M09 Home practice pack: Problems, solutions and critical thinking",DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Teacher lesson plan,C2-M10 Teacher lesson plan: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Learner worksheet,C2-M10 Learner worksheet: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Vocabulary bank,C2-M10 Vocabulary bank: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Speaking card set,C2-M10 Speaking card set: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Writing frame,C2-M10 Writing frame: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Listening script,C2-M10 Listening script: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Reading text,C2-M10 Reading text: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Quiz,C2-M10 Quiz: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Answer key,C2-M10 Answer key: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+CEFR Core Course,Mastery English,C2,C2-M10,Home practice pack,C2-M10 Home practice pack: Portfolio project and progress review,DOCX/PDF/HTML,Yes,core/remediation/extension depending on score
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,teacher weekly plan,Pre-K teacher weekly plan,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,sound card set,Pre-K sound card set,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,phoneme awareness games,Pre-K phoneme awareness games,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,word-building mat,Pre-K word-building mat,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,sound boxes,Pre-K sound boxes,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,decodable reader,Pre-K decodable reader,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,fluency tracker,Pre-K fluency tracker,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,dictation sheet,Pre-K dictation sheet,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,vocabulary picture cards,Pre-K vocabulary picture cards,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,comprehension questions,Pre-K comprehension questions,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,home practice pack,Pre-K home practice pack,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,intervention note,Pre-K intervention note,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,progress report,Pre-K progress report,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Pre-K,EY,certificate,Pre-K certificate,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,teacher weekly plan,Kindergarten teacher weekly plan,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,sound card set,Kindergarten sound card set,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,phoneme awareness games,Kindergarten phoneme awareness games,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,word-building mat,Kindergarten word-building mat,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,sound boxes,Kindergarten sound boxes,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,decodable reader,Kindergarten decodable reader,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,fluency tracker,Kindergarten fluency tracker,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,dictation sheet,Kindergarten dictation sheet,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,vocabulary picture cards,Kindergarten vocabulary picture cards,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,comprehension questions,Kindergarten comprehension questions,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,home practice pack,Kindergarten home practice pack,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,intervention note,Kindergarten intervention note,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,progress report,Kindergarten progress report,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Kindergarten,EY,certificate,Kindergarten certificate,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,teacher weekly plan,Grade 1 teacher weekly plan,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,sound card set,Grade 1 sound card set,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,phoneme awareness games,Grade 1 phoneme awareness games,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,word-building mat,Grade 1 word-building mat,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,sound boxes,Grade 1 sound boxes,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,decodable reader,Grade 1 decodable reader,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,fluency tracker,Grade 1 fluency tracker,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,dictation sheet,Grade 1 dictation sheet,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,vocabulary picture cards,Grade 1 vocabulary picture cards,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,comprehension questions,Grade 1 comprehension questions,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,home practice pack,Grade 1 home practice pack,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,intervention note,Grade 1 intervention note,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,progress report,Grade 1 progress report,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 1,EY,certificate,Grade 1 certificate,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,teacher weekly plan,Grade 2 teacher weekly plan,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,sound card set,Grade 2 sound card set,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,phoneme awareness games,Grade 2 phoneme awareness games,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,word-building mat,Grade 2 word-building mat,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,sound boxes,Grade 2 sound boxes,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,decodable reader,Grade 2 decodable reader,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,fluency tracker,Grade 2 fluency tracker,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,dictation sheet,Grade 2 dictation sheet,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,vocabulary picture cards,Grade 2 vocabulary picture cards,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,comprehension questions,Grade 2 comprehension questions,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,home practice pack,Grade 2 home practice pack,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,intervention note,Grade 2 intervention note,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,progress report,Grade 2 progress report,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 2,EY,certificate,Grade 2 certificate,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,teacher weekly plan,Grade 3 teacher weekly plan,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,sound card set,Grade 3 sound card set,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,phoneme awareness games,Grade 3 phoneme awareness games,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,word-building mat,Grade 3 word-building mat,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,sound boxes,Grade 3 sound boxes,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,decodable reader,Grade 3 decodable reader,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,fluency tracker,Grade 3 fluency tracker,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,dictation sheet,Grade 3 dictation sheet,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,vocabulary picture cards,Grade 3 vocabulary picture cards,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,comprehension questions,Grade 3 comprehension questions,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,home practice pack,Grade 3 home practice pack,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,intervention note,Grade 3 intervention note,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,progress report,Grade 3 progress report,DOCX/PDF/HTML,Yes,core/intervention/parent support
+Early Years Structured Literacy,Structured Literacy,Grade 3,EY,certificate,Grade 3 certificate,DOCX/PDF/HTML,Yes,core/intervention/parent support

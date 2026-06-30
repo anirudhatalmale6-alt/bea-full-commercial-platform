@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0191",
+  "title": "Measurement: Area And Perimeter - Listen and Choose 3",
+  "grade_band": "Grade 3",
+  "mechanic": "Listen and Choose",
+  "learning_goal": "Learner can area and perimeter through a short guided listen and choose activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: expression.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: expression.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "expression",
+      "distractors": [
+        "strategy",
+        "fraction",
+        "argument"
+      ],
+      "choices": [
+        "strategy",
+        "fraction",
+        "expression",
+        "argument"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for expression",
+        "caption_text": "Choose the best answer for area and perimeter: expression.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: multiply.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: multiply.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "multiply",
+      "distractors": [
+        "audience",
+        "expression",
+        "improve"
+      ],
+      "choices": [
+        "audience",
+        "multiply",
+        "expression",
+        "improve"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for multiply",
+        "caption_text": "Choose the best answer for area and perimeter: multiply.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: divide.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: divide.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "divide",
+      "distractors": [
+        "opinion",
+        "strategy",
+        "analyse"
+      ],
+      "choices": [
+        "opinion",
+        "divide",
+        "strategy",
+        "analyse"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for divide",
+        "caption_text": "Choose the best answer for area and perimeter: divide.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: fraction.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: fraction.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "fraction",
+      "distractors": [
+        "conclusion",
+        "expression",
+        "evidence"
+      ],
+      "choices": [
+        "fraction",
+        "conclusion",
+        "expression",
+        "evidence"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for fraction",
+        "caption_text": "Choose the best answer for area and perimeter: fraction.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: estimate.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: estimate.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "estimate",
+      "distractors": [
+        "inference",
+        "accurate",
+        "analyse"
+      ],
+      "choices": [
+        "estimate",
+        "inference",
+        "accurate",
+        "analyse"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for estimate",
+        "caption_text": "Choose the best answer for area and perimeter: estimate.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: analyse.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: analyse.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "analyse",
+      "distractors": [
+        "purpose",
+        "divide",
+        "audience"
+      ],
+      "choices": [
+        "purpose",
+        "analyse",
+        "divide",
+        "audience"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for analyse",
+        "caption_text": "Choose the best answer for area and perimeter: analyse.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: reflect.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: reflect.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "reflect",
+      "distractors": [
+        "contrast",
+        "accurate",
+        "argument"
+      ],
+      "choices": [
+        "contrast",
+        "accurate",
+        "argument",
+        "reflect"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for reflect",
+        "caption_text": "Choose the best answer for area and perimeter: reflect.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: improve.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: improve.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "improve",
+      "distractors": [
+        "summarise",
+        "argument",
+        "multiply"
+      ],
+      "choices": [
+        "summarise",
+        "improve",
+        "argument",
+        "multiply"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for improve",
+        "caption_text": "Choose the best answer for area and perimeter: improve.",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: argument.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: argument.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "argument",
+      "distractors": [
+        "conclusion",
+        "reflect",
+        "opinion"
+      ],
+      "choices": [
+        "conclusion",
+        "argument",
+        "reflect",
+        "opinion"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for argument",
+        "caption_text": "Choose the best answer for area and perimeter: argument.",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0191-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0191",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Measurement",
+      "skill_code": "EY-GRA-MAT-MEA-03",
+      "mechanic": "Listen and Choose",
+      "prompt_text": "Choose the best answer for area and perimeter: opinion.",
+      "prompt_audio_text": "Listen carefully and choose the best answer. Choose the best answer for area and perimeter: opinion.",
+      "answer_format": "text",
+      "item_type": "single_choice",
+      "correct_answer": "opinion",
+      "distractors": [
+        "improve",
+        "expression",
+        "multiply"
+      ],
+      "choices": [
+        "improve",
+        "opinion",
+        "expression",
+        "multiply"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to area and perimeter.",
+        "interventions_by_error_type": {
+          "conceptual_misread": "Mini-teach: model one example of area and perimeter, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0191-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0191-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0191-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for opinion",
+        "caption_text": "Choose the best answer for area and perimeter: opinion.",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

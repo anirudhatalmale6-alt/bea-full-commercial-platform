@@ -1,0 +1,562 @@
+{
+  "activity_id": "LEA-EY-ACT-0160",
+  "title": "Data: Graphs And Word Problems - Sort It 4",
+  "grade_band": "Grade 2",
+  "mechanic": "Sort It",
+  "learning_goal": "Learner can graphs and word problems through a short guided sort it activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "pencil",
+      "distractors": [
+        "lion",
+        "cat",
+        "bird"
+      ],
+      "choices": [
+        "lion",
+        "cat",
+        "pencil",
+        "bird"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pencil",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "bird",
+      "distractors": [
+        "book",
+        "window",
+        "bag"
+      ],
+      "choices": [
+        "bird",
+        "book",
+        "window",
+        "bag"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bird",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "chair",
+      "distractors": [
+        "rabbit",
+        "horse",
+        "frog"
+      ],
+      "choices": [
+        "rabbit",
+        "horse",
+        "frog",
+        "chair"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for chair",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "frog",
+      "distractors": [
+        "chair",
+        "window",
+        "crayon"
+      ],
+      "choices": [
+        "chair",
+        "window",
+        "frog",
+        "crayon"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for frog",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "door",
+      "distractors": [
+        "rabbit",
+        "dog",
+        "frog"
+      ],
+      "choices": [
+        "rabbit",
+        "dog",
+        "frog",
+        "door"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for door",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "rabbit",
+      "distractors": [
+        "table",
+        "crayon",
+        "window"
+      ],
+      "choices": [
+        "table",
+        "crayon",
+        "rabbit",
+        "window"
+      ],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for rabbit",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "crayon",
+      "distractors": [
+        "lion",
+        "cat",
+        "fish"
+      ],
+      "choices": [
+        "lion",
+        "crayon",
+        "cat",
+        "fish"
+      ],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for crayon",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "cat",
+      "distractors": [
+        "table",
+        "door",
+        "crayon"
+      ],
+      "choices": [
+        "table",
+        "door",
+        "cat",
+        "crayon"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for cat",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'school objects'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'school objects'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "pencil",
+      "distractors": [
+        "fish",
+        "horse",
+        "frog"
+      ],
+      "choices": [
+        "fish",
+        "horse",
+        "frog",
+        "pencil"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for pencil",
+        "caption_text": "Sort the card into 'school objects'. Which card belongs?",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0160-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0160",
+      "activity_version": "1.2",
+      "grade_band": "Grade 2",
+      "strand": "Data",
+      "skill_code": "EY-GRA-MAT-DAT-04",
+      "mechanic": "Sort It",
+      "prompt_text": "Sort the card into 'animals'. Which card belongs?",
+      "prompt_audio_text": "Sort the cards into the correct group. Sort the card into 'animals'. Which card belongs?",
+      "answer_format": "text",
+      "item_type": "sort",
+      "correct_answer": "bird",
+      "distractors": [
+        "pencil",
+        "crayon",
+        "book"
+      ],
+      "choices": [
+        "pencil",
+        "crayon",
+        "book",
+        "bird"
+      ],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to graphs and word problems.",
+        "interventions_by_error_type": {
+          "category_confusion": "Mini-teach: model one example of graphs and word problems, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0160-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0160-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0160-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for bird",
+        "caption_text": "Sort the card into 'animals'. Which card belongs?",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

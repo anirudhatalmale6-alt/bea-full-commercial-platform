@@ -1,0 +1,472 @@
+{
+  "activity_id": "LEA-EY-ACT-0177",
+  "title": "Comprehension: Inference And Evidence - Read and Record 1",
+  "grade_band": "Grade 3",
+  "mechanic": "Read and Record",
+  "learning_goal": "Learner can inference and evidence through a short guided read and record activity.",
+  "mastery_rule": "Mastered at accuracy >= 0.85, prompt_level <= 2, across 2 completed sessions",
+  "remediation_trigger": "Route to targeted mini-teach if accuracy < 0.70 after 5 items, consecutive_same_error_count >= 2, or response_time_seconds > baseline_average_response_time_seconds * 1.50 and accuracy == 1.0",
+  "extension_unlock": "Unlock challenge when accuracy >= 0.90, prompt_level <= 1, and response_time_seconds <= baseline_average_response_time_seconds * 1.10",
+  "items": [
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-01",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word reflect using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word reflect using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word reflect using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-01-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-01.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-01.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word reflect using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word reflect using a reason and an example.",
+        "keyboard_focus_order": 1
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-02",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word improve using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word improve using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word improve using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-02-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-02.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-02.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word improve using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word improve using a reason and an example.",
+        "keyboard_focus_order": 2
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-03",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word argument using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word argument using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word argument using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-03-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-03.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-03.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word argument using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word argument using a reason and an example.",
+        "keyboard_focus_order": 3
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-04",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word opinion using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word opinion using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word opinion using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-04-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-04.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-04.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word opinion using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word opinion using a reason and an example.",
+        "keyboard_focus_order": 4
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-05",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word evidence using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word evidence using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word evidence using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-05-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-05.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-05.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word evidence using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word evidence using a reason and an example.",
+        "keyboard_focus_order": 5
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-06",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word conclusion using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word conclusion using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word conclusion using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-06-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-06.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-06.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word conclusion using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word conclusion using a reason and an example.",
+        "keyboard_focus_order": 6
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-07",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word contrast using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word contrast using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word contrast using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-07-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-07.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-07.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word contrast using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word contrast using a reason and an example.",
+        "keyboard_focus_order": 7
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-08",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word summarise using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word summarise using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word summarise using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Great work. You listened carefully.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-08-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-08.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-08.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word summarise using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word summarise using a reason and an example.",
+        "keyboard_focus_order": 8
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-09",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word inference using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word inference using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word inference using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Well done. You chose the best answer.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-09-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-09.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-09.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word inference using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word inference using a reason and an example.",
+        "keyboard_focus_order": 9
+      }
+    },
+    {
+      "item_id": "LEA-EY-ACT-0177-ITEM-10",
+      "activity_id": "LEA-EY-ACT-0177",
+      "activity_version": "1.2",
+      "grade_band": "Grade 3",
+      "strand": "Comprehension",
+      "skill_code": "EY-GRA-LIT-COM-01",
+      "mechanic": "Read and Record",
+      "prompt_text": "Read and record: The learner can explain the word purpose using a reason and an example.",
+      "prompt_audio_text": "Read aloud clearly, then record your voice. Read and record: The learner can explain the word purpose using a reason and an example.",
+      "answer_format": "rubric_score",
+      "item_type": "oral_recording",
+      "correct_answer": "The learner can explain the word purpose using a reason and an example.",
+      "distractors": [],
+      "choices": [],
+      "feedback": {
+        "correct": "Excellent. You are ready for the next item.",
+        "incorrect": "Try again. Listen once more, use the hint, and choose carefully.",
+        "hint": "Look for the clue linked to inference and evidence.",
+        "interventions_by_error_type": {
+          "fluency_or_pronunciation": "Mini-teach: model one example of inference and evidence, practise one guided item, then return to the task.",
+          "slow_correct": "Praise accuracy, remove time pressure, and build fluency with two repeated examples.",
+          "multiple_attempts": "Reduce choices to two and replay the audio prompt."
+        }
+      },
+      "assets": {
+        "illustrated_card_svg": "/media/cards/svg/LEA-EY-ACT-0177-ITEM-10-CARD.svg",
+        "success_animation": "/media/animations/lottie/success_star.json",
+        "audio_ssml": "/media/audio/ssml/LEA-EY-ACT-0177-ITEM-10.ssml",
+        "audio_target_url": "/media/audio/mp3/LEA-EY-ACT-0177-ITEM-10.mp3"
+      },
+      "telemetry_expected": [
+        "accuracy",
+        "prompt_level",
+        "response_time_seconds",
+        "attempt_count",
+        "error_type",
+        "hint_count",
+        "audio_replay_count"
+      ],
+      "accessibility": {
+        "alt_text": "Illustrated card for The learner can explain the word purpose using a reason and an example.",
+        "caption_text": "Read and record: The learner can explain the word purpose using a reason and an example.",
+        "keyboard_focus_order": 10
+      }
+    }
+  ]
+}

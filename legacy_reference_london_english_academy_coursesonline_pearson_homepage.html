@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>British English Academy | CEFR English Courses & Placement Test</title>
+  <meta name="description" content="British English Academy CEFR-aligned ESL course marketplace and adaptive paid placement test." />
+  <style>
+    :root {
+      --pearson-purple: #361163;
+      --pearson-plum: #52237f;
+      --pearson-lilac: #efe7f7;
+      --pearson-teal: #00a7a3;
+      --pearson-mint: #dff8f6;
+      --pearson-yellow: #ffb81c;
+      --pearson-coral: #ff6955;
+      --ink: #17121f;
+      --muted: #6e6578;
+      --line: #e8e0ef;
+      --paper: #ffffff;
+      --soft: #faf7fd;
+      --shadow: 0 20px 55px rgba(54, 17, 99, 0.14);
+      --radius: 24px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      background: var(--soft);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; text-decoration: none; }
+    button, input, select { font: inherit; }
+
+    .top-strip {
+      background: var(--pearson-purple);
+      color: white;
+      font-size: 13px;
+      font-weight: 750;
+    }
+    .top-strip-inner {
+      width: min(1200px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 9px 0;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: center;
+    }
+    .top-strip a { color: #fff; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+
+    .nav {
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+      position: sticky;
+      top: 0;
+      z-index: 30;
+    }
+    .nav-inner {
+      width: min(1200px, calc(100% - 32px));
+      margin: 0 auto;
+      height: 78px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 22px;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-weight: 950;
+      letter-spacing: -0.04em;
+      color: var(--pearson-purple);
+      font-size: 22px;
+      white-space: nowrap;
+    }
+    .brand-mark {
+      width: 50px;
+      height: 50px;
+      border-radius: 16px;
+      background:
+        radial-gradient(circle at 70% 18%, var(--pearson-yellow), transparent 28%),
+        linear-gradient(135deg, var(--pearson-purple), var(--pearson-teal));
+      display: grid;
+      place-items: center;
+      color: white;
+      font-weight: 950;
+      font-size: 15px;
+      box-shadow: 0 15px 36px rgba(54, 17, 99, 0.22);
+    }
+    .menu {
+      display: flex;
+      gap: 22px;
+      align-items: center;
+      color: #3b3247;
+      font-size: 14px;
+      font-weight: 850;
+    }
+    .menu a:hover { color: var(--pearson-purple); }
+    .nav-cta {
+      background: var(--pearson-purple);
+      color: white;
+      padding: 12px 18px;
+      border-radius: 999px;
+      box-shadow: 0 10px 22px rgba(54, 17, 99, 0.18);
+    }
+
+    .hero {
+      background:
+        radial-gradient(circle at 10% 25%, rgba(0, 167, 163, 0.22), transparent 28%),
+        radial-gradient(circle at 90% 12%, rgba(255, 184, 28, 0.32), transparent 23%),
+        linear-gradient(118deg, #f5effb 0%, #ffffff 44%, #e7fbf9 100%);
+      border-bottom: 1px solid var(--line);
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::after {
+      content: "";
+      position: absolute;
+      right: -110px;
+      bottom: -170px;
+      width: 520px;
+      height: 520px;
+      border-radius: 999px;
+      background: rgba(82, 35, 127, 0.08);
+      border: 42px solid rgba(0, 167, 163, 0.10);
+    }
+    .hero-inner {
+      width: min(1200px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 70px 0 74px;
+      position: relative;
+      z-index: 2;
+      display: grid;
+      grid-template-columns: 1.05fr 0.95fr;
+      gap: 44px;
+      align-items: center;
+    }
+    .crumb {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 8px 13px;
+      color: var(--pearson-purple);
+      font-weight: 900;
+      font-size: 13px;
+      box-shadow: 0 10px 28px rgba(54, 17, 99, 0.08);
+      margin-bottom: 20px;
+    }
+    .pulse {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      background: var(--pearson-teal);
+      box-shadow: 0 0 0 6px rgba(0, 167, 163, .15);
+    }
+    h1 {
+      color: var(--pearson-purple);
+      font-size: clamp(42px, 6vw, 76px);
+      line-height: 0.96;
+      letter-spacing: -0.075em;
+      margin-bottom: 20px;
+      max-width: 770px;
+    }
+    .lead {
+      color: #46394f;
+      font-size: 19px;
+      max-width: 710px;
+      margin-bottom: 28px;
+    }
+
+    .navigator {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 30px;
+      padding: 22px;
+      box-shadow: var(--shadow);
+      max-width: 860px;
+    }
+    .navigator-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 15px;
+    }
+    .navigator-title {
+      color: var(--pearson-purple);
+      font-size: 20px;
+      font-weight: 950;
+      letter-spacing: -0.04em;
+    }
+    .navigator-note {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 750;
+    }
+    .search-grid {
+      display: grid;
+      grid-template-columns: 1.25fr 0.8fr 0.8fr auto;
+      gap: 10px;
+    }
+    .field {
+      min-height: 54px;
+      border: 1px solid var(--line);
+      background: var(--soft);
+      border-radius: 16px;
+      padding: 0 15px;
+      color: var(--ink);
+      outline: none;
+      font-weight: 750;
+      width: 100%;
+    }
+    .field:focus { border-color: var(--pearson-teal); box-shadow: 0 0 0 4px rgba(0, 167, 163, 0.12); }
+    .search-btn {
+      min-height: 54px;
+      border: none;
+      border-radius: 16px;
+      padding: 0 22px;
+      background: var(--pearson-teal);
+      color: #fff;
+      font-weight: 950;
+      cursor: pointer;
+      box-shadow: 0 14px 30px rgba(0, 167, 163, 0.23);
+    }
+
+    .goal-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .goal-pill {
+      border: 1px solid var(--line);
+      background: white;
+      color: var(--pearson-purple);
+      border-radius: 999px;
+      padding: 9px 13px;
+      font-size: 13px;
+      font-weight: 900;
+    }
+    .goal-pill.primary { background: var(--pearson-lilac); border-color: #ddc9ef; }
+
+    .placement-card {
+      background: var(--pearson-purple);
+      color: white;
+      border-radius: 32px;
+      padding: 26px;
+      box-shadow: 0 26px 62px rgba(54, 17, 99, 0.28);
+      position: relative;
+      overflow: hidden;
+    }
+    .placement-card::before {
+      content: "";
+      position: absolute;
+      right: -80px;
+      top: -80px;
+      width: 220px;
+      height: 220px;
+      border-radius: 999px;
+      background: rgba(255, 184, 28, 0.20);
+    }
+    .placement-card > * { position: relative; z-index: 2; }
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,.13);
+      border: 1px solid rgba(255,255,255,.18);
+      color: white;
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-weight: 900;
+      font-size: 12px;
+      margin-bottom: 18px;
+    }
+    .placement-card h2 {
+      font-size: 34px;
+      line-height: 1.02;
+      letter-spacing: -0.055em;
+      margin-bottom: 12px;
+    }
+    .placement-card p {
+      color: rgba(255,255,255,0.82);
+      margin-bottom: 18px;
+      font-size: 16px;
+    }
+    .test-features {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      margin: 20px 0;
+    }
+    .test-feature {
+      background: rgba(255,255,255,.10);
+      border: 1px solid rgba(255,255,255,.14);
+      border-radius: 16px;
+      padding: 12px;
+      font-size: 13px;
+      font-weight: 850;
+    }
+    .test-feature strong { display: block; color: var(--pearson-yellow); font-size: 18px; }
+    .primary-cta, .secondary-cta {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 54px;
+      border-radius: 16px;
+      padding: 0 20px;
+      font-weight: 950;
+      margin-right: 8px;
+      margin-top: 7px;
+    }
+    .primary-cta { background: var(--pearson-yellow); color: var(--pearson-purple); }
+    .secondary-cta { background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.20); color: white; }
+
+    .section {
+      width: min(1200px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 64px 0;
+    }
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: end;
+      margin-bottom: 24px;
+    }
+    .section h2 {
+      color: var(--pearson-purple);
+      font-size: clamp(30px, 4vw, 48px);
+      line-height: 1;
+      letter-spacing: -0.06em;
+      margin-bottom: 8px;
+    }
+    .section p.section-copy {
+      color: var(--muted);
+      font-size: 17px;
+      max-width: 720px;
+    }
+    .view-link {
+      color: var(--pearson-purple);
+      font-weight: 950;
+      white-space: nowrap;
+      text-decoration: underline;
+      text-underline-offset: 4px;
+    }
+
+    .subject-grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 14px;
+    }
+    .subject-card {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 18px 14px;
+      box-shadow: 0 12px 32px rgba(54, 17, 99, .07);
+      min-height: 126px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform .2s ease, box-shadow .2s ease;
+    }
+    .subject-card:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+    .subject-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 15px;
+      display: grid;
+      place-items: center;
+      background: var(--pearson-mint);
+      color: var(--pearson-purple);
+      font-size: 23px;
+    }
+    .subject-card h3 {
+      font-size: 15px;
+      line-height: 1.15;
+      color: var(--ink);
+      letter-spacing: -0.02em;
+    }
+    .subject-card span { color: var(--muted); font-size: 12px; font-weight: 850; }
+
+    .course-strip {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+    }
+    .course-card {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 26px;
+      overflow: hidden;
+      box-shadow: 0 18px 46px rgba(54, 17, 99, .08);
+    }
+    .course-top {
+      height: 118px;
+      background:
+        radial-gradient(circle at 85% 10%, rgba(255,184,28,.55), transparent 24%),
+        linear-gradient(135deg, var(--pearson-purple), var(--pearson-plum));
+      padding: 18px;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+    }
+    .course-level {
+      background: rgba(255,255,255,.14);
+      border: 1px solid rgba(255,255,255,.18);
+      border-radius: 999px;
+      padding: 7px 10px;
+      font-size: 12px;
+      font-weight: 950;
+    }
+    .course-badge {
+      background: var(--pearson-yellow);
+      color: var(--pearson-purple);
+      border-radius: 999px;
+      padding: 7px 10px;
+      font-size: 12px;
+      font-weight: 950;
+    }
+    .course-body { padding: 20px; }
+    .course-body h3 {
+      color: var(--pearson-purple);
+      font-size: 22px;
+      line-height: 1.06;
+      letter-spacing: -0.045em;
+      margin-bottom: 10px;
+    }
+    .course-body p { color: var(--muted); font-size: 15px; margin-bottom: 16px; }
+    .course-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 17px;
+    }
+    .mini-pill {
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 7px 10px;
+      font-size: 12px;
+      font-weight: 850;
+      color: #493a56;
+    }
+    .course-link {
+      display: block;
+      text-align: center;
+      background: var(--pearson-teal);
+      color: white;
+      border-radius: 14px;
+      padding: 12px;
+      font-weight: 950;
+    }
+
+    .levels {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 12px;
+    }
+    .level-card {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 18px 14px;
+      text-align: center;
+      box-shadow: 0 10px 28px rgba(54, 17, 99, .06);
+    }
+    .level-card strong {
+      display: block;
+      color: var(--pearson-purple);
+      font-size: 32px;
+      letter-spacing: -0.06em;
+    }
+    .level-card span {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 850;
+    }
+
+    .split-panel {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 34px;
+      box-shadow: var(--shadow);
+      padding: 34px;
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 28px;
+      align-items: center;
+    }
+    .quote-box {
+      background: var(--pearson-lilac);
+      border: 1px solid #ddc9ef;
+      border-radius: 26px;
+      padding: 26px;
+    }
+    .quote-box h3 {
+      color: var(--pearson-purple);
+      font-size: 30px;
+      line-height: 1;
+      letter-spacing: -0.055em;
+      margin-bottom: 12px;
+    }
+    .workflow {
+      display: grid;
+      gap: 12px;
+    }
+    .workflow-step {
+      display: grid;
+      grid-template-columns: 44px 1fr;
+      gap: 13px;
+      align-items: start;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 14px;
+      background: #fff;
+    }
+    .num {
+      width: 44px;
+      height: 44px;
+      border-radius: 15px;
+      display: grid;
+      place-items: center;
+      background: var(--pearson-teal);
+      color: white;
+      font-weight: 950;
+    }
+    .workflow-step strong { display: block; color: var(--pearson-purple); font-size: 17px; margin-bottom: 3px; }
+    .workflow-step span { color: var(--muted); font-size: 14px; }
+
+    .footer {
+      background: var(--pearson-purple);
+      color: white;
+      margin-top: 48px;
+      padding: 48px 0 30px;
+    }
+    .footer-inner {
+      width: min(1200px, calc(100% - 32px));
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1.1fr repeat(3, 0.7fr);
+      gap: 30px;
+    }
+    .footer h3, .footer h4 { margin-bottom: 12px; }
+    .footer p, .footer a { color: rgba(255,255,255,.78); font-size: 14px; display: block; margin-bottom: 8px; }
+    .small-print {
+      width: min(1200px, calc(100% - 32px));
+      margin: 24px auto 0;
+      border-top: 1px solid rgba(255,255,255,.16);
+      padding-top: 18px;
+      color: rgba(255,255,255,.65);
+      font-size: 12px;
+    }
+
+    @media (max-width: 980px) {
+      .menu { display: none; }
+      .hero-inner, .split-panel { grid-template-columns: 1fr; }
+      .search-grid { grid-template-columns: 1fr; }
+      .subject-grid { grid-template-columns: repeat(3, 1fr); }
+      .course-strip { grid-template-columns: 1fr; }
+      .levels { grid-template-columns: repeat(3, 1fr); }
+      .footer-inner { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 560px) {
+      .top-strip-inner { flex-direction: column; align-items: flex-start; }
+      .brand { font-size: 18px; }
+      .brand-mark { width: 44px; height: 44px; }
+      .hero-inner { padding: 46px 0 54px; }
+      h1 { font-size: 43px; }
+      .subject-grid { grid-template-columns: repeat(2, 1fr); }
+      .levels { grid-template-columns: repeat(2, 1fr); }
+      .test-features { grid-template-columns: 1fr; }
+      .section-head { display: block; }
+      .footer-inner { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="top-strip">
+    <div class="top-strip-inner">
+      <span>British English Academy · CEFR-aligned English placement and courses</span>
+      <a href="/fitness-for-purpose">View CEFR relationship and fitness-for-purpose statement</a>
+    </div>
+  </div>
+
+  <nav class="nav" aria-label="Main navigation">
+    <div class="nav-inner">
+      <a class="brand" href="/" aria-label="British English Academy home">
+        <span class="brand-mark">LEA</span>
+        <span>British English Academy</span>
+      </a>
+      <div class="menu">
+        <a href="#subjects">Courses by Skill</a>
+        <a href="#popular">Popular Courses</a>
+        <a href="#levels">CEFR Levels</a>
+        <a href="#how">How It Works</a>
+        <a class="nav-cta" href="/checkout/placement">Take Placement Test</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <div>
+        <div class="crumb"><span class="pulse"></span> Paid adaptive placement test first</div>
+        <h1>Browse English courses. Find your level in minutes.</h1>
+        <p class="lead">
+          Choose a learning goal, compare CEFR-aligned English pathways, then take the British English Academy
+          paid adaptive placement test to receive your score report, certificate and recommended course level.
+        </p>
+
+        <form class="navigator" action="/courses" method="get" aria-label="Course navigator">
+          <div class="navigator-head">
+            <div>
+              <div class="navigator-title">Course Navigator</div>
+              <div class="navigator-note">Refine your English pathway in under 30 seconds.</div>
+            </div>
+            <a class="view-link" href="/courses">See all courses</a>
+          </div>
+
+          <div class="search-grid">
+            <input class="field" name="q" placeholder="What do you want to improve? e.g. Speaking, IELTS, Workplace English" />
+            <select class="field" name="goal" aria-label="Learning goal">
+              <option>Learning goal</option>
+              <option>Study abroad</option>
+              <option>Career growth</option>
+              <option>School support</option>
+              <option>General fluency</option>
+            </select>
+            <select class="field" name="level" aria-label="CEFR level">
+              <option>Current level</option>
+              <option>A1 Beginner</option>
+              <option>A2 Elementary</option>
+              <option>B1 Intermediate</option>
+              <option>B2 Upper Intermediate</option>
+              <option>C1 Advanced</option>
+              <option>C2 Mastery</option>
+              <option>I do not know</option>
+            </select>
+            <button class="search-btn" type="submit">Find Courses</button>
+          </div>
+
+          <div class="goal-row" aria-label="Quick goals">
+            <a class="goal-pill primary" href="/checkout/placement">Start with placement test</a>
+            <a class="goal-pill" href="/courses?goal=career">Career English</a>
+            <a class="goal-pill" href="/courses?goal=university">University preparation</a>
+            <a class="goal-pill" href="/courses?goal=speaking">Speaking confidence</a>
+            <a class="goal-pill" href="/courses?goal=writing">Academic writing</a>
+          </div>
+        </form>
+      </div>
+
+      <aside class="placement-card" aria-label="Placement test summary">
+        <div class="tag">⚡ BEA CEFR Placement Test</div>
+        <h2>Place learners at the right level, fast.</h2>
+        <p>
+          A paid online placement experience designed for general international English, with adaptive routing,
+          skill-by-skill feedback and course recommendations.
+        </p>
+        <div class="test-features">
+          <div class="test-feature"><strong>A1–C2</strong> CEFR bands</div>
+          <div class="test-feature"><strong>≤30m</strong> test time</div>
+          <div class="test-feature"><strong>4 skills</strong> reading, writing, listening, speaking</div>
+          <div class="test-feature"><strong>Report</strong> certificate + pathway</div>
+        </div>
+        <a class="primary-cta" href="/checkout/placement">Take Paid Test →</a>
+        <a class="secondary-cta" href="/sample-report">View Sample Report</a>
+      </aside>
+    </div>
+  </header>
+
+  <main>
+    <section id="subjects" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Popular English skill areas</h2>
+          <p class="section-copy">A course-marketplace structure for learners, parents, schools and employers.</p>
+        </div>
+        <a class="view-link" href="/subjects">See all skill areas</a>
+      </div>
+
+      <div class="subject-grid">
+        <a class="subject-card" href="/courses/speaking"><div class="subject-icon">🗣️</div><h3>Speaking Fluency</h3><span>42 lessons</span></a>
+        <a class="subject-card" href="/courses/listening"><div class="subject-icon">🎧</div><h3>Listening Skills</h3><span>36 lessons</span></a>
+        <a class="subject-card" href="/courses/reading"><div class="subject-icon">📖</div><h3>Reading Skills</h3><span>48 lessons</span></a>
+        <a class="subject-card" href="/courses/writing"><div class="subject-icon">✍️</div><h3>Writing Skills</h3><span>54 lessons</span></a>
+        <a class="subject-card" href="/courses/grammar"><div class="subject-icon">🧩</div><h3>Grammar Builder</h3><span>60 lessons</span></a>
+        <a class="subject-card" href="/courses/vocabulary"><div class="subject-icon">🧠</div><h3>Vocabulary</h3><span>72 activities</span></a>
+        <a class="subject-card" href="/courses/ielts"><div class="subject-icon">🎓</div><h3>IELTS Pathway</h3><span>B1–C1</span></a>
+        <a class="subject-card" href="/courses/business"><div class="subject-icon">💼</div><h3>Business English</h3><span>A2–C1</span></a>
+        <a class="subject-card" href="/courses/young-learners"><div class="subject-icon">🌟</div><h3>Young Learners</h3><span>A1–B1</span></a>
+        <a class="subject-card" href="/courses/academic"><div class="subject-icon">🏛️</div><h3>Academic English</h3><span>B2–C2</span></a>
+        <a class="subject-card" href="/courses/pronunciation"><div class="subject-icon">🔊</div><h3>Pronunciation</h3><span>30 drills</span></a>
+        <a class="subject-card" href="/courses/workplace"><div class="subject-icon">🤝</div><h3>Workplace English</h3><span>A2–B2</span></a>
+      </div>
+    </section>
+
+    <section id="popular" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Popular with learners</h2>
+          <p class="section-copy">Paid course pathways unlock after placement, with selected free previews for trust-building.</p>
+        </div>
+        <a class="view-link" href="/courses">Browse all courses</a>
+      </div>
+
+      <div class="course-strip">
+        <article class="course-card">
+          <div class="course-top"><span class="course-level">A2 → B1</span><span class="course-badge">Most popular</span></div>
+          <div class="course-body">
+            <h3>Everyday English Confidence</h3>
+            <p>Build strong everyday communication for school, travel and daily life.</p>
+            <div class="course-meta"><span class="mini-pill">12 weeks</span><span class="mini-pill">Speaking + grammar</span><span class="mini-pill">Certificate pathway</span></div>
+            <a class="course-link" href="/courses/everyday-english-confidence">View Course</a>
+          </div>
+        </article>
+
+        <article class="course-card">
+          <div class="course-top"><span class="course-level">B1 → B2</span><span class="course-badge">Career</span></div>
+          <div class="course-body">
+            <h3>Workplace English Accelerator</h3>
+            <p>Practise email, meetings, presentations, interviews and professional vocabulary.</p>
+            <div class="course-meta"><span class="mini-pill">10 weeks</span><span class="mini-pill">Business tasks</span><span class="mini-pill">Report included</span></div>
+            <a class="course-link" href="/courses/workplace-english-accelerator">View Course</a>
+          </div>
+        </article>
+
+        <article class="course-card">
+          <div class="course-top"><span class="course-level">B2 → C1</span><span class="course-badge">Academic</span></div>
+          <div class="course-body">
+            <h3>Academic Writing and Speaking</h3>
+            <p>Develop structured arguments, seminar speaking and high-level reading skills.</p>
+            <div class="course-meta"><span class="mini-pill">14 weeks</span><span class="mini-pill">University prep</span><span class="mini-pill">Tutor feedback</span></div>
+            <a class="course-link" href="/courses/academic-writing-speaking">View Course</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="levels" class="section">
+      <div class="section-head">
+        <div>
+          <h2>Course levels</h2>
+          <p class="section-copy">Each course is mapped to CEFR outcomes, objectives and learner can-do performance goals.</p>
+        </div>
+        <a class="view-link" href="/cefr-levels">Compare levels</a>
+      </div>
+      <div class="levels">
+        <a class="level-card" href="/courses?level=A1"><strong>A1</strong><span>Beginner</span></a>
+        <a class="level-card" href="/courses?level=A2"><strong>A2</strong><span>Elementary</span></a>
+        <a class="level-card" href="/courses?level=B1"><strong>B1</strong><span>Intermediate</span></a>
+        <a class="level-card" href="/courses?level=B2"><strong>B2</strong><span>Upper Intermediate</span></a>
+        <a class="level-card" href="/courses?level=C1"><strong>C1</strong><span>Advanced</span></a>
+        <a class="level-card" href="/courses?level=C2"><strong>C2</strong><span>Mastery</span></a>
+      </div>
+    </section>
+
+    <section id="how" class="section">
+      <div class="split-panel">
+        <div class="quote-box">
+          <h3>Start with evidence. Learn at the right level.</h3>
+          <p class="section-copy">
+            British English Academy opens with placement, then turns the result into a personalised pathway.
+            This keeps learners out of courses that are too easy or too difficult.
+          </p>
+          <a class="primary-cta" style="margin-top:18px" href="/checkout/placement">Begin Placement Test</a>
+        </div>
+        <div class="workflow">
+          <div class="workflow-step"><div class="num">1</div><div><strong>Choose your goal</strong><span>Study, career, school support, fluency or exam preparation.</span></div></div>
+          <div class="workflow-step"><div class="num">2</div><div><strong>Pay for the CEFR placement test</strong><span>Secure checkout unlocks the adaptive test session.</span></div></div>
+          <div class="workflow-step"><div class="num">3</div><div><strong>Complete the adaptive test</strong><span>The test adjusts to answers and estimates the learner’s CEFR level.</span></div></div>
+          <div class="workflow-step"><div class="num">4</div><div><strong>Receive report and certificate</strong><span>Learners receive score bands, skill breakdown and a verifiable BEA diagnostic certificate.</span></div></div>
+          <div class="workflow-step"><div class="num">5</div><div><strong>Start the recommended course</strong><span>The platform recommends the best pathway and locks advanced content behind paid access.</span></div></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <h3>British English Academy</h3>
+        <p>A CEFR-aligned English learning and diagnostic placement platform for learners, schools and workplaces.</p>
+      </div>
+      <div>
+        <h4>Courses</h4>
+        <a href="/courses">All courses</a>
+        <a href="/courses?method=online">Online courses</a>
+        <a href="/courses?level=A1-C2">CEFR levels</a>
+      </div>
+      <div>
+        <h4>Assessment</h4>
+        <a href="/checkout/placement">Placement test</a>
+        <a href="/sample-report">Sample report</a>
+        <a href="/verify-certificate">Verify certificate</a>
+      </div>
+      <div>
+        <h4>Institutions</h4>
+        <a href="/schools">School licences</a>
+        <a href="/employers">Workplace English</a>
+        <a href="/fitness-for-purpose">Fitness for purpose</a>
+      </div>
+    </div>
+    <div class="small-print">
+      British English Academy is an independent ESL platform. CEFR is used as a reference framework for level mapping.
+      This page uses an original layout inspired by course-search marketplace patterns and a Pearson-style purple/teal/yellow colour direction.
+    </div>
+  </footer>
+</body>
+</html>
