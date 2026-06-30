@@ -1,6 +1,6 @@
 [
   {
-    "slug": "a1-complete-pathway",
+    "slug": "a1-starter-english",
     "cefr": "A1",
     "title": "Breakthrough English (A1)",
     "levelLabel": "Beginner",
@@ -101,7 +101,7 @@
     "certificatePathway": "A1 diagnostic report -> recommended modules -> end-of-level achievement certificate"
   },
   {
-    "slug": "a2-complete-pathway",
+    "slug": "a2-everyday-english",
     "cefr": "A2",
     "title": "Everyday English (A2)",
     "levelLabel": "Elementary",
@@ -202,7 +202,7 @@
     "certificatePathway": "A2 diagnostic report -> recommended modules -> end-of-level achievement certificate"
   },
   {
-    "slug": "b1-complete-pathway",
+    "slug": "b1-independent-english",
     "cefr": "B1",
     "title": "Independent English (B1)",
     "levelLabel": "Intermediate",
@@ -303,7 +303,7 @@
     "certificatePathway": "B1 diagnostic report -> recommended modules -> end-of-level achievement certificate"
   },
   {
-    "slug": "b2-complete-pathway",
+    "slug": "b2-confident-english",
     "cefr": "B2",
     "title": "Fluent Study English (B2)",
     "levelLabel": "Upper-intermediate",
@@ -404,7 +404,7 @@
     "certificatePathway": "B2 diagnostic report -> recommended modules -> end-of-level achievement certificate"
   },
   {
-    "slug": "c1-complete-pathway",
+    "slug": "c1-advanced-english",
     "cefr": "C1",
     "title": "Advanced Academic English (C1)",
     "levelLabel": "Advanced",
@@ -505,7 +505,7 @@
     "certificatePathway": "C1 diagnostic report -> recommended modules -> end-of-level achievement certificate"
   },
   {
-    "slug": "c2-complete-pathway",
+    "slug": "c2-mastery-english",
     "cefr": "C2",
     "title": "Mastery Communication English (C2)",
     "levelLabel": "Mastery",

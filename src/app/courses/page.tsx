@@ -18,7 +18,7 @@ export default async function CoursesPage({ searchParams }: { searchParams: Prom
       <section className="mt-6 rounded-[2rem] bg-white p-8 shadow-sm">
         <p className="badge">Course marketplace</p>
         <h1 className="mt-3 text-5xl font-black tracking-tight text-navy">Browse British English Academy courses</h1>
-        <p className="mt-3 max-w-3xl text-slate-600">Explore structured CEFR pathways, then take the paid placement test to unlock the correct starting level.</p>
+        <p className="mt-3 max-w-3xl text-slate-600">Explore structured CEFR pathways, then check your English level to unlock the correct starting course.</p>
         <div className="mt-6 flex flex-wrap gap-2">
           {['A1','A2','B1','B2','C1','C2'].map((l) => <Link className="chip" href={`/courses?level=${l}`} key={l}>{l}</Link>)}
           {['Speaking','Listening','Reading','Writing','Grammar','Vocabulary'].map((s) => <Link className="chip" href={`/courses?skill=${s}`} key={s}>{s}</Link>)}

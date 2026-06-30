@@ -15,7 +15,7 @@ export default function FitnessForPurposePage() {
         <p className="inline-flex rounded-full bg-white/10 px-4 py-2 text-sm font-black">Fitness for purpose · CEFR relationship</p>
         <h1 className="mt-4 max-w-4xl text-5xl font-black tracking-tight">How British English Academy connects placement scores to CEFR learning decisions</h1>
         <p className="mt-4 max-w-3xl text-slate-200">This page explains the intended use, CEFR alignment, evidence requirements and limitations of the British English Academy placement test and platform certificate.</p>
-        <div className="mt-6 flex flex-wrap gap-3"><Link className="btn-primary bg-gold text-navy" href="/placement-test">Take placement test</Link><Link className="btn-secondary border-white/30 bg-white/10 text-white" href="/curriculum">View curriculum map</Link></div>
+        <div className="mt-6 flex flex-wrap gap-3"><Link className="btn-primary bg-gold text-navy" href="/placement-test">Check Your English Level</Link><Link className="btn-secondary border-white/30 bg-white/10 text-white" href="/curriculum">View curriculum map</Link></div>
       </section>
 
       <section className="mt-10 grid gap-5 md:grid-cols-2">

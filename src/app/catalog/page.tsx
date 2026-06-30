@@ -12,7 +12,7 @@ export default async function CatalogPage({ searchParams }: { searchParams: Prom
       <div className="mt-6 rounded-[2rem] bg-white p-8 shadow-sm">
         <p className="badge">Course catalogue</p>
         <h1 className="mt-3 text-5xl font-black tracking-tight text-navy">English pathways by CEFR level</h1>
-        <p className="mt-3 max-w-3xl text-slate-600">Browse structured ESL courses in a course-marketplace layout. Every course connects to the paid placement test, activities library, progress checks and certificate pathway.</p>
+        <p className="mt-3 max-w-3xl text-slate-600">Browse structured ESL courses in a course-marketplace layout. Every course connects to the level check, activities library, progress checks and certificate pathway.</p>
         <div className="mt-6 flex flex-wrap gap-2">
           {['A1','A2','B1','B2','C1','C2'].map((l) => <Link className="chip" href={`/catalog?level=${l}`} key={l}>{l}</Link>)}
           {['Grammar','Vocabulary','Reading','Listening','Speaking','Writing'].map((s) => <Link className="chip" href={`/catalog?skill=${s}`} key={s}>{s}</Link>)}

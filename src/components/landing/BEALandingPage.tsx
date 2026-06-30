@@ -51,7 +51,7 @@ export default function BEALandingPage() {
           <div className="beaPill">⭐ British English learning pathway for A1-C2</div>
           <h1>Preview. Test. Try a mini lesson. Then start your British English course.</h1>
           <p>
-            Explore bright course previews before paying. When learners complete the paid {beaBrand.shortName} Level Test,
+            Explore bright course previews before enrolling. When learners check their English level,
             {beaBrand.shortName} maps the right pathway and unlocks a very short trial lesson before full-course payment.
           </p>
 
@@ -62,7 +62,7 @@ export default function BEALandingPage() {
 
           <div className="beaJourneyRibbon" aria-label="Commercial learning journey">
             <span>👀 Preview</span>
-            <span>💳 Paid test</span>
+            <span>📝 Level check</span>
             <span>🧭 Pathway</span>
             <span>🎮 Short trial</span>
             <span>🚀 Full course</span>
@@ -74,7 +74,7 @@ export default function BEALandingPage() {
           <div className="beaBoardCard main">
             <span className="beaBoardIcon">🇬🇧</span>
             <h2>{beaBrand.shortName} Level Test maps the pathway</h2>
-            <p>Paid placement unlocks the recommended British English course and a mini trial lesson.</p>
+            <p>The level check unlocks the recommended British English course and a mini trial lesson.</p>
           </div>
           <div className="beaMiniBoard one"><strong>216</strong><span>lessons</span></div>
           <div className="beaMiniBoard two"><strong>36</strong><span>modules</span></div>
@@ -198,15 +198,15 @@ export default function BEALandingPage() {
       <section id="trial" className="beaSection">
         <div className="beaTrialWorld">
           <div className="beaTrialText">
-            <p className="beaSectionKicker">After paid {beaBrand.shortName} Level Test</p>
+            <p className="beaSectionKicker">After checking your English level</p>
             <h2>Unlock a tiny trial lesson before the full course</h2>
             <p>
-              The short trial lesson is the appetiser. It is matched to the learner pathway after the paid {beaBrand.shortName} Level Test,
-              giving customers a quick taste before they buy the full course.
+              The short trial lesson is the appetiser. It is matched to your learner pathway after checking your English level,
+              giving you a quick taste before committing to the full course.
             </p>
             <ol className="beaFlowSteps">
               <li><span>1</span> Preview course snippets</li>
-              <li><span>2</span> Pay and complete the Level Test</li>
+              <li><span>2</span> Check your English level</li>
               <li><span>3</span> Unlock the mapped mini lesson</li>
               <li><span>4</span> Pay and start the full course</li>
             </ol>
@@ -219,7 +219,7 @@ export default function BEALandingPage() {
             <ul>
               <li>{recommendedCourse.appetiserLesson.durationMinutes} minutes</li>
               <li>{recommendedCourse.appetiserLesson.objective}</li>
-              <li>Unlocks only after paid and completed Level Test</li>
+              <li>Unlocks after completing the Level Test</li>
             </ul>
             <a className="beaPrimaryButton wide" href={`/appetiser/unlock?courseId=${recommendedCourse.id}`}>{beaBrand.cta.trial}</a>
             <a className="beaOutlineButton wide" href={recommendedCourse.fullCourse.checkoutPath}>{beaBrand.cta.fullCourse}</a>
@@ -243,8 +243,8 @@ export default function BEALandingPage() {
               {previewModal.course.previewSnippets[previewModal.snippetIndex].sample}
             </div>
             <p className="beaFinePrint">
-              This is a public preview. The full lesson unlocks after paid Level Test, pathway mapping,
-              short trial access and full-course payment.
+              This is a public preview. The full lesson unlocks after checking your English level, pathway mapping,
+              short trial access and full-course enrolment.
             </p>
             <div className="beaHeroButtons">
               <a className="beaPrimaryButton" href="/checkout/placement?source=preview-modal">{beaBrand.cta.primary}</a>

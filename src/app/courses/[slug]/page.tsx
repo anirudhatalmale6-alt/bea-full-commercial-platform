@@ -57,7 +57,7 @@ export default async function CourseOrSkillPage({ params }: { params: Promise<{ 
         <aside className="card h-max">
           <h2 className="text-2xl font-black">Start correctly</h2>
           <p className="mt-2 text-slate-600">Candidates should take the adaptive placement test before entering this pathway.</p>
-          <Link href="/checkout/placement" className="btn-primary mt-5 w-full">Take paid placement test</Link>
+          <Link href="/checkout/placement" className="btn-primary mt-5 w-full">Check Your English Level</Link>
           <Link href={`/activities?level=${course.cefr}`} className="btn-secondary mt-3 w-full">View {course.cefr} activities</Link>
           <Link href={`/downloads?level=${course.cefr}`} className="btn-secondary mt-3 w-full">Download learner pack</Link>
           <div className="mt-5 rounded-2xl bg-slate-50 p-4 text-sm text-slate-600"><b>Certificate pathway:</b><br/>{course.certificatePathway}</div>

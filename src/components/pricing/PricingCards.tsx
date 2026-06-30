@@ -17,7 +17,7 @@ export default function PricingCards({ catalog }: { catalog: Catalog }) {
             Start with the Level Test. Unlock the right course.
           </h1>
           <p style={{ color: "#5a6b7b", fontSize: 18 }}>
-            Course previews are public. The paid Level Test maps the learner pathway, unlocks the short trial lesson, then the learner can pay for the full course.
+            Course previews are public. Check your English level to map your learner pathway, unlock the short trial lesson, then pay for the full course.
           </p>
         </div>
 
@@ -28,7 +28,7 @@ export default function PricingCards({ catalog }: { catalog: Catalog }) {
               <strong>{p.public_name}</strong>
               <h3>{money(p.price_gbp)}</h3>
               <p>{p.description}</p>
-              <a href="/checkout/placement?source=pricing">Take Paid Level Test</a>
+              <a href="/checkout/placement?source=pricing">Check Your English Level</a>
             </article>
           ))}
         </div>

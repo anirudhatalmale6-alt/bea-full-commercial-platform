@@ -27,9 +27,9 @@ export const beaBrand = {
     cloud: "#f2fbff"
   },
   publicPositioning:
-    "A bright, playful British English learning platform with paid Level Test, mapped pathway, short trial lesson and full CEFR course access.",
+    "A bright, playful British English learning platform. Check your English level, get your mapped pathway, try a short trial lesson and access full CEFR courses.",
   cta: {
-    primary: "Take Paid Level Test",
+    primary: "Check Your English Level",
     preview: "Preview Course Content",
     trial: "Unlock Short Trial Lesson",
     fullCourse: "Start Full Course After Payment"

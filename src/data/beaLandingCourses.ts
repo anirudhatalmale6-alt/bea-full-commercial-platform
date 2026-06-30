@@ -59,7 +59,7 @@ export const beaCoursePreviews: BEACoursePreview[] = [
       durationMinutes: 7,
       objective: "Use three short sentences to introduce yourself.",
       contentPreview: "Watch a short model, complete three playful practice items and record one answer.",
-      callToAction: `Unlock this short trial lesson after your paid ${beaBrand.shortName} Level Test.`
+      callToAction: `Unlock this short trial lesson after checking your English level.`
     },
     fullCourse: { lessons: 36, modules: 6, assessments: 7, worksheets: 36, certificate: true, checkoutPath: "/checkout/course?courseId=bea-a1-starter" }
   },
@@ -85,7 +85,7 @@ export const beaCoursePreviews: BEACoursePreview[] = [
       durationMinutes: 8,
       objective: "Use polite phrases to ask for help in everyday situations.",
       contentPreview: "Complete a short listen-and-choose task and build two polite requests.",
-      callToAction: `Unlock this short trial lesson after your paid ${beaBrand.shortName} Level Test.`
+      callToAction: `Unlock this short trial lesson after checking your English level.`
     },
     fullCourse: { lessons: 36, modules: 6, assessments: 7, worksheets: 36, certificate: true, checkoutPath: "/checkout/course?courseId=bea-a2-everyday" }
   },
@@ -111,7 +111,7 @@ export const beaCoursePreviews: BEACoursePreview[] = [
       durationMinutes: 9,
       objective: "Give a clear opinion and support it with one reason.",
       contentPreview: "Read a model answer, reorder phrases and record a short opinion.",
-      callToAction: `Unlock this short trial lesson after your paid ${beaBrand.shortName} Level Test.`
+      callToAction: `Unlock this short trial lesson after checking your English level.`
     },
     fullCourse: { lessons: 36, modules: 6, assessments: 7, worksheets: 36, certificate: true, checkoutPath: "/checkout/course?courseId=bea-b1-independent" }
   },
@@ -137,7 +137,7 @@ export const beaCoursePreviews: BEACoursePreview[] = [
       durationMinutes: 10,
       objective: "Improve one short argument with a reason, contrast and example.",
       contentPreview: "Edit a weak paragraph and compare it with a stronger model.",
-      callToAction: `Unlock this short trial lesson after your paid ${beaBrand.shortName} Level Test.`
+      callToAction: `Unlock this short trial lesson after checking your English level.`
     },
     fullCourse: { lessons: 36, modules: 6, assessments: 7, worksheets: 36, certificate: true, checkoutPath: "/checkout/course?courseId=bea-b2-confident" }
   },
@@ -163,7 +163,7 @@ export const beaCoursePreviews: BEACoursePreview[] = [
       durationMinutes: 10,
       objective: "Rewrite direct statements with precise and appropriate register.",
       contentPreview: "Compare three versions of a message and improve one response.",
-      callToAction: `Unlock this short trial lesson after your paid ${beaBrand.shortName} Level Test.`
+      callToAction: `Unlock this short trial lesson after checking your English level.`
     },
     fullCourse: { lessons: 36, modules: 6, assessments: 7, worksheets: 36, certificate: true, checkoutPath: "/checkout/course?courseId=bea-c1-advanced" }
   },
@@ -189,7 +189,7 @@ export const beaCoursePreviews: BEACoursePreview[] = [
       durationMinutes: 10,
       objective: "Rewrite one direct message into a diplomatic and precise response.",
       contentPreview: "Choose tone, improve phrasing and compare with an expert model.",
-      callToAction: `Unlock this short trial lesson after your paid ${beaBrand.shortName} Level Test.`
+      callToAction: `Unlock this short trial lesson after checking your English level.`
     },
     fullCourse: { lessons: 36, modules: 6, assessments: 7, worksheets: 36, certificate: true, checkoutPath: "/checkout/course?courseId=bea-c2-mastery" }
   }
@@ -201,7 +201,7 @@ export const beaLibraryTiles = [
   { title: "Speaking Tasks", subtitle: "Short recorded fluency practice", icon: "🎙️", href: "/courses?skill=speaking" },
   { title: "Writing Tasks", subtitle: "Rubrics, models and guided answers", icon: "✍️", href: "/courses?skill=writing" },
   { title: "Teacher Tools", subtitle: "Class tracking, reports and assignments", icon: "🍎", href: "/teacher-dashboard" },
-  { title: "Level Test", subtitle: "Paid test and mapped pathway", icon: "⭐", href: "/checkout/placement" }
+  { title: "Level Check", subtitle: "Check your English level", icon: "⭐", href: "/checkout/placement" }
 ];
 
 export function getRecommendedCourse(level?: string | null): BEACoursePreview {

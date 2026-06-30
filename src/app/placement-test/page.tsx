@@ -90,13 +90,13 @@ export default function PlacementTestPage() {
       <a href="/" className="text-sm font-semibold text-oxford">← Home</a>
       <div className="mt-6 grid gap-6 md:grid-cols-[0.8fr_1.2fr]">
         <section className="card">
-          <h1 className="text-3xl font-black">Paid CEFR Placement Test</h1>
-          <p className="mt-2 text-slate-600">The placement journey is paid in production. After payment, the adaptive engine estimates CEFR level, then unlocks a score report, course pathway and verifiable diagnostic certificate.</p>
+          <h1 className="text-3xl font-black">Check Your English Level</h1>
+          <p className="mt-2 text-slate-600">The adaptive engine estimates your CEFR level, then unlocks a score report, course pathway and verifiable diagnostic certificate.</p>
           <label className="mt-5 block text-sm font-bold">Full name</label>
           <input className="mt-1 w-full rounded-xl border p-3" value={fullName} onChange={(e) => setFullName(e.target.value)} placeholder="Candidate name" />
           <label className="mt-4 block text-sm font-bold">Email</label>
           <input className="mt-1 w-full rounded-xl border p-3" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="candidate@example.com" />
-          <button className="btn-primary mt-5 w-full" onClick={payAndUnlock}>Pay and unlock placement test</button>
+          <button className="btn-primary mt-5 w-full" onClick={payAndUnlock}>Check Your English Level</button>
           <button className="btn-secondary mt-3 w-full" onClick={startDemo}>Start local demo only</button>
           <p className="mt-5 rounded-2xl bg-skysoft p-4 text-sm text-oxford">Current estimate: <b>{cefr}</b><br/>{message}</p>
         </section>
